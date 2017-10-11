@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified" attributeFormDefault="unqualified">
+    <xs:element name="item">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="solutions">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="solution" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="linktext" type="xs:string"/>
+                                        <xs:element name="linkurl" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="communities">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="community" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="linktext" type="xs:string"/>
+                                        <xs:element name="linkurl" type="xs:string"/>
+                                        <xs:element name="icon" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="submission">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="level" minOccurs="0" maxOccurs="7">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="title" type="xs:string"/>
+                                        <xs:element name="description" type="xs:string"/>
+                                        <xs:element name="linkurl" type="xs:string"/>
+                                        <xs:element name="linktext" type="xs:string"/>
+                                        <xs:element name="icon" type="xs:string"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="id" type="xs:string" use="optional"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="chat">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="skill" minOccurs="0" maxOccurs="7">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="level" type="xs:string" use="optional"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="call">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="level" minOccurs="0" maxOccurs="7">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="title" type="xs:string"/>
+                                        <xs:element name="description" type="xs:string"/>
+                                        <xs:element name="icon" type="xs:string"/>
+                                        <xs:element name="numbers" >
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="number" type="xs:string" minOccurs="0" maxOccurs="4"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="id" type="xs:string" use="optional"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
