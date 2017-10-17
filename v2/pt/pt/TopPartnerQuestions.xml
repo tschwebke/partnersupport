@@ -602,28 +602,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
     </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
-    <id>200-000066</id>
-    <title>Como posso encorajar os meus Clientes a adotar o produto Office 365?</title>
-    <description><![CDATA[Aceda à cartilha em baixo para encontrar recursos que o ajudarão a promover o Office 365 perante os seus Clientes. Será necessário iniciar sessão com a sua credencial de parceiro para poder realizar o download dos recursos disponíveis.]]></description>
-    <articlelinks>
-      <link>
-        <text>Visão geral do Cloud SureStep</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>Onde posso encontrar informação sobre o programa Cloud Solution Provider (CSP)?</title>
-    <description><![CDATA[Este é um novo programa, que neste momento apenas está disponível para um grupo de Parceiros selecionados. Caso seja da opinião que a sua empresa encaixa completamente neste programa, por favor contacte o seu gerente de Conta da Microsoft.]]></description>
-    <articlelinks>
-      <link>
-        <text>Informação sobre o programa CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
-      </link>
-       <link>
-        <text>Vídeo de incentivos a parceiros CSP</text>
-        <url><![CDATA[https://vimeo.com/131708583?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000068</id>
     <title>Como posso criar demonstrações dos produtos de Office 365?</title>
     <description><![CDATA[O “Microsoft Office demo portal” permite-lhe aceder aos materiais de apoio para demonstrações e também criar ambientes de demonstrações dos produtos de Office 365 sem requerer uma instalação local. O ambiente de demonstração Microsoft Office consiste numa avaliação de Office 365 personalizada com um “Tenant”, já preenchido com conteúdo pronto para demonstração. Assim que tenha criado o seu Office 365 “Tenant”, poderá fornecer demonstrações que abrangem todos os produtos Office, como o Exchange, Sharepoint, Lync, Outlook, Word, Excel, PowerPoint e muitos outros.]]></description>
@@ -688,17 +666,26 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000074</id>
-    <title>Recentemente houve alguma mudança relativa aos serviços em nuvem?</title>
-    <description><![CDATA[A informação mais recente sobre mudanças aos serviços em nuvem ou outros programas de associação pode ser encontrada na página Novidades.]]></description>
+    <id>200-000066</id>
+    <title>Como posso encorajar os meus Clientes a adotar o produto Office 365?</title>
+    <description><![CDATA[Aceda à cartilha em baixo para encontrar recursos que o ajudarão a promover o Office 365 perante os seus Clientes. Será necessário iniciar sessão com a sua credencial de parceiro para poder realizar o download dos recursos disponíveis.]]></description>
     <articlelinks>
       <link>
-        <text>Novidades</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=200-000074]]></url>
+        <text>Visão geral do Cloud SureStep</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000083</id>
+    <title>Onde posso encontrar informação sobre o programa Cloud Solution Provider (CSP)?</title>
+    <description><![CDATA[Este é um novo programa, que neste momento apenas está disponível para um grupo de Parceiros selecionados. Caso seja da opinião que a sua empresa encaixa completamente neste programa, por favor contacte o seu gerente de Conta da Microsoft.]]></description>
+    <articlelinks>
+      <link>
+        <text>Informação sobre o programa CSP</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
       </link>
        <link>
-        <text>Visão geral do Cloud SureStep</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000074]]></url>
+        <text>Vídeo de incentivos a parceiros CSP</text>
+        <url><![CDATA[https://vimeo.com/131708583?tpqid=200-000083]]></url>
       </link>
     </articlelinks></question></group><group title="Serviços Técnicos" refid="TechnicalServices"><question>
     <id>1400-000109</id>
@@ -760,7 +747,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
     </articlelinks></question><question>
     <id>1400-000110</id>
     <title>Onde posso encontrar as principais perguntas feitas pelos parceiros durante as fases de pré-vendas e implantação de projetos de clientes híbridos e na nuvem?</title>
-    <description><![CDATA[Consulte as perguntas mais frequentes feitas pelos parceiros durante as fases de pré-vendas e implantação dos projetos de clientes, incluindo posicionamento competitivo, demonstrações, configuração, licenciamento, migração e implantação e desenvolvimento de aplicativos. ]]></description>
+    <description><![CDATA[Consulte as perguntas mais frequentes feitas pelos parceiros durante as fases de pré-vendas e implantação dos projetos de clientes, incluindo posicionamento competitivo, demonstrações, configuração, licenciamento técnico, migração e implantação e desenvolvimento de aplicativos. ]]></description>
     <articlelinks>
       <link>
         <text>Principais perguntas dos parceiros sobre o produto</text>
@@ -788,7 +775,20 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Aprenda como se qualificar para Assistência Técnica Pré-vendas</text>
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
       </link>
-    </articlelinks></question></group><group title="Vantagens" refid="Benefits"><question SortOrderOnHome="5">
+    </articlelinks></question></group><group title="Vantagens" refid="Benefits"><question>
+    <id>300-000028</id>
+    <title>Como qualificar para o benefício de Signature Cloud Support?</title>
+    <description><![CDATA[Reveja o Guia de Divulgação para mais informações sobre os requisitos para Cloud Performance e as Competências híbridas.]]></description>
+    <articlelinks>
+      <link>
+        <text>Guia de Divulgação do Microsoft Partner Network</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000013</id>
     <title>Como faço para começar a usar a comunidade de suporte ao parceiro?</title>
     <description><![CDATA[Conecte-se com especialistas e outros parceiros gratuitamente para obter respostas a suas questões sobre produtos, desenvolvedores, pré-vendas e associação à Microsoft Partner Network.]]></description>
@@ -938,19 +938,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Acelere o seu negócio com os benefícios de uso interno (IUR)</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>Como qualificar para o benefício de Signature Cloud Support?</title>
-    <description><![CDATA[Reveja o Guia de Divulgação para mais informações sobre os requisitos para Cloud Performance e as Competências híbridas.]]></description>
-    <articlelinks>
-      <link>
-        <text>Guia de Divulgação do Microsoft Partner Network</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000103</id>

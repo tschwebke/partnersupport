@@ -404,36 +404,6 @@
         <url><![CDATA[http://aka.ms/partnerincentives ?tpqid=400-000008]]></url>
       </link>
     </articlelinks></question></group><group title="Servizi cloud" refid="CloudServices"><question>
-    <id>200-000074</id>
-    <title>Recentemente è cambiato qualcosa in merito ai servizi cloud?</title>
-    <description><![CDATA[È possibile trovare le ultime notizie sulle modifiche apportate ai servizi cloud o ad altri programmi di partecipazione nella pagina Novità.]]></description>
-    <articlelinks>
-      <link>
-        <text>Novità</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=200-000074]]></url>
-      </link>
-       <link>
-        <text>Panoramica di Cloud SureStep Contatta Microsoft Partner Network  Cerca in Soluzioni Search </text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000074]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>Come può la mia azienda creare demo di Office 365?</title>
-    <description><![CDATA[Il portale Microsoft Office demo consente la creazione di ambienti demo ed accesso a materiale guida dimostrativo per prodotti Office senza richiedere una installazione completa locale. L’ambiente demo di Microsoft Office guide  consiste in un tenant Office 365 trial compost da un contenuto demo-ready. Una volta creato il tenant Office 365 è possibile inviare demo includenti tutti I prodotti Office come Exchange, Sharepoint, Lync, Outlook, Word, Excel, PowerPoin ed altro. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Portale demo Microsoft Office </text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Tenant per le demo di Microsoft Office 365, Project Online e Power BI</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365 Initial Journey</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000066</id>
     <title>Come posso incentivare i miei clienti ad adottare Office 365?</title>
     <description><![CDATA[Accedi a questo libro interattivo per imparare come promuovere Office 365 ai tuoi clienti.  Ti preghiamo di notare che sono necessarie le credenziali di partnership per accedere al download.
@@ -504,6 +474,23 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Guida dell'utente Cloud Services Dashboard</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>Come può la mia azienda creare demo di Office 365?</title>
+    <description><![CDATA[Il portale Microsoft Office demo consente la creazione di ambienti demo ed accesso a materiale guida dimostrativo per prodotti Office senza richiedere una installazione completa locale. L’ambiente demo di Microsoft Office guide  consiste in un tenant Office 365 trial compost da un contenuto demo-ready. Una volta creato il tenant Office 365 è possibile inviare demo includenti tutti I prodotti Office come Exchange, Sharepoint, Lync, Outlook, Word, Excel, PowerPoin ed altro. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Portale demo Microsoft Office </text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Tenant per le demo di Microsoft Office 365, Project Online e Power BI</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365 Initial Journey</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
     </articlelinks></question></group><group title="Servizi tecnici" refid="TechnicalServices"><question>
     <id>1400-000109</id>
     <title>Quali servizi tecnici sono disponibili come supporto a pianificazione, sviluppo e utilizzo delle app di Office 365?</title>
@@ -565,7 +552,7 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
     </articlelinks></question><question>
     <id>1400-000110</id>
     <title>Dove posso trovare le principali domande dei partner relative alle fasi di prevendita e distribuzione di progetti cloud e ibridi dei clienti?</title>
-    <description><![CDATA[Esamina le domande più frequenti dei partner relative ad argomenti correlati alle fasi di prevendita e distribuzione di progetti dei clienti, tra cui posizionamento rispetto alla concorrenza, demo, configurazione, gestione delle licenze, migrazione e distribuzione, sviluppo di applicazioni. ]]></description>
+    <description><![CDATA[Esamina le domande più frequenti dei partner relative alle fasi di prevendita e distribuzione di progetti dei clienti, tra cui posizionamento rispetto alla concorrenza, demo, configurazione, gestione tecnica delle licenze, migrazione, distribuzione e sviluppo di applicazioni. ]]></description>
     <articlelinks>
       <link>
         <text>Domande più frequenti dei partner</text>
@@ -593,7 +580,24 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Informazioni su come ottenere ore di consulenza per i partner per accedere ai servizi di distribuzione</text>
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
-    </articlelinks></question></group><group title="Software e download" refid="DownloadsSoftware"><question>
+    </articlelinks></question></group><group title="Software e download" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+    <id>800-000039</id>
+    <title>Quali vantaggi software si ottengono con il Microsoft Action Pack? </title>
+    <description><![CDATA[Gli abbonati Action Pack ricevono generalmente 10 licenze ad uso interno dell’ultimo software Microsoft. Questo include licenze software on-premises, online services e abbonamento Visual Studio Online. Per informazioni dettagliate sui benefici licenze, consulta le seguenti risorse: ]]></description>
+    <articlelinks>
+      <link>
+        <text>Panoramica su Microsoft Action Pack</text>
+        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>Domande frequenti sui vantaggi relativi alle licenze Action Pack</text>
+        <url><![CDATA[http://aka.ms/actionpackfaq?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>Come ottenere il massimo dall'abbonamento MAP</text>
+        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000032</id>
     <title>Come ottenere i benefici dei diritti di uso interno di Office 365 (E3) tramite rete Partner Microsoft?</title>
     <description><![CDATA[Visualizzare una panoramica dei benefici dei diritti di uso interno di Office 365 (E3) della rete Partner Microsoft.]]></description>
@@ -740,6 +744,19 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Quali sono i miei vantaggi IUR (Internal Use Rights)/Perché è importante che li utilizzi?</text>
         <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>Posso acquistare una sottoscrizione per un componente aggiuntivo come integrazione alla sottoscrizione dei servizi online IUR (Internal Use Rights) MPN?</title>
+    <description><![CDATA[No, non è possibile. Per aggiungere qualsiasi componente aggiuntivo, è necessario acquistare almeno 1 licenza per una sottoscrizione di base tramite i canali di acquisto disponibili. Eccezione: per i componenti aggiuntivi di CRM OL e Dynamics 365,  ad esempio per istanze di archiviazione e non di produzione, puoi inviare una richiesta qui per ottenere una sottoscrizione di base gratuita]]></description>
+    <articlelinks>
+      <link>
+        <text>Invia qui la tua richiesta per ottenere una sottoscrizione di base gratuita</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>Guida all'utilizzo dei vantaggi software e dei servizi cloud</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>800-000036</id>
     <title>Come posso attivare la sottoscrizione Visual Studio Online?</title>
@@ -757,37 +774,20 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Abbonamenti Visual Studio Online</text>
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Posso acquistare una sottoscrizione per un componente aggiuntivo come integrazione alla sottoscrizione dei servizi online IUR (Internal Use Rights) MPN?</title>
-    <description><![CDATA[No, non è possibile. Per aggiungere qualsiasi componente aggiuntivo, è necessario acquistare almeno 1 licenza per una sottoscrizione di base tramite i canali di acquisto disponibili. Eccezione: per i componenti aggiuntivi di CRM OL e Dynamics 365,  ad esempio per istanze di archiviazione e non di produzione, puoi inviare una richiesta qui per ottenere una sottoscrizione di base gratuita]]></description>
+    </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question>
+    <id>300-000028</id>
+    <title>Come qualificarsi per i vantaggi del supporto Signature Cloud? </title>
+    <description><![CDATA[Consulta la Guida ai cambiamenti per informazioni sui requisiti per la competenza Cloud Performance e per le competenze Ibride.]]></description>
     <articlelinks>
       <link>
-        <text>Invia qui la tua richiesta per ottenere una sottoscrizione di base gratuita</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+        <text>Guida ai cambiamenti delle competenze nel Microsoft Partner Network</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
       </link>
        <link>
-        <text>Guida all'utilizzo dei vantaggi software e dei servizi cloud</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+        <text>Informazioni utili per verificare l'idoneità a questo vantaggio e per approfondire l'argomento</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>Quali vantaggi software si ottengono con il Microsoft Action Pack? </title>
-    <description><![CDATA[Gli abbonati Action Pack ricevono generalmente 10 licenze ad uso interno dell’ultimo software Microsoft. Questo include licenze software on-premises, online services e abbonamento Visual Studio Online. Per informazioni dettagliate sui benefici licenze, consulta le seguenti risorse: ]]></description>
-    <articlelinks>
-      <link>
-        <text>Panoramica su Microsoft Action Pack</text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Domande frequenti sui vantaggi relativi alle licenze Action Pack</text>
-        <url><![CDATA[http://aka.ms/actionpackfaq?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Come ottenere il massimo dall'abbonamento MAP</text>
-        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question SortOrderOnHome="5">
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000013</id>
     <title>Come inizio a usare la community di supporto per i partner?</title>
     <description><![CDATA[In questa community potrai parlare gratuitamente con esperti e altri partner per ottenere risposte a domande concernenti prodotti, sviluppatori, prevendite e adesione al Microsoft Partner Network.]]></description>
@@ -937,19 +937,6 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
        <link>
         <text>Accelera il tuo business con i benefici ad uso interno (IUR) </text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>Come qualificarsi per i vantaggi del supporto Signature Cloud? </title>
-    <description><![CDATA[Consulta la Guida ai cambiamenti per informazioni sui requisiti per la competenza Cloud Performance e per le competenze Ibride.]]></description>
-    <articlelinks>
-      <link>
-        <text>Guida ai cambiamenti delle competenze nel Microsoft Partner Network</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>Informazioni utili per verificare l'idoneità a questo vantaggio e per approfondire l'argomento</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000103</id>

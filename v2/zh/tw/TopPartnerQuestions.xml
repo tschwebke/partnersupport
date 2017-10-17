@@ -451,7 +451,7 @@
     </articlelinks></question><question>
     <id>1400-000110</id>
     <title>我可以在哪裡取得合作夥伴在雲端及混合式客戶專案的售前和部署階段最常問的問題？</title>
-    <description><![CDATA[檢閱合作夥伴在客戶專案的售前和部署階段最常問的問題，其中包括競爭定位、示範、組態、授權、移轉和部署，以及應用程式開發。 ]]></description>
+    <description><![CDATA[檢閱合作夥伴在客戶專案的售前和部署階段最常問的問題，其中包括競爭定位、示範、組態、技術授權、移轉和部署，以及應用程式開發。 ]]></description>
     <articlelinks>
       <link>
         <text>常見的合作夥伴產品問題</text>
@@ -878,63 +878,6 @@
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
     </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question>
-    <id>200-000066</id>
-    <title>如何鼓勵我的客戶採用 Office 365？</title>
-    <description><![CDATA[使用這個戰術規劃，以了解如何向客戶推廣 Office 365。請注意，您必須下載合作夥伴認證。]]></description>
-    <articlelinks>
-      <link>
-        <text>Cloud SureStep 概觀</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>我公司如何創建 Office 365 演示？</title>
-    <description><![CDATA[Microsoft Office 演示門戶網站允許您創建示範環境，以及訪問Office 產品的示範指導材料且無需本地安裝。Microsoft Office 演示環境包含一個私人的 Office 365 試用帳戶以及演示內容。一旦創建了您的 Office 365 帳戶，您可以演示所有 Office 產品，例如 Exchange、SharePoint、Lync、Outlook、Word、Excel、PowerPoint，等等。]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Office演示門戶</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365, Project Online, 以及Power BI 演示帳戶</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365初始旅程</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000074</id>
-    <title>雲端服務最近有什麼變更嗎？</title>
-    <description><![CDATA[您可在 [最新動向] 頁面上，找到雲端服務的變更或其他會員資格方案的相關資訊。]]></description>
-    <articlelinks>
-      <link>
-        <text>最新動向</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=200-000074]]></url>
-      </link>
-       <link>
-        <text>Cloud SureStep 概觀</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000074]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000085</id>
-    <title>合作夥伴Online Service儀錶板是什麼？</title>
-    <description><![CDATA[合作夥伴Online Service儀錶板可以幫助經銷商和分銷商追蹤他們客戶的Microsoft Office 365、Microsoft Intune和Microsoft Dynamics CRM Online訂閱。 
-通過儀錶板獲得的關鍵資料可以有效地説明您管理客戶的訂閱，以此作為合作夥伴的記錄。通過這些資料，您可以更有效地推動需求、部署以及更新。]]></description>
-    <articlelinks>
-      <link>
-        <text>瞭解更多有關合作夥伴 Online Services 儀錶板</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
-      </link>
-       <link>
-        <text>Microsoft 雲端服務儀表板</text>
-        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
-      </link>
-       <link>
-        <text>雲端服務儀表板使用者指南</text>
-        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000083</id>
     <title>在哪裡可以找到有關雲解決方案提供商（CSP）的資訊？</title>
     <description><![CDATA[雲解決方案提供商是一個新的產品，在現階段僅適用於部分被選擇的合作夥伴。如果您認為貴公司很適合，請聯絡您的微軟合作夥伴帳戶代表。]]></description>
@@ -976,5 +919,49 @@
        <link>
         <text>適用於 Microsoft Office 365 的 Signature Cloud Support </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000066</id>
+    <title>如何鼓勵我的客戶採用 Office 365？</title>
+    <description><![CDATA[使用這個戰術規劃，以了解如何向客戶推廣 Office 365。請注意，您必須下載合作夥伴認證。]]></description>
+    <articlelinks>
+      <link>
+        <text>Cloud SureStep 概觀</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>我公司如何創建 Office 365 演示？</title>
+    <description><![CDATA[Microsoft Office 演示門戶網站允許您創建示範環境，以及訪問Office 產品的示範指導材料且無需本地安裝。Microsoft Office 演示環境包含一個私人的 Office 365 試用帳戶以及演示內容。一旦創建了您的 Office 365 帳戶，您可以演示所有 Office 產品，例如 Exchange、SharePoint、Lync、Outlook、Word、Excel、PowerPoint，等等。]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Office演示門戶</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365, Project Online, 以及Power BI 演示帳戶</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365初始旅程</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000085</id>
+    <title>合作夥伴Online Service儀錶板是什麼？</title>
+    <description><![CDATA[合作夥伴Online Service儀錶板可以幫助經銷商和分銷商追蹤他們客戶的Microsoft Office 365、Microsoft Intune和Microsoft Dynamics CRM Online訂閱。 
+通過儀錶板獲得的關鍵資料可以有效地説明您管理客戶的訂閱，以此作為合作夥伴的記錄。通過這些資料，您可以更有效地推動需求、部署以及更新。]]></description>
+    <articlelinks>
+      <link>
+        <text>瞭解更多有關合作夥伴 Online Services 儀錶板</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>Microsoft 雲端服務儀表板</text>
+        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>雲端服務儀表板使用者指南</text>
+        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question></group></groups>

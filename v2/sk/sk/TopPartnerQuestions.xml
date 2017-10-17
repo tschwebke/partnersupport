@@ -132,7 +132,7 @@
       </link>
     </articlelinks></question><question>
     <id>300-000099</id>
-    <title>How to register on Visual Studio if I was already registered on MSDN?</title>
+    <title>How to register to Visual Studio if I was already registered on MSDN?</title>
     <description><![CDATA[Learn how to register on Visual Studio by following the steps outlined in the Knowledge Base article My Visual Studio Registration (Note that the MPN RSC is responsible to support MPN members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
     <articlelinks>
       <link>
@@ -227,19 +227,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000074</id>
-    <title>What’s new in MPN with regards to cloud services?  </title>
-    <description><![CDATA[The latest information about changes to cloud services or other membership programs can be found on the What’s new page.]]></description>
-    <articlelinks>
-      <link>
-        <text>What’s new</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=200-000074]]></url>
-      </link>
-       <link>
-        <text>Cloud SureStep Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000074]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000029</id>
     <title>How do I submit a Signature Cloud Support incident?</title>
     <description><![CDATA[Get an overview of the Signature Cloud Support benefit, including how to submit a Signature Cloud Support incident.]]></description>
@@ -291,7 +278,24 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Cloud Services Dashboard user guide</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="7">
+    <id>800-000075</id>
+    <title>Where can I view changes to the downloads and software available to me?</title>
+    <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
+    <articlelinks>
+      <link>
+        <text>What’s new</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text> Internal Use Rights cloud and software benefit</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
     <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. For details about license benefits, refer to the following resources:]]></description>
@@ -425,19 +429,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-000032</id>
-    <title>How do I earn Office 365 (E3) internal-use rights benefits through Microsoft Partner Network?</title>
-    <description><![CDATA[Get an overview of the Microsoft Partner Network Office 365 (E3) internal-use rights benefits.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2996518: How do I earn Office 365 (E3) internal-use rights benefits through Microsoft Partner Network</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000105</id>
     <title>Can I purchase an Add-on subscription on top of my MPN IUR (Internal Use Rights) Online Services subscription?</title>
     <description><![CDATA[No, this is not possible, you will need to purchase at least 1 license of a base subscription via the available purchasing channels to be able to add any Add-On. Exception: for CRM OL and Dynamics 365 Add-Ons – such as non-production instances and storage – you can submit your request here to get a free base subscription]]></description>
@@ -449,6 +440,19 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
        <link>
         <text>Product Usage Guide to Software and Cloud Services Benefits</text>
         <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>How do I earn Office 365 (E3) internal-use rights benefits through Microsoft Partner Network?</title>
+    <description><![CDATA[Get an overview of the Microsoft Partner Network Office 365 (E3) internal-use rights benefits.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2996518: How do I earn Office 365 (E3) internal-use rights benefits through Microsoft Partner Network</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>800-000092</id>
@@ -467,24 +471,20 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>800-000075</id>
-    <title>Where can I view changes to the downloads and software available to me?</title>
-    <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
+    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
+    <id>100-000060</id>
+    <title>Where can I find the Microsoft Partner Network Agreement?</title>
+    <description><![CDATA[To view the Microsoft Partner Network Agreement, you will need to sign in to the Partner Membership Center. Once signed in, go to Additional Programs and select Status under Microsoft Online Services Partner Agreement. Then select step 1, Enroll in the Microsoft Partner Network, to view the agreement. Or, you can open the printable version below.]]></description>
     <articlelinks>
       <link>
-        <text>What’s new</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
       </link>
        <link>
-        <text> Internal Use Rights cloud and software benefit</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
+        <text>Microsoft Partner Network Agreement printable version</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
       </link>
-       <link>
-        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
+    </articlelinks></question><question>
     <id>100-000012</id>
     <title>How do I renew my company’s membership?</title>
     <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
@@ -576,23 +576,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000050</id>
-    <title>My company has qualifying Microsoft Certified Professionals (MCP) who are not recognized as fulfilling requirements for a silver or gold competency. What can I do?</title>
-    <description><![CDATA[After the recent program changes, you or your associated MCPs may not be correctly recognized in the Partner Membership Center, despite being linked correctly and passing the required exams. In this situation, please reassign the MCP through the “Manage Microsoft Certified Professionals” section in the Partner Membership Center. This workaround should solve the situation. If the issue still persists, please contact your local Regional Service Center for further assistance.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Support Community post: Microsoft Certified Professional Management in the Partner Membership Center</text>
-        <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmgold/microsoft-certified-professional-management-in-the/afba0781-fcd3-4895-b9fd-4c14b6ccf0f2?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>Troubleshoot issues with MCP exams and certifications not credited correctly</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>Link or unlink an MCP ID to or from a partner organization</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000083</id>
     <title>How much does it cost to renew my action pack?</title>
     <description><![CDATA[Review the helpful links below to get the most updated price list for action pack]]></description>
@@ -632,13 +615,21 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000061</id>
-    <title>Where can we view the expiration date for our Microsoft Action Pack subscription? </title>
-    <description><![CDATA[To view the expiration date, sign in to the Partner Membership Center. Select the menu option, Orders and Benefits. Then click Microsoft Action Pack Subscription]]></description>
+    <id>100-000050</id>
+    <title>My company has qualifying Microsoft Certified Professionals (MCP) who are not recognized as fulfilling requirements for a silver or gold competency. What can I do?</title>
+    <description><![CDATA[After the recent program changes, you or your associated MCPs may not be correctly recognized in the Partner Membership Center, despite being linked correctly and passing the required exams. In this situation, please reassign the MCP through the “Manage Microsoft Certified Professionals” section in the Partner Membership Center. This workaround should solve the situation. If the issue still persists, please contact your local Regional Service Center for further assistance.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Action Pack</text>
-        <url><![CDATA[https://partners.microsoft.com/?tpqid=100-000061]]></url>
+        <text>Partner Support Community post: Microsoft Certified Professional Management in the Partner Membership Center</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmgold/microsoft-certified-professional-management-in-the/afba0781-fcd3-4895-b9fd-4c14b6ccf0f2?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text>Troubleshoot issues with MCP exams and certifications not credited correctly</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text>Link or unlink an MCP ID to or from a partner organization</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000082</id>
@@ -667,17 +658,13 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000081]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000003</id>
-    <title>What is the difference between core benefits and competency benefits?</title>
-    <description><![CDATA[When you earn your first competency, you are entitled to a core set of benefits.  As you attain additional competencies, you are granted additional competency-specific benefits.]]></description>
+    <id>100-000061</id>
+    <title>Where can we view the expiration date for our Microsoft Action Pack subscription? </title>
+    <description><![CDATA[To view the expiration date, sign in to the Partner Membership Center. Select the menu option, Orders and Benefits. Then click Microsoft Action Pack Subscription]]></description>
     <articlelinks>
       <link>
-        <text>Core benefits and requirements</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000003]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
+        <text>Microsoft Action Pack</text>
+        <url><![CDATA[https://partners.microsoft.com/?tpqid=100-000061]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000090</id>
@@ -755,6 +742,19 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://support.microsoft.com/kb/2966328?tpqid=100-000091]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000003</id>
+    <title>What is the difference between core benefits and competency benefits?</title>
+    <description><![CDATA[When you earn your first competency, you are entitled to a core set of benefits.  As you attain additional competencies, you are granted additional competency-specific benefits.]]></description>
+    <articlelinks>
+      <link>
+        <text>Core benefits and requirements</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000003]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000033</id>
     <title>How do I manage my company's membership?</title>
     <description><![CDATA[Partners can access the Partner Membership Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Membership Center.]]></description>
@@ -767,20 +767,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Manage your MPN membership</text>
         <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>Where can I find the Microsoft Partner Network Agreement?</title>
-    <description><![CDATA[To view the Microsoft Partner Network Agreement, you will need to sign in to the Partner Membership Center. Once signed in, go to Additional Programs and select Status under Microsoft Online Services Partner Agreement. Then select step 1, Enroll in the Microsoft Partner Network, to view the agreement. Or, you can open the printable version below.]]></description>
+    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
+    <id>400-000079</id>
+    <title>Where can I find more information about partner incentives? </title>
+    <description><![CDATA[Information on all partner incentives programs is now available on the Microsoft Partner Network! Partners who are eligible for an incentive program will see all available materials for that program at aka.ms/partner incentives. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+        <text>View the new Partner Incentives page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
       </link>
-       <link>
-        <text>Microsoft Partner Network Agreement printable version</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
+    </articlelinks></question><question>
     <id>400-000080</id>
     <title>How do I get support for partner incentives? </title>
     <description><![CDATA[You can find support for the Partner Incentives program under the Support section on the Partner Incentives page.]]></description>
@@ -837,15 +833,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Partner incentives</text>
         <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000079</id>
-    <title>Where can I find more information about partner incentives? </title>
-    <description><![CDATA[Information on all partner incentives programs is now available on the Microsoft Partner Network! Partners who are eligible for an incentive program will see all available materials for that program at aka.ms/partner incentives. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
-    <articlelinks>
-      <link>
-        <text>View the new Partner Incentives page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
-      </link>
     </articlelinks></question></group><group title="Technical Services" refid="TechnicalServices"><question>
     <id>1400-000108</id>
     <title>Are there technical services available to app developers and ISVs building on Azure?</title>
@@ -884,7 +871,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     </articlelinks></question><question>
     <id>1400-000110</id>
     <title>Where can I find the top questions asked by partners during the presales and deployment phases of cloud and hybrid customer projects?</title>
-    <description><![CDATA[Review the most commonly asked questions by partners during the presales and deployment phases of their customer projects—including competitive positioning, demos, configuration, licensing, migration and deployment, and app development. ]]></description>
+    <description><![CDATA[Review the most commonly asked questions by partners during the presales and deployment phases of their customer projects—including competitive positioning, demos, configuration, technical licensing, migration and deployment, and app development. ]]></description>
     <articlelinks>
       <link>
         <text>Top Partner Product Questions</text>
@@ -935,6 +922,15 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
       </link>
     </articlelinks></question></group><group title="Training" refid="Training"><question>
+    <id>1200-000089</id>
+    <title>Where can I find information about competency related exams and readiness?</title>
+    <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft partner learning paths</text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1200-000056</id>
     <title>Does Microsoft offer low or no-cost training?</title>
     <description><![CDATA[Training is a benefit available to organizations enrolled in the Microsoft Partner Network at any level. MPN provides registration and access to online and in-person low and no-cost training. It is also used to complete the assessment requirements for Microsoft Action Pack and competencies.]]></description>
@@ -967,14 +963,5 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
        <link>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1200-000089</id>
-    <title>Where can I find information about competency related exams and readiness?</title>
-    <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
     </articlelinks></question></group></groups>

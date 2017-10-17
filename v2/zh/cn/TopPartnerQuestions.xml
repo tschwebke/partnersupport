@@ -237,19 +237,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000074</id>
-    <title>近期云服务方面有什么新变化吗？</title>
-    <description><![CDATA[有关云服务或其他成员资格项目更改的最新信息可在“新增内容”页面找到。]]></description>
-    <articlelinks>
-      <link>
-        <text>新增内容</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=200-000074]]></url>
-      </link>
-       <link>
-        <text>Cloud SureStep 概述</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000074]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000029</id>
     <title>如何提交签名云支持事件？</title>
     <description><![CDATA[请获取签名云支持权益的概述，包括如何提交签名云支持事件。]]></description>
@@ -284,6 +271,23 @@
         <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
       </link>
     </articlelinks></question></group><group title="合作伙伴奖励" refid="PartnerIncentives"><question>
+    <id>400-000083</id>
+    <title>如何更新我的银行和税务信息？</title>
+    <description><![CDATA[请参阅以下文章了解如何更新你的银行和税务信息]]></description>
+    <articlelinks>
+      <link>
+        <text>如何添加 Azure 激励的银行详细信息</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>如何提交 Azure 在线激励的税务和银行表单</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>我在哪里更新我的税务详细信息</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000008</id>
     <title>Microsoft 合作伙伴奖励有哪些？</title>
     <description><![CDATA[合作伙伴奖励是 Microsoft 在合作伙伴生态系统投资中的一方面。不管您是在本地、在云中还是介于两者之间经营业务，合作伙伴奖励旨在支持您的盈利能力和促进增长，以及推动 Microsoft 云优先、移动优先的战略。奖励包括企业项目、中小型企业、云服务和设备。]]></description>
@@ -332,24 +336,24 @@
         <text>了解如何有资格赚取合作伙伴奖励？</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>如何更新我的银行和税务信息？</title>
-    <description><![CDATA[请参阅以下文章了解如何更新你的银行和税务信息]]></description>
+    </articlelinks></question></group><group title="培训" refid="Training"><question>
+    <id>1200-000022</id>
+    <title>有关学习途径的常见问题？</title>
+    <description><![CDATA[学习途径可以帮您获取培训或者认证。学习途径标注了与您公司、组织相关的途径。学习途径 FAQ 解答了有关学习途径的常见问题。]]></description>
     <articlelinks>
       <link>
-        <text>如何添加 Azure 激励的银行详细信息</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+        <text>KB 2964426: 学习途径 —  常见问题列表</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
       </link>
        <link>
-        <text>如何提交 Azure 在线激励的税务和银行表单</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+        <text>微软合作伙伴学习途径</text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
       </link>
        <link>
-        <text>我在哪里更新我的税务详细信息</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+        <text>合作伙伴学院</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question></group><group title="培训" refid="Training"><question>
+    </articlelinks></question><question>
     <id>1200-000089</id>
     <title>在哪里可以找到有关能力考试和准备的信息？</title>
     <description><![CDATA[有关能力考试和准备的相关信息，请访问以下Microsoft合作伙伴学习途径的页面。 ]]></description>
@@ -375,24 +379,24 @@
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1200-000022</id>
-    <title>有关学习途径的常见问题？</title>
-    <description><![CDATA[学习途径可以帮您获取培训或者认证。学习途径标注了与您公司、组织相关的途径。学习途径 FAQ 解答了有关学习途径的常见问题。]]></description>
+    </articlelinks></question></group><group title="成员资格" refid="Membership"><question>
+    <id>100-000050</id>
+    <title>我们公司有符合资质的微软认证专家（MCP）但是没有办法指派到银牌或金牌能力。我们需要做什么？</title>
+    <description><![CDATA[由于最近的能力更新，您本身或者贵公司的MCP没有办法显示在合作伙伴成员中心，尽管MCP已经关联了之前和现在的考试。鉴于这种情况，请您通过合作伙伴成员中心的“管理微软认证专家”选项重新关联此MCP，通常这样的操作将解决此问题。如果还是无法解决，请联络您的区域服务中心已获取更多的支持。]]></description>
     <articlelinks>
       <link>
-        <text>KB 2964426: 学习途径 —  常见问题列表</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
+        <text>合作伙伴支持社区的公告：合作伙伴成员中心的“管理微软认证专家”</text>
+        <url><![CDATA[https://partnersupport.microsoft.com/zh-hans/mpnpartnermem/forum/mpnpartpq-mpnpmgold/microsoft-certified-professional-management-in-the/afba0781-fcd3-4895-b9fd-4c14b6ccf0f2?tpqid=100-000050&tpqid=100-000050]]></url>
       </link>
        <link>
-        <text>微软合作伙伴学习途径</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+        <text>关于MCP考试和认证未被成功指派的问题解答</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
       </link>
        <link>
-        <text>合作伙伴学院</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
+        <text>链接或取消MCP ID与合作伙伴组织的关联</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380/?tpqid=100-000050]]></url>
       </link>
-    </articlelinks></question></group><group title="成员资格" refid="Membership"><question>
+    </articlelinks></question><question>
     <id>100-000061</id>
     <title>在哪里可以查看微软行动宝盒订阅的有效期？</title>
     <description><![CDATA[查看有效期，请登录合作成员管理中心，选择目录下面的Orders and Benefits（订单和利益），然后点击Microsoft Action Pack Subscription（微软行动宝盒订阅）。]]></description>
@@ -510,19 +514,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000054]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000012</id>
-    <title>如何续订我所在公司的成员资格？</title>
-    <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>续订我的成员身份</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000083</id>
     <title>续订 Action Pack 需要花费多少钱？</title>
     <description><![CDATA[查看下面有用的链接以获取 Action Pack 的最新价目表]]></description>
@@ -562,17 +553,17 @@
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000087</id>
-    <title>我在哪里可以找到对具体能力的要求？</title>
-    <description><![CDATA[访问合作伙伴门户的能力网页并选择具体能力的链接。每个能力页面列出针对该能力的要求。]]></description>
+    <id>100-000012</id>
+    <title>如何续订我所在公司的成员资格？</title>
+    <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
     <articlelinks>
       <link>
-        <text>能力</text>
-        <url><![CDATA[http://aka.ms/mpncompetencies?tpqid=100-000087]]></url>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
        <link>
-        <text>核心权益和要求</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
+        <text>续订我的成员身份</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000082</id>
@@ -601,21 +592,17 @@
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000081]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000050</id>
-    <title>我们公司有符合资质的微软认证专家（MCP）但是没有办法指派到银牌或金牌能力。我们需要做什么？</title>
-    <description><![CDATA[由于最近的能力更新，您本身或者贵公司的MCP没有办法显示在合作伙伴成员中心，尽管MCP已经关联了之前和现在的考试。鉴于这种情况，请您通过合作伙伴成员中心的“管理微软认证专家”选项重新关联此MCP，通常这样的操作将解决此问题。如果还是无法解决，请联络您的区域服务中心已获取更多的支持。]]></description>
+    <id>100-000087</id>
+    <title>我在哪里可以找到对具体能力的要求？</title>
+    <description><![CDATA[访问合作伙伴门户的能力网页并选择具体能力的链接。每个能力页面列出针对该能力的要求。]]></description>
     <articlelinks>
       <link>
-        <text>合作伙伴支持社区的公告：合作伙伴成员中心的“管理微软认证专家”</text>
-        <url><![CDATA[https://partnersupport.microsoft.com/zh-hans/mpnpartnermem/forum/mpnpartpq-mpnpmgold/microsoft-certified-professional-management-in-the/afba0781-fcd3-4895-b9fd-4c14b6ccf0f2?tpqid=100-000050&tpqid=100-000050]]></url>
+        <text>能力</text>
+        <url><![CDATA[http://aka.ms/mpncompetencies?tpqid=100-000087]]></url>
       </link>
        <link>
-        <text>关于MCP考试和认证未被成功指派的问题解答</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>链接或取消MCP ID与合作伙伴组织的关联</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380/?tpqid=100-000050]]></url>
+        <text>核心权益和要求</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000090</id>
@@ -752,7 +739,7 @@
     </articlelinks></question><question>
     <id>1400-000110</id>
     <title>在云和混合客户项目的售前和部署阶段期间，我在哪里可以找到合作伙伴询问的热门问题？</title>
-    <description><![CDATA[查看在客户项目的售前和部署阶段期间合作伙伴询问的最常见问题 — 包括竞争定位、演示、配置、许可、迁移、部署和应用开发。 ]]></description>
+    <description><![CDATA[查看在客户项目的售前和部署阶段期间合作伙伴询问的最常见问题 — 包括竞争定位、演示、配置、技术许可、迁移、部署和应用开发。 ]]></description>
     <articlelinks>
       <link>
         <text>热门合作伙伴产品问题</text>
@@ -780,7 +767,20 @@
         <text>了解如何才能有资格获得技术售前协助</text>
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
       </link>
-    </articlelinks></question></group><group title="权益" refid="Benefits"><question SortOrderOnHome="5">
+    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
+    <id>300-000028</id>
+    <title>如何能够有资格获得签名云支持权益？</title>
+    <description><![CDATA[请查看披露指南，了解有关云性能和混合能力的各个要求的信息。]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Partner Network 披露指南 </text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>验证你是否有资格获得此优惠并了解更多信息</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000013</id>
     <title>我如何开始使用合作伙伴支持社区？</title>
     <description><![CDATA[免费与专家和其他合作伙伴联系，解答您的产品、开发人员、售前和 Microsoft Partner Network 成员问题。]]></description>
@@ -934,19 +934,6 @@
        <link>
         <text>通过内部使用权限（IUR）权益来促进您的业务</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>如何能够有资格获得签名云支持权益？</title>
-    <description><![CDATA[请查看披露指南，了解有关云性能和混合能力的各个要求的信息。]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Partner Network 披露指南 </text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>验证你是否有资格获得此优惠并了解更多信息</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000103</id>
