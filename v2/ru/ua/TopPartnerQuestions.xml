@@ -107,8 +107,8 @@
         <url><![CDATA[http://msdn.microsoft.com/library/partnercenter/mt156991.aspx?tpqid=300-000098]]></url>
       </link>
        <link>
-        <text>Ресурсы Microsoft Referrals</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/search?tpqid=300-000098]]></url>
+        <text>Создать бизнес-профиль</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-a-marketing-profile?tpqid=300-000098]]></url>
       </link>
        <link>
         <text>Microsoft Partner Center - Manage Microsoft Referrals</text>
@@ -180,6 +180,10 @@
       <link>
         <text>Использование идентификатора доступа и идентификатора контракта для создания инцидентов профессиональной технической поддержки на местах</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text>Поддержка клиентов</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question></group><group title="Загрузки и ПО" refid="DownloadsSoftware"><question>
     <id>800-000048</id>
@@ -255,6 +259,10 @@
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
       </link>
        <link>
+        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
+      </link>
+       <link>
         <text>https://support.microsoft.com/kb/3007588</text>
         <url><![CDATA[Microsoft Action Pack internal-use rights license table?tpqid=800-000092]]></url>
       </link>
@@ -311,6 +319,10 @@ Note: Партнёры не могут использовать уже акти�
        <link>
         <text>Какие преимущества дают мои права на внутреннее использование / Почему важно ими пользоваться</text>
         <url><![CDATA[?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000104]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>800-000075</id>
@@ -420,6 +432,10 @@ Note: Партнёры не могут использовать уже акти�
         <text>Подробнее о поощрениях для партнеров</text>
         <url><![CDATA[http://aka.ms/partnerincentives ?tpqid=400-000008]]></url>
       </link>
+       <link>
+        <text>Разберитесь в своих поощрительных выплатах</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
     </articlelinks></question><question>
     <id>400-000082</id>
     <title>Каким образом я могу получать партнерские льготы?</title>
@@ -428,6 +444,10 @@ Note: Партнёры не могут использовать уже акти�
       <link>
         <text>Посмотри  Каким образом я могу получать партнерские льготы?</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+       <link>
+        <text>Создание учетной записи пользователя и выдача разрешений</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000080</id>
@@ -476,6 +496,10 @@ Note: Партнёры не могут использовать уже акти�
       <link>
         <text>Просмотреть страницу поощрений для партнеров</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text>Разберитесь в своих поощрительных выплатах</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
     </articlelinks></question></group><group title="Технические сервисы" refid="TechnicalServices"><question>
     <id>1400-000104</id>
@@ -652,24 +676,20 @@ Note: Партнёры не могут использовать уже акти�
         <text>Видео программы поощрения партнеров поставщиков облачных решений (CSP Partner Incentives)</text>
         <url><![CDATA[https://vimeo.com/131708583?tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="Членство" refid="Membership"><question>
-    <id>100-000083</id>
-    <title>Какова стоимость возобновления моего пакета Action Pack?</title>
-    <description><![CDATA[Перейдите по следующим полезным ссылкам для ознакомления с самым последним прайс-листом на пакет Action Pack]]></description>
-    <articlelinks>
-      <link>
-        <text>Обзор пакета Microsoft Action Pack</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
-      </link>
        <link>
-        <text>Часто задаваемые вопросы о пакете Action Pack</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack-software-licensing-benefits-faq?tpqid=100-000083]]></url>
-      </link>
-       <link>
-        <text>Возобновление пакета Action Pack</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
+        <text>Связывайтесь с клиентами через Центр партнеров</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
       </link>
     </articlelinks></question><question>
+    <id>200-000086</id>
+    <title>Как добавить лицензию или службу в уже существующую подписку?</title>
+    <description><![CDATA[Как добавить лицензию или службу в уже существующую подписку?]]></description>
+    <articlelinks>
+      <link>
+        <text>Добавить лицензию или службу к существующей подписке</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question></group><group title="Членство" refid="Membership"><question>
     <id>100-000077</id>
     <title>Где узнать, как стать авторизованным продавцом устройств Microsoft Surface Hub (ADR)?</title>
     <description><![CDATA[Чтобы стать авторизованным продавцом устройств Microsoft Surface Hub, необходимо обратиться к авторизованному дистрибьютору Microsoft Surface и зарегистрироваться для получения обновлений по программе ADR.]]></description>
@@ -795,6 +815,10 @@ Note: Партнёры не могут использовать уже акти�
         <text>Управляйте членством в программе MPN</text>
         <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
       </link>
+       <link>
+        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=100-000033]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000085</id>
     <title>Как объединить отдельные регистрации MPN?</title>
@@ -815,7 +839,7 @@ Note: Партнёры не могут использовать уже акти�
     <articlelinks>
       <link>
         <text>Компетенции</text>
-        <url><![CDATA[http://aka.ms/mpncompetencies?tpqid=100-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
        <link>
         <text>Базовые льготы и требования</text>
@@ -892,8 +916,12 @@ Note: Партнёры не могут использовать уже акти�
         <url><![CDATA[https://blogs.technet.microsoft.com/msuspartner/2014/03/12/a-guide-to-renewing-your-mpn-competency/?tpqid=100-000084]]></url>
       </link>
        <link>
-        <text>Компетенции</text>
+        <text>Компетенции partners</text>
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
+      </link>
+       <link>
+        <text>Компетенции</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000089</id>
@@ -908,6 +936,10 @@ Note: Партнёры не могут использовать уже акти�
         <text>Enterprise Mobility Management</text>
         <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
       </link>
+       <link>
+        <text>Competency Enterprise Mobility Management</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competency-enterprise-mobility-management?tpqid=100-000089]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000061</id>
     <title>Где мы можем увидеть дату окончания подписки   Microsoft Action Pack? </title>
@@ -916,6 +948,10 @@ Note: Партнёры не могут использовать уже акти�
       <link>
         <text>Сводный отчет по партнеру</text>
         <url><![CDATA[https://partner.microsoft.com/membership/Reports/PartnerSummaryReport?tpqid=100-000061]]></url>
+      </link>
+       <link>
+        <text>Приостановка действия подписки</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/suspend-a-subscription?tpqid=100-000061]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000091</id>
@@ -947,5 +983,35 @@ Note: Партнёры не могут использовать уже акти�
        <link>
         <text>Статус Digital Partner of Record (Зарегистрированный цифровой партнер)</text>
         <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000092</id>
+    <title>Как привязать рабочую учетную запись моей организации к учетной записи Центра партнеров?</title>
+    <description><![CDATA[Если у вашей компании еще нет рабочей учетной записи, вы можете создать ее бесплатно во время процесса регистрации, а если вы хотите использовать существующую учетную запись, но у вас возникли трудности с входом в систему, вам необходимо ознакомиться с приведенными ниже инструкциями:]]></description>
+    <articlelinks>
+      <link>
+        <text>Ваша рабочая учетная запись в Центре партнеров</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+       <link>
+        <text>Добавление пользовательского имени домена в Azure Active Directory</text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000083</id>
+    <title>Какова стоимость возобновления моего пакета Action Pack?</title>
+    <description><![CDATA[Перейдите по следующим полезным ссылкам для ознакомления с самым последним прайс-листом на пакет Action Pack]]></description>
+    <articlelinks>
+      <link>
+        <text>Обзор пакета Microsoft Action Pack</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
+      </link>
+       <link>
+        <text>Приобретение подписки Microsoft Action Pack</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
+      </link>
+       <link>
+        <text>Возобновление пакета Action Pack</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
       </link>
     </articlelinks></question></group></groups>

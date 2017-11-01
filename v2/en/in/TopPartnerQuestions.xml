@@ -17,7 +17,7 @@
       </link>
     </articlelinks></question><question>
     <id>300-000043</id>
-    <title>How to activate Microsoft Azure internal-use rights licenses</title>
+    <title>How to activate Microsoft Azure internal-use rights licenses?</title>
     <description><![CDATA[Learn how to activate your Microsoft Azure internal-use rights licenses by following the steps outlined in the Knowledge Base article How-to activate Microsoft Azure internal-use rights licenses.]]></description>
     <articlelinks>
       <link>
@@ -106,8 +106,8 @@
         <url><![CDATA[http://msdn.microsoft.com/library/partnercenter/mt156991.aspx?tpqid=300-000098]]></url>
       </link>
        <link>
-        <text>Microsoft Referrals Resources</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/search?tpqid=300-000098]]></url>
+        <text>Create a business profile</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-a-marketing-profile?tpqid=300-000098]]></url>
       </link>
        <link>
         <text>Microsoft Partner Center - Manage Microsoft Referrals</text>
@@ -191,6 +191,10 @@
         <text>Using an Access ID and a Contract ID to create on-premises professional support incidents</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
       </link>
+       <link>
+        <text>Customer support</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
+      </link>
     </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question>
     <id>200-000066</id>
     <title>How can I encourage my customers to adopt Office 365?</title>
@@ -212,6 +216,10 @@
        <link>
         <text>CSP Partner Incentives Video</text>
         <url><![CDATA[https://vimeo.com/131708583?tpqid=200-000083]]></url>
+      </link>
+       <link>
+        <text>CSP regional authorization</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000026</id>
@@ -278,24 +286,16 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Cloud Services Dashboard user guide</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="7">
-    <id>800-000075</id>
-    <title>Where can I view changes to the downloads and software available to me?</title>
-    <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
+    </articlelinks></question><question>
+    <id>200-000086</id>
+    <title>How to add licenses or services to an existing subscription?</title>
+    <description><![CDATA[View the links below to learn how to upgarde/downgrade subscription or how to update your user profile]]></description>
     <articlelinks>
       <link>
-        <text>What’s new</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
+        <text>Add licenses or services to an existing subscription</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
-       <link>
-        <text> Internal Use Rights cloud and software benefit</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
     <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. For details about license benefits, refer to the following resources:]]></description>
@@ -398,6 +398,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>What are my internal-use rights benefits/Why are they important for me to use</text>
         <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
       </link>
+       <link>
+        <text>Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000104]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>800-000036</id>
     <title>How do I activate my Visual Studio subscription?</title>
@@ -464,27 +468,31 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
       </link>
        <link>
-        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3007588/?tpqid=800-000092]]></url>
+        <text>Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
        <link>
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
-    <id>100-000060</id>
-    <title>Where can I find the Microsoft Partner Network Agreement?</title>
-    <description><![CDATA[To view the Microsoft Partner Network Agreement, you will need to sign in to the Partner Membership Center. Once signed in, go to Additional Programs and select Status under Microsoft Online Services Partner Agreement. Then select step 1, Enroll in the Microsoft Partner Network, to view the agreement. Or, you can open the printable version below.]]></description>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>800-000075</id>
+    <title>Where can I view changes to the downloads and software available to me?</title>
+    <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+        <text>What’s new</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
       </link>
        <link>
-        <text>Microsoft Partner Network Agreement printable version</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
+        <text> Internal Use Rights cloud and software benefit</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
+      </link>
+    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
     <id>100-000012</id>
     <title>How do I renew my company’s membership?</title>
     <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
@@ -537,8 +545,12 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://blogs.technet.microsoft.com/msuspartner/2014/03/12/a-guide-to-renewing-your-mpn-competency/?tpqid=100-000084]]></url>
       </link>
        <link>
-        <text>Competencies</text>
+        <text>Competencies partners</text>
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
+      </link>
+       <link>
+        <text>Competencies</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000087</id>
@@ -547,7 +559,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <articlelinks>
       <link>
         <text>Competencies</text>
-        <url><![CDATA[http://aka.ms/mpncompetencies?tpqid=100-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
        <link>
         <text>Core benefits and requirements</text>
@@ -585,8 +597,8 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
       </link>
        <link>
-        <text>Action Pack FAQs</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack-software-licensing-benefits-faq?tpqid=100-000083]]></url>
+        <text>Purchase or renew a Microsoft Action Pack subscription</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
       </link>
        <link>
         <text>How to renew your action pack?</text>
@@ -666,6 +678,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Action Pack</text>
         <url><![CDATA[https://partners.microsoft.com/?tpqid=100-000061]]></url>
       </link>
+       <link>
+        <text>Suspend a subscription</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/suspend-a-subscription?tpqid=100-000061]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000090</id>
     <title>Why are my customers not receiving an approval email after creating a customer reference in the Partner Membership Center? </title>
@@ -732,6 +748,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Enterprise Mobility Management</text>
         <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
       </link>
+       <link>
+        <text>Competency Enterprise Mobility Management</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competency-enterprise-mobility-management?tpqid=100-000089]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000091</id>
     <title>What methods of payment are accepted for the MPN enrollment/re-enrollment?</title>
@@ -767,29 +787,37 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Manage your MPN membership</text>
         <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
-    <id>400-000079</id>
-    <title>Where can I find more information about partner incentives? </title>
-    <description><![CDATA[Information on all partner incentives programs is now available on the Microsoft Partner Network! Partners who are eligible for an incentive program will see all available materials for that program at aka.ms/partner incentives. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
-    <articlelinks>
-      <link>
-        <text>View the new Partner Incentives page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+       <link>
+        <text>Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=100-000033]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>How do I get support for partner incentives? </title>
-    <description><![CDATA[You can find support for the Partner Incentives program under the Support section on the Partner Incentives page.]]></description>
+    <id>100-000092</id>
+    <title>How to link my organization’s work account to my new Partner Center account?</title>
+    <description><![CDATA[If your company doesn’t already have work account, you can create one for free during the enrollment process or if you want to use an existing work account but you’re having trouble signing in, you have to read the instructions below:]]></description>
     <articlelinks>
       <link>
-        <text>Get support for partner incentives </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
+        <text>Your work account and Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
       </link>
        <link>
-        <text>View the new Partner Incentives page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+        <text>Add a custom domain name to Azure Active Directory</text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000060</id>
+    <title>Where can I find the Microsoft Partner Network Agreement?</title>
+    <description><![CDATA[To view the Microsoft Partner Network Agreement, you will need to sign in to the Partner Membership Center. Once signed in, go to Additional Programs and select Status under Microsoft Online Services Partner Agreement. Then select step 1, Enroll in the Microsoft Partner Network, to view the agreement. Or, you can open the printable version below.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network Agreement printable version</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
+      </link>
+    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
     <id>400-000082</id>
     <title>How can I become eligible to earn partner incentives?</title>
     <description><![CDATA[Eligibility for partner incentives varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
@@ -797,6 +825,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       <link>
         <text>See how you can become eligible for partner incentives</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+       <link>
+        <text>Create user accounts and assign permissions</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000002</id>
@@ -833,33 +865,37 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Partner incentives</text>
         <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
       </link>
+       <link>
+        <text>Understand your incentive payouts</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>Where can I find more information about partner incentives? </title>
+    <description><![CDATA[Information on all partner incentives programs is now available on the Microsoft Partner Network! Partners who are eligible for an incentive program will see all available materials for that program at aka.ms/partner incentives. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
+    <articlelinks>
+      <link>
+        <text>View the new Partner Incentives page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text>Understand your incentive payouts</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000080</id>
+    <title>How do I get support for partner incentives? </title>
+    <description><![CDATA[You can find support for the Partner Incentives program under the Support section on the Partner Incentives page.]]></description>
+    <articlelinks>
+      <link>
+        <text>Get support for partner incentives </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
+      </link>
+       <link>
+        <text>View the new Partner Incentives page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+      </link>
     </articlelinks></question></group><group title="Technical Services" refid="TechnicalServices"><question>
-    <id>1400-000108</id>
-    <title>Are there technical services available to app developers and ISVs building on Azure?</title>
-    <description><![CDATA[As an MPN partner, leverage our suite of app developer services that help you plan, build and operate your Azure app. Get direct access to Azure technical experts through 1:1 consultations, technical training and chat options to accelerate your technical journey to app certification.]]></description>
-    <articlelinks>
-      <link>
-        <text>Learn about the Azure App Dev technical services</text>
-        <url><![CDATA[https://partner.microsoft.com/support/azure-presales-deployment ?tpqid=1400-000108]]></url>
-      </link>
-       <link>
-        <text>Get started with Dev Chat</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000106</id>
-    <title>Are there technical resources available to help me during the design, development and deployment phases of my projects to resolve customer scenarios?</title>
-    <description><![CDATA[Yes, leverage your partner advisory hours to access Deployment Services to accelerate deployment and increase consumption by receiving customized consultation, including design and implementation guidance, code review and test environment review, solution integration assistance, migration and deployment planning, scenario guidance and solution architecture. Learn more and submit a request at http://aka.ms/TechnicalServices. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Learn more and submit a request for Deployment Services using your partner advisory hours</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
-      </link>
-       <link>
-        <text>Learn how to qualify for Partner Advisory Hours to access Deployment Services</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000107</id>
     <title>Who is Microsoft Partner Technical Services and how can they help me win more deals, accelerate deployment and app development, and support my customers?    </title>
     <description><![CDATA[From the point you start to invest in Microsoft – to when you begin selling and deploying – and all the way through when you have more complex deals in technologies, Microsoft Partner Technical Services is there to support you across the lifecycle. ]]></description>
@@ -921,7 +957,50 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Register for a technical training webcast</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000108</id>
+    <title>Are there technical services available to app developers and ISVs building on Azure?</title>
+    <description><![CDATA[As an MPN partner, leverage our suite of app developer services that help you plan, build and operate your Azure app. Get direct access to Azure technical experts through 1:1 consultations, technical training and chat options to accelerate your technical journey to app certification.]]></description>
+    <articlelinks>
+      <link>
+        <text>Learn about the Azure App Dev technical services</text>
+        <url><![CDATA[https://partner.microsoft.com/support/azure-presales-deployment ?tpqid=1400-000108]]></url>
+      </link>
+       <link>
+        <text>Get started with Dev Chat</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000106</id>
+    <title>Are there technical resources available to help me during the design, development and deployment phases of my projects to resolve customer scenarios?</title>
+    <description><![CDATA[Yes, leverage your partner advisory hours to access Deployment Services to accelerate deployment and increase consumption by receiving customized consultation, including design and implementation guidance, code review and test environment review, solution integration assistance, migration and deployment planning, scenario guidance and solution architecture. Learn more and submit a request at http://aka.ms/TechnicalServices. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Learn more and submit a request for Deployment Services using your partner advisory hours</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
+      </link>
+       <link>
+        <text>Learn how to qualify for Partner Advisory Hours to access Deployment Services</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
+      </link>
     </articlelinks></question></group><group title="Training" refid="Training"><question>
+    <id>1200-000022</id>
+    <title>What are the top asked questions about Learning Paths?</title>
+    <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2964426: Learning Paths – Top FAQ list</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>Microsoft partner learning paths</text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>Partner University</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1200-000089</id>
     <title>Where can I find information about competency related exams and readiness?</title>
     <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
@@ -946,22 +1025,5 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
        <link>
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1200-000022</id>
-    <title>What are the top asked questions about Learning Paths?</title>
-    <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2964426: Learning Paths – Top FAQ list</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
-      </link>
-       <link>
-        <text>Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
-      </link>
-       <link>
-        <text>Partner University</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
     </articlelinks></question></group></groups>

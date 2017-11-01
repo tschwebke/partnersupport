@@ -42,6 +42,10 @@ Sie können das Dashboard als eine Quelle für Schlüsseldaten nutzen, welche Ih
         <text>Video zu CSP-Partner-Incentives</text>
         <url><![CDATA[https://vimeo.com/131708583?tpqid=200-000083]]></url>
       </link>
+       <link>
+        <text>Kontakt mit Kunden im Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
+      </link>
     </articlelinks></question><question>
     <id>200-000068</id>
     <title>Wie können wir Office365-Demos erstellen?</title>
@@ -87,20 +91,16 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <text>Signature Cloud Support für Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
-    </articlelinks></question></group><group title="Downloads und Software" refid="DownloadsSoftware"><question>
-    <id>800-000032</id>
-    <title>Wie erhalte ich über das Microsoft Partner Network die Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3)?</title>
-    <description><![CDATA[Verschaffen Sie sich einen Überblick über die Microsoft Partner Network-Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3).]]></description>
+    </articlelinks></question><question>
+    <id>200-000086</id>
+    <title>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement</title>
+    <description><![CDATA[Über die nachfolgenden Links erfahren Sie, wie Sie Abonnements upgraden/downgraden oder wie Sie Ihr Benutzerprofil aktualisieren]]></description>
     <articlelinks>
       <link>
-        <text>Erhalten der Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3) über Microsoft Partner Network</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+        <text>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
-       <link>
-        <text>Wie man Office 365 (E3) Lizenzen für den internen Gebrauch aktiviert und zuordnet. </text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="1">
+    </articlelinks></question></group><group title="Downloads und Software" refid="DownloadsSoftware"><question SortOrderOnHome="1">
     <id>800-000092</id>
     <title>Wie aktiviere ich die Lizenzen für die firmeninterne Nutzung?</title>
     <description><![CDATA[Schritt-für-Schritt-Anleitungen zum Aktivieren der firmeninternen Lizenzen von Office 365, Enterprise Mobility Suite und Microsoft Dynamics CRM Online finden Sie in den unten anführten Beiträgen.]]></description>
@@ -110,8 +110,8 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
       </link>
        <link>
-        <text>Wie man Office 365 (E3) Lizenzen für den internen Gebrauch aktiviert und zuordnet. </text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000092]]></url>
+        <text>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
        <link>
         <text>Microsoft Action Pack internal-use rights license table</text>
@@ -249,6 +249,10 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>What are my internal-use rights benefits/Why are they important for me to use</text>
         <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
       </link>
+       <link>
+        <text>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000104]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>800-000036</id>
     <title>Wie aktiviere ich mein Visual Studio Online-Abonnement?</title>
@@ -279,24 +283,20 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>Produktbenutzerhandbuch für Software- und Cloud Services-Vorteile</text>
         <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
-    </articlelinks></question></group><group title="Leistungen" refid="Benefits"><question>
-    <id>300-000072</id>
-    <title>Wo finde ich Informationen zu Neuigkeiten bei Kompetenzleistungen?</title>
-    <description><![CDATA[Aktuelle Nachrichten zu den letzten und bevorstehenden Änderungen von Leistungen und anderen Aspekten der Mitgliedschaft finden Sie auf der Seite „Neuigkeiten“.]]></description>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>Wie erhalte ich über das Microsoft Partner Network die Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3)?</title>
+    <description><![CDATA[Verschaffen Sie sich einen Überblick über die Microsoft Partner Network-Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3).]]></description>
     <articlelinks>
       <link>
-        <text>Weitere Informationen über die Entwicklung von MPN</text>
-        <url><![CDATA[http://www.mpnevolution.com/?tpqid=300-000072]]></url>
+        <text>Erhalten der Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3) über Microsoft Partner Network</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
       </link>
        <link>
-        <text>Wichtige Leistungen und Voraussetzungen</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
+        <text>Wie man Office 365 (E3) Lizenzen für den internen Gebrauch aktiviert und zuordnet. </text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
-       <link>
-        <text>Übersicht Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Leistungen" refid="Benefits"><question>
     <id>300-000098</id>
     <title>Wie kann ich einen Produktest auf Microsoft Referrals durchführen? </title>
     <description><![CDATA[Schauen Sie sich diesen Artikel an, um Informationen zur Durchführung von Produktests auf Microsoft Referrals zu erhalten:]]></description>
@@ -306,8 +306,8 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <url><![CDATA[http://msdn.microsoft.com/library/partnercenter/mt156991.aspx?tpqid=300-000098]]></url>
       </link>
        <link>
-        <text>Microsoft Referrals-Ressourcen</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/search?tpqid=300-000098]]></url>
+        <text>Erstellen eines Geschäftsprofils</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-a-marketing-profile?tpqid=300-000098]]></url>
       </link>
        <link>
         <text>Microsoft Partner Center - Managen Microsoft Referrals</text>
@@ -461,20 +461,28 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>Erstellen von lokalen professionellen Supportvorfällen mit einer Zugangs-ID und einer Vertrags-ID</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
-    <id>100-000060</id>
-    <title>Wo kann ich den Microsoft Partner Network Vertrag finden? </title>
-    <description><![CDATA[Um den Microsoft Partner Network Vertrag zu sehen, melden Sie sich bitte in Ihrem Partner Membership Center an. Sobald Sie angemeldet sind gehen Sie zu Weitere Programme und wählen Status neben Microsoft Online Services-Partnervertrag. Dann wählen Sie Schritt 1 Registrieren für das Microsoft Partner Network, um den Vertrag zu sehen. Oder, Sie öffnen die Druckversion über den folgenden Link:]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
-      </link>
        <link>
-        <text>Microsoft Partner Network Vertrag Druckversion</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
+        <text>Kundendienst</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000072</id>
+    <title>Wo finde ich Informationen zu Neuigkeiten bei Kompetenzleistungen?</title>
+    <description><![CDATA[Aktuelle Nachrichten zu den letzten und bevorstehenden Änderungen von Leistungen und anderen Aspekten der Mitgliedschaft finden Sie auf der Seite „Neuigkeiten“.]]></description>
+    <articlelinks>
+      <link>
+        <text>Weitere Informationen über die Entwicklung von MPN</text>
+        <url><![CDATA[http://www.mpnevolution.com/?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Wichtige Leistungen und Voraussetzungen</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Übersicht Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
+      </link>
+    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
     <id>100-000012</id>
     <title>Wie erneuere ich die Mitgliedschaft meines Unternehmens?</title>
     <description><![CDATA[Hier erfahren Sie, wann Sie Ihre Mitgliedschaft erneuern sollten, wie Sie dazu vorgehen, welche Chancen das Netzwerk für Sie bereithält u. v. a.]]></description>
@@ -532,8 +540,12 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <url><![CDATA[https://blogs.technet.microsoft.com/msuspartner/2014/03/12/a-guide-to-renewing-your-mpn-competency/?tpqid=100-000084]]></url>
       </link>
        <link>
-        <text>Kompetenzen</text>
+        <text>Kompetenzen partners</text>
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
+      </link>
+       <link>
+        <text>Kompetenzen</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000087</id>
@@ -542,7 +554,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
     <articlelinks>
       <link>
         <text>Kompetenzen</text>
-        <url><![CDATA[http://aka.ms/mpncompetencies?tpqid=100-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
        <link>
         <text>Die wichtigsten Leistungen und Anforderungen</text>
@@ -580,8 +592,8 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
       </link>
        <link>
-        <text>FAQs zum Action Pack</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack-software-licensing-benefits-faq?tpqid=100-000083]]></url>
+        <text>Kaufen oder Verlängern eines Microsoft Action Pack-Abonnements</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
       </link>
        <link>
         <text>Wie verlängern Sie Ihr Action Pack?</text>
@@ -663,6 +675,10 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Zusammenfassungsbericht über PartnerEnthält die Übersicht über Leistungen für Partner</text>
         <url><![CDATA[https://partner.microsoft.com/membership/Reports/PartnerSummaryReport?tpqid=100-000061]]></url>
       </link>
+       <link>
+        <text>Aussetzen eines Abonnements</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/suspend-a-subscription?tpqid=100-000061]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000090</id>
     <title>Warum erhalten meine Kunden keine E-mail, nachdem ich eine Kundenreferenz aus dem Partner Membership Center übermittelt habe?  </title>
@@ -731,6 +747,10 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Enterprise Mobility Management</text>
         <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
       </link>
+       <link>
+        <text>Competency Enterprise Mobility Management</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competency-enterprise-mobility-management?tpqid=100-000089]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000091</id>
     <title>Welche Bezahlungsmethoden werden für die MPN-Registrierung bzw. die erneute MPN-Registrierung akzeptiert?</title>
@@ -766,29 +786,37 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Verwalten Ihrer MPN-Mitgliedschaft</text>
         <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
-    <id>400-000079</id>
-    <title>Wo finde ich weitere Informationen zu Partner-Incentives? </title>
-    <description><![CDATA[Seit dem 1. Juli 2015 sind im Microsoft Partner Network Informationen zu allen Partner-Incentives-Programmen verfügbar! Zu einem Incentives-Programm berechtigte Partner finden alle zu dem betreffenden Programm verfügbaren Materialien unter aka.ms/partnerincentives. Die Partner sehen auch dann Details zu den meisten Cloud-Incentives, wenn sie die erforderlichen Kompetenzen noch nicht erworben haben. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+       <link>
+        <text>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=100-000033]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>Wie erhalte ich Support für Partner-Incentives? </title>
-    <description><![CDATA[Support für das Partner-Incentives-Programm finden Sie im Abschnitt „Support“ auf der Seite „Partner-Incentives“.]]></description>
+    <id>100-000092</id>
+    <title>Verknüpfen des Geschäftskontos meiner Organisation mit meinem neuen Partner Center-Konto</title>
+    <description><![CDATA[Wenn Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie während des Registrierungsvorgangs ein kostenloses Geschäftskonto erstellen. Wenn Sie ein vorhandenes Geschäftskonto verwenden möchten, aber Probleme beim Anmelden haben, müssen Sie die nachfolgenden Anweisungen lesen:]]></description>
     <articlelinks>
       <link>
-        <text>Support für Partner-Incentives </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
+        <text>Ihr Geschäftskonto und Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
       </link>
        <link>
-        <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+        <text>Hinzufügen eines benutzerdefinierten Domänennamens zu Azure Active Directory</text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000060</id>
+    <title>Wo kann ich den Microsoft Partner Network Vertrag finden? </title>
+    <description><![CDATA[Um den Microsoft Partner Network Vertrag zu sehen, melden Sie sich bitte in Ihrem Partner Membership Center an. Sobald Sie angemeldet sind gehen Sie zu Weitere Programme und wählen Status neben Microsoft Online Services-Partnervertrag. Dann wählen Sie Schritt 1 Registrieren für das Microsoft Partner Network, um den Vertrag zu sehen. Oder, Sie öffnen die Druckversion über den folgenden Link:]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network Vertrag Druckversion</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
+      </link>
+    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
     <id>400-000082</id>
     <title>Wie qualifiziere ich mich für Partnerprovisionen?</title>
     <description><![CDATA[Die Berechtigung für Partnerprovisionen variiert je nach Programm. Manche Programme richten sich nach den erlangten Microsoft Partner Network Kompetenzen. Manche Programme bewerten die Partnerleistung oder den Microsoft channel authorization status. Nicht alle Partner werden für alle Provisionen qualifiziert sein. ]]></description>
@@ -796,6 +824,10 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
       <link>
         <text>Wie man sich für Partnerprovisionen qualifizieren kann?</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+       <link>
+        <text>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000002</id>
@@ -832,7 +864,46 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Weitere Informationen zu Partner-Incentives</text>
         <url><![CDATA[http://aka.ms/partnerincentives ?tpqid=400-000008]]></url>
       </link>
+       <link>
+        <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>Wo finde ich weitere Informationen zu Partner-Incentives? </title>
+    <description><![CDATA[Seit dem 1. Juli 2015 sind im Microsoft Partner Network Informationen zu allen Partner-Incentives-Programmen verfügbar! Zu einem Incentives-Programm berechtigte Partner finden alle zu dem betreffenden Programm verfügbaren Materialien unter aka.ms/partnerincentives. Die Partner sehen auch dann Details zu den meisten Cloud-Incentives, wenn sie die erforderlichen Kompetenzen noch nicht erworben haben. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000080</id>
+    <title>Wie erhalte ich Support für Partner-Incentives? </title>
+    <description><![CDATA[Support für das Partner-Incentives-Programm finden Sie im Abschnitt „Support“ auf der Seite „Partner-Incentives“.]]></description>
+    <articlelinks>
+      <link>
+        <text>Support für Partner-Incentives </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
+      </link>
+       <link>
+        <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+      </link>
     </articlelinks></question></group><group title="Schulung" refid="Training"><question>
+    <id>1200-000089</id>
+    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
+    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
+    <articlelinks>
+      <link>
+        <text>Lernpfade für Microsoft Partner </text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1200-000056</id>
     <title>Bietet Microsoft Trainings zu einem günstigen Preis oder kostenfrei an?</title>
     <description><![CDATA[Das Partner University ist eine Leistung für Unternehmen die im Microsoft Partner Network registriert sind und verfügbar für jede Programmstufe. Das Partner University bietet Registrierung und Zugriff zu günstigen oder kostenfreien Trainings (persönlich oder online). Es wird auch zur Erfüllung der Anforderungen an das Microsoft Action Pack oder Kompetenzen genutzt.]]></description>
@@ -866,43 +937,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1200-000089</id>
-    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
-    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
-    <articlelinks>
-      <link>
-        <text>Lernpfade für Microsoft Partner </text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
-      </link>
     </articlelinks></question></group><group title="Technische Dienste" refid="TechnicalServices"><question>
-    <id>1400-000108</id>
-    <title>Sind technische Dienste für Anwendungsentwickler und ISVs auf der Basis von Azure verfügbar?</title>
-    <description><![CDATA[Nutzen Sie als MPN-Partner unser Dienstleistungsangebot für Anwendungsentwickler, um Sie bei der Planung, Entwicklung und Verwendung Ihrer Azure-App zu unterstützen. Verschaffen Sie sich mithilfe von persönlicher Beratung, technischem Training und Chatoptionen direkten Zugang zu technischen Azure-Experten, um den Weg zur Appzertifizierung zu beschleunigen.]]></description>
-    <articlelinks>
-      <link>
-        <text>Informieren Sie sich über die technischen Dienste für die Entwicklung von Cloud-Apps</text>
-        <url><![CDATA[https://partner.microsoft.com/support/azure-presales-deployment ?tpqid=1400-000108]]></url>
-      </link>
-       <link>
-        <text>Erste Schritte mit Dev Chat</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000106</id>
-    <title>Gibt es technische Ressourcen zur Unterstützung während der Entwurfs-, Entwicklungs- und Bereitstellungsphasen meiner Projekte, um Probleme bei Kundenszenarien zu beheben? </title>
-    <description><![CDATA[Ja, nutzen Sie Ihre Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste, um durch individuelle Beratung die Bereitstellung der Produkte zu beschleunigen und den Umsatz zu steigern. Die Beratung beinhaltet Unterstützung bei Design und Implementierung, Prüfung von Code und Testumgebung, Hilfe bei der Lösungsintegration, Planung von Migration und Bereitstellung sowie Unterstützung bei Szenarien und der Lösungsarchitektur. Unter http://aka.ms/TechnicalServices erhalten Sie weitere Informationen und können eine Anfrage übermitteln.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Informieren Sie sich, und übermitteln Sie eine Anfrage zu Bereitstellungsdiensten mithilfe Ihrer Partner Advisory Hours</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
-      </link>
-       <link>
-        <text>Lernen Sie mehr über Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000107</id>
     <title>Was sind die Microsoft Partner Technical Services und wie helfen sie mir, mehr Geschäfte abzuschließen, die Bereitstellung zu beschleunigen und meine Kunden zu unterstützen?</title>
     <description><![CDATA[Ab dem Zeitpunkt, an dem Sie mit Ihren Investitionen in Microsoft beginnen, bis zum Beginn des Verkaufs und der Bereitstellung sowie bei komplexen Geschäftsabschlüssen im Zusammenhang mit Technologien werden Sie ständig von den Microsoft Partner Technical Services unterstützt.]]></description>
@@ -963,5 +998,32 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
       <link>
         <text>Registrieren Sie sich für technische Trainings mittels Webcast</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000108</id>
+    <title>Sind technische Dienste für Anwendungsentwickler und ISVs auf der Basis von Azure verfügbar?</title>
+    <description><![CDATA[Nutzen Sie als MPN-Partner unser Dienstleistungsangebot für Anwendungsentwickler, um Sie bei der Planung, Entwicklung und Verwendung Ihrer Azure-App zu unterstützen. Verschaffen Sie sich mithilfe von persönlicher Beratung, technischem Training und Chatoptionen direkten Zugang zu technischen Azure-Experten, um den Weg zur Appzertifizierung zu beschleunigen.]]></description>
+    <articlelinks>
+      <link>
+        <text>Informieren Sie sich über die technischen Dienste für die Entwicklung von Cloud-Apps</text>
+        <url><![CDATA[https://partner.microsoft.com/support/azure-presales-deployment ?tpqid=1400-000108]]></url>
+      </link>
+       <link>
+        <text>Erste Schritte mit Dev Chat</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000106</id>
+    <title>Gibt es technische Ressourcen zur Unterstützung während der Entwurfs-, Entwicklungs- und Bereitstellungsphasen meiner Projekte, um Probleme bei Kundenszenarien zu beheben? </title>
+    <description><![CDATA[Ja, nutzen Sie Ihre Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste, um durch individuelle Beratung die Bereitstellung der Produkte zu beschleunigen und den Umsatz zu steigern. Die Beratung beinhaltet Unterstützung bei Design und Implementierung, Prüfung von Code und Testumgebung, Hilfe bei der Lösungsintegration, Planung von Migration und Bereitstellung sowie Unterstützung bei Szenarien und der Lösungsarchitektur. Unter http://aka.ms/TechnicalServices erhalten Sie weitere Informationen und können eine Anfrage übermitteln.
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Informieren Sie sich, und übermitteln Sie eine Anfrage zu Bereitstellungsdiensten mithilfe Ihrer Partner Advisory Hours</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
+      </link>
+       <link>
+        <text>Lernen Sie mehr über Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
     </articlelinks></question></group></groups>
