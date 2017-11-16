@@ -32,7 +32,7 @@
         <text>Accelerate your business with Internal Use Rights (IUR) benefits</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>How do I get started using the Partner Support Community?</title>
     <description><![CDATA[Connect with experts and other partners at no cost to get answers to your product, developer, presales, and Microsoft Partner Network membership questions.]]></description>
@@ -147,7 +147,7 @@
         <text>Visual Studio Support</text>
         <url><![CDATA[https://www.visualstudio.com/support/?tpqid=300-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>How do I qualify for Technical/Product Support?</title>
     <description><![CDATA[Review the Core Benefits & Requirements and MPN Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
@@ -195,16 +195,16 @@
         <text>Customer support</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question>
-    <id>200-000066</id>
-    <title>How can I encourage my customers to adopt Office 365?</title>
-    <description><![CDATA[Whether your online service business is starting out or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Who qualifies and where can I get Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)?</title>
+    <description><![CDATA[Partners who meet performance criteria for Cloud Business Applications Competency and currently have ERP competency. Read the article below to see the frequent asked questions and to learn more about this IUR ]]></description>
     <articlelinks>
       <link>
-        <text>Cloud SureStep Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+        <text>FAQ - Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>Where can I find information about the Cloud Solution Provider (CSP) program?</title>
     <description><![CDATA[The Cloud Solution Provider program is a new offering, and at this point is available only to a select group of Microsoft partners. If you think your company is a great fit, talk to your Microsoft partner account representative.]]></description>
@@ -221,7 +221,7 @@
         <text>CSP regional authorization</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>We are a Microsoft Online Services Partner. How can we activate partner features?</title>
     <description><![CDATA[Use these resource to learn how to access your online services benefits and activate partner features:]]></description>
@@ -295,24 +295,16 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Add licenses or services to an existing subscription</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>What software benefits do you get with Microsoft Action Pack? </title>
-    <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. For details about license benefits, refer to the following resources:]]></description>
+    </articlelinks></question><question>
+    <id>200-000066</id>
+    <title>How can I encourage my customers to adopt Office 365?</title>
+    <description><![CDATA[Whether your online service business is starting out or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Action Pack overview</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=800-000039]]></url>
+        <text>Cloud SureStep Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
-       <link>
-        <text>Product Usage Guide</text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack license table</text>
-        <url><![CDATA[https://assets.microsoft.com/mpn-maps-software-iur-license-table.pdf?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question>
     <id>800-000048</id>
     <title>How do I claim my Microsoft Azure internal-use rights (IUR) credit(s)? </title>
     <description><![CDATA[All partners enrolled in a competency or Microsoft Action Pack have access to a Microsoft Azure monthly credit. This benefit is provided per organization regardless of the number of Action Pack subscriptions or Additional Benefit Toolkits purchased. If one of the administrators within an organization has already claimed the Azure benefit, other users in the same organization will not be able to claim it. To learn more about claiming your Microsoft Azure IUR benefit, the article below.]]></description>
@@ -346,7 +338,7 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Assigning Visual Studio Online Privileges</text>
         <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmaction/assigning-msdn-privileges/bc0dc817-40dc-4b38-9f20-81a3d824d899?tpqid=800-000030]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>Where do I download Windows 10 software and product keys?</title>
     <description><![CDATA[Partners with a Microsoft competency or Action Pack subscription can access their Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal. For development, testing, and evaluation purposes, partners can access software and keys with the Visual Studio Online subscription that they are granted as a program benefit. (These include the Pro and Home editions.) Access is limited to end users assigned to the Visual Studio Online subscription.
@@ -492,20 +484,24 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>How to activate and assign Office 365 (E3) internal-use rights licenses</text>
         <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
       </link>
-    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
-    <id>100-000012</id>
-    <title>How do I renew my company’s membership?</title>
-    <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
+    </articlelinks></question><question SortOrderOnHome="6">
+    <id>800-000039</id>
+    <title>What software benefits do you get with Microsoft Action Pack? </title>
+    <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. For details about license benefits, refer to the following resources:]]></description>
     <articlelinks>
       <link>
-        <text>Renew my membership</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
+        <text>Microsoft Action Pack overview</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
+        <text>Product Usage Guide</text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+       <link>
+        <text>Microsoft Action Pack license table</text>
+        <url><![CDATA[https://assets.microsoft.com/mpn-maps-software-iur-license-table.pdf?tpqid=800-000039]]></url>
+      </link>
+    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
     <id>100-000069</id>
     <title>My company is enrolled in the Microsoft Partner Network. How do I associate as an individual to the profile?</title>
     <description><![CDATA[If you already have a Microsoft account, sign in to the Associate as an individual page on the Partner Membership Center and fill in the required fields. If you do not have a Microsoft account, you will need to create one before you get started.]]></description>
@@ -817,20 +813,20 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Partner Network Agreement printable version</text>
         <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
-    <id>400-000082</id>
-    <title>How can I become eligible to earn partner incentives?</title>
-    <description><![CDATA[Eligibility for partner incentives varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
+    </articlelinks></question><question>
+    <id>100-000012</id>
+    <title>How do I renew my company’s membership?</title>
+    <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
     <articlelinks>
       <link>
-        <text>See how you can become eligible for partner incentives</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+        <text>Renew my membership</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
        <link>
-        <text>Create user accounts and assign permissions</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
     <id>400-000002</id>
     <title>How can I receive incentives for selling and deploying Microsoft Cloud Solutions? </title>
     <description><![CDATA[Access resources that can help you get started with online services incentives and learn what to do if you have questions about your fee statement or the payment process.]]></description>
@@ -895,16 +891,20 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>View the new Partner Incentives page</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Services" refid="TechnicalServices"><question>
-    <id>1400-000107</id>
-    <title>Who is Microsoft Partner Technical Services and how can they help me win more deals, accelerate deployment and app development, and support my customers?    </title>
-    <description><![CDATA[From the point you start to invest in Microsoft – to when you begin selling and deploying – and all the way through when you have more complex deals in technologies, Microsoft Partner Technical Services is there to support you across the lifecycle. ]]></description>
+    </articlelinks></question><question>
+    <id>400-000082</id>
+    <title>How can I become eligible to earn partner incentives?</title>
+    <description><![CDATA[Eligibility for partner incentives varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
     <articlelinks>
       <link>
-        <text>Watch the short video series to learn more</text>
-        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
+        <text>See how you can become eligible for partner incentives</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Create user accounts and assign permissions</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
+      </link>
+    </articlelinks></question></group><group title="Technical Services" refid="TechnicalServices"><question>
     <id>1400-000110</id>
     <title>Where can I find the top questions asked by partners during the presales and deployment phases of cloud and hybrid customer projects?</title>
     <description><![CDATA[Review the most commonly asked questions by partners during the presales and deployment phases of their customer projects—including competitive positioning, demos, configuration, technical licensing, migration and deployment, and app development. ]]></description>
@@ -983,24 +983,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Learn how to qualify for Partner Advisory Hours to access Deployment Services</text>
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
-    </articlelinks></question></group><group title="Training" refid="Training"><question>
-    <id>1200-000022</id>
-    <title>What are the top asked questions about Learning Paths?</title>
-    <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000107</id>
+    <title>Who is Microsoft Partner Technical Services and how can they help me win more deals, accelerate deployment and app development, and support my customers?    </title>
+    <description><![CDATA[From the point you start to invest in Microsoft – to when you begin selling and deploying – and all the way through when you have more complex deals in technologies, Microsoft Partner Technical Services is there to support you across the lifecycle. ]]></description>
     <articlelinks>
       <link>
-        <text>KB 2964426: Learning Paths – Top FAQ list</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
+        <text>Watch the short video series to learn more</text>
+        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
       </link>
-       <link>
-        <text>Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
-      </link>
-       <link>
-        <text>Partner University</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Training" refid="Training"><question>
     <id>1200-000089</id>
     <title>Where can I find information about competency related exams and readiness?</title>
     <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
@@ -1025,5 +1017,22 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
        <link>
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1200-000022</id>
+    <title>What are the top asked questions about Learning Paths?</title>
+    <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2964426: Learning Paths – Top FAQ list</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>Microsoft partner learning paths</text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>Partner University</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -32,7 +32,7 @@
         <text>İç Kullanım Hakları (IUR) avantajları ile işinizi canlandırın</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>İş Ortağı destek topluluğunu kullanmaya nasıl başlayabilirim?</title>
     <description><![CDATA[Uzmanlarla ve diğer iş ortakları ile buluşarak ücretsiz ürünler, yazılım geliştirme, satış öncesi ve Microsoft İş Ortağı Ağı üyelik hakkındaki sorularınıza cevap bulabilirsiniz.]]></description>
@@ -132,7 +132,7 @@
         <text>My Visual Studio Kaydı</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>Nasıl Teknik Destek/Ürün Desteği alabilirim?</title>
     <description><![CDATA[Aboneliğinize göre Teknik Destek/Ürün Desteği uygunluğu hakkında bilgi edinmek için Core Avantajları ve Gereksinimleri'ni ve MPN Teknik Avantajları Özeti'ni inceleyin.]]></description>
@@ -180,16 +180,16 @@
         <text>Müşteri desteği</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="Bulut Servisleri" refid="CloudServices"><question>
-    <id>200-000066</id>
-    <title>Müşterilerimi Office 365'e adapte olması için nasıl yönlendirebilirim?</title>
-    <description><![CDATA[Bu senaryoya girerek Office 365'I müşterilerinize nasıl sunabileceğinizi öğrenin. İş ortağı hesap bilgileri bu senaryoyu indirmek için gerekecektir]]></description>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Kimler uygun olarak kabul ediliyor ve nereden Birleşik Operasyonlar Dahili Kullanım Hakları (IUR) için Microsoft Dynamics 365 edinebilirim?</title>
+    <description><![CDATA[Bulut İş Uygulamaları Uzmanlığı için performans kriterlerini karşılayan ve halihazırda ERP uzmanlığı olan iş ortakları. Sık sorulan sorulara göz atmak ve bu IUR hakkında daha fazla bilgi edinmek için aşağıdaki makaleyi okuyun ]]></description>
     <articlelinks>
       <link>
-        <text>Bulut SureStep'e göz gezdirin</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+        <text>SSS - Birleşik Operasyonlar Dahili Kullanım Hakları (IUR) için Microsoft Dynamics 365</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Bulut Servisleri" refid="CloudServices"><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>Cloud Solution Provider (CSP) programı hakkında daha fazla bilgiye nereden ulaşabilirim?</title>
     <description><![CDATA[Bulut Çözümleri Sağlayıcı Programı yeni bir tekliftir ve şuan sadece seçilmiş Microsoft iş Ortaklarına tarafından sunulabilecektir. Eğer Şirketinizin bu alanda faaliyet gösterebileceğini düşünüyorsanız Microsoft İş Ortağı Müşteri temsilciniz ile iletişime geçiniz.]]></description>
@@ -206,7 +206,7 @@
         <text>İş Ortağı Merkezi'nde müşterilerle bağlantı kurma</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>Microsoft Online Services iş ortağıyız. İş Ortağı özelliklerimizi nasıl aktive edebiliriz?</title>
     <description><![CDATA[Online hizmetler avantajlarına nasıl ulaşacağınızı ve iş ortakları özelliklerini nasıl aktive edeceğinizi bu kaynakları kullanarak öğrenebilirsiniz.]]></description>
@@ -281,24 +281,16 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>Mevcut bir aboneliğe yeni lisans ve hizmetler ekleme</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question></group><group title="Eğitim" refid="Training"><question>
-    <id>1200-000056</id>
-    <title>Microsoft düşük maliyetli veya ücretsiz eğitim sağlamakta mı?</title>
-    <description><![CDATA[Her seviyede Microsoft İş Ortağı Ağında olan tüm organizasyonlar için eğitim mevcut bir avantajdır. MPN online ve şahsen düşük ve ücretsiz eğitimlere, kayıt ve katılım imkanı sağlar. Bu aynı zaman da Microsoft Bayi Paketi ve uzmanlıklar için gereksinimleri tamamlamak için de kullanılır.]]></description>
+    </articlelinks></question><question>
+    <id>200-000066</id>
+    <title>Müşterilerimi Office 365'e adapte olması için nasıl yönlendirebilirim?</title>
+    <description><![CDATA[Bu senaryoya girerek Office 365'I müşterilerinize nasıl sunabileceğinizi öğrenin. İş ortağı hesap bilgileri bu senaryoyu indirmek için gerekecektir]]></description>
     <articlelinks>
       <link>
-        <text>Satış öncesi teknik ve kurulum hizmetleri - Teknik Eğitim</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=1200-000056]]></url>
+        <text>Bulut SureStep'e göz gezdirin</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
-       <link>
-        <text>Microsoft iş ortağı öğrenme yolları</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000056]]></url>
-      </link>
-       <link>
-        <text>İş Ortakları Üniversitesi</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Eğitim" refid="Training"><question>
     <id>1200-000089</id>
     <title>Uzmanlıklar ile ilgili sınav bilgilerine ve hazırlık dokümanlarına nereden ulaşabilirim?</title>
     <description><![CDATA[Uzmanlık için sınav ve hazırlık için bilgilere ulaşmak için lütfen aşağıdaki Microsoft İş Ortağı öğrenme yolları sayfasını inceleyiniz.]]></description>
@@ -324,24 +316,24 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İş Ortakları Üniversitesi</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question></group><group title="İndirmeler ve Yazılımlar" refid="DownloadsSoftware"><question SortOrderOnHome="2">
-    <id>800-000036</id>
-    <title>Visual Studio Online aboneliğimi nasıl aktive edebilirim?</title>
-    <description><![CDATA[Visual Studio Online üyeliği ile uygulama geliştirmek ve uygulamalarınızı test etmek için ihtiyacınız olan, araçlar, platformlar ve hizmetleri alabilirsiniz. Aboneliğinizi aktive etmek için aşağıdaki makaleyi inceleyebilirsiniz.]]></description>
+    </articlelinks></question><question>
+    <id>1200-000056</id>
+    <title>Microsoft düşük maliyetli veya ücretsiz eğitim sağlamakta mı?</title>
+    <description><![CDATA[Her seviyede Microsoft İş Ortağı Ağında olan tüm organizasyonlar için eğitim mevcut bir avantajdır. MPN online ve şahsen düşük ve ücretsiz eğitimlere, kayıt ve katılım imkanı sağlar. Bu aynı zaman da Microsoft Bayi Paketi ve uzmanlıklar için gereksinimleri tamamlamak için de kullanılır.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft İş Ortağı Ağı (MPN) Visual Studio Abonelikleri</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
+        <text>Satış öncesi teknik ve kurulum hizmetleri - Teknik Eğitim</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=1200-000056]]></url>
       </link>
        <link>
-        <text>Visual Studio Online aboneliğini aktive et</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+        <text>Microsoft iş ortağı öğrenme yolları</text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000056]]></url>
       </link>
        <link>
-        <text>Visual Studio Online Abonelikleri</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+        <text>İş Ortakları Üniversitesi</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="İndirmeler ve Yazılımlar" refid="DownloadsSoftware"><question>
     <id>800-000032</id>
     <title>Microsoft İş Ortakları Ağı kapsamında Office 365 (E3) iç kullanım haklarına nasıl sahip olabilirim?</title>
     <description><![CDATA[Microsoft İş Ortağı Ağı Office 365 (E3) iç kullanım hakları avantajlarına göz atın.]]></description>
@@ -497,7 +489,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İç Kullanım Hakları bulut ve yazılım avantajları</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>Windows 10 yazılım ve ürün anahtarını nereden indirebilirim?</title>
     <description><![CDATA[Microsoft uzmanlığı veya Bayi Paketi aboneliği olan iş ortakları Windows 10 Kurumsal yazılım ve ürün anahtarına şirket içinde kullanmak amacıyla İş Ortağı Dijital Dağıtım Portalından erişebilirler. Geliştirmek, test etmek ve değerlendirmek amacıyla, iş ortakları Visual Studio Online üyeliği program avantajı kapsamında gelen yazılım ve anahtarlarını kullanabilirler. ( Bu Pro ve Ev sürümlerini içerir.) Sadece Visual Studio Online üyeliğine tanımlanmış son kullanıcılar içindir. 
@@ -519,24 +511,24 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Visual Studio Online indirme sitesi</text>
         <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
-    </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="PartnerIncentives"><question>
-    <id>400-000083</id>
-    <title>Banka ve Vergi bilgilerimi nasıl güncelleştirebilirim?</title>
-    <description><![CDATA[Banka ve vergi bilgilerinizi nasıl güncelleştirebileceğiniz konusunda bilgi edinmek için aşağıdaki makalelere göz atın]]></description>
+    </articlelinks></question><question SortOrderOnHome="2">
+    <id>800-000036</id>
+    <title>Visual Studio Online aboneliğimi nasıl aktive edebilirim?</title>
+    <description><![CDATA[Visual Studio Online üyeliği ile uygulama geliştirmek ve uygulamalarınızı test etmek için ihtiyacınız olan, araçlar, platformlar ve hizmetleri alabilirsiniz. Aboneliğinizi aktive etmek için aşağıdaki makaleyi inceleyebilirsiniz.]]></description>
     <articlelinks>
       <link>
-        <text>Azure Teşvikleri için banka bilgileri ekleme</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+        <text>Microsoft İş Ortağı Ağı (MPN) Visual Studio Abonelikleri</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
       </link>
        <link>
-        <text>Azure Çevrimiçi Teşvikler için vergi ve banka formlarını gönderme</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+        <text>Visual Studio Online aboneliğini aktive et</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
       </link>
        <link>
-        <text>Vergi Bilgilerimi Nereden Güncelleştirebilirim?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+        <text>Visual Studio Online Abonelikleri</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="PartnerIncentives"><question>
     <id>400-000002</id>
     <title>Microsoft Bulut Çözümleri satışı ve kurulumu için nasıl teşvik alabilirim?</title>
     <description><![CDATA[Online Hizmetler teşviklerinizi almaya nasıl başlayacağınız konusundaki kaynaklara erişin ve ödeme bilgileri veya ödeme işleriniz konusunda ne yapmanız konusunda sorularınız varsa.  ]]></description>
@@ -597,16 +589,24 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Yeni İş Ortağı Teşvikler sayfasını görüntüleyin</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
       </link>
-    </articlelinks></question></group><group title="Teknik Hizmetler" refid="TechnicalServices"><question>
-    <id>1400-000110</id>
-    <title>Satış öncesi ve dağıtım aşamalarında, bulut ve karma müşteri projeleri ile ilgili iş ortaklarının en çok sorduğu soruları nereden bulabilirim?</title>
-    <description><![CDATA[Rekabetçi konumlandırma, tanıtımlar, yapılandırma, teknik lisanslama, geçiş, dağıtım ve uygulama geliştirme gibi müşteri projelerine yönelik satış öncesinde ve dağıtım aşamalarında iş ortakları tarafından sık sorulan soruları inceleyin. ]]></description>
+    </articlelinks></question><question>
+    <id>400-000083</id>
+    <title>Banka ve Vergi bilgilerimi nasıl güncelleştirebilirim?</title>
+    <description><![CDATA[Banka ve vergi bilgilerinizi nasıl güncelleştirebileceğiniz konusunda bilgi edinmek için aşağıdaki makalelere göz atın]]></description>
     <articlelinks>
       <link>
-        <text>İş Ortaklarının En Çok Sorduğu Sorular</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>Azure Teşvikleri için banka bilgileri ekleme</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Azure Çevrimiçi Teşvikler için vergi ve banka formlarını gönderme</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>Vergi Bilgilerimi Nereden Güncelleştirebilirim?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+      </link>
+    </articlelinks></question></group><group title="Teknik Hizmetler" refid="TechnicalServices"><question>
     <id>1400-000109</id>
     <title>Office 365'teki uygulamalarımı planlama, oluşturma ve çalıştırmada bana yardımcı olabilecek teknik hizmetler nelerdir?</title>
     <description><![CDATA[MPN iş ortaklarının Office 365 uygulamanızı planlamasına, oluşturmasına ve çalıştırmasına yardımcı olmak için özel olarak tasarlanmış uygulama geliştirme hizmetleri paketinden yararlanın. Uygulama sertifikasına uzanan teknik yolculuğunuzu hızlandırmak için bire bir danışmanlık, teknik eğitim ve sohbet seçenekleri sayesinde Office 365 teknik uzmanlarına doğrudan erişin.]]></description>
@@ -685,20 +685,16 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Teknik destek web yayını için kaydolun</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="Üyelik" refid="Membership"><question>
-    <id>100-000077</id>
-    <title>Surface veya Surface Hub Microsoft Yetkili Cihaz Bayi (ADR) olabilme bilgilerini nereden bulabilirim?</title>
-    <description><![CDATA[Surface veya Surface Hub Microsoft Yetkili Cihaz Bayi olmak istiyorsanız, Microsoft Surface Yetkili Cihaz Distribütörü ile iletişime geçmelisiniz ve ADR program için güncellemeler almak için kayıt olmalısınız.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000110</id>
+    <title>Satış öncesi ve dağıtım aşamalarında, bulut ve karma müşteri projeleri ile ilgili iş ortaklarının en çok sorduğu soruları nereden bulabilirim?</title>
+    <description><![CDATA[Rekabetçi konumlandırma, tanıtımlar, yapılandırma, teknik lisanslama, geçiş, dağıtım ve uygulama geliştirme gibi müşteri projelerine yönelik satış öncesinde ve dağıtım aşamalarında iş ortakları tarafından sık sorulan soruları inceleyin. ]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Surface Yetkili Cihaz Distribütörü ile iletişime geçin</text>
-        <url><![CDATA[https://mspartner.microsoft.com/tr/tr/Pages/solutions/find-an-authorized-device- Distribütörü.aspx ?tpqid=100-000077]]></url>
+        <text>İş Ortaklarının En Çok Sorduğu Sorular</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-       <link>
-        <text>Microsoft Surface Hub ADR veya yükleyici olmak konusundaki güncellemeleri almak için kayıt olun</text>
-        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Üyelik" refid="Membership"><question>
     <id>100-000078</id>
     <title>MAPS ve Uzmanlık ücretinin son faturası nasıl yazdırılır/indirilir?</title>
     <description><![CDATA[Son faturaların nasıl yazdırılacağını öğrenmek için aşağıdaki makaleye göz atabilirsiniz]]></description>
@@ -854,7 +850,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Para iadesi talep etme</text>
         <url><![CDATA[?tpqid=100-000080]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>Şirketim Microsoft İş Ortağı ağına kayıt oldu. Bu profil bireysel hesabımı nasıl ilişkilendirebilirim?</title>
     <description><![CDATA[Microsoft hesabınız zaten varsa, Microsoft İş Ortağı Üyelik Merkezindeki Bireysel olarak İlişkilendirin sayfasından formu doldurarak kayıt olabilirsiniz. Eğer Microsoft hesabınız yoksa öncesinde bir tane oluşturmanız gerekir.]]></description>
@@ -1013,5 +1009,18 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text>Eylem paketimi nasıl yenilerim?</text>
         <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000077</id>
+    <title>Surface veya Surface Hub Microsoft Yetkili Cihaz Bayi (ADR) olabilme bilgilerini nereden bulabilirim?</title>
+    <description><![CDATA[Surface veya Surface Hub Microsoft Yetkili Cihaz Bayi olmak istiyorsanız, Microsoft Surface Yetkili Cihaz Distribütörü ile iletişime geçmelisiniz ve ADR program için güncellemeler almak için kayıt olmalısınız.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Surface Yetkili Cihaz Distribütörü ile iletişime geçin</text>
+        <url><![CDATA[https://mspartner.microsoft.com/tr/tr/Pages/solutions/find-an-authorized-device- Distribütörü.aspx ?tpqid=100-000077]]></url>
+      </link>
+       <link>
+        <text>Microsoft Surface Hub ADR veya yükleyici olmak konusundaki güncellemeleri almak için kayıt olun</text>
+        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -118,7 +118,7 @@
         <text>Sacar el máximo provecho de su suscripción a MAP</text>
         <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>¿Dónde puedo descargar Windows 10 y las claves?</title>
     <description><![CDATA[Partners con una competencia de Microsoft o una suscripción de Action Pack pueden acceder a Windows 10 Entreprise y a la clave para uso interno a través del Portal de Distribución Digital. Los Partners pueden acceder a la suscripción de Visual Studio Online para obtener software y claves con fines de desarrollo, test y evaluación. ( Éstas incluyen ediciones Pro y Home). El acceso está limitado a los usuarios asignados a la suscripción de Visual Studio Online. 
@@ -385,7 +385,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Verbinden und Abtrennen einer MCP-ID zu oder von einer Partnerorganisation</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>Mi empresa no está inscrito en el Microsoft Partner Network. ¿Cómo doy de alta a mi empresa?</title>
     <description><![CDATA[Si usted tiene una cuenta de Microsoft, inicie sesión en la página de Microsoft Partner Network y vaya a “Dar de alta a mi organización” para comenzar. Si usted no tiene una cuenta de Microsoft, tendrá que crear una.]]></description>
@@ -663,7 +663,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Guía de distintivos de vendedor para partners de MPN</text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>¿Cómo puedo obtener soporte técnico o de producto?</title>
     <description><![CDATA[Revise los beneficios principales y requisitos, así como el resumen sobre los beneficios técnicos de MPN para obtener información sobre la elegibilidad de soporte técnico o de producto en función de su suscripción.]]></description>
@@ -809,7 +809,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Atención al cliente</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>¿Cómo puedo empezar a usar la Comunidad de soporte para partners?</title>
     <description><![CDATA[Conéctese sin costo alguno con expertos y otros partners para obtener respuestas a sus preguntas sobre productos, desarrolladores, preventas y membresía de Microsoft Partner Network.]]></description>
@@ -823,24 +823,16 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
 &tpqid=300-000013]]></url>
       </link>
-    </articlelinks></question></group><group title="Servicios en la nube" refid="CloudServices"><question>
-    <id>200-000068</id>
-    <title>¿Cómo puede mi empresa crear demos de Office 365?</title>
-    <description><![CDATA[El portal de demostración de Microsoft Office le permite configurar entornos de demostración y materiales de guía de demostración de acceso para productos de Office sin necesidad de una instalación local completo. El entorno de demostración de Microsoft Office consiste en un domino de Office 365 personalizado con contenidos-demo listos. Una vez que su domino de Office 365 esté configurado, usted puede entregar demostraciones efectivas que cubren toda la gama de productos de Office, como Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, y más.]]></description>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>¿Quién tiene derecho a recibir Microsoft Dynamics 365 para el beneficio Derechos de uno interno (IUR) de operaciones unificadas y dónde se obtiene?</title>
+    <description><![CDATA[Los partners que cumplen los criterios de rendimiento para la competencia Aplicaciones empresariales en la nube y que tienen actualmente la competencia ERP. Lea el artículo abajo para ver las preguntas frecuentes y para obtener más información sobre este IUR. ]]></description>
     <articlelinks>
       <link>
-        <text>Portal de demostración de Microsoft Office</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+        <text>P+F: Microsoft Dynamics 365 para el beneficio Derechos de uno interno (IUR) de operaciones unificadas</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
-       <link>
-        <text>Inquilinos de demostración para Microsoft Office 365, Project Online y Power BI</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Recorrido inicial por Microsoft Office 365</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Servicios en la nube" refid="CloudServices"><question>
     <id>200-000085</id>
     <title>¿Cuál es el panel de servicios en la nube para Partners?</title>
     <description><![CDATA[El panel de servicios de la nube de partners provee a los revendedores y distribuidores un seguimiento detallado del estado de las suscripciones de sus clientes sobre Microsoft Office 365, Microsoft Intune y Microsoft Dynamics CRM Online.
@@ -858,7 +850,7 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Guía de uso del panel de servicios en la nube</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>¿ Dónde puedo encontrar información sobre el programa Proveedor de Soluciones Cloud ( CSP )?</title>
     <description><![CDATA[El programa de Proveedores de Soluciones Cloud es una nueva opción que en estos momentos sólo está disponible para un selecto grupo de Partners de Microsoft. Si usted cree que su empresa cumple las condiciones de este programa, consulte con administrador de su cuenta de Partner.]]></description>
@@ -875,7 +867,7 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Conectarse con los clientes en el Centro de partners</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>Somos un socio de Servicios en Línea de Microsoft. ¿Cómo podemos activar las características de Partner?</title>
     <description><![CDATA[Utilice estos recursos para aprender cómo acceder a sus beneficios de servicios en línea y activar sus características de socio:]]></description>
@@ -925,16 +917,24 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Agregar licencias o servicios a una suscripción existente</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question></group><group title="Servicios técnicos" refid="TechnicalServices"><question>
-    <id>1400-000107</id>
-    <title>¿Qué son los Servicios técnicos de Microsoft Partner y cómo pueden ayudarme a ganar más ofertas, acelerar la implementación y el desarrollo de aplicaciones, así como ofrecer soporte técnico a mis clientes?</title>
-    <description><![CDATA[Desde el momento en que comienza a invertir en Microsoft y el momento de comenzar a vender e implementar, hasta llegar a ofertas más más complejas en las tecnologías, los Servicios técnicos de Microsoft Partner están ahí para apoyarle durante todo el ciclo de vida.]]></description>
+    </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>¿Cómo puede mi empresa crear demos de Office 365?</title>
+    <description><![CDATA[El portal de demostración de Microsoft Office le permite configurar entornos de demostración y materiales de guía de demostración de acceso para productos de Office sin necesidad de una instalación local completo. El entorno de demostración de Microsoft Office consiste en un domino de Office 365 personalizado con contenidos-demo listos. Una vez que su domino de Office 365 esté configurado, usted puede entregar demostraciones efectivas que cubren toda la gama de productos de Office, como Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, y más.]]></description>
     <articlelinks>
       <link>
-        <text>Vea el video para aprender más</text>
-        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
+        <text>Portal de demostración de Microsoft Office</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Inquilinos de demostración para Microsoft Office 365, Project Online y Power BI</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Recorrido inicial por Microsoft Office 365</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question></group><group title="Servicios técnicos" refid="TechnicalServices"><question>
     <id>1400-000110</id>
     <title>¿Dónde se encuentran las preguntas principales que hacen los partners durante las fases de preventa e implementación de los proyectos de cliente sobre la nube y soluciones híbridas?</title>
     <description><![CDATA[Consulte las preguntas más frecuentes que hacen los partners durante las fases de preventas e implementación de sus proyectos de cliente, como por ejemplo, posición competitiva, demostraciones, configuración, licencias técnicas, migración e implementación, y desarrollo de aplicaciones. ]]></description>
@@ -1012,5 +1012,14 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
        <link>
         <text>Vea cómo reunir los requisitos para recibir horas de asesoramiento de asociado para acceder a los servicios de implementación</text>
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000107</id>
+    <title>¿Qué son los Servicios técnicos de Microsoft Partner y cómo pueden ayudarme a ganar más ofertas, acelerar la implementación y el desarrollo de aplicaciones, así como ofrecer soporte técnico a mis clientes?</title>
+    <description><![CDATA[Desde el momento en que comienza a invertir en Microsoft y el momento de comenzar a vender e implementar, hasta llegar a ofertas más más complejas en las tecnologías, los Servicios técnicos de Microsoft Partner están ahí para apoyarle durante todo el ciclo de vida.]]></description>
+    <articlelinks>
+      <link>
+        <text>Vea el video para aprender más</text>
+        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="クラウド サービス" refid="CloudServices"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="クラウド サービス" refid="CloudServices"><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>マイクロソフト オンライン サービス パートナーです。パートナー機能を有効にするにはどうすればよいでしょう？</title>
     <description><![CDATA[オンライン サービス特典にアクセスしてパートナー機能を有効にするには、こちらのリソースをご確認ください。]]></description>
@@ -30,7 +30,7 @@
         <text>クラウド サービス ダッシュボード ユーザー ガイド</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>クラウド ソリューション プロバイダー (CSP) プログラムに関する情報はどこで見つけることができますか?</title>
     <description><![CDATA[クラウド ソリューション プロバイダー プログラムは、新しいサービスであり、現時点では選ばれた Microsoft パートナーのグループのみが利用できます。貴社に適していると思われる場合は、マイクロソフト パートナー アカウント担当者にお問い合わせください。]]></description>
@@ -297,7 +297,7 @@
         <text>パートナー メンバーシップ フォーラムプライベート投稿について </text>
         <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>Windows 10 ソフトウェアと製品キーはどこでダウンロードしますか？</title>
     <description><![CDATA[マイクロソフト コンピテンシー、もしくはアクション パックご購入のパートナー様は、パートナー デジタル ダウンロード ポータルから社内使用ライセンスの Windows 10 Enterprise のソフトウェアや製品キーを入手できます。同時に、開発、テスト、評価目的として、パートナー特典のVisual Studio Online サブスクリプションからもソフトウェアやキーの入手が可能です。(これには Pro と Home エディションが含まれます。) Visual Studio Online サブスクリプションへのアクセスは、権限が割り当てられた社員のみに制限されます。
@@ -719,7 +719,7 @@ http://aka.ms/TechnicalServices]]></description>
         <text>払い戻しを依頼する</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017804?tpqid=100-000080]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>当社はマイクロソフト パートナー ネットワークに登録しています。　パートナーアカウントに社員を関連付けするには、どうすればよいでしょう？</title>
     <description><![CDATA[既にマイクロソフト アカウントがある場合、パートナー メンバーシップ センターにサインインして、登録社員のページから関連付けを行います。マイクロソフト アカウントがない場合は事前にアカウントを作成する必要があります。]]></description>
@@ -1008,7 +1008,7 @@ http://aka.ms/TechnicalServices]]></description>
         <text>MPN パートナー セラー バッジ ガイド</text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?</title>
     <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
@@ -1145,7 +1145,7 @@ http://aka.ms/TechnicalServices]]></description>
         <text>この特典の利用資格と詳細情報を確認するには</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>パートナー サポート コミュニティはどのように使用することができますか？</title>
     <description><![CDATA[専門家や他のパートナーに無料で連絡を取り、製品、デベロッパー、プリセール、および Microsoft Partner Network のメンバーシップに関する質問の答えを得ることができます。]]></description>
@@ -1206,5 +1206,14 @@ http://aka.ms/TechnicalServices]]></description>
        <link>
         <text>お持ちの時間数がわからない場合は、こちらでパートナー ビジネス支援サービスの利用可能な相談時間をご確認ください。</text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Microsoft Dynamics 365 for Unified Operations の内部使用権 (IUR) を取得できる対象ユーザーと取得できる場所</title>
+    <description><![CDATA[クラウド ビジネス アプリケーション コンピテンシーのパフォーマンス条件を満たし、現在 ERP コンピテンシーを持っているパートナーが対象です。この IUR についてよく寄せられる質問と詳細については、以下の記事を参照してください ]]></description>
+    <articlelinks>
+      <link>
+        <text>FAQ - Microsoft Dynamics 365 for Unified Operations の内部使用権 (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

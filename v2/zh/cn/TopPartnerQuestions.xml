@@ -15,7 +15,7 @@
         <text>如何充分利用 MAP 订阅</text>
         <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>在哪里可以下载Windows 10 的软件和密钥？</title>
     <description><![CDATA[拥有能力认证或行动宝盒的微软合作伙伴，可以从Partner Digital Distribution门户访问仅限内部使用的Windows 10 Enterprise 软件以及产品密钥。针对开发、测试以及评估的用途，合作伙伴可以通过被委派的权限来访问 Visual Studio Online订阅里的软件和密钥。（包含 Pro 和 Home版本）。被指派的最终用户访问Visual Studio Online订阅是有限的。
@@ -205,7 +205,7 @@
         <text>云服务仪表板用户指南</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>在哪里可以找到有关云解决方案提供商（CSP）的信息？</title>
     <description><![CDATA[云解决方案提供商是一个新的产品，在现阶段仅适用于部分被选择的合作伙伴。如果您认为贵公司很适合，请联络您的微软合作伙伴账户代表。]]></description>
@@ -231,7 +231,7 @@
         <text>Cloud SureStep 概述</text>
         <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>我们是微软的在线服务合作伙伴，如何激活我们的合作伙伴功能？</title>
     <description><![CDATA[使用这些资源学习如何访问您的在线服务权益以及激活合作伙伴功能：]]></description>
@@ -477,7 +477,7 @@
         <text>微软合作伙伴网络概览</text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>我公司已经注册了微软合作伙伴网络。如何与个人进行关联？</title>
     <description><![CDATA[如果您有微软账户，登录合作伙伴成员中心的个人关联页面并按要求填写所需信息。如果您没有微软账户，您需要先创建一个。]]></description>
@@ -872,7 +872,7 @@
         <text>MPN 合作伙伴卖家徽章指南</text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>如何获得技术/产品支持资格？</title>
     <description><![CDATA[查看核心权益和要求以及 MPN 技术权益摘要，了解有关基于你的订阅的技术/产品支持资格的信息。]]></description>
@@ -1001,7 +1001,7 @@
         <text>验证你是否有资格获得此优惠并了解更多信息</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>我如何开始使用合作伙伴支持社区？</title>
     <description><![CDATA[免费与专家和其他合作伙伴联系，解答您的产品、开发人员、售前和 Microsoft Partner Network 成员问题。]]></description>
@@ -1014,5 +1014,14 @@
         <text>合作伙伴支持社区</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
 &tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>哪些人有资格获得 Microsoft Dynamics 365 for Unified Operations 内部使用权 (IUR)？可以在哪里获得？</title>
+    <description><![CDATA[符合云企业应用程序能力的性能标准且目前拥有 ERP 能力的合作伙伴。请阅读下面的文章，以查看常见问题解答，并了解有关此 IUR 的更多信息。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>常见问题解答 - Microsoft Dynamics 365 for Unified Operations 内部使用权 (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

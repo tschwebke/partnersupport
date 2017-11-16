@@ -122,7 +122,7 @@
         <text>MAP 구독을 최대한 활용하는 방법</text>
         <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>Windows 10 소프트웨어와 제품 키는 어디에서 다운로드할 수 있습니까?</title>
     <description><![CDATA[Microsoft 역량이나 Action Pack 구독을 보유한 파트너는 파트너 디지털 배포 포탈에서 Windows 10 Enterprise 소프트웨어와 제품 키를 다운로드할 수 있습니다. 개발, 테스트, 그리고 평가용으로 프로그램 혜택이 (프로와 홈 에디션에 포함) 부여된 MSDN 구독과 함께 소프트웨어와 키를 사용할 수 있습니다. MSDN 구독에 지정된 최종 사용자에게만 액세스 권한이 제한됩니다.
@@ -288,7 +288,7 @@
         <text>핵심 혜택과 요구조건</text>
         <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>회사는 MPN (Microsoft Partner Network)에 등록되어 있으며 프로필로 담당자를 연동하는 방법을 알고자 합니다.</title>
     <description><![CDATA[Microsoft 계정이 있다면 파트너 멤버십 센터의 개인 페이지 Associate로 로그인하여 액세스합니다. 그리고 해당 양식을 기입하고 만약 Microsoft 계정이 없을 경우, 계정을 먼저 생성해야 합니다. ]]></description>
@@ -578,7 +578,7 @@
         <text>Microsoft Office 365에 대한 시그니처 클라우드 지원 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>CSP (Cloud Solution Provider) 프로그램 관련 정보는 어디에서 확인할 수 있습니까?</title>
     <description><![CDATA[CSP (Cloud Solution Provider) 프로그램은 파트너를 위한 신규 제공 사항으로 마이크로소프트 파트너 그룹 전용 프로그램입니다. 귀사가 본 프로그램에 적합하다고 생각하실 경우, 귀하의 마이크로소프트 파트너 계정 담당자와 협의하실 수 있습니다.]]></description>
@@ -595,7 +595,7 @@
         <text>파트너 센터에서 고객과 소통</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>저희는 Microsoft Online Service 파트너입니다. 파트너 기능은 어떠한 방법으로 활성활 수 있습니까?</title>
     <description><![CDATA[온라인 서비스 혜택에 액새스하는 방법과 파트너 기능의 활성화 방법은 다음 리소스를 통해 확인하실 수 있습니다.]]></description>
@@ -871,7 +871,7 @@
         <text>MPN 파트너 판매자 배지 가이드</text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>기술/제품 지원 자격을 얻으려면 어떻게 해야 하나요?</title>
     <description><![CDATA[핵심 혜택 및 요구 사항과 MPN 기술 혜택 요약을 검토하여 사용 중인 구독에 따라 얻을 수 있는 기술/제품 지원 자격에 대해 자세히 확인하세요.]]></description>
@@ -1000,7 +1000,7 @@
         <text>이 혜택을 누리고 자세한 정보를 알아볼 자격이 있는지 확인하려면</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>파트너 지원 커뮤니티의 사용을 어떻게 시작합니까?</title>
     <description><![CDATA[전문가 및 다른 파트너와 무료로 연계하여 제품, 개발자, 판매 전, Microsoft Partner Network 회원자격에 대한 질문에 대한 답변을 받으실 수 있습니다.]]></description>
@@ -1012,5 +1012,14 @@
        <link>
         <text>Partner support community</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Microsoft Dynamics 365 for Unified Operations IUR(내부 사용권)의 획득 자격은 어떻게 되며 어디서 얻을 수 있나요?</title>
+    <description><![CDATA[클라우드 비즈니스 응용 프로그램 역량에 대한 성능 기준을 충족하고 현재 ERP 역량을 보유한 파트너가 이러한 자격에 해당됩니다. 아래 문서에서 자주 묻는 질문을 확인하고 이 IUR에 대해 자세히 알아보세요. ]]></description>
+    <articlelinks>
+      <link>
+        <text>FAQ - Microsoft Dynamics 365 for Unified Operations IUR(내부 사용권)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

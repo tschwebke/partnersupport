@@ -37,7 +37,7 @@
         <text>Visão geral do Microsoft Partner Network</text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>A minha empresa não está inscrita no Microsoft Partner Network. Como posso proceder ao registo da minha empresa?</title>
     <description><![CDATA[Se já é detentor de uma Microsoft Account, inicie uma sessão na página “Inscreva a sua  Organização no Microsoft Partner Network” e complete todos os passos necessários. Caso ainda não tenha criado uma Microsoft Account, terá que proceder primeiro a esse passo.]]></description>
@@ -466,7 +466,7 @@
         <text>Benefícios e requisitos principais</text>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>Onde posso descarregar o Windows 10 e encontrar a chave de produto?</title>
     <description><![CDATA[Os parceiros com uma competência Microsoft ou subscritores do Action Pack, podem descarregar o Windows 10 Enterprise e encontrar a correspondente chave de produto para uso interno, no Portal de Distribuição Digital. 
@@ -663,7 +663,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Suporte à Assinatura na Nuvem para o Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>Eu sou um parceiro dos Online Services. Como posso ativar as funcionalidades de parceiro?</title>
     <description><![CDATA[Use os seguintes recursos para aceder aos seus benefícios na nuvem e ativar as funcionalidades de parceiro:]]></description>
@@ -702,7 +702,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Visão geral do Cloud SureStep</text>
         <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>Onde posso encontrar informação sobre o programa Cloud Solution Provider (CSP)?</title>
     <description><![CDATA[Este é um novo programa, que neste momento apenas está disponível para um grupo de Parceiros selecionados. Caso seja da opinião que a sua empresa encaixa completamente neste programa, por favor contacte o seu gerente de Conta da Microsoft.]]></description>
@@ -876,7 +876,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Guia de Selo de Vendedor Parceiro do MPN</text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>Como me qualifico para suporte técnico/de produto?</title>
     <description><![CDATA[Consulte os Principais benefícios e requisitos e o Resumo de benefícios técnicos do MPN para obter informações sobre a qualificação para suporte técnico/de produto com base na sua assinatura.]]></description>
@@ -1005,7 +1005,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>Como faço para começar a usar a comunidade de suporte ao parceiro?</title>
     <description><![CDATA[Conecte-se com especialistas e outros parceiros gratuitamente para obter respostas a suas questões sobre produtos, desenvolvedores, pré-vendas e associação à Microsoft Partner Network.]]></description>
@@ -1018,5 +1018,14 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner support community</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
 &tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Quem está qualificado e onde posso obter IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas?</title>
+    <description><![CDATA[Parceiros que cumprem os critérios de desempenho da Competência Cloud Business Applications e têm atualmente a competência ERP. Leia o artigo abaixo para ver as perguntas frequentes e saber mais sobre estes IUR ]]></description>
+    <articlelinks>
+      <link>
+        <text>Perguntas frequentes ‒ IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

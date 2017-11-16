@@ -37,7 +37,7 @@
         <text>Panoramica di Microsoft Partner Network</text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>La mia organizzazione non è iscritta al Microsoft Partner Network. Come registro la mia azienda?</title>
     <description><![CDATA[Se si è già in possesso di un Microsoft account, per cominciare accedere alla pagina Iscrivi la mia Organizzazione al Microsoft Partner Network. Se non si è in possesso di un Microsoft account è necessario crearne uno prima ]]></description>
@@ -444,7 +444,7 @@
         <text>Visualizza la nuova pagina relativa agli incentivi per i partner</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
       </link>
-    </articlelinks></question></group><group title="Servizi cloud" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Servizi cloud" refid="CloudServices"><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>Dove posso trovare informazioni sul programma Cloud Solution Provider (CSP)?</title>
     <description><![CDATA[Il programma Cloud Solution Provider è una nuova offerta, ed in questo momento è disponibile solo ad un selezionato gruppo di Microsoft partners. Se ritieni che la tua società sia idonea, rivolgiti al tuo rappresentante Microsoft partner account. ]]></description>
@@ -478,7 +478,7 @@
         <text>Signature Cloud Support per Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
     <title>Siamo Microsoft Online Services Partner. Come possiamo attivare le funzionalità per i partner?</title>
     <description><![CDATA[Usa queste risorse per apprendere come accedere ai tuoi benefici online services ed attivare le funzionalità partner:]]></description>
@@ -651,7 +651,7 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>Dove posso scaricare il software Windows 10 e trovare la chiave prodotto?</title>
     <description><![CDATA[I Partner con una competenza Microsoft oppure un abbonamento Action Pack possono accedere al software Windows 10 Enterprise e chiave prodotto per uso interno dal Portale Partner Digital Distribution. A fini di sviluppo, test e valutazione, i partner possono accedere al software e chiave tramite l’abbonamento Visual Studio Online che è loro concesso come beneficio del programma.  (Questo include le edizioni Pro e Home). L’accesso è limitato agli utenti finali cui è assegnata la sottoscrizione Visual Studio Online.
@@ -875,7 +875,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Guida all'utilizzo del logo per rivenditori partner MPN</text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>Come posso ottenere la qualifica per il supporto tecnico/di prodotto?</title>
     <description><![CDATA[Per informazioni sull'idoneità al supporto tecnico o di prodotto in base alla sottoscrizione, esamina i vantaggi e i requisiti di base, oltre al riepilogo dei vantaggi tecnici MPN.]]></description>
@@ -1004,7 +1004,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Informazioni utili per verificare l'idoneità a questo vantaggio e per approfondire l'argomento</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>Come inizio a usare la community di supporto per i partner?</title>
     <description><![CDATA[In questa community potrai parlare gratuitamente con esperti e altri partner per ottenere risposte a domande concernenti prodotti, sviluppatori, prevendite e adesione al Microsoft Partner Network.]]></description>
@@ -1017,5 +1017,14 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Partner support community</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
 &tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Quali partner sono qualificati e come posso ottenere i diritti di utilizzo interno (IUR) per Microsoft Dynamics 365 for Unified Operations?</title>
+    <description><![CDATA[Per essere idonei i partner devono soddisfare i criteri di prestazioni per la competenza Cloud Business Applications e attualmente disporre della competenza ERP. Leggi l'articolo di seguito con le domande frequenti e ulteriori informazioni sui diritti di utilizzo interno per questo prodotto. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Domande frequenti - Diritti di utilizzo interno (IUR) per Microsoft Dynamics 365 for Unified Operations</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

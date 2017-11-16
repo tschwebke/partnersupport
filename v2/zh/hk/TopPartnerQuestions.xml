@@ -15,7 +15,7 @@
         <text>如何善加利用您的 MAP 訂用帳戶</text>
         <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>800-000090</id>
     <title>在哪裡可以下載Windows 10 的軟體和金鑰？</title>
     <description><![CDATA[擁有能力認證或行動寶盒的微軟合作夥伴，可以從Partner Digital Distribution門戶訪問僅限內部使用的Windows 10 Enterprise 軟體以及產品金鑰。針對開發、測試以及評估的用途，合作夥伴可以通過被委派的許可權來訪問 Visual Studio Online訂閱裡的軟體和金鑰。（包含 Pro 和 Home版本）。被指派的最終用戶訪問Visual Studio Online訂閱是有限的。
@@ -285,7 +285,7 @@
         <text>我的 Visual Studio 註冊 (機器翻譯)</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000013</id>
     <title>如何開始使用合作夥伴支援社群？</title>
     <description><![CDATA[免費與專家和其他合作夥伴交流聯繫，獲得有關您的產品、開發人員、售前和 Microsoft Partner Network 會員問題的解答。]]></description>
@@ -299,7 +299,7 @@
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
 &tpqid=300-000013]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>如何獲得技術/產品支援的權益？</title>
     <description><![CDATA[檢閱＜核心權益與需求＞和＜MPN 技術權益摘要＞，取得以您的訂閱為主的技術/產品支援資格相關資訊。]]></description>
@@ -381,20 +381,16 @@
         <text>客戶支援</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="合作夥伴獎勵" refid="PartnerIncentives"><question>
-    <id>400-000079</id>
-    <title>哪裡可以找到合作夥伴獎勵的詳細資訊？</title>
-    <description><![CDATA[從 2015 年 7 月 1 日開始，所有合作夥伴獎勵方案的相關資訊都可在 Microsoft 合作夥伴網路上找到！符合獎勵方案資格的合作夥伴可在 aka.ms/partnerincentives 看到所有該方案的適用資料。即使尚未獲得必要的專長認證，合作夥伴也能看到大部分雲端獎勵的詳細資料。]]></description>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>誰符合資格？還有我可以在哪裡取得 Microsoft Dynamics 365 for Unified Operations 內部使用權 (IUR)？</title>
+    <description><![CDATA[符合雲端商務應用程式專長認證的效能準則且目前擁有 ERP 專長認證的合作夥伴。請閱讀下列文章，查看常見問題並深入了解此 IUR ]]></description>
     <articlelinks>
       <link>
-        <text>檢視新的合作夥伴獎勵頁面</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+        <text>常見問題集 - Microsoft Dynamics 365 for Unified Operations 內部使用權 (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
-       <link>
-        <text>了解您的獎勵支出</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="合作夥伴獎勵" refid="PartnerIncentives"><question>
     <id>400-000082</id>
     <title>如何有資格賺取合作夥伴的獎勵？</title>
     <description><![CDATA[合作夥伴的獎勵資格取決於項目。有些項目要看微軟合作夥伴能力級別。有些取決於合作夥伴的業績以及微軟授權的狀態。不是所有合作夥伴都有資格獲取獎勵。]]></description>
@@ -459,16 +455,20 @@
         <text>用於銷售和部署 Microsoft 雲端解決方案的獎勵計劃</text>
         <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="技術服務" refid="TechnicalServices"><question>
-    <id>1400-000104</id>
-    <title>我可以在何處找到相關技術訓練，以處理 Azure、Office 365、Dynamics CRM Online、Windows 10 和 Enterprise Mobility Suite 技術性的售前和部署案例？</title>
-    <description><![CDATA[請造訪 http://aka.ms/TechnicalServices 尋找技術訓練，以打造您的售前與部署技術技能集。MPN 合作夥伴可免費使用這些訓練。]]></description>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>哪裡可以找到合作夥伴獎勵的詳細資訊？</title>
+    <description><![CDATA[從 2015 年 7 月 1 日開始，所有合作夥伴獎勵方案的相關資訊都可在 Microsoft 合作夥伴網路上找到！符合獎勵方案資格的合作夥伴可在 aka.ms/partnerincentives 看到所有該方案的適用資料。即使尚未獲得必要的專長認證，合作夥伴也能看到大部分雲端獎勵的詳細資料。]]></description>
     <articlelinks>
       <link>
-        <text>註冊技術訓練的網路廣播</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+        <text>檢視新的合作夥伴獎勵頁面</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>了解您的獎勵支出</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question></group><group title="技術服務" refid="TechnicalServices"><question>
     <id>1400-000110</id>
     <title>我可以在哪裡取得合作夥伴在雲端及混合式客戶專案的售前和部署階段最常問的問題？</title>
     <description><![CDATA[檢閱合作夥伴在客戶專案的售前和部署階段最常問的問題，其中包括競爭定位、示範、組態、技術授權、移轉和部署，以及應用程式開發。 ]]></description>
@@ -547,20 +547,16 @@
         <text>了解如何獲得夥伴諮詢時間的權益，以使用部署服務</text>
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
-    </articlelinks></question></group><group title="會員資格" refid="Membership"><question>
-    <id>100-000054</id>
-    <title>如何成為Online Services Advisor（線上服務顧問）? </title>
-    <description><![CDATA[Microsoft Online Services Advisor（微軟線上服務顧問） 專案是通過一次或者多次獎勵合作夥伴銷售微軟線上服務產品，以及管理與客戶的關係，以此幫助您開發穩定的年度業務。訪問此頁面瞭解更多計畫資訊以及如何開始：]]></description>
+    </articlelinks></question><question>
+    <id>1400-000104</id>
+    <title>我可以在何處找到相關技術訓練，以處理 Azure、Office 365、Dynamics CRM Online、Windows 10 和 Enterprise Mobility Suite 技術性的售前和部署案例？</title>
+    <description><![CDATA[請造訪 http://aka.ms/TechnicalServices 尋找技術訓練，以打造您的售前與部署技術技能集。MPN 合作夥伴可免費使用這些訓練。]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Online Services Advisor 項目</text>
-        <url><![CDATA[http://aka.ms/advisorprogram?tpqid=100-000054]]></url>
+        <text>註冊技術訓練的網路廣播</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
       </link>
-       <link>
-        <text>合作夥伴數位化記錄概覽</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="會員資格" refid="Membership"><question>
     <id>100-000083</id>
     <title>更新行動套件需要多少費用？</title>
     <description><![CDATA[請使用下方的實用連結，取得行動套件的最新價目表]]></description>
@@ -727,7 +723,7 @@
         <text>要求退款</text>
         <url><![CDATA[?tpqid=100-000080]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>我公司已經註冊了微軟合作夥伴網路。如何與個人進行關聯？</title>
     <description><![CDATA[如果您有微軟帳戶，登錄合作夥伴成員中心的個人關聯頁面並按要求填寫所需資訊，您需要在開始之前創建一個。]]></description>
@@ -883,16 +879,20 @@
         <text>在 Azure Active Directory 新增自訂網域名稱</text>
         <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="訓練" refid="Training"><question>
-    <id>1200-000089</id>
-    <title>在哪裡可以找到有關能力考試和準備的資訊？</title>
-    <description><![CDATA[有關能力考試和準備的相關資訊，請訪問以下Microsoft合作夥伴學習途徑的頁面。 ]]></description>
+    </articlelinks></question><question>
+    <id>100-000054</id>
+    <title>如何成為Online Services Advisor（線上服務顧問）? </title>
+    <description><![CDATA[Microsoft Online Services Advisor（微軟線上服務顧問） 專案是通過一次或者多次獎勵合作夥伴銷售微軟線上服務產品，以及管理與客戶的關係，以此幫助您開發穩定的年度業務。訪問此頁面瞭解更多計畫資訊以及如何開始：]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft 合作夥伴學習途徑 </text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <text>Microsoft Online Services Advisor 項目</text>
+        <url><![CDATA[http://aka.ms/advisorprogram?tpqid=100-000054]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>合作夥伴數位化記錄概覽</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
+      </link>
+    </articlelinks></question></group><group title="訓練" refid="Training"><question>
     <id>1200-000022</id>
     <title>有關學習途徑的常見問題？</title>
     <description><![CDATA[學習途徑可以幫您獲取培訓或者認證。學習途徑標注了與您公司、組織相關的途徑。學習途徑 FAQ 解答了有關學習途徑的常見問題。]]></description>
@@ -926,20 +926,16 @@
         <text>合作夥伴學院 </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question>
-    <id>200-000026</id>
-    <title>我們是微軟的線上服務合作夥伴，如何啟動我們的合作夥伴功能？</title>
-    <description><![CDATA[使用這些資源學習如何訪問您的線上服務權益以及啟動合作夥伴功能：]]></description>
+    </articlelinks></question><question>
+    <id>1200-000089</id>
+    <title>在哪裡可以找到有關能力考試和準備的資訊？</title>
+    <description><![CDATA[有關能力考試和準備的相關資訊，請訪問以下Microsoft合作夥伴學習途徑的頁面。 ]]></description>
     <articlelinks>
       <link>
-        <text>軟體以及線上服務權益頁面</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
+        <text>Microsoft 合作夥伴學習途徑 </text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-       <link>
-        <text>如何啟用合作夥伴功能</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question>
     <id>200-000029</id>
     <title>我要如何送出簽章雲端支援事件？</title>
     <description><![CDATA[取得簽章雲端支援利益的概觀，包含如何送出簽章雲端支援事件。]]></description>
@@ -1000,7 +996,7 @@
         <text>雲端服務儀表板使用者指南</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>在哪裡可以找到有關雲解決方案提供商（CSP）的資訊？</title>
     <description><![CDATA[雲解決方案提供商是一個新的產品，在現階段僅適用於部分被選擇的合作夥伴。如果您認為貴公司很適合，請聯絡您的微軟合作夥伴帳戶代表。]]></description>
@@ -1025,5 +1021,18 @@
       <link>
         <text>在現有訂閱中新增授權或服務</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="4">
+    <id>200-000026</id>
+    <title>我們是微軟的線上服務合作夥伴，如何啟動我們的合作夥伴功能？</title>
+    <description><![CDATA[使用這些資源學習如何訪問您的線上服務權益以及啟動合作夥伴功能：]]></description>
+    <articlelinks>
+      <link>
+        <text>軟體以及線上服務權益頁面</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
+      </link>
+       <link>
+        <text>如何啟用合作夥伴功能</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
     </articlelinks></question></group></groups>
