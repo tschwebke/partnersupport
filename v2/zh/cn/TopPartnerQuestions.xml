@@ -233,7 +233,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
-    <title>我们是微软的在线服务合作伙伴，如何激活我们的合作伙伴功能？</title>
+    <title>我们是微软的合作伙伴，如何激活我们的合作伙伴功能？</title>
     <description><![CDATA[使用这些资源学习如何访问您的在线服务权益以及激活合作伙伴功能：]]></description>
     <articlelinks>
       <link>
@@ -280,7 +280,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>如何向现有订阅添加许可证或服务？</title>
+    <title>如何将授权或服务添加到现有的CSP订阅?</title>
     <description><![CDATA[查看以下链接，了解如何升级/降级订阅或如何更新用户配置文件]]></description>
     <articlelinks>
       <link>
@@ -651,15 +651,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000080</id>
-    <title>如何申请退款？</title>
-    <description><![CDATA[请参阅以下文章，了解如何申请退款]]></description>
-    <articlelinks>
-      <link>
-        <text>正在申请退款</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017804?tpqid=100-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000086</id>
     <title>我如何安排考试？</title>
     <description><![CDATA[如需安排您的 Microsoft 认证考证、查找考试中心、重新安排您的考试或者确认您的考试，请访问 Pearson VUE 网站上的 Microsoft 认证页面。]]></description>
@@ -751,6 +742,24 @@
         <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
       </link>
     </articlelinks></question><question>
+    <id>1400-000104</id>
+    <title>在哪里可以找到有关售前技术和针对 Azure、Office 365、Dynamics CRM Online、 Windows 10 以及 Enterprise Mobility Suite 部署场景的技术培训？</title>
+    <description><![CDATA[从访问 http://aka.ms/TechnicalServices 开始，查找适用于建立售前技术和部署技能集的技术培训。MPN 合作伙伴可免费获取。]]></description>
+    <articlelinks>
+      <link>
+        <text>注册一个技术网络</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000107</id>
+    <title>谁可以提供微软合作伙伴技术服务以及他们如何帮助我获取更多的优惠，加速部署并且支持我的客户？</title>
+    <description><![CDATA[当你开始在微软投资的时候 -- 当你开始销售和部署时 -- 以及当你拥有更复杂的技术时，微软合作伙伴技术服务将随时为你提供支持并贯穿整个生命周期。]]></description>
+    <articlelinks>
+      <link>
+        <text>观看视频了解更多 </text>
+        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1400-000106</id>
     <title>当我在设计、开发和部署项目阶段帮助客户解决问题时，是否提供支持？</title>
     <description><![CDATA[是的，请使用合作伙伴咨询时间访问部署服务来加快部署，以及通过接收特定的咨询来增加消费，包含设计以及实施指南、浏览代码和浏览测试环境、协助整合解决方案、数据迁移和计划部署、情景指南以及解决方案构架。在 http://aka.ms/TechnicalServices 了解更多以及提交请求。]]></description>
@@ -764,24 +773,6 @@
         <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000107</id>
-    <title>谁可以提供微软合作伙伴技术服务以及他们如何帮助我获取更多的优惠，加速部署并且支持我的客户？</title>
-    <description><![CDATA[当你开始在微软投资的时候 -- 当你开始销售和部署时 -- 以及当你拥有更复杂的技术时，微软合作伙伴技术服务将随时为你提供支持并贯穿整个生命周期。]]></description>
-    <articlelinks>
-      <link>
-        <text>观看视频了解更多 </text>
-        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000110</id>
-    <title>在云和混合客户项目的售前和部署阶段期间，我在哪里可以找到合作伙伴询问的热门问题？</title>
-    <description><![CDATA[查看在客户项目的售前和部署阶段期间合作伙伴询问的最常见问题 — 包括竞争定位、演示、配置、技术许可、迁移、部署和应用开发。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>热门合作伙伴产品问题</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000111</id>
     <title>我在哪里可以按云工作负载查找技术旅途，在我开始学习时与技术专家交流，扩大和优化我的业务，帮助我加快销售、部署和应用开发？</title>
     <description><![CDATA[通过使用一组售前技术和部署服务，开始你的技术之旅。 ]]></description>
@@ -791,17 +782,13 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000111]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000105</id>
-    <title>在哪里可以找到定义微软解决方案、客服客户的缺点、演示有价值的解决方案、为高端客户在售前阶段演示微软云以及混合动力情景的支持？</title>
-    <description><![CDATA[技术售前协助作为 MPN 权益的一部分，通过技术咨询和专门协助以帮您取得竞争优势，例如概念验证指导、竞争优势的援助、功能概览以及对比指导、方案请求以及技术许可建议。访问 http://aka.ms/TechnicalServices 了解更多。]]></description>
+    <id>1400-000110</id>
+    <title>在云和混合客户项目的售前和部署阶段期间，我在哪里可以找到合作伙伴询问的热门问题？</title>
+    <description><![CDATA[查看在客户项目的售前和部署阶段期间合作伙伴询问的最常见问题 — 包括竞争定位、演示、配置、技术许可、迁移、部署和应用开发。 ]]></description>
     <articlelinks>
       <link>
-        <text>了解更多有关技术售前协助</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
-      </link>
-       <link>
-        <text>了解如何才能有资格获得技术售前协助</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
+        <text>热门合作伙伴产品问题</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000109</id>
@@ -817,15 +804,33 @@
         <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000109]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000104</id>
-    <title>在哪里可以找到有关售前技术和针对 Azure、Office 365、Dynamics CRM Online、 Windows 10 以及 Enterprise Mobility Suite 部署场景的技术培训？</title>
-    <description><![CDATA[从访问 http://aka.ms/TechnicalServices 开始，查找适用于建立售前技术和部署技能集的技术培训。MPN 合作伙伴可免费获取。]]></description>
+    <id>1400-000105</id>
+    <title>在哪里可以找到定义微软解决方案、客服客户的缺点、演示有价值的解决方案、为高端客户在售前阶段演示微软云以及混合动力情景的支持？</title>
+    <description><![CDATA[技术售前协助作为 MPN 权益的一部分，通过技术咨询和专门协助以帮您取得竞争优势，例如概念验证指导、竞争优势的援助、功能概览以及对比指导、方案请求以及技术许可建议。访问 http://aka.ms/TechnicalServices 了解更多。]]></description>
     <articlelinks>
       <link>
-        <text>注册一个技术网络</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+        <text>了解更多有关技术售前协助</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
+      </link>
+       <link>
+        <text>了解如何才能有资格获得技术售前协助</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
       </link>
     </articlelinks></question></group><group title="权益" refid="Benefits"><question>
+    <id>300-000013</id>
+    <title>我如何开始使用合作伙伴支持社区？</title>
+    <description><![CDATA[免费与专家和其他合作伙伴联系，解答您的产品、开发人员、售前和 Microsoft Partner Network 成员问题。]]></description>
+    <articlelinks>
+      <link>
+        <text>合作伙伴支持社区常见问答</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
+      </link>
+       <link>
+        <text>合作伙伴支持社区</text>
+        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
+&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000099</id>
     <title>如果我已经注册了 MSDN，则如何注册 Visual Studio？</title>
     <description><![CDATA[了解如何按照知识库文章“我的 Visual Studio 注册”中所述的步骤注册 Visual Studio (（请注意，MPN RSC 负责支持 MPN 成员，了解其 Visual Studio 订阅权益、对订阅的访问权限以及 Visual Studio 门户的基本使用。）]]></description>
@@ -950,23 +955,6 @@
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>如何激活 Microsoft Azure 内部使用许可权限</title>
-    <description><![CDATA[通过“如何激活 Microsoft Azure 内部使用许可权限”这篇文章里的步骤，学习如何激活 Microsoft Azure 的内部使用许可权限]]></description>
-    <articlelinks>
-      <link>
-        <text>如何激活 Microsoft Azure 内部使用许可权限</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text> 云和软件权益的内部使用权限</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text>通过内部使用权限（IUR）权益来促进您的业务</text>
-        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000103</id>
     <title>如何向 MAPS 和资格合作伙伴分配 Visual Studio Online 订阅的访问权限和特权？</title>
     <description><![CDATA[你可以在下文中找到如何向 MAPS 和资格伙伴分配 Visual Studio Online 订阅的访问权限和特权的分步说明。]]></description>
@@ -989,6 +977,23 @@
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000043</id>
+    <title>如何激活 Microsoft Azure 内部使用许可权限</title>
+    <description><![CDATA[通过“如何激活 Microsoft Azure 内部使用许可权限”这篇文章里的步骤，学习如何激活 Microsoft Azure 的内部使用许可权限]]></description>
+    <articlelinks>
+      <link>
+        <text>如何激活 Microsoft Azure 内部使用许可权限</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text> 云和软件权益的内部使用权限</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>通过内部使用权限（IUR）权益来促进您的业务</text>
+        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000028</id>
     <title>如何能够有资格获得签名云支持权益？</title>
     <description><![CDATA[请查看披露指南，了解有关云性能和混合能力的各个要求的信息。]]></description>
@@ -1000,20 +1005,6 @@
        <link>
         <text>验证你是否有资格获得此优惠并了解更多信息</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000013</id>
-    <title>我如何开始使用合作伙伴支持社区？</title>
-    <description><![CDATA[免费与专家和其他合作伙伴联系，解答您的产品、开发人员、售前和 Microsoft Partner Network 成员问题。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴支持社区常见问答</text>
-        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
-      </link>
-       <link>
-        <text>合作伙伴支持社区</text>
-        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
-&tpqid=300-000013]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000105</id>

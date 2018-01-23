@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Cloud-Services" refid="CloudServices"><question SortOrderOnHome="4">
     <id>200-000026</id>
-    <title>Wir sind Microsoft Online Services Partner. Wie können wir unsere Partnerleistungen aktivieren?</title>
+    <title>Wir sind Microsoft Partner. Wie können wir unsere Partnerleistungen aktivieren?</title>
     <description><![CDATA[Bitte nutzen Sie diese Ressourcen und die angegebenen Informationen um Ihre Online Services Produkte und Ihre speziellen Partner-Funktionen zu aktivieren:]]></description>
     <articlelinks>
       <link>
@@ -93,7 +93,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement</title>
+    <title>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen CSP Abonnement?</title>
     <description><![CDATA[Über die nachfolgenden Links erfahren Sie, wie Sie Abonnements upgraden/downgraden oder wie Sie Ihr Benutzerprofil aktualisieren]]></description>
     <articlelinks>
       <link>
@@ -700,15 +700,6 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000080</id>
-    <title>Anfordern einer Rückerstattung?</title>
-    <description><![CDATA[Im nachfolgenden Artikel erhalten Sie Informationen zum Anfordern einer Rückerstattung]]></description>
-    <articlelinks>
-      <link>
-        <text>Anfordern einer Rückerstattung</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017804?tpqid=100-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000086</id>
     <title>Wie buche ich den Termin für eine Prüfung?</title>
     <description><![CDATA[Die Microsoft Zertifizierungsseite auf der Pearson VUE Website enthält Informationen zu Teststandorten. Hier können Sie Microsoft Zertifizierungsprüfungen buchen, Prüfungstermine ändern oder die Prüfungsergebnisse bestätigen.]]></description>
@@ -826,6 +817,19 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
+    <id>400-000082</id>
+    <title>Wie qualifiziere ich mich für Partnerprovisionen?</title>
+    <description><![CDATA[Die Berechtigung für Partnerprovisionen variiert je nach Programm. Manche Programme richten sich nach den erlangten Microsoft Partner Network Kompetenzen. Manche Programme bewerten die Partnerleistung oder den Microsoft channel authorization status. Nicht alle Partner werden für alle Provisionen qualifiziert sein. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Wie man sich für Partnerprovisionen qualifizieren kann?</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+       <link>
+        <text>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000002</id>
     <title>Wie erhalte ich Incentives für das Verkaufen und Bereitstellen von Microsoft Cloud Lösungen? </title>
     <description><![CDATA[Hier haben Sie Zugriff auf Ressourcen, die Ihnen helfen, sich mit Incentives für Onlinedienste zurechtzufinden, und Sie erfahren, was Sie tun müssen, wenn Sie Fragen zu Ihrem Gebührenauszug oder dem Zahlungsprozess haben.]]></description>
@@ -890,20 +894,16 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000082</id>
-    <title>Wie qualifiziere ich mich für Partnerprovisionen?</title>
-    <description><![CDATA[Die Berechtigung für Partnerprovisionen variiert je nach Programm. Manche Programme richten sich nach den erlangten Microsoft Partner Network Kompetenzen. Manche Programme bewerten die Partnerleistung oder den Microsoft channel authorization status. Nicht alle Partner werden für alle Provisionen qualifiziert sein. ]]></description>
+    </articlelinks></question></group><group title="Schulung" refid="Training"><question>
+    <id>1200-000089</id>
+    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
+    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
     <articlelinks>
       <link>
-        <text>Wie man sich für Partnerprovisionen qualifizieren kann?</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+        <text>Lernpfade für Microsoft Partner </text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-       <link>
-        <text>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
-      </link>
-    </articlelinks></question></group><group title="Schulung" refid="Training"><question>
+    </articlelinks></question><question>
     <id>1200-000056</id>
     <title>Bietet Microsoft Trainings zu einem günstigen Preis oder kostenfrei an?</title>
     <description><![CDATA[Das Partner University ist eine Leistung für Unternehmen die im Microsoft Partner Network registriert sind und verfügbar für jede Programmstufe. Das Partner University bietet Registrierung und Zugriff zu günstigen oder kostenfreien Trainings (persönlich oder online). Es wird auch zur Erfüllung der Anforderungen an das Microsoft Action Pack oder Kompetenzen genutzt.]]></description>
@@ -937,23 +937,19 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1200-000089</id>
-    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
-    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
-    <articlelinks>
-      <link>
-        <text>Lernpfade für Microsoft Partner </text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
-      </link>
     </articlelinks></question></group><group title="Technische Dienste" refid="TechnicalServices"><question>
-    <id>1400-000110</id>
-    <title>Wo finde ich die von Partner in den Presales- und Bereitstellungsphasen von Cloud- und Hybrid-Kundenprojekten gestellten Topfragen?</title>
-    <description><![CDATA[Lesen Sie die von Partnern in den Presales- und Bereitstellungsphasen ihrer Kundenprojekte am häufigsten gestellten Fragen nach – einschließlich Wettbewerbspositionierung, Demos, Konfiguration, technischer Lizenzierung, Migration und Bereitstellung sowie Anwendungsentwicklung. ]]></description>
+    <id>1400-000106</id>
+    <title>Gibt es technische Ressourcen zur Unterstützung während der Entwurfs-, Entwicklungs- und Bereitstellungsphasen meiner Projekte, um Probleme bei Kundenszenarien zu beheben? </title>
+    <description><![CDATA[Ja, nutzen Sie Ihre Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste, um durch individuelle Beratung die Bereitstellung der Produkte zu beschleunigen und den Umsatz zu steigern. Die Beratung beinhaltet Unterstützung bei Design und Implementierung, Prüfung von Code und Testumgebung, Hilfe bei der Lösungsintegration, Planung von Migration und Bereitstellung sowie Unterstützung bei Szenarien und der Lösungsarchitektur. Unter http://aka.ms/TechnicalServices erhalten Sie weitere Informationen und können eine Anfrage übermitteln.
+]]></description>
     <articlelinks>
       <link>
-        <text>Topfragen von Partnern zu Produkten</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>Informieren Sie sich, und übermitteln Sie eine Anfrage zu Bereitstellungsdiensten mithilfe Ihrer Partner Advisory Hours</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
+      </link>
+       <link>
+        <text>Lernen Sie mehr über Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000111</id>
@@ -965,17 +961,13 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000111]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000105</id>
-    <title>Wo finde ich technische Unterstützung, um Lösungen von Microsoft zu positionieren, Einwände von Kunden zu entkräften, den Wert der Lösungen zu demonstrieren und potenziellen Kunden Lösungen für Microsoft Cloud- und Hybridszenarien während der Vorverkaufsphase zu präsentieren?</title>
-    <description><![CDATA[MPN-Partner haben unter anderem den Vorteil, dass sie sich Wettbewerbsvorteile verschaffen können, indem sie technische Beratung und individuelle Unterstützung in Anspruch nehmen können. Beispielsweise Informationen zu Machbarkeitsstudien, Unterstützung bei der Wettbewerbsfähigkeit, Übersicht über die Funktionen und vergleichende Informationen sowie bei Fragen zur Angebotserstellung und Empfehlungen zur technischen Lizenzierung. Weitere Informationen finden Sie unter http://aka.ms/TechnicalServices.]]></description>
+    <id>1400-000110</id>
+    <title>Wo finde ich die von Partner in den Presales- und Bereitstellungsphasen von Cloud- und Hybrid-Kundenprojekten gestellten Topfragen?</title>
+    <description><![CDATA[Lesen Sie die von Partnern in den Presales- und Bereitstellungsphasen ihrer Kundenprojekte am häufigsten gestellten Fragen nach – einschließlich Wettbewerbspositionierung, Demos, Konfiguration, technischer Lizenzierung, Migration und Bereitstellung sowie Anwendungsentwicklung. ]]></description>
     <articlelinks>
       <link>
-        <text>Lernen Sie mehr über die technische Unterstützung vor dem Verkauf</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
-      </link>
-       <link>
-        <text>Informieren Sie sich, wie Sie sich für die technische Unterstützung vor dem Verkauf qualifizieren</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
+        <text>Topfragen von Partnern zu Produkten</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000109</id>
@@ -991,13 +983,17 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000109]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000104</id>
-    <title>Wo finde ich technische Trainings zu Vorverkaufs- und Bereitstellungsszenarien für Azure, Office 365, Dynamics CRM Online, Windows 10 und Enterprise Mobility Suite?</title>
-    <description><![CDATA[Technische Trainings für die ersten Schritte zur Optimierung Ihrer Vorverkaufs- und Bereitstellungsfertigkeiten finden Sie unter http://aka.ms/TechnicalServices. Für MPN-Partner sind diese Trainings kostenlos verfügbar.]]></description>
+    <id>1400-000105</id>
+    <title>Wo finde ich technische Unterstützung, um Lösungen von Microsoft zu positionieren, Einwände von Kunden zu entkräften, den Wert der Lösungen zu demonstrieren und potenziellen Kunden Lösungen für Microsoft Cloud- und Hybridszenarien während der Vorverkaufsphase zu präsentieren?</title>
+    <description><![CDATA[MPN-Partner haben unter anderem den Vorteil, dass sie sich Wettbewerbsvorteile verschaffen können, indem sie technische Beratung und individuelle Unterstützung in Anspruch nehmen können. Beispielsweise Informationen zu Machbarkeitsstudien, Unterstützung bei der Wettbewerbsfähigkeit, Übersicht über die Funktionen und vergleichende Informationen sowie bei Fragen zur Angebotserstellung und Empfehlungen zur technischen Lizenzierung. Weitere Informationen finden Sie unter http://aka.ms/TechnicalServices.]]></description>
     <articlelinks>
       <link>
-        <text>Registrieren Sie sich für technische Trainings mittels Webcast</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+        <text>Lernen Sie mehr über die technische Unterstützung vor dem Verkauf</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
+      </link>
+       <link>
+        <text>Informieren Sie sich, wie Sie sich für die technische Unterstützung vor dem Verkauf qualifizieren</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000108</id>
@@ -1013,18 +1009,13 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000106</id>
-    <title>Gibt es technische Ressourcen zur Unterstützung während der Entwurfs-, Entwicklungs- und Bereitstellungsphasen meiner Projekte, um Probleme bei Kundenszenarien zu beheben? </title>
-    <description><![CDATA[Ja, nutzen Sie Ihre Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste, um durch individuelle Beratung die Bereitstellung der Produkte zu beschleunigen und den Umsatz zu steigern. Die Beratung beinhaltet Unterstützung bei Design und Implementierung, Prüfung von Code und Testumgebung, Hilfe bei der Lösungsintegration, Planung von Migration und Bereitstellung sowie Unterstützung bei Szenarien und der Lösungsarchitektur. Unter http://aka.ms/TechnicalServices erhalten Sie weitere Informationen und können eine Anfrage übermitteln.
-]]></description>
+    <id>1400-000104</id>
+    <title>Wo finde ich technische Trainings zu Vorverkaufs- und Bereitstellungsszenarien für Azure, Office 365, Dynamics CRM Online, Windows 10 und Enterprise Mobility Suite?</title>
+    <description><![CDATA[Technische Trainings für die ersten Schritte zur Optimierung Ihrer Vorverkaufs- und Bereitstellungsfertigkeiten finden Sie unter http://aka.ms/TechnicalServices. Für MPN-Partner sind diese Trainings kostenlos verfügbar.]]></description>
     <articlelinks>
       <link>
-        <text>Informieren Sie sich, und übermitteln Sie eine Anfrage zu Bereitstellungsdiensten mithilfe Ihrer Partner Advisory Hours</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
-      </link>
-       <link>
-        <text>Lernen Sie mehr über Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
+        <text>Registrieren Sie sich für technische Trainings mittels Webcast</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000107</id>

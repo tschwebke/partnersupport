@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="クラウド サービス" refid="CloudServices"><question SortOrderOnHome="4">
     <id>200-000026</id>
-    <title>マイクロソフト オンライン サービス パートナーです。パートナー機能を有効にするにはどうすればよいでしょう？</title>
+    <title>私たちはマイクロソフトのパートナーです。 パートナー機能を有効にするにはどうすればよいでしょう？</title>
     <description><![CDATA[オンライン サービス特典にアクセスしてパートナー機能を有効にするには、こちらのリソースをご確認ください。]]></description>
     <articlelinks>
       <link>
@@ -119,7 +119,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>ライセンスまたはサービスを外部サブスクリプションに追加する方法</title>
+    <title>外部のCSPサブスクリプションにライセンスまたはサービスを追加する方法</title>
     <description><![CDATA[サブスクリプションをアップグレード/ダウングレードする方法やユーザー プロフィールを更新する方法については、以下のリンクを参照してください。]]></description>
     <articlelinks>
       <link>
@@ -711,15 +711,6 @@ http://aka.ms/TechnicalServices]]></description>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000080</id>
-    <title>払い戻しを依頼する方法</title>
-    <description><![CDATA[払い戻しを依頼する方法については次の記事を参照してください]]></description>
-    <articlelinks>
-      <link>
-        <text>払い戻しを依頼する</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017804?tpqid=100-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000069</id>
     <title>当社はマイクロソフト パートナー ネットワークに登録しています。　パートナーアカウントに社員を関連付けするには、どうすればよいでしょう？</title>
     <description><![CDATA[既にマイクロソフト アカウントがある場合、パートナー メンバーシップ センターにサインインして、登録社員のページから関連付けを行います。マイクロソフト アカウントがない場合は事前にアカウントを作成する必要があります。]]></description>
@@ -992,6 +983,23 @@ http://aka.ms/TechnicalServices]]></description>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question></group><group title="特典" refid="Benefits"><question>
+    <id>300-000014</id>
+    <title>マイクロソフトは、低料金また無料のトレーニングを提供しますか?</title>
+    <description><![CDATA[パートナー ビジネス支援サービスの相談時間は、マイクロソフト パートナー ネットワーク メンバーを対象とした特定のテクニカル プリセールスおよび展開サービスにアクセスするための通貨としてご利用いただけます。パートナー ビジネス支援サービスの相談時間を利用すると、技術トレーニングでスキル セットを構築し、競争力の強化およびソリューションの開発と顧客向け展開のためのカスタマイズされたガイダンスを得ることができます。]]></description>
+    <articlelinks>
+      <link>
+        <text>テクニカル プリセールスおよび展開サービス</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>基本特典と要件</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>お持ちの時間数がわからない場合は、こちらでパートナー ビジネス支援サービスの利用可能な相談時間をご確認ください。</text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000004</id>
     <title>コンピテンシー ロゴを取得するにはどうすれば良いのですか？</title>
     <description><![CDATA[パートナー ロゴ ビルダーにアクセスし、Microsoft パートナー ステータスおよび達成したコンピテンシーの促進に使用できるカスタム ロゴを作成およびダウンロードします。]]></description>
@@ -1022,23 +1030,6 @@ http://aka.ms/TechnicalServices]]></description>
         <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000102</id>
-    <title>コンピテンシーを獲得する利点</title>
-    <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>
-    <articlelinks>
-      <link>
-        <text>コンピテンシーの概要</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>特典の概要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>コンピテンシー ライセンス一覧</text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-software-iur-competency-license-table.pdf?tpqid=300-000102]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-1000116</id>
     <title>MPN特典で提供される各種クラウド特典（Office365/Azure/Intune/CRM Online）を有効化するには？　</title>
     <description><![CDATA[l   以下、各種ウェブサイトをご覧ください。　]]></description>
@@ -1056,6 +1047,36 @@ http://aka.ms/TechnicalServices]]></description>
         <url><![CDATA[https://partner.microsoft.com/download/40197038?tpqid=300-1000116]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000102</id>
+    <title>コンピテンシーを獲得する利点</title>
+    <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>
+    <articlelinks>
+      <link>
+        <text>コンピテンシーの概要</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>特典の概要</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>コンピテンシー ライセンス一覧</text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-software-iur-competency-license-table.pdf?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-1000117</id>
+    <title>Microsoft Microsoft Referrals のリストに載るにはどうすれば良いのですか？</title>
+    <description><![CDATA[Microsoft Referralsは、Microsoft 技術をサポートまたは許可するためのIT専門家、アプリケーションおよびプロフェッショナル サービスの大きなオンライン マーケット プレースです。提供物のリスト方法]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Referrals パートナー センター</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/ja-jp/partnercenter?tpqid=300-1000117]]></url>
+      </link>
+       <link>
+        <text>Microsoft Referrals パートナー FAQ</text>
+        <url><![CDATA[http://pinpoint.microsoft.com/ja-jp/PartnerFaq?tpqid=300-1000117]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000098</id>
     <title>Microsoft Referrals でアプリケーション認定を行うにはどうしますか？</title>
     <description><![CDATA[この文書で、Microsoft Referrals によるアプリケーション認定に関する情報をご確認ください。:]]></description>
@@ -1071,19 +1092,6 @@ http://aka.ms/TechnicalServices]]></description>
        <link>
         <text>マイクロソフト パートナー センター - Microsoft Referrals の管理</text>
         <url><![CDATA[https://manage.pinpoint.com/?tpqid=300-000098]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-1000117</id>
-    <title>Microsoft Microsoft Referrals のリストに載るにはどうすれば良いのですか？</title>
-    <description><![CDATA[Microsoft Referralsは、Microsoft 技術をサポートまたは許可するためのIT専門家、アプリケーションおよびプロフェッショナル サービスの大きなオンライン マーケット プレースです。提供物のリスト方法]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Referrals パートナー センター</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/ja-jp/partnercenter?tpqid=300-1000117]]></url>
-      </link>
-       <link>
-        <text>Microsoft Referrals パートナー FAQ</text>
-        <url><![CDATA[http://pinpoint.microsoft.com/ja-jp/PartnerFaq?tpqid=300-1000117]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000101</id>
@@ -1146,20 +1154,6 @@ http://aka.ms/TechnicalServices]]></description>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000013</id>
-    <title>パートナー サポート コミュニティはどのように使用することができますか？</title>
-    <description><![CDATA[専門家や他のパートナーに無料で連絡を取り、製品、デベロッパー、プリセール、および Microsoft Partner Network のメンバーシップに関する質問の答えを得ることができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー サポート コミュニティ FAQ</text>
-        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
-      </link>
-       <link>
-        <text>https://www.youtube.com/watch?v=Qbh0r_x84q0
-</text>
-        <url><![CDATA[?tpqid=300-000013]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000103</id>
     <title>MAPS およびコンピテンシー パートナーに対して、Visual Studio Online サブスクリプションのアクセス権と特権を割り当てる方法</title>
     <description><![CDATA[MAPS およびコンピテンシー パートナーに対して Visual Studio Online サブスクリプションのアクセス権と特権を割り当てる方法については、次の記事でステップごとに解説しています。]]></description>
@@ -1182,6 +1176,20 @@ http://aka.ms/TechnicalServices]]></description>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000013</id>
+    <title>パートナー サポート コミュニティはどのように使用することができますか？</title>
+    <description><![CDATA[専門家や他のパートナーに無料で連絡を取り、製品、デベロッパー、プリセール、および Microsoft Partner Network のメンバーシップに関する質問の答えを得ることができます。]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー サポート コミュニティ FAQ</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
+      </link>
+       <link>
+        <text>https://www.youtube.com/watch?v=Qbh0r_x84q0
+</text>
+        <url><![CDATA[?tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000099</id>
     <title>MSDN に既に登録されている場合に Visual Studio を登録する方法</title>
     <description><![CDATA[Visual Studio の登録方法については、サポート技術情報「My Visual Studio の登録」の手順を参照してください. (MPN RSC は、Visual Studio サブスクリプションの特典、サブスクリプションへのアクセス、Visual Studio ポータルの基本的な使用方法について理解されている MPN メンバーを対象にサポートしています)]]></description>
@@ -1189,23 +1197,6 @@ http://aka.ms/TechnicalServices]]></description>
       <link>
         <text>My Visual Studio の登録</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>マイクロソフトは、低料金また無料のトレーニングを提供しますか?</title>
-    <description><![CDATA[パートナー ビジネス支援サービスの相談時間は、マイクロソフト パートナー ネットワーク メンバーを対象とした特定のテクニカル プリセールスおよび展開サービスにアクセスするための通貨としてご利用いただけます。パートナー ビジネス支援サービスの相談時間を利用すると、技術トレーニングでスキル セットを構築し、競争力の強化およびソリューションの開発と顧客向け展開のためのカスタマイズされたガイダンスを得ることができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>テクニカル プリセールスおよび展開サービス</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>基本特典と要件</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>お持ちの時間数がわからない場合は、こちらでパートナー ビジネス支援サービスの利用可能な相談時間をご確認ください。</text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000105</id>

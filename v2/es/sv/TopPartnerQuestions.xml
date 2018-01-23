@@ -568,15 +568,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000080</id>
-    <title>¿Cómo se solicita un reembolso?</title>
-    <description><![CDATA[Consulte el artículo abajo para ver cómo se solicita un reembolso.]]></description>
-    <articlelinks>
-      <link>
-        <text>Solicitar un reembolso</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017804?tpqid=100-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000086</id>
     <title>¿Cómo puedo programar un examen?</title>
     <description><![CDATA[Para programar su examen de certificación de Microsoft, localizar un centro de pruebas, cambiar la fecha de su examen o confirmar su examen, visite la página Microsoft Certifications en el sitio web de Pearson VUE.]]></description>
@@ -638,6 +629,20 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
     </articlelinks></question></group><group title="Prestaciones" refid="Benefits"><question>
+    <id>300-000013</id>
+    <title>¿Cómo puedo empezar a usar la Comunidad de soporte para partners?</title>
+    <description><![CDATA[Conéctese sin costo alguno con expertos y otros partners para obtener respuestas a sus preguntas sobre productos, desarrolladores, preventas y membresía de Microsoft Partner Network.]]></description>
+    <articlelinks>
+      <link>
+        <text>P+F de la Comunidad de soporte para partners</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
+      </link>
+       <link>
+        <text>Partner support community</text>
+        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
+&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000099</id>
     <title>¿Cómo registrarse en Visual Studio si ya estaba registrado en MSDN?</title>
     <description><![CDATA[Vea cómo registrarse en Visual Studio al seguir los pasos que se describen en el artículo de Knowledge Base Mi registro de Visual Studio. (Note that the MPN RSC is responsible to support MPN members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
@@ -775,19 +780,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://vimeo.com/158216561 ?tpqid=300-000043]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>¿Cómo califico para el soporte Signature de socios de la nube?</title>
-    <description><![CDATA[Revise la guía de divulgación de información sobre los requisitos individuales para las competencias Cloud e híbridas. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Guía de Divulgación de Microsoft Partner Network</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>Para comprobar que tiene derecho a recibir este beneficio y obtener más información</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000103</id>
     <title>¿Cómo se asigna acceso a una suscripción de Visual Studio Online y privilegios para  suscripción a MAP y socios con competencias?</title>
     <description><![CDATA[En el artículo a continuación encontrará instrucciones paso a paso para asignar acceso a una suscripción a Visual Studio Online y privilegios para una suscripción a MAP y socios con competencias.]]></description>
@@ -810,18 +802,17 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000013</id>
-    <title>¿Cómo puedo empezar a usar la Comunidad de soporte para partners?</title>
-    <description><![CDATA[Conéctese sin costo alguno con expertos y otros partners para obtener respuestas a sus preguntas sobre productos, desarrolladores, preventas y membresía de Microsoft Partner Network.]]></description>
+    <id>300-000028</id>
+    <title>¿Cómo califico para el soporte Signature de socios de la nube?</title>
+    <description><![CDATA[Revise la guía de divulgación de información sobre los requisitos individuales para las competencias Cloud e híbridas. ]]></description>
     <articlelinks>
       <link>
-        <text>P+F de la Comunidad de soporte para partners</text>
-        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
+        <text>Guía de Divulgación de Microsoft Partner Network</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
       </link>
        <link>
-        <text>Partner support community</text>
-        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
-&tpqid=300-000013]]></url>
+        <text>Para comprobar que tiene derecho a recibir este beneficio y obtener más información</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000105</id>
@@ -833,6 +824,23 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group><group title="Servicios en la nube" refid="CloudServices"><question>
+    <id>200-000068</id>
+    <title>¿Cómo puede mi empresa crear demos de Office 365?</title>
+    <description><![CDATA[El portal de demostración de Microsoft Office le permite configurar entornos de demostración y materiales de guía de demostración de acceso para productos de Office sin necesidad de una instalación local completo. El entorno de demostración de Microsoft Office consiste en un domino de Office 365 personalizado con contenidos-demo listos. Una vez que su domino de Office 365 esté configurado, usted puede entregar demostraciones efectivas que cubren toda la gama de productos de Office, como Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, y más.]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal de demostración de Microsoft Office</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Inquilinos de demostración para Microsoft Office 365, Project Online y Power BI</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Recorrido inicial por Microsoft Office 365</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000085</id>
     <title>¿Cuál es el panel de servicios en la nube para Partners?</title>
     <description><![CDATA[El panel de servicios de la nube de partners provee a los revendedores y distribuidores un seguimiento detallado del estado de las suscripciones de sus clientes sobre Microsoft Office 365, Microsoft Intune y Microsoft Dynamics CRM Online.
@@ -869,7 +877,7 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
       </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000026</id>
-    <title>Somos un socio de Servicios en Línea de Microsoft. ¿Cómo podemos activar las características de Partner?</title>
+    <title>Somos un socio de Microsoft. ¿Cómo podemos activar las características de Partner?</title>
     <description><![CDATA[Utilice estos recursos para aprender cómo acceder a sus beneficios de servicios en línea y activar sus características de socio:]]></description>
     <articlelinks>
       <link>
@@ -899,6 +907,15 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Signature Cloud Support para Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="3">
+    <id>200-000086</id>
+    <title>¿Cómo se agregan licencias o servicios a una CSP suscripción existente?</title>
+    <description><![CDATA[Consulte los vínculos abajo para ver cómo actualizar la suscripción o migrar a una versión anterior de ella, o cómo actualizar el perfil de usuario.]]></description>
+    <articlelinks>
+      <link>
+        <text>Agregar licencias o servicios a una suscripción existente</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
     </articlelinks></question><question>
     <id>200-000066</id>
     <title>¿Cómo puedo animar a mis clientes a adoptar Office 365?</title>
@@ -908,40 +925,18 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Introducción a Cloud SureStep</text>
         <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
-    <id>200-000086</id>
-    <title>¿Cómo se agregan licencias o servicios a una suscripción existente?</title>
-    <description><![CDATA[Consulte los vínculos abajo para ver cómo actualizar la suscripción o migrar a una versión anterior de ella, o cómo actualizar el perfil de usuario.]]></description>
-    <articlelinks>
-      <link>
-        <text>Agregar licencias o servicios a una suscripción existente</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>¿Cómo puede mi empresa crear demos de Office 365?</title>
-    <description><![CDATA[El portal de demostración de Microsoft Office le permite configurar entornos de demostración y materiales de guía de demostración de acceso para productos de Office sin necesidad de una instalación local completo. El entorno de demostración de Microsoft Office consiste en un domino de Office 365 personalizado con contenidos-demo listos. Una vez que su domino de Office 365 esté configurado, usted puede entregar demostraciones efectivas que cubren toda la gama de productos de Office, como Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, y más.]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal de demostración de Microsoft Office</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Inquilinos de demostración para Microsoft Office 365, Project Online y Power BI</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Recorrido inicial por Microsoft Office 365</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
     </articlelinks></question></group><group title="Servicios técnicos" refid="TechnicalServices"><question>
-    <id>1400-000110</id>
-    <title>¿Dónde se encuentran las preguntas principales que hacen los partners durante las fases de preventa e implementación de los proyectos de cliente sobre la nube y soluciones híbridas?</title>
-    <description><![CDATA[Consulte las preguntas más frecuentes que hacen los partners durante las fases de preventas e implementación de sus proyectos de cliente, como por ejemplo, posición competitiva, demostraciones, configuración, licencias técnicas, migración e implementación, y desarrollo de aplicaciones. ]]></description>
+    <id>1400-000106</id>
+    <title>¿Existen recursos técnicos para ayudarme durante las fases de diseño, desarrollo e implementación de mis proyectos con el fin de resolver los escenarios de clientes?</title>
+    <description><![CDATA[Sí, aproveche sus horas de asesoría de asociado para acceder a Servicios de implementación y así acelerar la implementación y aumentar el consumo a través de una consulta personalizada, por ejemplo, diseño y orientación para la implementación, revisión de código y entorno de prueba, asistencia para la integración de la solución, planificación de migración e implementación, orientación de escenarios y arquitectura de la solución. Para obtener más información y enviar una solicitud visite http://aka.ms/TechnicalServices]]></description>
     <articlelinks>
       <link>
-        <text>Preguntas principales de los partners sobre productos</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>Obtenga más información y envíe una solicitud de Servicios de desarrollo mediante sus horas de asesoría de asociado.</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
+      </link>
+       <link>
+        <text>Vea cómo reunir los requisitos para recibir horas de asesoramiento de asociado para acceder a los servicios de implementación</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000111</id>
@@ -953,17 +948,13 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000111]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000105</id>
-    <title>¿Dónde puedo encontrar asistencia técnica para ayudarme a posicionar las soluciones de Microsoft, superar las objeciones del cliente, demostrar el valor de las soluciones y presentar soluciones a clientes potenciales durante la fase de preventa en escenarios de Microsoft Cloud e híbridos?</title>
-    <description><![CDATA[La asistencia técnica para la preventa está disponible como parte de sus beneficios de MPN para ayudar a obtener una ventaja competitiva a través de la consulta técnica y asistencia personalizada, como la orientación de prueba de concepto, la asistencia competitiva, una descripción de características y guía comparativa, preguntas sobre solicitudes de propuesta (RFP) y recomendaciones técnicas sobre licencias. Visite http://aka.ms/TechnicalServices para obtener más información.]]></description>
+    <id>1400-000110</id>
+    <title>¿Dónde se encuentran las preguntas principales que hacen los partners durante las fases de preventa e implementación de los proyectos de cliente sobre la nube y soluciones híbridas?</title>
+    <description><![CDATA[Consulte las preguntas más frecuentes que hacen los partners durante las fases de preventas e implementación de sus proyectos de cliente, como por ejemplo, posición competitiva, demostraciones, configuración, licencias técnicas, migración e implementación, y desarrollo de aplicaciones. ]]></description>
     <articlelinks>
       <link>
-        <text>Descubra más sobre la asistencia técnica para la preventa</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
-      </link>
-       <link>
-        <text>Vea cómo reunir los requisitos para recibir asistencia técnica para la preventa</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
+        <text>Preguntas principales de los partners sobre productos</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000109</id>
@@ -979,13 +970,17 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000109]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000104</id>
-    <title>¿Dónde puedo encontrar cursos técnicos para hacer frente a escenarios de preventa técnica e implementación de Azure, Office 365, Dynamics 365, Windows 10 y Enterprise Mobility Suite?</title>
-    <description><![CDATA[Para buscar cursos técnicos y desarrollar sus habilidades de preventa técnica e implementación, visite http://aka.ms/TechnicalServices para comenzar. Disponible sin costo a los asociados de MPN.]]></description>
+    <id>1400-000105</id>
+    <title>¿Dónde puedo encontrar asistencia técnica para ayudarme a posicionar las soluciones de Microsoft, superar las objeciones del cliente, demostrar el valor de las soluciones y presentar soluciones a clientes potenciales durante la fase de preventa en escenarios de Microsoft Cloud e híbridos?</title>
+    <description><![CDATA[La asistencia técnica para la preventa está disponible como parte de sus beneficios de MPN para ayudar a obtener una ventaja competitiva a través de la consulta técnica y asistencia personalizada, como la orientación de prueba de concepto, la asistencia competitiva, una descripción de características y guía comparativa, preguntas sobre solicitudes de propuesta (RFP) y recomendaciones técnicas sobre licencias. Visite http://aka.ms/TechnicalServices para obtener más información.]]></description>
     <articlelinks>
       <link>
-        <text>Registro para los webcast de cursos técnicos</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+        <text>Descubra más sobre la asistencia técnica para la preventa</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
+      </link>
+       <link>
+        <text>Vea cómo reunir los requisitos para recibir asistencia técnica para la preventa</text>
+        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000108</id>
@@ -1001,17 +996,13 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000106</id>
-    <title>¿Existen recursos técnicos para ayudarme durante las fases de diseño, desarrollo e implementación de mis proyectos con el fin de resolver los escenarios de clientes?</title>
-    <description><![CDATA[Sí, aproveche sus horas de asesoría de asociado para acceder a Servicios de implementación y así acelerar la implementación y aumentar el consumo a través de una consulta personalizada, por ejemplo, diseño y orientación para la implementación, revisión de código y entorno de prueba, asistencia para la integración de la solución, planificación de migración e implementación, orientación de escenarios y arquitectura de la solución. Para obtener más información y enviar una solicitud visite http://aka.ms/TechnicalServices]]></description>
+    <id>1400-000104</id>
+    <title>¿Dónde puedo encontrar cursos técnicos para hacer frente a escenarios de preventa técnica e implementación de Azure, Office 365, Dynamics 365, Windows 10 y Enterprise Mobility Suite?</title>
+    <description><![CDATA[Para buscar cursos técnicos y desarrollar sus habilidades de preventa técnica e implementación, visite http://aka.ms/TechnicalServices para comenzar. Disponible sin costo a los asociados de MPN.]]></description>
     <articlelinks>
       <link>
-        <text>Obtenga más información y envíe una solicitud de Servicios de desarrollo mediante sus horas de asesoría de asociado.</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
-      </link>
-       <link>
-        <text>Vea cómo reunir los requisitos para recibir horas de asesoramiento de asociado para acceder a los servicios de implementación</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
+        <text>Registro para los webcast de cursos técnicos</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000107</id>

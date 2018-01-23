@@ -715,15 +715,6 @@
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000080</id>
-    <title>如何要求退款？</title>
-    <description><![CDATA[請參閱下列文章，了解如何要求退款]]></description>
-    <articlelinks>
-      <link>
-        <text>要求退款</text>
-        <url><![CDATA[?tpqid=100-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000069</id>
     <title>我公司已經註冊了微軟合作夥伴網路。如何與個人進行關聯？</title>
     <description><![CDATA[如果您有微軟帳戶，登錄合作夥伴成員中心的個人關聯頁面並按要求填寫所需資訊，您需要在開始之前創建一個。]]></description>
@@ -893,6 +884,15 @@
         <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
       </link>
     </articlelinks></question></group><group title="訓練" refid="Training"><question>
+    <id>1200-000089</id>
+    <title>在哪裡可以找到有關能力考試和準備的資訊？</title>
+    <description><![CDATA[有關能力考試和準備的相關資訊，請訪問以下Microsoft合作夥伴學習途徑的頁面。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft 合作夥伴學習途徑 </text>
+        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1200-000022</id>
     <title>有關學習途徑的常見問題？</title>
     <description><![CDATA[學習途徑可以幫您獲取培訓或者認證。學習途徑標注了與您公司、組織相關的途徑。學習途徑 FAQ 解答了有關學習途徑的常見問題。]]></description>
@@ -926,16 +926,20 @@
         <text>合作夥伴學院 </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1200-000089</id>
-    <title>在哪裡可以找到有關能力考試和準備的資訊？</title>
-    <description><![CDATA[有關能力考試和準備的相關資訊，請訪問以下Microsoft合作夥伴學習途徑的頁面。 ]]></description>
+    </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question SortOrderOnHome="4">
+    <id>200-000026</id>
+    <title>我们是微软的合作伙伴，如何啟動我們的合作夥伴功能？</title>
+    <description><![CDATA[使用這些資源學習如何訪問您的線上服務權益以及啟動合作夥伴功能：]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft 合作夥伴學習途徑 </text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <text>軟體以及線上服務權益頁面</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
       </link>
-    </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question>
+       <link>
+        <text>如何啟用合作夥伴功能</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000029</id>
     <title>我要如何送出簽章雲端支援事件？</title>
     <description><![CDATA[取得簽章雲端支援利益的概觀，包含如何送出簽章雲端支援事件。]]></description>
@@ -996,6 +1000,15 @@
         <text>雲端服務儀表板使用者指南</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="3">
+    <id>200-000086</id>
+    <title>如何將授權或服務添加到現有的CSP訂閱？</title>
+    <description><![CDATA[檢視下列連結，了解如何升級/降級訂閱或如何更新您的使用者設定檔]]></description>
+    <articlelinks>
+      <link>
+        <text>在現有訂閱中新增授權或服務</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000083</id>
     <title>在哪裡可以找到有關雲解決方案提供商（CSP）的資訊？</title>
@@ -1012,27 +1025,5 @@
        <link>
         <text>與合作夥伴中心的客戶聯繫</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/regional-authorization-overview?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
-    <id>200-000086</id>
-    <title>如何在現有訂閱中新增授權或服務？</title>
-    <description><![CDATA[檢視下列連結，了解如何升級/降級訂閱或如何更新您的使用者設定檔]]></description>
-    <articlelinks>
-      <link>
-        <text>在現有訂閱中新增授權或服務</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000026</id>
-    <title>我們是微軟的線上服務合作夥伴，如何啟動我們的合作夥伴功能？</title>
-    <description><![CDATA[使用這些資源學習如何訪問您的線上服務權益以及啟動合作夥伴功能：]]></description>
-    <articlelinks>
-      <link>
-        <text>軟體以及線上服務權益頁面</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
-      </link>
-       <link>
-        <text>如何啟用合作夥伴功能</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
     </articlelinks></question></group></groups>
