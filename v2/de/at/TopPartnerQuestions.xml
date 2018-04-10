@@ -42,11 +42,6 @@ Sie können das Dashboard als eine Quelle für Schlüsseldaten nutzen, welche Ih
         <text>Partner Center: CSP-Ankündigungen</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
       </link>
-       <link>
-        <text>Partner Center: Verträge, Preislisten und Angebote</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/csp-documents-and-learning-resources
-?tpqid=200-000083]]></url>
-      </link>
     </articlelinks></question><question>
     <id>200-000068</id>
     <title>Wie können wir Office365-Demos erstellen?</title>
@@ -947,6 +942,10 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text>Drucken von Schlussrechnungen</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
+       <link>
+        <text>KB 4089764: Herunterladen Ihrer Rechnung im Partner Center</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000050</id>
     <title>Mein Unternehmen hat qualifizierte zertifizierte Mitarbeiter (MCPs), welche nicht zur Erfüllung einer Silber / Gold Kompetenz erkannt werden. Was kann ich tun? </title>
@@ -978,8 +977,8 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
       </link>
        <link>
-        <text>Wichtige Leistungen und Voraussetzungen</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000082]]></url>
+        <text>KB 4089772: Schritte zum Anzeigen der nicht erfüllten Anforderungen im Partner Center</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000081</id>
@@ -1004,6 +1003,10 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
        <link>
         <text>Kaufen oder Verlängern eines Microsoft Action Pack-Abonnements</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
+      </link>
+       <link>
+        <text>KB 4090552: Anzeigen des Ablaufdatums für MAPS oder Kompetenzen</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000090</id>
@@ -1233,39 +1236,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question></group><group title="Technische Dienste" refid="TechnicalServices"><question>
-    <id>1400-000107</id>
-    <title>Was sind die Microsoft Partner Technical Services und wie helfen sie mir, mehr Geschäfte abzuschließen, die Bereitstellung zu beschleunigen und meine Kunden zu unterstützen?</title>
-    <description><![CDATA[Ab dem Zeitpunkt, an dem Sie mit Ihren Investitionen in Microsoft beginnen, bis zum Beginn des Verkaufs und der Bereitstellung sowie bei komplexen Geschäftsabschlüssen im Zusammenhang mit Technologien werden Sie ständig von den Microsoft Partner Technical Services unterstützt.]]></description>
-    <articlelinks>
-      <link>
-        <text>Schauen Sie sich diese kurzen Videos an, um mehr zu erfahren</text>
-        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000106</id>
-    <title>Gibt es technische Ressourcen zur Unterstützung während der Entwurfs-, Entwicklungs- und Bereitstellungsphasen meiner Projekte, um Probleme bei Kundenszenarien zu beheben? </title>
-    <description><![CDATA[Ja, nutzen Sie Ihre Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste, um durch individuelle Beratung die Bereitstellung der Produkte zu beschleunigen und den Umsatz zu steigern. Die Beratung beinhaltet Unterstützung bei Design und Implementierung, Prüfung von Code und Testumgebung, Hilfe bei der Lösungsintegration, Planung von Migration und Bereitstellung sowie Unterstützung bei Szenarien und der Lösungsarchitektur. Unter http://aka.ms/TechnicalServices erhalten Sie weitere Informationen und können eine Anfrage übermitteln.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Informieren Sie sich, und übermitteln Sie eine Anfrage zu Bereitstellungsdiensten mithilfe Ihrer Partner Advisory Hours</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
-      </link>
-       <link>
-        <text>Lernen Sie mehr über Partner Advisory Hours für den Zugriff auf Bereitstellungsdienste</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000111</id>
-    <title>Wo finde ich die technischen Erkundungstrips basierend auf der Cloud-Workload, damit ich mithilfe technischer Experten den Umsatz, die Bereitstellungen und die Anwendungsentwicklung beschleunigen kann, wenn ich mein Unternehmen gründe und meinen Umsatz ausbauen und optimieren möchte?</title>
-    <description><![CDATA[Beginnen Sie Ihren technischen Erkundungstrip mithilfe einer Reihe von technischen Vorverkaufs- und Bereitstellungsdiensten. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Technische Vorverkaufs- und Bereitstellungsdienste</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000111]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technische Erkundungstrips" refid="TechnicalJourneys"><question>
     <id>1400-000110</id>
     <title>Wo finde ich die von Partner in den Presales- und Bereitstellungsphasen von Cloud- und Hybrid-Kundenprojekten gestellten Topfragen?</title>
     <description><![CDATA[Lesen Sie die von Partnern in den Presales- und Bereitstellungsphasen ihrer Kundenprojekte am häufigsten gestellten Fragen nach – einschließlich Wettbewerbspositionierung, Demos, Konfiguration, technischer Lizenzierung, Migration und Bereitstellung sowie Anwendungsentwicklung. ]]></description>
@@ -1275,51 +1246,46 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000109</id>
-    <title>Welche technischen Dienste gibt es zur Unterstützung beim Planen, Erstellen und Verwenden meiner Apps in Office 365?</title>
-    <description><![CDATA[Nutzen Sie eine Reihe von Diensten für Anwendungsentwickler, mit denen MPN-Partner beim Planen, Erstellen und Verwenden Ihrer Office 365-App unterstützt werden sollen. Verschaffen Sie sich mithilfe von persönlicher Beratung, technischem Training und Chatoptionen direkten Zugang zu technischen Experten für Office 365, um den Weg zur Appzertifizierung zu beschleunigen.]]></description>
+    <id>1400-000112</id>
+    <title>Was ist ein technischer Erkundungstrip? Warum spielt dies für meine Partnerorganisation eine wichtige Rolle?</title>
+    <description><![CDATA[Mithilfe technischer Erkundungstrips können Sie Ihre technischen Kompetenzen schneller entwickeln, um den Umsatz, die Bereitstellungen und die Anwendungsentwicklung zu beschleunigen. Starten Sie Ihren technischen Erkundungstrip, um in Form von empfohlenen interaktiven Technikwebinaren und Einzelberatungsgesprächen mit virtuellen Whiteboards, Architekturanalysen und nachgestellten realistischen Szenarien technische Beratung von Microsoft Partner Technical Consultants zu erhalten. ]]></description>
     <articlelinks>
       <link>
-        <text>Informieren Sie sich über die technischen Dienste für die Entwicklung von Office 365-Apps</text>
-        <url><![CDATA[https://partner.microsoft.com/support/office-365-presales-deployment?tpqid=1400-000109]]></url>
+        <text>Technischen Erkundungstrip starten</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text>Chatten Sie über Dev Chat direkt mit Microsoft-Technikern</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000109]]></url>
+        <text>Blog lesen</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000105</id>
-    <title>Wo finde ich technische Unterstützung, um Lösungen von Microsoft zu positionieren, Einwände von Kunden zu entkräften, den Wert der Lösungen zu demonstrieren und potenziellen Kunden Lösungen für Microsoft Cloud- und Hybridszenarien während der Vorverkaufsphase zu präsentieren?</title>
-    <description><![CDATA[MPN-Partner haben unter anderem den Vorteil, dass sie sich Wettbewerbsvorteile verschaffen können, indem sie technische Beratung und individuelle Unterstützung in Anspruch nehmen können. Beispielsweise Informationen zu Machbarkeitsstudien, Unterstützung bei der Wettbewerbsfähigkeit, Übersicht über die Funktionen und vergleichende Informationen sowie bei Fragen zur Angebotserstellung und Empfehlungen zur technischen Lizenzierung. Weitere Informationen finden Sie unter http://aka.ms/TechnicalServices.]]></description>
+    <id>1400-000113</id>
+    <title>Wie interagiere ich während des technischen Erkundungstrips mit Microsoft Partner Technical Consultants?</title>
+    <description><![CDATA[]]></description>
     <articlelinks>
       <link>
-        <text>Lernen Sie mehr über die technische Unterstützung vor dem Verkauf</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
+        <text>Weitere Informationen</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
       </link>
        <link>
-        <text>Informieren Sie sich, wie Sie sich für die technische Unterstützung vor dem Verkauf qualifizieren</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
+        <text>Dev Chat starten</text>
+        <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000108</id>
-    <title>Sind technische Dienste für Anwendungsentwickler und ISVs auf der Basis von Azure verfügbar?</title>
-    <description><![CDATA[Nutzen Sie als MPN-Partner unser Dienstleistungsangebot für Anwendungsentwickler, um Sie bei der Planung, Entwicklung und Verwendung Ihrer Azure-App zu unterstützen. Verschaffen Sie sich mithilfe von persönlicher Beratung, technischem Training und Chatoptionen direkten Zugang zu technischen Azure-Experten, um den Weg zur Appzertifizierung zu beschleunigen.]]></description>
+    <id>1400-000114</id>
+    <title>Welche Vorteile habe ich als MPN-Partner beim Zugriff auf die technischen Erkundungstrips?</title>
+    <description><![CDATA[Als MPN-Partner erhalten Sie unbegrenzten Zugriff auf technische Remotewebinare und Dev Chat im Rahmen des technischen Erkundungstrips. Für eine technische Einzelberatung per Skype for Business nutzen Sie die Vorteile der technischen Unterstützung vor dem Verkauf oder der Partner Advisory Hours. ]]></description>
     <articlelinks>
       <link>
-        <text>Informieren Sie sich über die technischen Dienste für die Entwicklung von Cloud-Apps</text>
-        <url><![CDATA[https://partner.microsoft.com/support/azure-presales-deployment ?tpqid=1400-000108]]></url>
+        <text>MPN-Vorteile bei technischer Unterstützung und Bereitstellungsdiensten anzeigen</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text>Erste Schritte mit Dev Chat</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
+        <text>Blog lesen</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1400-000104</id>
-    <title>Wo finde ich technische Trainings zu Vorverkaufs- und Bereitstellungsszenarien für Azure, Office 365, Dynamics CRM Online, Windows 10 und Enterprise Mobility Suite?</title>
-    <description><![CDATA[Technische Trainings für die ersten Schritte zur Optimierung Ihrer Vorverkaufs- und Bereitstellungsfertigkeiten finden Sie unter http://aka.ms/TechnicalServices. Für MPN-Partner sind diese Trainings kostenlos verfügbar.]]></description>
-    <articlelinks>
-      <link>
-        <text>Registrieren Sie sich für technische Trainings mittels Webcast</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
+       <link>
+        <text>Technischen Erkundungstrip starten</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
     </articlelinks></question></group></groups>

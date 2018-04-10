@@ -282,15 +282,10 @@
         <text>Partner Center: CSP Announcements</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
       </link>
-       <link>
-        <text>Partner Center: Agreements, Price Lists and Offers</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/csp-documents-and-learning-resources
-?tpqid=200-000083]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
     <title>How to add licenses or services to an existing CSP subscription?</title>
-    <description><![CDATA[View the links below to learn how to upgrade/downgrade subscription or how to update your user profile]]></description>
+    <description><![CDATA[View the links below to learn how to upgrade subscription]]></description>
     <articlelinks>
       <link>
         <text>Partner Center: Add licenses or services to an existing subscription</text>
@@ -299,7 +294,7 @@
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
     <title>How do I manage my CSP Invoices and customer billing?</title>
-    <description><![CDATA[Read the article below to see how you can manage CSP bills and customer billing.]]></description>
+    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
     <articlelinks>
       <link>
         <text>Partner Center: Biling</text>
@@ -308,7 +303,7 @@
     </articlelinks></question><question>
     <id>200-000066</id>
     <title>How can I encourage my customers to adopt Office 365?</title>
-    <description><![CDATA[Whether your online service business is starting out or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
+    <description><![CDATA[Whether your online service business is just starting or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
     <articlelinks>
       <link>
         <text>MPN Portal: Cloud SureStep Overview</text>
@@ -428,8 +423,12 @@
     <description><![CDATA[Read the article below to see learn more about Partner Center website.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Partner with Microsoft</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-overview?tpqid=200-000095]]></url>
+        <text>Partner Center: Join the Microsoft Partner Network (MPN)</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Welcome to the Microsoft Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000085</id>
@@ -460,11 +459,11 @@ You can use the dashboard as a source for key data to help you efficiently manag
       </link>
        <link>
         <text>Partner Center: Use the reconciliations files </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files ?tpqid=200-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
       </link>
        <link>
         <text>Partner Center: Common billing scenarios </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios ?tpqid=200-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000099</id>
@@ -484,24 +483,6 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <url><![CDATA[https://social.msdn.microsoft.com/Forums/en-US/home?category=microsoftpartnercenter&tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000098</id>
-    <title>Where can I find information and stay updated with the latest information about the Cloud Solution Provider (CSP) program?</title>
-    <description><![CDATA[Stay up to date and learn more about the CSP program from the Partner Center portal.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Learn more about the CSP program</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000098]]></url>
-      </link>
-       <link>
-        <text>Partner Center: CSP Announcements</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000098]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Agreements, Price Lists and Offers</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/csp-documents-and-learning-resources
-?tpqid=200-000098]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000094</id>
     <title>Where can I find more information about my financial position in the incentives programs in Partner Center?</title>
     <description><![CDATA[Find out more info about payment trends.]]></description>
@@ -510,7 +491,24 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Partner Center: CSP Incentive information</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="1">
+    <id>800-000092</id>
+    <title>How do I activate my internal-use rights licenses?</title>
+    <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Parnter Center: Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
     <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. For details about license benefits, refer to the following resources:]]></description>
@@ -560,23 +558,6 @@ You can use the dashboard as a source for key data to help you efficiently manag
        <link>
         <text>Visual Studio Online subscriptions</text>
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>800-000092</id>
-    <title>How do I activate my internal-use rights licenses?</title>
-    <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Parnter Center: Manage your Microsoft Partner Network membership benefits</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000105</id>
@@ -866,11 +847,11 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       </link>
        <link>
         <text>Partner Center: Purchase or renew a Microsoft Action Pack subscription </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-get-action-pack ?tpqid=100-000012]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000012]]></url>
       </link>
        <link>
         <text>Partner Center: Access your Parnter Center Dashboard</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview ?tpqid=100-000012]]></url>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000086</id>
@@ -883,7 +864,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       </link>
        <link>
         <text>Pearson Vue Exam Accommodations</text>
-        <url><![CDATA[http://www.pearsonvue.com/accommodations/ ?tpqid=100-000086]]></url>
+        <url><![CDATA[http://www.pearsonvue.com/accommodations?tpqid=100-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000083</id>
@@ -1124,7 +1105,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       </link>
        <link>
         <text>Partner Center: Competencies</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies  ?tpqid=100-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000061</id>
@@ -1334,86 +1315,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Dynamics 365 Support (Sign in required)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Services" refid="TechnicalServices"><question>
-    <id>1400-000105</id>
-    <title>Where do I find technical assistance to help me position Microsoft solutions, overcome customer objections, demonstrate the value of solutions, and present solutions to prospective customers for Microsoft cloud and hybrid scenarios during the presales phase?</title>
-    <description><![CDATA[Technical Presales Assistance is available as part of your MPN benefits to help you gain a competitive advantage by getting technical consultation and customized assistance, such as proof-of-concept guidance, competitive assistance, feature overview and comparison guidance, request for proposal (RFP) questions and technical licensing recommendations. Visit http://aka.ms/TechnicalServices to learn more.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Learn more about Technical Presales Assistance</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000105]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Learn how to qualify for Technical Presales Assistance</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000105]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000104</id>
-    <title>Where do I find technical training to address real-world technical presales and deployment scenarios for Azure, Office 365, Dynamics 365, Windows 10 and Enterprise Mobility Suite?</title>
-    <description><![CDATA[Find technical training to build your technical presales and deployment skill set by visiting http://aka.ms/TechnicalServices to get started. Available at no cost to MPN partners.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Register for a technical training webcast</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000107</id>
-    <title>Who is Microsoft Partner Technical Services and how can they help me win more deals, accelerate deployment and app development, and support my customers?    </title>
-    <description><![CDATA[From the point you start to invest in Microsoft – to when you begin selling and deploying – and all the way through when you have more complex deals in technologies, Microsoft Partner Technical Services is there to support you across the lifecycle. ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Watch the short video series to learn more</text>
-        <url><![CDATA[http://aka.ms/PTSOverviewVideos?tpqid=1400-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000106</id>
-    <title>Are there technical resources available to help me during the design, development and deployment phases of my projects to resolve customer scenarios?</title>
-    <description><![CDATA[Yes, leverage your partner advisory hours to access Deployment Services to accelerate deployment and increase consumption by receiving customized consultation, including design and implementation guidance, code review and test environment review, solution integration assistance, migration and deployment planning, scenario guidance and solution architecture. Learn more and submit a request at http://aka.ms/TechnicalServices. ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Learn more and submit a request for Deployment Services using your partner advisory hours</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000106]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Learn how to qualify for Partner Advisory Hours to access Deployment Services</text>
-        <url><![CDATA[http://aka.ms/corebenefits?tpqid=1400-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000108</id>
-    <title>Are there technical services available to app developers and ISVs building on Azure?</title>
-    <description><![CDATA[As an MPN partner, leverage our suite of app developer services that help you plan, build and operate your Azure app. Get direct access to Azure technical experts through 1:1 consultations, technical training and chat options to accelerate your technical journey to app certification.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Learn about the Azure App Dev technical services</text>
-        <url><![CDATA[https://partner.microsoft.com/support/azure-presales-deployment ?tpqid=1400-000108]]></url>
-      </link>
-       <link>
-        <text>KB 3174960: Get started with Dev Chat</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000108]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000109</id>
-    <title>What technical services are available to help me plan, build and operate my apps on Office 365?</title>
-    <description><![CDATA[Take advantage of a suite of app developer services specifically designed to help MPN partners plan, build and operate your Office 365 app. Get direct access to Office 365 technical experts through 1:1 consultations, technical training and chat options to accelerate your technical journey to app certification.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Learn about the Office 365 App Dev technical services</text>
-        <url><![CDATA[https://partner.microsoft.com/support/office-365-presales-deployment?tpqid=1400-000109]]></url>
-      </link>
-       <link>
-        <text>KB 3174960: Chat directly with Microsoft engineers via Dev Chat</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3174960?tpqid=1400-000109]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000111</id>
-    <title>Where can I find the technical journeys by cloud workload to help me accelerate sales, deployments and app development by engaging with technical experts as I get started, grow and optimize my business?</title>
-    <description><![CDATA[Get started with your technical journey by leveraging a suite of technical presales and deployment services. ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Technical presales and deployment services</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-presales-deployment-services?tpqid=1400-000111]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technical Journeys" refid="TechnicalJourneys"><question>
     <id>1400-000110</id>
     <title>Where can I find the top questions asked by partners during the presales and deployment phases of cloud and hybrid customer projects?</title>
     <description><![CDATA[Review the most commonly asked questions by partners during the presales and deployment phases of their customer projects—including competitive positioning, demos, configuration, technical licensing, migration and deployment, and app development. ]]></description>
@@ -1421,6 +1323,49 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       <link>
         <text>KB 3182623: Top Partner Product Questions</text>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title>Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. </title>
+    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Start your technical journey</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text>Read blog</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
+    <description><![CDATA[]]></description>
+    <articlelinks>
+      <link>
+        <text>Learn more</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text>Start a Dev Chat</text>
+        <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000114</id>
+    <title>What MPN benefits do I leverage to access the technical journeys?</title>
+    <description><![CDATA[As an MPN partner, you receive unlimited access to remote, technical webinars, and unlimited access to Dev Chat offered as part of the technical journey. To engage in a one-to-one technical consultation via Skype for Business, you will leverage your Technical Presales Assistance or Partner Advisory Hours benefit. ]]></description>
+    <articlelinks>
+      <link>
+        <text>View MPN technical presales & deployment services benefits</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
+      </link>
+       <link>
+        <text>Read blog</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000114]]></url>
+      </link>
+       <link>
+        <text>Start your technical journey</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
     </articlelinks></question></group><group title="Training" refid="Training"><question>
     <id>1200-000089</id>
