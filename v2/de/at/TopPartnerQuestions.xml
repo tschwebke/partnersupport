@@ -64,7 +64,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
     </articlelinks></question><question>
     <id>200-000066</id>
     <title>Wie kann ich meine Kunden ermutigen Office 365 einzusetzen?</title>
-    <description><![CDATA[Bitte nutzen Sie die folgende Präsentation um zu lernen, wie man Office 365 Ihren Kunden anpreisen kann. Beachten Sie, dass Ihre Microsoft Partner Network Anmeldedaten erforderlich sind, um das Dokument herunterzuladen. ]]></description>
+    <description><![CDATA[Mit Cloud SureStep können Sie Ihre Rentabilität optimieren, egal ob Ihr Onlinedienstunternehmen neu oder schon expansionsbereit ist.]]></description>
     <articlelinks>
       <link>
         <text>Übersicht Cloud SureStep</text>
@@ -90,7 +90,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
     <title>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen CSP Abonnement?</title>
-    <description><![CDATA[Über die nachfolgenden Links erfahren Sie, wie Sie Abonnements upgraden/downgraden oder wie Sie Ihr Benutzerprofil aktualisieren]]></description>
+    <description><![CDATA[Über die nachfolgenden Links erfahren Sie, wie Sie Abonnements upgraden]]></description>
     <articlelinks>
       <link>
         <text>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement</text>
@@ -128,8 +128,12 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
     <description><![CDATA[Lesen Sie den nachfolgenden Artikel, um weitere Informationen zur Partner Center-Website zu erhalten.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Partner von Microsoft</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-overview?tpqid=200-000095]]></url>
+        <text>Partner Center: Microsoft Partner Network (MPN) beitreten</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Willkommen beim Microsoft Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -142,11 +146,11 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
       </link>
        <link>
         <text>Partner Center: Verwenden der Kontenabstimmungsdateien </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files ?tpqid=200-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
       </link>
        <link>
         <text>Partner Center: Gängige Fakturierungsszenarien </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios ?tpqid=200-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000088</id>
@@ -216,11 +220,11 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
       </link>
        <link>
         <text>Partner Center Managed-API-Referenz</text>
-        <url><![CDATA[https://msdn.microsoft.com/library/partnercenter/mt635943.aspx?ocid=cs-pcsupport-pcmanagedapi&tpqid=200-000099]]></url>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/partner-center-managed-api?tpqid=200-000099]]></url>
       </link>
        <link>
-        <text>API-Forum</text>
-        <url><![CDATA[https://social.msdn.microsoft.com/Forums/en-US/home?category=microsoftpartnercenter&tpqid=200-000099]]></url>
+        <text>Partner Center: Partner Center-API und SDK Early Adopter-Programm beitreten</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000100</id>
@@ -238,7 +242,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
     <title>Wie verwalte ich meine CSP-Rechnungen und Kundenabrechnung?</title>
-    <description><![CDATA[Lesen Sie den folgenden Artikel, um zu erfahren, wie Sie CSP-Rechnungen und Kundenabrechnung verwalten.]]></description>
+    <description><![CDATA[Anhand der nachfolgenden Informationen erfahren Sie, wie Sie die Abrechnung abwickeln. ]]></description>
     <articlelinks>
       <link>
         <text>Partner Center: Abrechnung</text>
@@ -542,8 +546,7 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
       </link>
        <link>
         <text>Partner support community</text>
-        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0
-&tpqid=300-000013]]></url>
+        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000100</id>
@@ -793,7 +796,7 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
       </link>
        <link>
         <text>Partner Center: Zugriff auf Ihr Partner Center-Dashboard</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview ?tpqid=100-000012]]></url>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000069</id>
@@ -836,10 +839,6 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
     <description><![CDATA[Partner können auf der Seite mit den Kompetenzen die aktuellsten Anforderungen und Kosten für den Erwerb der Kompetenz anzeigen. Über die nachfolgenden hilfreichen Links erhalten Sie die aktuelle Preisliste für Kompetenzen]]></description>
     <articlelinks>
       <link>
-        <text>Leitfaden zum Verlängern Ihrer MPN-Kompetenz</text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/msuspartner/2014/03/12/a-guide-to-renewing-your-mpn-competency/?tpqid=100-000084]]></url>
-      </link>
-       <link>
         <text>Kompetenzen partners</text>
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
       </link>
@@ -879,7 +878,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
       </link>
        <link>
         <text>Partner Center: Kompetenzen</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies  ?tpqid=100-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000018</id>
@@ -969,10 +968,6 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
     <description><![CDATA[Partner können die Liste der Kompetenzanforderungen im Partner Membership Center überprüfen. Zeigen Sie mit der Maus auf „Programmguthaben“, und wählen Sie „Kompetenzübersicht“ aus. Partner können auch im MPN-Portal die Liste der Kompetenzen und deren Anforderungen anzeigen]]></description>
     <articlelinks>
       <link>
-        <text>Cloud Performance-Kompetenzen</text>
-        <url><![CDATA[https://partner.microsoft.com/solutions/cloud-is-our-core?tpqid=100-000082]]></url>
-      </link>
-       <link>
         <text>Kompetenzen</text>
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
       </link>
@@ -1087,7 +1082,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
       </link>
        <link>
         <text>Pearson Vue-Testeinrichtungen</text>
-        <url><![CDATA[http://www.pearsonvue.com/accommodations/ ?tpqid=100-000086]]></url>
+        <url><![CDATA[http://www.pearsonvue.com/accommodations/?tpqid=100-000086]]></url>
       </link>
     </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
     <id>400-000008</id>
@@ -1096,7 +1091,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
     <articlelinks>
       <link>
         <text>Weitere Informationen zu Partner-Incentives</text>
-        <url><![CDATA[http://aka.ms/partnerincentives ?tpqid=400-000008]]></url>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
       </link>
        <link>
         <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
@@ -1204,7 +1199,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
       </link>
        <link>
         <text>Lernpfade für Microsoft-Partner</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -1217,7 +1212,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
     <articlelinks>
       <link>
         <text>Lernpfade für Microsoft Partner </text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
     </articlelinks></question><question>
     <id>1200-000056</id>

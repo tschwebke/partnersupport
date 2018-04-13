@@ -63,7 +63,7 @@
     </articlelinks></question><question>
     <id>200-000066</id>
     <title>顧客に Office 365 を採用するよう推奨するにはどうすればよいですか?</title>
-    <description><![CDATA[顧客に Office 365 の販売を促進する方法について学ぶには、次の教本にアクセスしてください。ダウンロードするには、パートナーの資格情報が必要であることに注意してください。]]></description>
+    <description><![CDATA[オンライン サービス ビジネスを始めたばかりか、拡張する準備ができているかどうかにかかわりなく、Cloud SureStep は収益性を最大にするお手伝いをするよう設計されています。]]></description>
     <articlelinks>
       <link>
         <text>Cloud SureStep の概要</text>
@@ -116,7 +116,7 @@
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
     <title>外部のCSPサブスクリプションにライセンスまたはサービスを追加する方法</title>
-    <description><![CDATA[サブスクリプションをアップグレード/ダウングレードする方法やユーザー プロフィールを更新する方法については、以下のリンクを参照してください。]]></description>
+    <description><![CDATA[以下のリンクを表示して、サブスクリプションをアップグレードする方法を確認する]]></description>
     <articlelinks>
       <link>
         <text>ライセンスまたはサービスを外部サブスクリプションに追加する</text>
@@ -154,8 +154,12 @@
     <description><![CDATA[以下の記事を読んで、パートナー センター Web サイトに関する詳細をご確認ください。]]></description>
     <articlelinks>
       <link>
-        <text>パートナー センター: マイクロソフト パートナーになる</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/mpn-overview?tpqid=200-000095]]></url>
+        <text>パートナー センター: マイクロソフト パートナーネットワーク (MPN) に参加する</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+      </link>
+       <link>
+        <text>パートナー センター: マイクロソフト パートナー センターにようこそ</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -168,11 +172,11 @@
       </link>
        <link>
         <text>パートナー センター: 調整ファイルを使う </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files ?tpqid=200-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
       </link>
        <link>
         <text>パートナー センター: よく使われる請求シナリオ </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios ?tpqid=200-000087]]></url>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000088</id>
@@ -242,11 +246,11 @@
       </link>
        <link>
         <text>パートナー センターのマネージ API リファレンス</text>
-        <url><![CDATA[https://msdn.microsoft.com/library/partnercenter/mt635943.aspx?ocid=cs-pcsupport-pcmanagedapi&tpqid=200-000099]]></url>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/partner-center-managed-api?tpqid=200-000099]]></url>
       </link>
        <link>
-        <text>API フォーラム</text>
-        <url><![CDATA[https://social.msdn.microsoft.com/Forums/en-US/home?category=microsoftpartnercenter&tpqid=200-000099]]></url>
+        <text>パートナー センター: パートナー センター API と SDK アーリー アダプター プログラムに参加する</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000100</id>
@@ -264,7 +268,7 @@
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
     <title>自分の CSP 請求書やお客様の課金情報を管理する方法</title>
-    <description><![CDATA[以下の記事をお読みになり、CSP 請求書やお客様の課金情報を管理する方法をご確認ください。]]></description>
+    <description><![CDATA[以下の情報をレビューして、課金情報を管理する方法を確認しましょう。 ]]></description>
     <articlelinks>
       <link>
         <text>パートナー センター: 課金情報</text>
@@ -514,45 +518,45 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       </link>
     </articlelinks></question></group><group title="テクニカル ジャーニー" refid="TechnicalJourneys"><question>
     <id>1400-000112</id>
-    <title>Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. </title>
-    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
+    <title>テクニカル ジャーニーとは? 取引先組織にとってテクニカル ジャーニーが重要な理由とは?</title>
+    <description><![CDATA[テクニカル ジャーニーは、技術能力をより早く構築することで販売、展開およびアプリ開発を加速化する助けとなります。インタラクティブな技術ウェビナーの推奨パスを通じてマイクロソフト パートナー テクニカル コンサルタントの技術的なガイダンスや、仮想ホワイトボーディング、アーキテクチャ レビュー、実際のシナリオのシャドウ処理に関するパーソナライズされたコンサルテーションを得るために、テクニカル ジャーニーを始めましょう。 ]]></description>
     <articlelinks>
       <link>
-        <text>Start your technical journey</text>
+        <text>テクニカル ジャーニーを始めましょう。</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text>Read blog</text>
+        <text>ブログを読む</text>
         <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000113</id>
-    <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
+    <title>テクニカル ジャーニー全体を通じてマイクロソフト パートナー テクニカル コンサルタントとどのように関わればいいでしょうか?</title>
     <description><![CDATA[]]></description>
     <articlelinks>
       <link>
-        <text>Learn more</text>
+        <text>詳細はこちら</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
       </link>
        <link>
-        <text>Start a Dev Chat</text>
+        <text>開発チャットを開始する</text>
         <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
       </link>
     </articlelinks></question><question>
     <id>1400-000114</id>
-    <title>What MPN benefits do I leverage to access the technical journeys?</title>
-    <description><![CDATA[As an MPN partner, you receive unlimited access to remote, technical webinars, and unlimited access to Dev Chat offered as part of the technical journey. To engage in a one-to-one technical consultation via Skype for Business, you will leverage your Technical Presales Assistance or Partner Advisory Hours benefit. ]]></description>
+    <title>テクニカル ジャーニーにアクセスするために活用できる MPN メリットとは何でしょうか?</title>
+    <description><![CDATA[MPN パートナーとして、リモート技術ウェビナーへの無制限のアクセス、テクニカル ジャーニーの一部として開発チャットへの無制限のアクセスを得ます。Skype for Business を介した 1 対 1 の技術的なコンサルテーションを行うために、テクニカル プリセールス アシスタンスやパートナー相談時間のメリットを活用します。 ]]></description>
     <articlelinks>
       <link>
-        <text>View MPN technical presales & deployment services benefits</text>
+        <text>MPN テクニカル プリセールスおよび展開サービスのメリットを表示する</text>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text>Read blog</text>
+        <text>ブログを読む</text>
         <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text>Start your technical journey</text>
+        <text>テクニカル ジャーニーを始めましょう。</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
     </articlelinks></question></group><group title="トレーニング" refid="Training"><question>
@@ -566,7 +570,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       </link>
        <link>
         <text>マイクロソフト パートナーのラーニング パス</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -596,7 +600,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       </link>
        <link>
         <text>マイクロソフト パートナーのラーニング パス</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=1200-000056]]></url>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000056]]></url>
       </link>
        <link>
         <text>Partner University </text>
@@ -609,7 +613,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
     <articlelinks>
       <link>
         <text>マークロソフト パートナー ラーニング パス</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
     </articlelinks></question></group><group title="パートナー インセンティブ" refid="PartnerIncentives"><question>
     <id>400-000083</id>
@@ -644,7 +648,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
     <articlelinks>
       <link>
         <text>パートナー インセンティブについて</text>
-        <url><![CDATA[http://aka.ms/partnerincentives ?tpqid=400-000008]]></url>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
       </link>
        <link>
         <text>インセンティブ支払いの概要</text>
@@ -718,7 +722,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       </link>
        <link>
         <text>Pearson Vue のテスト環境</text>
-        <url><![CDATA[http://www.pearsonvue.com/accommodations/ ?tpqid=100-000086]]></url>
+        <url><![CDATA[http://www.pearsonvue.com/accommodations/?tpqid=100-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-1000104</id>
@@ -972,7 +976,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       </link>
        <link>
         <text>パートナー センター: パートナー センター ダッシュボードにアクセスする</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview ?tpqid=100-000012]]></url>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000082</id>
