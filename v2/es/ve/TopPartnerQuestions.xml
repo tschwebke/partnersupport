@@ -96,7 +96,7 @@
     </articlelinks></question></group><group title="Descargas y software" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>¿Qué beneficios de software obtiene con su Microsoft Action Pack?</title>
-    <description><![CDATA[Los suscriptores de Action Pack generalmente reciben 10 licencias de uso interno para la última versión del software de Microsoft. Esto incluye las licencias de instalación local de software, servicios en línea, y suscripciones a Visual Studio Online. Para obtener más información acerca de los beneficios de licencias, consulte los siguientes recursos:]]></description>
+    <description><![CDATA[Los suscriptores de Action Pack generalmente reciben 10 licencias de uso interno para la última versión del software de Microsoft. Esto incluye las licencias de instalación local de software, servicios en línea, y suscripciones a Visual Studio Online. Se necesita un proceso de renovación de O365 y Dynamics independiente de la nueva inscripción de MAPS. Estos productos no se renuevan automáticamente cuando el socio renueva su pertenencia a MAPS. Para obtener más información acerca de los beneficios de licencias, consulte los siguientes recursos:]]></description>
     <articlelinks>
       <link>
         <text>Visión general Microsoft Action Pack </text>
@@ -373,24 +373,16 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>KB 4076425: Preguntas sobre licencias de socios: guía de referencia rápida</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Pertenencia" refid="Membership"><question>
-    <id>100-000069</id>
-    <title>Mi empresa no está inscrito en el Microsoft Partner Network. ¿Cómo doy de alta a mi empresa?</title>
-    <description><![CDATA[Si usted tiene una cuenta de Microsoft, inicie sesión en la página de Microsoft Partner Network y vaya a “Dar de alta a mi organización” para comenzar. Si usted no tiene una cuenta de Microsoft, tendrá que crear una.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>¿Cuándo pueden los socios recibir nuevas claves para los productos locales? </title>
+    <description><![CDATA[Tenga en cuenta que las claves locales tienen un número limitado de activaciones. Los socios pueden recibir nuevas claves solamente si se lanzó una nueva versión del producto. De lo contrario, los socios no recibirán activaciones adicionales, incluso si ya las consumieron y pagaron un nuevo año de nueva inscripción. ]]></description>
     <articlelinks>
       <link>
-        <text>Cómo asociar una cuenta de Microsoft a un identificador de Microsoft Partner Network</text>
-        <url><![CDATA[https://vimeo.com/134886256?tpqid=100-000069]]></url>
+        <text>Portal MPN: Preguntas más frecuentes sobre los beneficios de las licencias de software de Partner Network  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-       <link>
-        <text>Cómo asociarse a un identificador de MPN</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>Cómo asociar una cuenta de Microsoft al identificador de red de socios de Microsoft de su organización</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Pertenencia" refid="Membership"><question>
     <id>100-000012</id>
     <title>¿Cómo puedo renovar la membresía de mi empresa?</title>
     <description><![CDATA[Aprenda cómo determinar cuándo debe renovar su membresía, cómo renovarla, oportunidades en la red y más.]]></description>
@@ -758,20 +750,24 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Verbinden und Abtrennen einer MCP-ID zu oder von einer Partnerorganisation</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
-    </articlelinks></question></group><group title="Prestaciones" refid="Benefits"><question>
-    <id>300-000028</id>
-    <title>¿Cómo califico para el soporte Signature de socios de la nube?</title>
-    <description><![CDATA[Revise la guía de divulgación de información sobre los requisitos individuales para las competencias Cloud e híbridas. ]]></description>
+    </articlelinks></question><question>
+    <id>100-000069</id>
+    <title>Mi empresa no está inscrito en el Microsoft Partner Network. ¿Cómo doy de alta a mi empresa?</title>
+    <description><![CDATA[Si usted tiene una cuenta de Microsoft, inicie sesión en la página de Microsoft Partner Network y vaya a “Dar de alta a mi organización” para comenzar. Si usted no tiene una cuenta de Microsoft, tendrá que crear una.]]></description>
     <articlelinks>
       <link>
-        <text>Guía de Divulgación de Microsoft Partner Network</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+        <text>Cómo asociar una cuenta de Microsoft a un identificador de Microsoft Partner Network</text>
+        <url><![CDATA[https://vimeo.com/134886256?tpqid=100-000069]]></url>
       </link>
        <link>
-        <text>Para comprobar que tiene derecho a recibir este beneficio y obtener más información</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
+        <text>Cómo asociarse a un identificador de MPN</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Cómo asociar una cuenta de Microsoft al identificador de red de socios de Microsoft de su organización</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
+      </link>
+    </articlelinks></question></group><group title="Prestaciones" refid="Benefits"><question>
     <id>300-000103</id>
     <title>¿Cómo se asigna acceso a una suscripción de Visual Studio Online y privilegios para  suscripción a MAP y socios con competencias?</title>
     <description><![CDATA[En el artículo a continuación encontrará instrucciones paso a paso para asignar acceso a una suscripción a Visual Studio Online y privilegios para una suscripción a MAP y socios con competencias.]]></description>
@@ -995,24 +991,20 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Acelere su negocio con los beneficios de derechos de uso interno (IUR)</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
       </link>
-    </articlelinks></question></group><group title="Servicios en la nube" refid="CloudServices"><question>
-    <id>200-000087</id>
-    <title>¿Dónde puedo encontrar más información sobre las reglas de facturación, las condiciones de pago y la disponibilidad de facturas?</title>
-    <description><![CDATA[consulte la información de los artículos siguientes para obtener más información sobre la facturación]]></description>
+    </articlelinks></question><question>
+    <id>300-000028</id>
+    <title>¿Cómo califico para el soporte Signature de socios de la nube?</title>
+    <description><![CDATA[Revise la guía de divulgación de información sobre los requisitos individuales para las competencias Cloud e híbridas. ]]></description>
     <articlelinks>
       <link>
-        <text>Centro de partners: información sobre facturación</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
+        <text>Guía de Divulgación de Microsoft Partner Network</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
       </link>
        <link>
-        <text>Centro de partners: use archivos de reconciliaciones </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
+        <text>Para comprobar que tiene derecho a recibir este beneficio y obtener más información</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-       <link>
-        <text>Centro de partners: escenarios comunes de facturación </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Servicios en la nube" refid="CloudServices"><question>
     <id>200-000088</id>
     <title>¿Cómo se agrega el R.F.C. de mi empresa?</title>
     <description><![CDATA[Consulte el siguiente artículo sobre cómo agregar su R.F.C.]]></description>
@@ -1245,16 +1237,24 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Centro de partners: anuncios de CSP</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="Soporte de producto" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>¿Dónde se obtiene ayuda para preguntas o problemas relacionados con los productos Dynamics?</title>
-    <description><![CDATA[Envíe una solicitud de servicio a través de Partner Source. Para ello, puede visitar la sección de precios y órdenes del sitio y seleccionar New Operations Request. Indique un número de TI como parte de la solicitud o chatee directamente con un agente. Si su solicitud no se resuelve satisfactoriamente, envíe un correo electrónico a Dynamics Escalation, incluyendo el número de TI en el cuerpo del mensaje.]]></description>
+    </articlelinks></question><question>
+    <id>200-000087</id>
+    <title>¿Dónde puedo encontrar más información sobre las reglas de facturación, las condiciones de pago y la disponibilidad de facturas?</title>
+    <description><![CDATA[consulte la información de los artículos siguientes para obtener más información sobre la facturación]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>Centro de partners: información sobre facturación</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Centro de partners: use archivos de reconciliaciones </text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>Centro de partners: escenarios comunes de facturación </text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
+      </link>
+    </articlelinks></question></group><group title="Soporte de producto" refid="ProductSupport"><question>
     <id>700-000002</id>
     <title>¿Cómo se crean solicitudes de servicio para Office 365, Microsoft Azure o Microsoft Dynamics 365 para mi organización o en nombre de un cliente?</title>
     <description><![CDATA[Las solicitudes de soporte técnico de productos se pueden enviar desde cada uno de los siguientes portales.]]></description>
@@ -1270,5 +1270,14 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
        <link>
         <text>Soporte técnico de Microsoft Dynamics 365 (requiere inicio de sesión)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>¿Dónde se obtiene ayuda para preguntas o problemas relacionados con los productos Dynamics?</title>
+    <description><![CDATA[Envíe una solicitud de servicio a través de Partner Source. Para ello, puede visitar la sección de precios y órdenes del sitio y seleccionar New Operations Request. Indique un número de TI como parte de la solicitud o chatee directamente con un agente. Si su solicitud no se resuelve satisfactoriamente, envíe un correo electrónico a Dynamics Escalation, incluyendo el número de TI en el cuerpo del mensaje.]]></description>
+    <articlelinks>
+      <link>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
     </articlelinks></question></group></groups>

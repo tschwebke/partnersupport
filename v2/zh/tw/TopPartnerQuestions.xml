@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="下載與軟體" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>有微软行动宝盒，您获得什么软件权益? </title>
-    <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可. 这包括本地软件许可, 在线服务, 和 Visual Studio Online 订阅. 对于许可权益的详细信息，请参考以下资源:]]></description>
+    <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可. 这包括本地软件许可, 在线服务, 和 Visual Studio Online 订阅. O365 和 Dynamics 必須與 MAPS 的續約分別進行續約程序，而不會在合作夥伴續約 MAPS 成員資格時自動續約。对于许可权益的详细信息，请参考以下资源:]]></description>
     <articlelinks>
       <link>
         <text>微软行动宝盒概览</text>
@@ -1028,20 +1028,16 @@
         <text>KB 4076425: 合作夥伴授權問題 – 快速參考手冊 (機器翻譯)</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question>
-    <id>200-000089</id>
-    <title>如何要求 CSP 關係？</title>
-    <description><![CDATA[若要代表客戶管理他們的服務或訂閱，客戶必須授與您該服務的系統管理員權限。請閱讀下列文章中的詳細資訊：]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>合作夥伴何時能取得適用於內部部署產品的新機碼？ </title>
+    <description><![CDATA[請注意，內部部署機碼具有有限的啟用次數。只有在啟動新版產品的情況下，合作夥伴才能取得新機碼。若無，合作夥伴將不會收到其他啟用，即使他們已經取用並付費下一年的續約註冊亦然。 ]]></description>
     <articlelinks>
       <link>
-        <text>合作夥伴中心：要求與客戶建立經銷商關係</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+        <text>MPN 入口網站：合作夥伴網路軟體授權權益常見問題集  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-       <link>
-        <text>合作夥伴中心：移除與客戶的經銷商關係</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="雲端服務" refid="CloudServices"><question>
     <id>200-000091</id>
     <title>如何使用促銷，以及我可以在哪裡找到可用的促銷？</title>
     <description><![CDATA[Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 計畫中所有符合資格的合作夥伴的促銷，以及僅適用於特定地理區域的合作夥伴的促銷。]]></description>
@@ -1275,5 +1271,18 @@
       <link>
         <text>合作夥伴中心：組織稅務資訊</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000089</id>
+    <title>如何要求 CSP 關係？</title>
+    <description><![CDATA[若要代表客戶管理他們的服務或訂閱，客戶必須授與您該服務的系統管理員權限。請閱讀下列文章中的詳細資訊：]]></description>
+    <articlelinks>
+      <link>
+        <text>合作夥伴中心：要求與客戶建立經銷商關係</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text>合作夥伴中心：移除與客戶的經銷商關係</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
       </link>
     </articlelinks></question></group></groups>

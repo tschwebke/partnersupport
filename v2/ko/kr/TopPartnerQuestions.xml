@@ -104,7 +104,7 @@
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Microsoft Action Pack에서 어떤 소프트웨어 혜택을 제공하고 있습니까? </title>
-    <description><![CDATA[Action Pack 구독자는 일반적으로 최신 Microsoft 소프트웨어의 10개 내부 사용 라이선스 (IUR)를 받게 됩니다. 여기에는 온프레미스 라이선스, 온라인 서비스, 그리고 Visual Studio Online 구독이 포함됩니다. 라이선스 혜택에 대한 세부 정보는 다음 리소스에서 확인할 수 있습니다:]]></description>
+    <description><![CDATA[Action Pack 구독자는 일반적으로 최신 Microsoft 소프트웨어의 10개 내부 사용 라이선스 (IUR)를 받게 됩니다. 여기에는 온프레미스 라이선스, 온라인 서비스, 그리고 Visual Studio Online 구독이 포함됩니다. O365 및 Dynamics의 경우 MAPS의 재등록과 별도로 갱신 프로세스를 수행해야 합니다. 이러한 제품은 파트너가 MAPS 멤버 자격을 갱신한 후에도 자동으로 갱신되지 않습니다. 라이선스 혜택에 대한 세부 정보는 다음 리소스에서 확인할 수 있습니다:]]></description>
     <articlelinks>
       <link>
         <text>Microsoft Action Pack 개요</text>
@@ -288,24 +288,16 @@
         <text>KB 4076425: 파트너 라이선싱 질문 - 빠른 참조 가이드</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="멤버십" refid="Membership"><question>
-    <id>100-000069</id>
-    <title>회사는 MPN (Microsoft Partner Network)에 등록되어 있으며 프로필로 담당자를 연동하는 방법을 알고자 합니다.</title>
-    <description><![CDATA[Microsoft 계정이 있다면 파트너 멤버십 센터의 개인 페이지 Associate로 로그인하여 액세스합니다. 그리고 해당 양식을 기입하고 만약 Microsoft 계정이 없을 경우, 계정을 먼저 생성해야 합니다. ]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>파트너는 언제 새 온-프레미즈 제품용 키를 받을 수 있나요? </title>
+    <description><![CDATA[온-프레미스 키는 정품 인증 횟수가 한정되어 있습니다. 파트너는 제품의 새 버전이 출시된 경우에만 새 키를 받을 수 있습니다. 그렇지 않은 경우 파트너는 키를 이미 사용하고 신규 1년 재등록 비용을 지불했더라도 추가 정품 인증을 수신하지 못합니다. ]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft 파트너 네트워크 ID와 Microsoft 계정을 연동하는 방법</text>
-        <url><![CDATA[https://vimeo.com/134886256?tpqid=100-000069]]></url>
+        <text>MPN 포털: 파트너 네트워크 소프트웨어 라이선싱 혜택 관련 FAQ  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-       <link>
-        <text>MPN ID의 연동 방법</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>Microsoft 계정을 조직의 Microsoft 파트너 네트워크 ID와 연동하는 방법</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="멤버십" refid="Membership"><question>
     <id>100-000061</id>
     <title>어디에서 Microsoft Action Pack 구독의 만료 날짜를 확인할 수 있습니까?</title>
     <description><![CDATA[만료 날짜를 확인하려면 파트너 멤버십 센터에 액세스하셔야 합니다. 메뉴의 Orders and Benefits (주문 및 혜택)에서 Microsoft Action Pack Subscription을 선택하시면 됩니다.]]></description>
@@ -669,16 +661,24 @@
         <text>핵심 혜택과 요구조건</text>
         <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
       </link>
-    </articlelinks></question></group><group title="제품 지원" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Dynamics 제품 관련 문제나 질문에 대한 지원은 어디서 받을 수 있나요?</title>
-    <description><![CDATA[PartnerSource를 통해 서비스 요청을 기록하세요. 해당 사이트의 가격 및 주문 섹션을 방문하여 새 작업 요청을 선택하면 됩니다. 요청 내용에 IT 번호를 기입하거나, 채팅을 통해 상담원과 직접 상담하세요. 요청이 만족스럽게 해결되지 않았다면 Dynamics Escalation으로 전자 메일을 보내 주시기 바랍니다(전자 메일 본문에 IT 번호 기입).]]></description>
+    </articlelinks></question><question>
+    <id>100-000069</id>
+    <title>회사는 MPN (Microsoft Partner Network)에 등록되어 있으며 프로필로 담당자를 연동하는 방법을 알고자 합니다.</title>
+    <description><![CDATA[Microsoft 계정이 있다면 파트너 멤버십 센터의 개인 페이지 Associate로 로그인하여 액세스합니다. 그리고 해당 양식을 기입하고 만약 Microsoft 계정이 없을 경우, 계정을 먼저 생성해야 합니다. ]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>Microsoft 파트너 네트워크 ID와 Microsoft 계정을 연동하는 방법</text>
+        <url><![CDATA[https://vimeo.com/134886256?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>MPN ID의 연동 방법</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
+      </link>
+       <link>
+        <text>Microsoft 계정을 조직의 Microsoft 파트너 네트워크 ID와 연동하는 방법</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
+      </link>
+    </articlelinks></question></group><group title="제품 지원" refid="ProductSupport"><question>
     <id>700-000002</id>
     <title>조직용으로 또는 고객을 대신하여 Office 365, Microsoft Azure 또는 Microsoft Dynamics 365에 대한 지원 요청을 작성하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[다음의 각 포털에서 제품 지원 요청을 제출할 수 있습니다.]]></description>
@@ -695,24 +695,16 @@
         <text>Microsoft Dynamics 365 지원(로그인 필요)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="클라우드 서비스" refid="CloudServices"><question>
-    <id>200-000087</id>
-    <title>청구 규칙, 결제 조건 및 청구서 제공 여부와 관련한 정보는 어디서 확인할 수 있나요?</title>
-    <description><![CDATA[청구에 대해 자세히 알아보려면 다음 문서의 정보를 검토하세요.]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Dynamics 제품 관련 문제나 질문에 대한 지원은 어디서 받을 수 있나요?</title>
+    <description><![CDATA[PartnerSource를 통해 서비스 요청을 기록하세요. 해당 사이트의 가격 및 주문 섹션을 방문하여 새 작업 요청을 선택하면 됩니다. 요청 내용에 IT 번호를 기입하거나, 채팅을 통해 상담원과 직접 상담하세요. 요청이 만족스럽게 해결되지 않았다면 Dynamics Escalation으로 전자 메일을 보내 주시기 바랍니다(전자 메일 본문에 IT 번호 기입).]]></description>
     <articlelinks>
       <link>
-        <text>파트너 센터: 청구 정보</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-       <link>
-        <text>파트너 센터: 조정 파일 사용 </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>파트너 센터: 일반적인 청구 시나리오 </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="클라우드 서비스" refid="CloudServices"><question>
     <id>200-000088</id>
     <title>조직의 VAT ID를 추가하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[VAT ID를 추가하는 방법을 확인하려면 다음 문서를 검토하세요.]]></description>
@@ -943,6 +935,23 @@
         <text>Microsoft Office 365의 초기 여정</text>
         <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>200-000087</id>
+    <title>청구 규칙, 결제 조건 및 청구서 제공 여부와 관련한 정보는 어디서 확인할 수 있나요?</title>
+    <description><![CDATA[청구에 대해 자세히 알아보려면 다음 문서의 정보를 검토하세요.]]></description>
+    <articlelinks>
+      <link>
+        <text>파트너 센터: 청구 정보</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>파트너 센터: 조정 파일 사용 </text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>파트너 센터: 일반적인 청구 시나리오 </text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
+      </link>
     </articlelinks></question></group><group title="터미널 서비스" refid=""><question>
     <id>1400-000110</id>
     <title>클라우드 및 하이브리드 고객 프로젝트의 사전 판매 및 배포 단계 도중 파트너가 주로 하는 질문은 어디서 확인할 수 있나요?</title>
@@ -953,19 +962,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group><group title="파트너 인센티브" refid="PartnerIncentives"><question>
-    <id>400-000080</id>
-    <title>파트너 인센티브에 대한 지원은 어떻게 받을 수 있습니까?</title>
-    <description><![CDATA[파트너 인센티브 페이지의 지원 섹션 아래에서 파트너 인센티브 프로그램에 대한 지원을 찾을 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>파트너 인센티브에 대한 지원 받기</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
-      </link>
-       <link>
-        <text>View the new Partner Incentives page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000082</id>
     <title>파트너 인센티브 수익을 올리고자 할 때 해당 자격을 갖추는 방법은 무엇입니까?</title>
     <description><![CDATA[파트너 인센티브의 자격은 프로그램에 따라 달라집니다. 일부 프로그램에서는 파트너 네트워크 역량의 획득을 요구합니다. 일부는 파트너의 성과를 평가하거나 Microsoft 채널의 인증 상태를 확인합니다. 모든 포트너가 모든 인센티브에 대한 자격을 갖추는 것은 아닙니다.]]></description>
@@ -1030,17 +1026,20 @@
         <text>인센티브 지급액 이해</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question></group><group title="혜택" refid="Benefits"><question>
-    <id>300-000099</id>
-    <title>MSDN에 이미 등록되어 있는 상황에서 Visual Studio에 등록하려면 어떻게 해야 하나요?</title>
-    <description><![CDATA[기술 자료 문서 내 Visual Studio 등록에 설명된 단계에 따라 Visual Studio에 등록하는 방법 알아보기 (MPN RSC는 MPN 회원이 Visual Studio 구독 혜택, 구독에 대한 액세스, Visual Studio 포털의 기본적인 사용 방법의 이해를 돕는 역할을 합니다.)
-]]></description>
+    </articlelinks></question><question>
+    <id>400-000080</id>
+    <title>파트너 인센티브에 대한 지원은 어떻게 받을 수 있습니까?</title>
+    <description><![CDATA[파트너 인센티브 페이지의 지원 섹션 아래에서 파트너 인센티브 프로그램에 대한 지원을 찾을 수 있습니다.]]></description>
     <articlelinks>
       <link>
-        <text>내 Visual Studio 등록</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+        <text>파트너 인센티브에 대한 지원 받기</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>View the new Partner Incentives page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+      </link>
+    </articlelinks></question></group><group title="혜택" refid="Benefits"><question>
     <id>300-000103</id>
     <title>MAPS 및 역량 파트너를 대상으로 Visual Studio Online 구독 액세스 및 권한을 할당하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[아래 문서에서 MAPS 및 역량 파트너를 대상으로 Visual Studio Online 구독 액세스 및 권한을 할당하는 방법을 단계별 지침을 통해 확인할 수 있습니다.]]></description>
@@ -1267,5 +1266,15 @@
        <link>
         <text>Partner support community</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000099</id>
+    <title>MSDN에 이미 등록되어 있는 상황에서 Visual Studio에 등록하려면 어떻게 해야 하나요?</title>
+    <description><![CDATA[기술 자료 문서 내 Visual Studio 등록에 설명된 단계에 따라 Visual Studio에 등록하는 방법 알아보기 (MPN RSC는 MPN 회원이 Visual Studio 구독 혜택, 구독에 대한 액세스, Visual Studio 포털의 기본적인 사용 방법의 이해를 돕는 역할을 합니다.)
+]]></description>
+    <articlelinks>
+      <link>
+        <text>내 Visual Studio 등록</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
     </articlelinks></question></group></groups>

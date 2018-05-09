@@ -321,7 +321,7 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Welche Software-Leistungen sind im Microsoft Action Pack enthalten?</title>
-    <description><![CDATA[Action Pack-Abonnenenten erhalten generell bis zu 10 Lizenzen der aktuellen Microsoft Software-Produkte für die firmeninterne Nutzung. Enthalten sind Software für die lokale Installation, Online Services-Produkte und Visual Studio Online-Abonnements. Detaillierte Infomationen zu den Lizenzen finden Sie hier:]]></description>
+    <description><![CDATA[Action Pack-Abonnenenten erhalten generell bis zu 10 Lizenzen der aktuellen Microsoft Software-Produkte für die firmeninterne Nutzung. Enthalten sind Software für die lokale Installation, Online Services-Produkte und Visual Studio Online-Abonnements. Für O365 und Dynamics ist ein Verlängerungsprozess getrennt vom erneuten Enrollment von MAPS erforderlich. Sie werden nicht automatisch verlängert, wenn ein Partner seine MAPS-Mitgliedschaft verlängert. Detaillierte Infomationen zu den Lizenzen finden Sie hier:]]></description>
     <articlelinks>
       <link>
         <text>Microsoft Action Pack Übersicht </text>
@@ -690,16 +690,16 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>KB 4076425: Fragen zur Partnerlizenzierung – Kurzübersichtsleitfaden</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
-    <id>100-000079</id>
-    <title>Senden einer Gruppeneinladung?</title>
-    <description><![CDATA[Im nachfolgenden Artikel erhalten Sie Informationen zum Senden einer Gruppeneinladung]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>Wann erhalten Partner neue Schlüssel für lokale Produkte? </title>
+    <description><![CDATA[Bitte beachten Sie, dass lokale Schlüssel nur für eine endliche Anzahl von Aktivierungen gelten. Partner erhalten erst neue Schüssel, wenn eine neue Version des Produkts auf den Markt gebracht wird. Ansonsten erhalten Partner keine zusätzlichen Aktivierungen, auch wenn sie diese bereits verbraucht und für ein erneutes Enrollment-Jahr bezahlt haben. ]]></description>
     <articlelinks>
       <link>
-        <text>Senden einer Gruppeneinladung</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017800?tpqid=100-000079]]></url>
+        <text>MPN-Portal: Vorteile der Partner Network-Softwarelizenzierung – FAQ  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
     <id>100-000089</id>
     <title>Wo kann ich die Anforderung des technischen Assessments für die Enterprise Mobility Angebote finden?</title>
     <description><![CDATA[Das technische Assessment für die Enterprise Mobility Angebote ist im Partner University zu finden und ist verfügbar in den folgenden Sprachen: Englisch, Deutsch, Spanisch und Französisch.]]></description>
@@ -1084,20 +1084,16 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Pearson Vue-Testeinrichtungen</text>
         <url><![CDATA[http://www.pearsonvue.com/accommodations/?tpqid=100-000086]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
-    <id>400-000008</id>
-    <title>Was sind Microsoft Partner-Incentives? </title>
-    <description><![CDATA[Partner-Incentives sind eine Facette der Ressourcen, die Microsoft in sein Partnerökosystem investiert. Gleichgültig, ob Sie Ihre Geschäfte lokal, in der Cloud oder irgendwo dazwischen abwickeln, die Partner-Incentives sollen die Wirtschaftlichkeit und das Wachstum Ihres Unternehmens fördern sowie die Microsoft-Strategie „Cloud-first, mobile-first“ stärken. Zu Incentives gehören Programme für große, mittlere und kleine Unternehmen, für Cloud-Dienste und Geräte.]]></description>
+    </articlelinks></question><question>
+    <id>100-000079</id>
+    <title>Senden einer Gruppeneinladung?</title>
+    <description><![CDATA[Im nachfolgenden Artikel erhalten Sie Informationen zum Senden einer Gruppeneinladung]]></description>
     <articlelinks>
       <link>
-        <text>Weitere Informationen zu Partner-Incentives</text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
+        <text>Senden einer Gruppeneinladung</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017800?tpqid=100-000079]]></url>
       </link>
-       <link>
-        <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
     <id>400-000079</id>
     <title>Wo finde ich weitere Informationen zu Partner-Incentives? </title>
     <description><![CDATA[Seit dem 1. Juli 2015 sind im Microsoft Partner Network Informationen zu allen Partner-Incentives-Programmen verfügbar! Zu einem Incentives-Programm berechtigte Partner finden alle zu dem betreffenden Programm verfügbaren Materialien unter aka.ms/partnerincentives. Die Partner sehen auch dann Details zu den meisten Cloud-Incentives, wenn sie die erforderlichen Kompetenzen noch nicht erworben haben. ]]></description>
@@ -1162,7 +1158,29 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Wo aktiviere ich meine Steuerdetails?</text>
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>400-000008</id>
+    <title>Was sind Microsoft Partner-Incentives? </title>
+    <description><![CDATA[Partner-Incentives sind eine Facette der Ressourcen, die Microsoft in sein Partnerökosystem investiert. Gleichgültig, ob Sie Ihre Geschäfte lokal, in der Cloud oder irgendwo dazwischen abwickeln, die Partner-Incentives sollen die Wirtschaftlichkeit und das Wachstum Ihres Unternehmens fördern sowie die Microsoft-Strategie „Cloud-first, mobile-first“ stärken. Zu Incentives gehören Programme für große, mittlere und kleine Unternehmen, für Cloud-Dienste und Geräte.]]></description>
+    <articlelinks>
+      <link>
+        <text>Weitere Informationen zu Partner-Incentives</text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
+      </link>
+       <link>
+        <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
     </articlelinks></question></group><group title="Produkt-Support" refid="ProductSupport"><question>
+    <id>700-000001</id>
+    <title>Wo finde ich Hilfe zu Problemen oder Fragen im Zusammenhang mit Dynamics-Produkten?</title>
+    <description><![CDATA[Geben Sie über PartnerSource eine Serviceanfrage ein. Hierzu können Sie den Abschnitt zu Preisen und Bestellungen der Website besuchen und „New Operations Request“ auswählen. Geben Sie im Rahmen der Anfrage eine IT-Nummer an, oder chatten Sie direkt mit einem unserer Mitarbeiter. Wenn Ihre Anfrage nicht zu Ihrer Zufriedenheit beantwortet wird, senden Sie uns eine E-Mail unter Angabe von „Dynamics Escalation“ und der IT-Nummer im Nachrichtentext.]]></description>
+    <articlelinks>
+      <link>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>700-000002</id>
     <title>Wie erstelle ich Supportanfragen für Office 365, Microsoft Azure oder Microsoft Dynamics 365 für meine Organisation oder im Auftrag eines Kunden?</title>
     <description><![CDATA[Produktsupportanfragen können über jedes dieser Portale übermittelt werden.]]></description>
@@ -1179,33 +1197,7 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Microsoft Dynamics 365-Support (Anmeldung erforderlich)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>700-000001</id>
-    <title>Wo finde ich Hilfe zu Problemen oder Fragen im Zusammenhang mit Dynamics-Produkten?</title>
-    <description><![CDATA[Geben Sie über PartnerSource eine Serviceanfrage ein. Hierzu können Sie den Abschnitt zu Preisen und Bestellungen der Website besuchen und „New Operations Request“ auswählen. Geben Sie im Rahmen der Anfrage eine IT-Nummer an, oder chatten Sie direkt mit einem unserer Mitarbeiter. Wenn Ihre Anfrage nicht zu Ihrer Zufriedenheit beantwortet wird, senden Sie uns eine E-Mail unter Angabe von „Dynamics Escalation“ und der IT-Nummer im Nachrichtentext.]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
-      </link>
     </articlelinks></question></group><group title="Schulung" refid="Training"><question>
-    <id>1200-000022</id>
-    <title>Was sind die Top-Lernpfade gefragt?</title>
-    <description><![CDATA[Lernpfade können Sie ausgebildet oder zertifiziert. Lernpfade markieren die Wege, die für Ihre Firma oder Organisation relevant sind. Die Learning Paths FAQ bietet Antworten auf oben gestellte Fragen zu Lernpfade.]]></description>
-    <articlelinks>
-      <link>
-        <text>Learning Paths – Top-FAQ-Liste</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
-      </link>
-       <link>
-        <text>Lernpfade für Microsoft-Partner</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
-      </link>
-       <link>
-        <text>Partner University</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1200-000089</id>
     <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
     <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
@@ -1231,16 +1223,24 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question></group><group title="Technische Erkundungstrips" refid="TechnicalJourneys"><question>
-    <id>1400-000110</id>
-    <title>Wo finde ich die von Partner in den Presales- und Bereitstellungsphasen von Cloud- und Hybrid-Kundenprojekten gestellten Topfragen?</title>
-    <description><![CDATA[Lesen Sie die von Partnern in den Presales- und Bereitstellungsphasen ihrer Kundenprojekte am häufigsten gestellten Fragen nach – einschließlich Wettbewerbspositionierung, Demos, Konfiguration, technischer Lizenzierung, Migration und Bereitstellung sowie Anwendungsentwicklung. ]]></description>
+    </articlelinks></question><question>
+    <id>1200-000022</id>
+    <title>Was sind die Top-Lernpfade gefragt?</title>
+    <description><![CDATA[Lernpfade können Sie ausgebildet oder zertifiziert. Lernpfade markieren die Wege, die für Ihre Firma oder Organisation relevant sind. Die Learning Paths FAQ bietet Antworten auf oben gestellte Fragen zu Lernpfade.]]></description>
     <articlelinks>
       <link>
-        <text>Topfragen von Partnern zu Produkten</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>Learning Paths – Top-FAQ-Liste</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Lernpfade für Microsoft-Partner</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>Partner University</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
+      </link>
+    </articlelinks></question></group><group title="Technische Erkundungstrips" refid="TechnicalJourneys"><question>
     <id>1400-000112</id>
     <title>Was ist ein technischer Erkundungstrip? Warum spielt dies für meine Partnerorganisation eine wichtige Rolle?</title>
     <description><![CDATA[Mithilfe technischer Erkundungstrips können Sie Ihre technischen Kompetenzen schneller entwickeln, um den Umsatz, die Bereitstellungen und die Anwendungsentwicklung zu beschleunigen. Starten Sie Ihren technischen Erkundungstrip, um in Form von empfohlenen interaktiven Technikwebinaren und Einzelberatungsgesprächen mit virtuellen Whiteboards, Architekturanalysen und nachgestellten realistischen Szenarien technische Beratung von Microsoft Partner Technical Consultants zu erhalten. ]]></description>
@@ -1282,5 +1282,14 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
        <link>
         <text>Technischen Erkundungstrip starten</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000110</id>
+    <title>Wo finde ich die von Partner in den Presales- und Bereitstellungsphasen von Cloud- und Hybrid-Kundenprojekten gestellten Topfragen?</title>
+    <description><![CDATA[Lesen Sie die von Partnern in den Presales- und Bereitstellungsphasen ihrer Kundenprojekte am häufigsten gestellten Fragen nach – einschließlich Wettbewerbspositionierung, Demos, Konfiguration, technischer Lizenzierung, Migration und Bereitstellung sowie Anwendungsentwicklung. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Topfragen von Partnern zu Produkten</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group></groups>

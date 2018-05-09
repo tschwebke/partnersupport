@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="下载和软件" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>有微软行动宝盒，您会获得什么软件权益？   </title>
-    <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可。这包括本地软件许可，线上服务，和Visual Studio Online订阅。对于许可权益的详细资讯，请参考以下资源：    ]]></description>
+    <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可。这包括本地软件许可，线上服务，和Visual Studio Online订阅。O365 和 Dynamics 分别需要重新注册 MAPS 的续签过程。合作伙伴续签其 MAPS 成员资格后，他们不会自动续签。对于许可权益的详细资讯，请参考以下资源：    ]]></description>
     <articlelinks>
       <link>
         <text>微软行动宝盒概览    </text>
@@ -1272,5 +1272,14 @@
       <link>
         <text>KB 4076425: 合作伙伴许可问题 - 快速参考指南</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>合作伙伴何时能够获得本地产品的新密钥？ </title>
+    <description><![CDATA[请注意，本地密钥的激活次数有限。只有在推出产品的新版本后，合作伙伴才能获得新密钥。如果没有推出新版本，即使合作伙伴已经消费并且支付了重新注册的新一年的费用，他们也不会收到额外的激活。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 门户：合作伙伴网络软件许可权益常见问题解答  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
     </articlelinks></question></group></groups>

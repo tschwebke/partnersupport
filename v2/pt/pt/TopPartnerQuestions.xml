@@ -452,7 +452,7 @@
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quais benefícios de software recebo no Microsoft Action Pack?</title>
-    <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
+    <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. O processo de renovação é necessário para o O365 e o Dynamics separadamente do novo registro do MAPS. Eles não são renovados automaticamente quando o parceiro renova sua Associação ao MAPS. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
     <articlelinks>
       <link>
         <text>Visão geral do Microsoft Action Pack </text>
@@ -758,20 +758,16 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>KB 4076425: Perguntas sobre licenciamento de parceiros ‒ guia de referência rápida</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
-    <id>200-000095</id>
-    <title>Quais são as etapas para começar a participar do Partner Center?</title>
-    <description><![CDATA[Leia o artigo abaixo para saber mais sobre o site do Partner Center.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>Quando os parceiros são autorizados a receber novas chaves para produtos Locais? </title>
+    <description><![CDATA[Observe que as chaves locais têm um número finito de ativações. Os parceiros serão autorizados a receber novas chaves somente se tiver sido lançada uma nova versão do produto. Caso contrário, os parceiros não receberão ativações adicionais, mesmo que já as tenham consumido e pago por um novo ano de registro. ]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Junte-se à Microsoft Partner Network (MPN)</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+        <text>Portal MPN: Perguntas frequentes sobre benefícios de licenciamento de software para Partner Network  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-       <link>
-        <text>Partner Center: Bem-vindo ao Microsoft Partner Center</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
     <id>200-000068</id>
     <title>Como posso criar demonstrações dos produtos de Office 365?</title>
     <description><![CDATA[O “Microsoft Office demo portal” permite-lhe aceder aos materiais de apoio para demonstrações e também criar ambientes de demonstrações dos produtos de Office 365 sem requerer uma instalação local. O ambiente de demonstração Microsoft Office consiste numa avaliação de Office 365 personalizada com um “Tenant”, já preenchido com conteúdo pronto para demonstração. Assim que tenha criado o seu Office 365 “Tenant”, poderá fornecer demonstrações que abrangem todos os produtos Office, como o Exchange, Sharepoint, Lync, Outlook, Word, Excel, PowerPoint e muitos outros.]]></description>
@@ -1005,6 +1001,19 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Informações sobre incentivos do CSP</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>200-000095</id>
+    <title>Quais são as etapas para começar a participar do Partner Center?</title>
+    <description><![CDATA[Leia o artigo abaixo para saber mais sobre o site do Partner Center.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Junte-se à Microsoft Partner Network (MPN)</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Bem-vindo ao Microsoft Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
+      </link>
     </articlelinks></question></group><group title="Serviços Técnicos" refid=""><question>
     <id>1400-000110</id>
     <title>Onde posso encontrar as principais perguntas feitas pelos parceiros durante as fases de pré-vendas e implantação de projetos de clientes híbridos e na nuvem?</title>
@@ -1015,15 +1024,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group><group title="Suporte ao produto" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Onde posso obter assistência com um problema ou pergunta sobre os produtos Dynamics?</title>
-    <description><![CDATA[Registre uma solicitação de serviço no Partner Source. Isso pode ser feito visitando a seção de Preços e Pedidos do site e selecionando Nova Solicitações de Operações. Cite um número de TI como parte do pedido ou converse diretamente com um agente via chat. Se a sua solicitação não for resolvida satisfatoriamente, envie um email para a equipe de Escalonamento do Dynamics, incluindo o número de TI no corpo do email.]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>700-000002</id>
     <title>Como faço para criar Solicitações de Suporte para o Office 365, Microsoft Azure ou Microsoft Dynamics 365, para minha organização ou em nome de um cliente?</title>
     <description><![CDATA[Solicitações de suporte a produtos podem ser enviadas de cada um destes portais.]]></description>
@@ -1040,16 +1040,16 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Suporte do Microsoft Dynamics 365 (Entrada necessária)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Vantagens" refid="Benefits"><question>
-    <id>300-000099</id>
-    <title>Como me registrar no Visual Studio se eu já estava registrado no MSDN?</title>
-    <description><![CDATA[Aprenda a se registrar no Visual Studio, seguindo as etapas descritas no artigo da Base de Dados de Conhecimento, Registro no My Visual Studio. (Observe que o RSC do MPN é responsável por dar suporte aos membros do MPN para a compreensão dos benefícios da assinatura do Visual Studio, o acesso à assinatura e o uso básico do portal do Visual Studio.)]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Onde posso obter assistência com um problema ou pergunta sobre os produtos Dynamics?</title>
+    <description><![CDATA[Registre uma solicitação de serviço no Partner Source. Isso pode ser feito visitando a seção de Preços e Pedidos do site e selecionando Nova Solicitações de Operações. Cite um número de TI como parte do pedido ou converse diretamente com um agente via chat. Se a sua solicitação não for resolvida satisfatoriamente, envie um email para a equipe de Escalonamento do Dynamics, incluindo o número de TI no corpo do email.]]></description>
     <articlelinks>
       <link>
-        <text>Registro no My Visual Studio</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Vantagens" refid="Benefits"><question>
     <id>300-000103</id>
     <title>Como atribuir acesso e privilégios de Assinatura do Visual Studio Online a parceiros MAPS e de Competência?</title>
     <description><![CDATA[Você pode encontrar instruções passo a passo sobre como atribuir acesso e privilégios de Assinatura do Visual Studio Online a parceiros MAPS e de Competência no artigo abaixo.]]></description>
@@ -1276,5 +1276,14 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Partner support community</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000099</id>
+    <title>Como me registrar no Visual Studio se eu já estava registrado no MSDN?</title>
+    <description><![CDATA[Aprenda a se registrar no Visual Studio, seguindo as etapas descritas no artigo da Base de Dados de Conhecimento, Registro no My Visual Studio. (Observe que o RSC do MPN é responsável por dar suporte aos membros do MPN para a compreensão dos benefícios da assinatura do Visual Studio, o acesso à assinatura e o uso básico do portal do Visual Studio.)]]></description>
+    <articlelinks>
+      <link>
+        <text>Registro no My Visual Studio</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
     </articlelinks></question></group></groups>

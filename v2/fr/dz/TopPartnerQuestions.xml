@@ -757,16 +757,16 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>KB 4076425: Questions sur les licences pour les partenaires - Guide de référence rapide</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Parcours techniques" refid="TechnicalJourneys"><question>
-    <id>1400-000110</id>
-    <title>Où puis-je trouver les questions fréquentes posées par les partenaires durant les phases de prévente et de déploiement de projets client cloud et hybrides ?</title>
-    <description><![CDATA[Consultez les questions fréquentes posées par les partenaires durant les phases de prévente et de déploiement de projets client cloud et hybrides, y compris le positionnement concurrentiel, des démonstrations, la configuration, les licences techniques, la migration et le déploiement, ainsi que le développement d’applications. ]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>Quand les partenaires sont-ils habilités à recevoir de nouvelles clés pour les produits locaux ? </title>
+    <description><![CDATA[Notez que les clés locales comportent un nombre limité d’activations. Les partenaires sont habilités à recevoir de nouvelles clés uniquement lors de la publication d’une nouvelle version du produit. Si ce n’est pas le cas, les partenaires ne recevront pas d’activations supplémentaires, même s’ils les ont déjà consommées et payées dans le cadre de la nouvelle année de réinscription. ]]></description>
     <articlelinks>
       <link>
-        <text>Questions fréquentes des partenaires sur les produits</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>Portail MPN : FAQ des avantages de la gestion des licences logicielles Partner Network  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Parcours techniques" refid="TechnicalJourneys"><question>
     <id>1400-000112</id>
     <title>Qu’est-ce qu’un parcours technique ? En quoi est-ce important pour mon organisation partenaire ?</title>
     <description><![CDATA[Grâce aux parcours techniques, vous pouvez développer plus rapidement vos compétences techniques afin d’accélérer les ventes, les déploiements et le développement d’applications. Commencez votre parcours technique pour recevoir des conseils techniques de la part de consultants techniques partenaires Microsoft par le biais d’un canal recommandé de webinaires techniques interactifs et de consultations personnalisées proposant tableau blanc virtuel, examens d’architectures et scénarios réels. ]]></description>
@@ -809,24 +809,16 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Commencez votre parcours technique</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Services dans le Cloud" refid="CloudServices"><question>
-    <id>200-000087</id>
-    <title>Où puis-je trouver des informations sur les règles de facturation, les conditions de paiement et la disponibilité des factures ?</title>
-    <description><![CDATA[Consultez les informations contenues dans les articles suivants pour en savoir plus sur la facturation]]></description>
+    </articlelinks></question><question>
+    <id>1400-000110</id>
+    <title>Où puis-je trouver les questions fréquentes posées par les partenaires durant les phases de prévente et de déploiement de projets client cloud et hybrides ?</title>
+    <description><![CDATA[Consultez les questions fréquentes posées par les partenaires durant les phases de prévente et de déploiement de projets client cloud et hybrides, y compris le positionnement concurrentiel, des démonstrations, la configuration, les licences techniques, la migration et le déploiement, ainsi que le développement d’applications. ]]></description>
     <articlelinks>
       <link>
-        <text>Espace partenaires : Informations sur la facturation</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
+        <text>Questions fréquentes des partenaires sur les produits</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-       <link>
-        <text>Espace partenaires : Utiliser les fichiers de rapprochement </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Espace partenaires : Scénarios de facturation courants </text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Services dans le Cloud" refid="CloudServices"><question>
     <id>200-000088</id>
     <title>Comment ajouter l’ID de TVA de mon organisation ?</title>
     <description><![CDATA[Consultez l’article suivant pour savoir comment ajouter votre ID de TVA]]></description>
@@ -1059,16 +1051,24 @@ Dès lors que vous avez créé un locataire Office365, vous avez la possibilité
         <text>Cloud Services Dashboard user guide</text>
         <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question></group><group title="Support produit" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Où puis-je obtenir de l’aide concernant un problème ou des questions sur les produits Dynamics ?</title>
-    <description><![CDATA[Enregistrez une demande de service par le biais de Partner Source. Pour cela, consultez la section Tarification et commande du site et sélectionnez New Operations Request (Nouvelle demande d’opération). Demandez un numéro IT ou discutez directement avec un agent par le biais de la fonction de chat. Si la résolution de votre demande ne vous satisfait pas, envoyez un e-mail à Dynamics Escalation en indiquant le numéro IT dans le corps du message.]]></description>
+    </articlelinks></question><question>
+    <id>200-000087</id>
+    <title>Où puis-je trouver des informations sur les règles de facturation, les conditions de paiement et la disponibilité des factures ?</title>
+    <description><![CDATA[Consultez les informations contenues dans les articles suivants pour en savoir plus sur la facturation]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics Partner Source</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>Espace partenaires : Informations sur la facturation</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Espace partenaires : Utiliser les fichiers de rapprochement </text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>Espace partenaires : Scénarios de facturation courants </text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
+      </link>
+    </articlelinks></question></group><group title="Support produit" refid="ProductSupport"><question>
     <id>700-000002</id>
     <title>Comment créer des demandes de support pour Office 365, Microsoft Azure ou Microsoft Dynamics 365 pour mon organisation ou pour le compte d’un client ?</title>
     <description><![CDATA[Les demandes de support produit peuvent être transmises à partir de chacun de ces portails.]]></description>
@@ -1085,28 +1085,16 @@ Dès lors que vous avez créé un locataire Office365, vous avez la possibilité
         <text>Support Microsoft Dynamics 365 (connexion requise)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Téléchargements et logiciels" refid="DownloadsSoftware"><question>
-    <id>800-000090</id>
-    <title>Où puis-je télécharger Windows 10 et obtenir les clés d’activation ? </title>
-    <description><![CDATA[Les partenaires Gold, Silver et MAPS peuvent obtenir les téléchargements ainsi que les clés d’activations de Windows 10 Entreprise pour leur usage interne sur le portail de téléchargement Partenaire. Pour des usages de développement, test ou d’évaluation les partenaires peuvent accéder aux softwares et clés à partir de leurs abonnements Visual Studio Online qu’ils obtiennent à travers le Programme Partenaire de Microsoft.
-Note : Les licences de Windows 10 Entreprise sont uniquement valables en version de mise en niveau. 
-Note : Le privilège de « Téléchargement Logiciel » est exigé pour télécharger les logiciels à usage interne à partir du Portail de téléchargement Partenaire et le privilège de « Voir les Clés » est exigé pour voir le produit. Pour avoir accès aux téléchargements Visual Studio Online, le privilège « Visual Studio Online » est exigé pour les partenaires avec une compétence Silver ou Gold. Un rôle de Contact Technique est exigé pour des partenaires avec un abonnement Microsoft Action Pack.
-Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8.1 existants, ou Windows 10 pour exécuter une mise à jour sur place. Au lieu de cela, une nouvelle clé doit être obtenue via le  Portail de téléchargement Partenaire.
-]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Où puis-je obtenir de l’aide concernant un problème ou des questions sur les produits Dynamics ?</title>
+    <description><![CDATA[Enregistrez une demande de service par le biais de Partner Source. Pour cela, consultez la section Tarification et commande du site et sélectionnez New Operations Request (Nouvelle demande d’opération). Demandez un numéro IT ou discutez directement avec un agent par le biais de la fonction de chat. Si la résolution de votre demande ne vous satisfait pas, envoyez un e-mail à Dynamics Escalation en indiquant le numéro IT dans le corps du message.]]></description>
     <articlelinks>
       <link>
-        <text>Site de téléchargement partenaire</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+        <text>Dynamics Partner Source</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-       <link>
-        <text>Abonnements Visual Studio Online</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Page Visual Studio Online</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Téléchargements et logiciels" refid="DownloadsSoftware"><question>
     <id>800-000045</id>
     <title>Pourquoi dit-il que j'ai une version d'évaluation de Studio Visuel 2013 quand j’essaie de me connecter? </title>
     <description><![CDATA[Le système de connexion à Visual Studio a été modifié. Vous pouvez trouver plus de détails en vous rendant sur : ]]></description>
@@ -1203,7 +1191,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quels bénéfices de logiciels sont inclus avec Microsoft Action Pack ?</title>
-    <description><![CDATA[Des abonnés à l’Action Pack reçoivent généralement 10 licences d'usage interne pour la dernière version des logiciels Microsoft. Cela comprend des licences pour l’installation locale, services en ligne et un abonnement Visual Studio Online. Pour plus d'informations sur les avantages de la licence, consultez les ressources suivantes :]]></description>
+    <description><![CDATA[Des abonnés à l’Action Pack reçoivent généralement 10 licences d'usage interne pour la dernière version des logiciels Microsoft. Cela comprend des licences pour l’installation locale, services en ligne et un abonnement Visual Studio Online. Le processus de renouvellement est nécessaire pour Office 365 et Dynamics, en plus de la réinscription de MAPS. Leur renouvellement n’est pas automatique lorsque le partenaire renouvelle son abonnement MAPS. Pour plus d'informations sur les avantages de la licence, consultez les ressources suivantes :]]></description>
     <articlelinks>
       <link>
         <text>Vue d'ensemble de Microsoft Action Pack </text>
@@ -1278,5 +1266,26 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
        <link>
         <text> Bénéfices interne Cloud et avantage logiciel</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000090</id>
+    <title>Où puis-je télécharger Windows 10 et obtenir les clés d’activation ? </title>
+    <description><![CDATA[Les partenaires Gold, Silver et MAPS peuvent obtenir les téléchargements ainsi que les clés d’activations de Windows 10 Entreprise pour leur usage interne sur le portail de téléchargement Partenaire. Pour des usages de développement, test ou d’évaluation les partenaires peuvent accéder aux softwares et clés à partir de leurs abonnements Visual Studio Online qu’ils obtiennent à travers le Programme Partenaire de Microsoft.
+Note : Les licences de Windows 10 Entreprise sont uniquement valables en version de mise en niveau. 
+Note : Le privilège de « Téléchargement Logiciel » est exigé pour télécharger les logiciels à usage interne à partir du Portail de téléchargement Partenaire et le privilège de « Voir les Clés » est exigé pour voir le produit. Pour avoir accès aux téléchargements Visual Studio Online, le privilège « Visual Studio Online » est exigé pour les partenaires avec une compétence Silver ou Gold. Un rôle de Contact Technique est exigé pour des partenaires avec un abonnement Microsoft Action Pack.
+Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8.1 existants, ou Windows 10 pour exécuter une mise à jour sur place. Au lieu de cela, une nouvelle clé doit être obtenue via le  Portail de téléchargement Partenaire.
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Site de téléchargement partenaire</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Abonnements Visual Studio Online</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Page Visual Studio Online</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group></groups>

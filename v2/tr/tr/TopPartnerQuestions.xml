@@ -609,7 +609,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Microsoft Bayi İç Kullanım seti ile hangi yazılımları kullanma avantajına erişirim?</title>
-    <description><![CDATA[Bayi paketi üyeliği olanlara genelde, Microsoft yazılımlarının son versiyonun, iç kullanım 10 lisansı gönderilir. Bu lisanslar kurum içi yazılım, online hizmetler ve Visual Studio Online üyeliğini kapsar. Lisans avantajları hakkında daha detaylı bilgi için bu kaynakları referans alınız.]]></description>
+    <description><![CDATA[Bayi paketi üyeliği olanlara genelde, Microsoft yazılımlarının son versiyonun, iç kullanım 10 lisansı gönderilir. Bu lisanslar kurum içi yazılım, online hizmetler ve Visual Studio Online üyeliğini kapsar. MAPS yeniden kaydından ayrı olarak O365 ve Dynamics için yenileme süreci gerekir. İş ortağı, MAPS Üyeliği'ni yeniledikten sonra bunlar otomatik olarak yenilenmez. Lisans avantajları hakkında daha detaylı bilgi için bu kaynakları referans alınız.]]></description>
     <articlelinks>
       <link>
         <text>Microsoft Bayi Paketine genel bakış</text>
@@ -809,6 +809,15 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>KB 4076425: İş ortağı lisanslama soruları - hızlı başvuru kılavuzu</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>İş ortaklarının, Şirket İçi ürünlere yönelik yeni anahtarlar almalarına ne zaman yetki verilir? </title>
+    <description><![CDATA[Şirket içi anahtarları belirli sayıda etkinleştirme için kullanabileceğinizi lütfen unutmayın. Yalnızca ürünün yeni bir sürümü kullanıma sunulduysa iş ortaklarının yeni anahtarlar almalarına yetki verilir. Aksi takdirde, iş ortakları daha önce anahtarları kullanmış ve yeni yıl için yeniden kayıt ödemesi yapmış olsalar bile ek etkinleştirme almayacaklardır. ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portalı: İş Ortağı Ağı yazılımı lisanslama avantajları SSS  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+      </link>
     </articlelinks></question></group><group title="Teknik Hizmetler" refid=""><question>
     <id>1400-000110</id>
     <title>Satış öncesi ve dağıtım aşamalarında, bulut ve karma müşteri projeleri ile ilgili iş ortaklarının en çok sorduğu soruları nereden bulabilirim?</title>
@@ -819,19 +828,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group><group title="Teknik Yolculuklar" refid="TechnicalJourneys"><question>
-    <id>1400-000112</id>
-    <title>Teknik yolculuk nedir? İş ortağı kuruluşum için neden önemlidir?</title>
-    <description><![CDATA[Teknik yolculuklar satışları, dağıtımları ve uygulama geliştirmeyi hızlandırmak için teknik becerilerinizi daha hızlı oluşturmanıza yardımcı olur. Sanal beyaz tahtaya, mimari incelemelerine ve gerçek dünya senaryolarının gölgelendirmesine sahip önerilen etkileşimli teknik web seminerleri ve kişiselleştirilmiş danışmanlık aracılığıyla Microsoft iş ortağı teknik danışmanlarından teknik yönlendirmeler alabilmek için teknik yolculuğunuzu başlatın. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Teknik yolculuğunuzu başlatın</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text>Blogu okuyun</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=1400-000112]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000113</id>
     <title>Teknik yolculuğumda Microsoft İş Ortağı Teknik Danışmanları ile nasıl iletişime geçebilirim?</title>
     <description><![CDATA[]]></description>
@@ -861,16 +857,20 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Teknik yolculuğunuzu başlatın</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Ürün desteği" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Dynamics ürünleriyle ilgili sorun veya sorular için nereden yardım alabilirim?</title>
-    <description><![CDATA[Lütfen İş Ortağı Kaynağı aracılığıyla hizmet isteğinde bulunun. Bu işlem, sitenin Fiyatlandırma ve Sipariş bölümüne gidip Yeni Operasyon İsteği'ni seçerek yapılabilir. Lütfen istekte bir BT numarası belirtin veya sohbet aracılığıyla doğrudan bir yetkili ile iletişime geçin. İsteğiniz talep ettiğiniz şekilde çözüme ulaşmazsa lütfen BT numarasını da e-posta gövdesine ekleyerek Dynamics İlerletme şeklinde e-posta gönderin.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title>Teknik yolculuk nedir? İş ortağı kuruluşum için neden önemlidir?</title>
+    <description><![CDATA[Teknik yolculuklar satışları, dağıtımları ve uygulama geliştirmeyi hızlandırmak için teknik becerilerinizi daha hızlı oluşturmanıza yardımcı olur. Sanal beyaz tahtaya, mimari incelemelerine ve gerçek dünya senaryolarının gölgelendirmesine sahip önerilen etkileşimli teknik web seminerleri ve kişiselleştirilmiş danışmanlık aracılığıyla Microsoft iş ortağı teknik danışmanlarından teknik yönlendirmeler alabilmek için teknik yolculuğunuzu başlatın. ]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>Teknik yolculuğunuzu başlatın</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Blogu okuyun</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question></group><group title="Ürün desteği" refid="ProductSupport"><question>
     <id>700-000002</id>
     <title>Kuruluşum veya bir müşterinin adına Office 365, Microsoft Azure veya Microsoft Dynamics 365 için nasıl Destek İstekleri oluştururum?</title>
     <description><![CDATA[Ürün destek istekleri bu portalların herhangi birinden gönderilebilir.]]></description>
@@ -887,20 +887,16 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Microsoft Dynamics 365 Desteği (Oturum açılması gerekir)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Üyelik" refid="Membership"><question>
-    <id>100-000092</id>
-    <title>Kuruluşumun iş hesabını, yeni İş Ortağı Merkezi hesabıma nasıl bağlarım?</title>
-    <description><![CDATA[Şirketinizin mevcut bir iş hesabı yoksa, kayıt işlemi sırasında ücretsiz olarak bir iş hesabı oluşturabilirsiniz. Mevcut bir iş hesabını kullanmak istiyorsanız ancak oturum açmada sorun yaşıyorsanız, aşağıdaki makaleleri inceleyin:]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Dynamics ürünleriyle ilgili sorun veya sorular için nereden yardım alabilirim?</title>
+    <description><![CDATA[Lütfen İş Ortağı Kaynağı aracılığıyla hizmet isteğinde bulunun. Bu işlem, sitenin Fiyatlandırma ve Sipariş bölümüne gidip Yeni Operasyon İsteği'ni seçerek yapılabilir. Lütfen istekte bir BT numarası belirtin veya sohbet aracılığıyla doğrudan bir yetkili ile iletişime geçin. İsteğiniz talep ettiğiniz şekilde çözüme ulaşmazsa lütfen BT numarasını da e-posta gövdesine ekleyerek Dynamics İlerletme şeklinde e-posta gönderin.]]></description>
     <articlelinks>
       <link>
-        <text>İş Ortağı Merkezi: Şirketinizin iş hesabı ve İş Ortağı Merkezi</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-       <link>
-        <text>Azure Active Directory'ye özel bir etki alanı adı ekleme</text>
-        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Üyelik" refid="Membership"><question>
     <id>100-000087</id>
     <title>Belirli bir uzmanlık için gereksinimleri nereden bulabilirim?</title>
     <description><![CDATA[İş Ortakları Portalı uzmanlık sayfasını ziyaret edin ve seçtiğiniz uzmanlık için linki tıklayın. Her bir uzmanlık sayfası o uzmanlık için gerekli olan belirli gereksinimleri listeler.]]></description>
@@ -1271,5 +1267,18 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=100-000033]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000092</id>
+    <title>Kuruluşumun iş hesabını, yeni İş Ortağı Merkezi hesabıma nasıl bağlarım?</title>
+    <description><![CDATA[Şirketinizin mevcut bir iş hesabı yoksa, kayıt işlemi sırasında ücretsiz olarak bir iş hesabı oluşturabilirsiniz. Mevcut bir iş hesabını kullanmak istiyorsanız ancak oturum açmada sorun yaşıyorsanız, aşağıdaki makaleleri inceleyin:]]></description>
+    <articlelinks>
+      <link>
+        <text>İş Ortağı Merkezi: Şirketinizin iş hesabı ve İş Ortağı Merkezi</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+       <link>
+        <text>Azure Active Directory'ye özel bir etki alanı adı ekleme</text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
     </articlelinks></question></group></groups>

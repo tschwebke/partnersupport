@@ -513,20 +513,16 @@
         <text>KB 4076425: Domande sulle licenze per i partner: guida di riferimento rapido</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Percorsi di formazione tecnica" refid="TechnicalJourneys"><question>
-    <id>1400-000112</id>
-    <title>Che cos'è un percorso di formazione tecnica? Perché è così importante per l'organizzazione dei miei partner?</title>
-    <description><![CDATA[I percorsi di formazione tecnica consentono di sviluppare più rapidamente le competenze tecniche necessarie per accelerare vendite, implementazioni e sviluppo di app. Coloro che iniziano un percorso di formazione tecnica, ricevono indicazioni tecniche dai consulenti tecnici dei partner Microsoft, attraverso un percorso consigliato di webinar tecnici interattivi e consulenze personalizzate che includono lavagne virtuali, revisioni dell'architettura e simulazioni di scenari reali. ]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>In quali circostanze i partner hanno diritto a ricevere nuovi codici per i prodotti on-premise? </title>
+    <description><![CDATA[Si ricorda che i codici on-premise consentono un numero di attivazioni limitato. I partner hanno diritto a ricevere nuovi codici solo se è stata lanciata una nuova versione del prodotto. In caso contrario, i partner non ricevono alcuna attivazione aggiuntiva, anche se hanno già utilizzato il prodotto e hanno pagato per un anno di reiscrizione. ]]></description>
     <articlelinks>
       <link>
-        <text>Inizia il tuo percorso di formazione tecnica</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+        <text>Portale MPN: Domande frequenti sui vantaggi delle licenze software di Partner Network  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-       <link>
-        <text>Leggi il blog</text>
-        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Percorsi di formazione tecnica" refid="TechnicalJourneys"><question>
     <id>1400-000113</id>
     <title>Come avviene l'interazione con i consulenti tecnici dei partner Microsoft lungo il percorso di formazione tecnica?</title>
     <description><![CDATA[]]></description>
@@ -556,20 +552,20 @@
         <text>Inizia il tuo percorso di formazione tecnica</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Servizi cloud" refid="CloudServices"><question>
-    <id>200-000095</id>
-    <title>Qual è la procedura da seguire per iniziare a utilizzare il Centro per i partner?</title>
-    <description><![CDATA[Leggere l'articolo seguente per ulteriori informazioni sul sito Web del Centro per i partner.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title>Che cos'è un percorso di formazione tecnica? Perché è così importante per l'organizzazione dei miei partner?</title>
+    <description><![CDATA[I percorsi di formazione tecnica consentono di sviluppare più rapidamente le competenze tecniche necessarie per accelerare vendite, implementazioni e sviluppo di app. Coloro che iniziano un percorso di formazione tecnica, ricevono indicazioni tecniche dai consulenti tecnici dei partner Microsoft, attraverso un percorso consigliato di webinar tecnici interattivi e consulenze personalizzate che includono lavagne virtuali, revisioni dell'architettura e simulazioni di scenari reali. ]]></description>
     <articlelinks>
       <link>
-        <text>Centro per i partner: iscriviti a Microsoft Partner Network (MPN)</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+        <text>Inizia il tuo percorso di formazione tecnica</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text>Centro per i partner: benvenuto in Microsoft Partner Center</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
+        <text>Leggi il blog</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Servizi cloud" refid="CloudServices"><question>
     <id>200-000066</id>
     <title>Come posso incentivare i miei clienti ad adottare Office 365?</title>
     <description><![CDATA[dalle aziende di servizi online appena avviate a quelle più mature e pronte a scalare, il programma Cloud SureStep è espressamente concepito per aiutarti a massimizzare la redditività.]]></description>
@@ -804,6 +800,19 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Centro per i partner: informazioni sugli incentivi CSP</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>200-000095</id>
+    <title>Qual è la procedura da seguire per iniziare a utilizzare il Centro per i partner?</title>
+    <description><![CDATA[Leggere l'articolo seguente per ulteriori informazioni sul sito Web del Centro per i partner.]]></description>
+    <articlelinks>
+      <link>
+        <text>Centro per i partner: iscriviti a Microsoft Partner Network (MPN)</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+      </link>
+       <link>
+        <text>Centro per i partner: benvenuto in Microsoft Partner Center</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/partner-center/index?tpqid=200-000095]]></url>
+      </link>
     </articlelinks></question></group><group title="Servizi tecnici" refid=""><question>
     <id>1400-000110</id>
     <title>Dove posso trovare le principali domande dei partner relative alle fasi di prevendita e distribuzione di progetti cloud e ibridi dei clienti?</title>
@@ -813,32 +822,7 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Domande più frequenti dei partner</text>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-    </articlelinks></question></group><group title="Software e download" refid="DownloadsSoftware"><question>
-    <id>800-000090</id>
-    <title>Dove posso scaricare il software Windows 10 e trovare la chiave prodotto?</title>
-    <description><![CDATA[I Partner con una competenza Microsoft oppure un abbonamento Action Pack possono accedere al software Windows 10 Enterprise e chiave prodotto per uso interno dal Portale Partner Digital Distribution. A fini di sviluppo, test e valutazione, i partner possono accedere al software e chiave tramite l’abbonamento Visual Studio Online che è loro concesso come beneficio del programma.  (Questo include le edizioni Pro e Home). L’accesso è limitato agli utenti finali cui è assegnata la sottoscrizione Visual Studio Online.
-
-Nota: Le licenze per uso interno di Windows 10 Enterprise sono disponibili solo come versione di aggiornamento. 
-
-Nota: I privilegi di Download Software e Visualizza Codici sono richiesti per scaricare software e visualizzare le chiavi prodotto dal Portale Digital Distribution.
-Per accedere al download per abbonati Visual Studio Online, i privilegi per l’abbonamento Premium è richiesto per i partner con competenza, il ruolo di contatto tecnico invece è richiesto per i partner con l’abbonamento Action Pack.
-
-Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 o di Windows 10 per eseguire l’aggiornamento in locale. Devono invece ottenere la chiave dal Portale Partner Digital Distribution.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Digital Distribution Portal</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Abbonamenti Visual Studio Online</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online Download per gli abbonati</text>
-        <url><![CDATA[https://msdn.microsoft.com/it-it/subscriptions/downloads/?tpqid=800-000090]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question></group><group title="Software e download" refid="DownloadsSoftware"><question SortOrderOnHome="7">
     <id>800-000075</id>
     <title>Dove posso visualizzare le modifiche apportate ai download e software disponibili?</title>
     <description><![CDATA[È possibile trovare tutte le recenti modifiche apportate ai programmi di partecipazione partner nella pagina Novità e pagina Portale Digital Distribution.]]></description>
@@ -967,7 +951,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quali vantaggi software si ottengono con il Microsoft Action Pack? </title>
-    <description><![CDATA[Gli abbonati Action Pack ricevono generalmente 10 licenze ad uso interno dell’ultimo software Microsoft. Questo include licenze software on-premises, online services e abbonamento Visual Studio Online. Per informazioni dettagliate sui benefici licenze, consulta le seguenti risorse: ]]></description>
+    <description><![CDATA[Gli abbonati Action Pack ricevono generalmente 10 licenze ad uso interno dell’ultimo software Microsoft. Questo include licenze software on-premises, online services e abbonamento Visual Studio Online. Per Office 365 e Dynamics è necessario un processo di rinnovo separato dalla reiscrizione a MAPS. Questi prodotti non si rinnovano automaticamente quando il partner rinnova l'iscrizione a MAPS. Per informazioni dettagliate sui benefici licenze, consulta le seguenti risorse: ]]></description>
     <articlelinks>
       <link>
         <text>Panoramica su Microsoft Action Pack</text>
@@ -1011,16 +995,32 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="Supporto prodotto" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Dove posso trovare assistenza per le domande o i problemi relativi ai prodotti Dynamics?</title>
-    <description><![CDATA[Registrare una richiesta di assistenza tramite PartnerSource. A tale scopo, è possibile visitare la sezione Pricing and Ordering (Prezzi e orinazioni) del sito e selezione New Operations Request (Nuova richiesta operazioni). Specificare un numero IT nell'ambito della richiesta o utilizzare la chat per comunicare direttamente con un addetto. Se la richiesta non viene evasa in modo soddisfacente, inviare un'e-mail a Dynamics Escalation, includendo il numero IT nel corpo del messaggio.]]></description>
+    </articlelinks></question><question>
+    <id>800-000090</id>
+    <title>Dove posso scaricare il software Windows 10 e trovare la chiave prodotto?</title>
+    <description><![CDATA[I Partner con una competenza Microsoft oppure un abbonamento Action Pack possono accedere al software Windows 10 Enterprise e chiave prodotto per uso interno dal Portale Partner Digital Distribution. A fini di sviluppo, test e valutazione, i partner possono accedere al software e chiave tramite l’abbonamento Visual Studio Online che è loro concesso come beneficio del programma.  (Questo include le edizioni Pro e Home). L’accesso è limitato agli utenti finali cui è assegnata la sottoscrizione Visual Studio Online.
+
+Nota: Le licenze per uso interno di Windows 10 Enterprise sono disponibili solo come versione di aggiornamento. 
+
+Nota: I privilegi di Download Software e Visualizza Codici sono richiesti per scaricare software e visualizzare le chiavi prodotto dal Portale Digital Distribution.
+Per accedere al download per abbonati Visual Studio Online, i privilegi per l’abbonamento Premium è richiesto per i partner con competenza, il ruolo di contatto tecnico invece è richiesto per i partner con l’abbonamento Action Pack.
+
+Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 o di Windows 10 per eseguire l’aggiornamento in locale. Devono invece ottenere la chiave dal Portale Partner Digital Distribution.
+]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>Partner Digital Distribution Portal</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Abbonamenti Visual Studio Online</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online Download per gli abbonati</text>
+        <url><![CDATA[https://msdn.microsoft.com/it-it/subscriptions/downloads/?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question></group><group title="Supporto prodotto" refid="ProductSupport"><question>
     <id>700-000002</id>
     <title>Come posso creare richieste di supporto per Office 365, Microsoft Azure o Microsoft Dynamics 365, per la mia organizzazione o per conto di un cliente?</title>
     <description><![CDATA[Le richieste di supporto per i prodotti possono essere inviate da ciascuno di questi portali.]]></description>
@@ -1037,16 +1037,16 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Supporto per Microsoft Dynamics 365 (accesso obbligatorio)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question>
-    <id>300-000099</id>
-    <title>Come posso registrarmi a Visual Studio se sono già registrato in MSDN?</title>
-    <description><![CDATA[Scopri come registrarti per Visual Studio seguendo la procedura descritta nell'articolo della Knowledge Base: Registrazione a My Visual Studio. (Nota: il Regional Service Center (RSC) MPN ha la responsabilità di fornire assistenza ai partner MPN relativa a vantaggi della sottoscrizione a Visual Studio, accesso all'abbonamento e utilizzo di base del portale Visual Studio.)]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Dove posso trovare assistenza per le domande o i problemi relativi ai prodotti Dynamics?</title>
+    <description><![CDATA[Registrare una richiesta di assistenza tramite PartnerSource. A tale scopo, è possibile visitare la sezione Pricing and Ordering (Prezzi e orinazioni) del sito e selezione New Operations Request (Nuova richiesta operazioni). Specificare un numero IT nell'ambito della richiesta o utilizzare la chat per comunicare direttamente con un addetto. Se la richiesta non viene evasa in modo soddisfacente, inviare un'e-mail a Dynamics Escalation, includendo il numero IT nel corpo del messaggio.]]></description>
     <articlelinks>
       <link>
-        <text>Registrazione a My Visual Studio</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question>
     <id>300-000103</id>
     <title>Come si assegnano a MAPS e partner con competenze l'accesso e i privilegi per la sottoscrizione di Visual Studio Online?</title>
     <description><![CDATA[L'articolo che segue fornisce istruzioni dettagliate per l'assegnazione di accesso e privilegi per la sottoscrizione di Visual Studio Online a MAPS e partner con competenze.]]></description>
@@ -1273,5 +1273,14 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
        <link>
         <text>Partner support community</text>
         <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000099</id>
+    <title>Come posso registrarmi a Visual Studio se sono già registrato in MSDN?</title>
+    <description><![CDATA[Scopri come registrarti per Visual Studio seguendo la procedura descritta nell'articolo della Knowledge Base: Registrazione a My Visual Studio. (Nota: il Regional Service Center (RSC) MPN ha la responsabilità di fornire assistenza ai partner MPN relativa a vantaggi della sottoscrizione a Visual Studio, accesso all'abbonamento e utilizzo di base del portale Visual Studio.)]]></description>
+    <articlelinks>
+      <link>
+        <text>Registrazione a My Visual Studio</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
     </articlelinks></question></group></groups>

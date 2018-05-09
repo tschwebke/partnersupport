@@ -511,7 +511,7 @@ You can use the dashboard as a source for key data to help you efficiently manag
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
-    <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. For details about license benefits, refer to the following resources:]]></description>
+    <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. Renewal process is needed for O365 and Dynamics separately from re-enrollment of MAPS. They do not renew automatically once partner renewed their MAPS Membership. For details about license benefits, refer to the following resources:]]></description>
     <articlelinks>
       <link>
         <text>MPN Portal: Microsoft Action Pack overview</text>
@@ -784,16 +784,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>KB 4076425: Partner licensing questions – quick reference guide</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
-    <id>100-000018</id>
-    <title>How can I troubleshoot issues with signing into the Partner Network website?</title>
-    <description><![CDATA[Follow these suggestions if you cannot sign in to the Microsoft Partner Network website.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>When are partners empowered to receive new keys for On-Premise products? </title>
+    <description><![CDATA[Please note that the on-premises keys have a finite number of activations. Partners are empowered to receive new keys only if there has been launched a new version of the product. If not, partners will not receive additional activations even if they already consumed them and paid for a new year of re-enrollment. ]]></description>
     <articlelinks>
       <link>
-        <text>KB 2913746: KB 2913746: Troubleshooting Microsoft Partner Network website logon issues</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2913746?tpqid=100-000018]]></url>
+        <text>MPN Portal: Partner Network software licensing benefits FAQ  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
     <id>100-000054</id>
     <title>How do I become an Online Services Advisor? </title>
     <description><![CDATA[The Microsoft Online Services Advisor program rewards partners with both one-time and recurring incentives for influencing the sales of Microsoft Online Services products and managing customer relationships, thus helping you develop a sustainable annuity business. Visit this page to learn more about the program and how to get started:]]></description>
@@ -1186,24 +1186,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Partner Support Community</text>
         <url><![CDATA[https://partnersupport.microsoft.com?tpqid=100-000081]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
-    <id>400-000079</id>
-    <title>Where can I get support or find more information about partner incentives? </title>
-    <description><![CDATA[Information on all partner incentives programs is available on the Microsoft Partner Network (MPN) Partner Incentives page. Partners who are eligible for an incentive program will see all available materials for that program from the Partner Incentives page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
+    </articlelinks></question><question>
+    <id>100-000018</id>
+    <title>How can I troubleshoot issues with signing into the Partner Network website?</title>
+    <description><![CDATA[Follow these suggestions if you cannot sign in to the Microsoft Partner Network website.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: View the Partner Incentives page</text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+        <text>KB 2913746: KB 2913746: Troubleshooting Microsoft Partner Network website logon issues</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2913746?tpqid=100-000018]]></url>
       </link>
-       <link>
-        <text>MPN Portal: Contact Partner Incentives Support (select Partner incentives as Category)</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000079]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Understand your incentive payouts</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
     <id>400-000082</id>
     <title>How can I become eligible to earn partner incentives?</title>
     <description><![CDATA[Eligibility for partner incentives varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
@@ -1264,16 +1256,24 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Partner Center: Understand your incentive payouts</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Product support" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Where can I get assistance with an issue or questions about Dynamics products?</title>
-    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not resolved to your satisfaction please email Dynamics Escalation including IT number in the email body.]]></description>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>Where can I get support or find more information about partner incentives? </title>
+    <description><![CDATA[Information on all partner incentives programs is available on the Microsoft Partner Network (MPN) Partner Incentives page. Partners who are eligible for an incentive program will see all available materials for that program from the Partner Incentives page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>MPN Portal: View the Partner Incentives page</text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>MPN Portal: Contact Partner Incentives Support (select Partner incentives as Category)</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Understand your incentive payouts</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question></group><group title="Product support" refid="ProductSupport"><question>
     <id>700-000003</id>
     <title>Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?</title>
     <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
@@ -1307,16 +1307,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Dynamics 365 Support (Sign in required)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Journeys" refid="TechnicalJourneys"><question>
-    <id>1400-000110</id>
-    <title>Where can I find the top questions asked by partners during the presales and deployment phases of cloud and hybrid customer projects?</title>
-    <description><![CDATA[Review the most commonly asked questions by partners during the presales and deployment phases of their customer projects—including competitive positioning, demos, configuration, technical licensing, migration and deployment, and app development. ]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Where can I get assistance with an issue or questions about Dynamics products?</title>
+    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not resolved to your satisfaction please email Dynamics Escalation including IT number in the email body.]]></description>
     <articlelinks>
       <link>
-        <text>KB 3182623: Top Partner Product Questions</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technical Journeys" refid="TechnicalJourneys"><question>
     <id>1400-000112</id>
     <title>What is a technical journey? Why is it important to my partner organization?</title>
     <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
@@ -1359,16 +1359,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Start your technical journey</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Training" refid="Training"><question>
-    <id>1200-000089</id>
-    <title>Where can I find information about competency related exams and readiness?</title>
-    <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
+    </articlelinks></question><question>
+    <id>1400-000110</id>
+    <title>Where can I find the top questions asked by partners during the presales and deployment phases of cloud and hybrid customer projects?</title>
+    <description><![CDATA[Review the most commonly asked questions by partners during the presales and deployment phases of their customer projects—including competitive positioning, demos, configuration, technical licensing, migration and deployment, and app development. ]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <text>KB 3182623: Top Partner Product Questions</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Training" refid="Training"><question>
     <id>1200-000056</id>
     <title>Does Microsoft offer low or no-cost training?</title>
     <description><![CDATA[Training is a benefit available to organizations enrolled in the Microsoft Partner Network at any level. MPN provides registration and access to online and in-person low and no-cost training. It is also used to complete the assessment requirements for Microsoft Action Pack and competencies.]]></description>
@@ -1401,5 +1401,14 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
        <link>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1200-000089</id>
+    <title>Where can I find information about competency related exams and readiness?</title>
+    <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft partner learning paths</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
     </articlelinks></question></group></groups>
