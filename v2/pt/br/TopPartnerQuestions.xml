@@ -463,8 +463,8 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Benefícios e requisitos principais</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=800-000039]]></url>
+        <text>Comprar ou renovar uma assinatura do Microsoft Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000090</id>
@@ -897,6 +897,14 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Cobrança</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
       </link>
+       <link>
+        <text>Partner Center: Usar os arquivos de reconciliação </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Transferência do PAC (Partner Admin Center) para o Partner Center </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
+      </link>
     </articlelinks></question><question>
     <id>200-000029</id>
     <title>Como submeter um pedido de suporte de Signature Cloud?</title>
@@ -968,12 +976,16 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>Como adicionar licenças ou serviços a uma CSP assinatura existente?</title>
+    <title>Como criar ou cancelar uma assinatura?</title>
     <description><![CDATA[Confira os links abaixo para saber como atualizar a assinatura]]></description>
     <articlelinks>
       <link>
         <text>Adicionar licenças ou serviços a uma assinatura existente</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Criar, suspender ou cancelar assinaturas de clientes</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000092</id>
@@ -1285,5 +1297,14 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
       <link>
         <text>Registro no My Visual Studio</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Onde posso encontrar e como ativar licenças de demonstração/treinamento?</title>
+    <description><![CDATA[Você obtém apenas uma chave por produto, e deve escolher a finalidade para a qual a usará: demonstração, treinamento ou uso interno. Não há licenças diferentes para cada tipo de benefício (demonstração, treinamento ou uso interno). Para demonstração ou treinamento, desde que você a ative e desative dentro de 30 dias, nenhuma ativação será gravada na chave do produto (Product Key).]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal MPN: Benefício de software e nuvem de Direitos de Uso Interno - para parceiros ainda no PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question></group></groups>

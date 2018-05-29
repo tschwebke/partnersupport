@@ -235,24 +235,16 @@
         <text>İş Ortakları için Premier Destek (PSfP)</text>
         <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
       </link>
-    </articlelinks></question></group><group title="Bulut Servisleri" refid="CloudServices"><question>
-    <id>200-000068</id>
-    <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
-    <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Tanıtım/eğitim lisanslarını nerede bulabilirim ve nasıl etkinleştirebilirim?</title>
+    <description><![CDATA[Her ürün için yalnızca bir anahtar edinirsiniz ve kullanım amacına siz karar verirsiniz: tanıtım, eğitim veya şirket içi kullanım. Her avantaj türü için farklı lisanslar bulunmaz (tanıtım, eğitim veya şirket içi kullanım). Tanıtım veya eğitim durumlarında 30 gün içinde etkinleştirip devre dışı bıraktığınızda etkinleştirme hakkınız ilgili ürün anahtarı için yanmaz.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Office demo portalı</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+        <text>MPN Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-       <link>
-        <text>Microsoft Office 365, Project Online ve Power BI demo tenantları</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365 ile ilk yolculuk</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Bulut Servisleri" refid="CloudServices"><question>
     <id>200-000085</id>
     <title>Cloud Services Partner Dashboard nedir?</title>
     <description><![CDATA[Bulut Hizmetleri Panosu bayilere ve distribütörlere, müşterilerinin Microsoft Office 365, Microsoft Intune ve Microsoft Dynamics CRM Online aboneliklerinin durumlarını takip etmelerine yardımcı olur.
@@ -273,12 +265,16 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>Mevcut CSP aboneliğe yeni lisans ve hizmetler nasıl eklenir?</title>
-    <description><![CDATA[Aboneliğinizi nasıl yükseltebileceğinizi öğrenmek için aşağıdaki bağlantıları görüntüleyin]]></description>
+    <title>Abonelik nasıl oluşturulur veya iptal edilir?</title>
+    <description><![CDATA[Daha fazla bilgi için lütfen aşağıdaki bağlantıları inceleyin]]></description>
     <articlelinks>
       <link>
         <text>Mevcut bir aboneliğe yeni lisans ve hizmetler ekleme</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>İş Ortağı Merkezi: Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000066</id>
@@ -484,16 +480,32 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İş Ortağı Merkezi: Faturalama</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
       </link>
-    </articlelinks></question></group><group title="Eğitim" refid="Training"><question>
-    <id>1200-000089</id>
-    <title>Uzmanlıklar ile ilgili sınav bilgilerine ve hazırlık dokümanlarına nereden ulaşabilirim?</title>
-    <description><![CDATA[Uzmanlık için sınav ve hazırlık için bilgilere ulaşmak için lütfen aşağıdaki Microsoft İş Ortağı öğrenme yolları sayfasını inceleyiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft iş ortağı öğrenme yolları</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+       <link>
+        <text>İş Ortağı Merkezi: Mutabakat dosyalarını kullanın </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>İş Ortağı Merkezi: İş Ortağı Yönetim Merkezi'nden (PAC) İş Ortağı Merkezi'ne geçiş </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
+    <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Office demo portalı</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365, Project Online ve Power BI demo tenantları</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365 ile ilk yolculuk</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question></group><group title="Eğitim" refid="Training"><question>
     <id>1200-000022</id>
     <title>Öğrenim yolları ile ilgili sıkça sorulan sorular nelerdir?</title>
     <description><![CDATA[Öğrenme Yolları eğitim almak ve sertifikalandırmak için size yol gösterirler. Öğrenme Yolları şirketiniz veya organizasyonunuz için adımları size vurgular. Öğrenme Yolları SSS, Öğrenme Yolları konusunda sıkça sorulan soruların cevaplarını bulmanızı sağlar.]]></description>
@@ -527,24 +539,16 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İş Ortakları Üniversitesi</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
       </link>
-    </articlelinks></question></group><group title="İndirmeler ve Yazılımlar" refid="DownloadsSoftware"><question SortOrderOnHome="1">
-    <id>800-000092</id>
-    <title>İç Kullanım hakları lisanslarımı nasıl aktive edebilirim?</title>
-    <description><![CDATA[Office 365, Kurumsal Mobilite Suite ve Microsoft Dynamics CRM Online iç kullanım hakları lisanslarını aktive edebilmek için adım adım kılavuza aşağıdaki makalelerden ulaşabilirsiniz.]]></description>
+    </articlelinks></question><question>
+    <id>1200-000089</id>
+    <title>Uzmanlıklar ile ilgili sınav bilgilerine ve hazırlık dokümanlarına nereden ulaşabilirim?</title>
+    <description><![CDATA[Uzmanlık için sınav ve hazırlık için bilgilere ulaşmak için lütfen aşağıdaki Microsoft İş Ortağı öğrenme yolları sayfasını inceleyiniz.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+        <text>Microsoft iş ortağı öğrenme yolları</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-       <link>
-        <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="İndirmeler ve Yazılımlar" refid="DownloadsSoftware"><question>
     <id>800-000104</id>
     <title>IUR Lisanslarımı nereden indirip etkinleştirebilirim?</title>
     <description><![CDATA[IUR lisanslarınızı nasıl etkinleştirip atayacağınız konusunda bilgi edinmek için aşağıdaki makaleye göz atın]]></description>
@@ -620,8 +624,8 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Abone olduğunuz MAP üyeliğinden daha fazla nasıl faydalanabilirsiniz?</text>
-        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
+        <text>Microsoft Eylem Paketi aboneliği satın alma veya yenileme</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000048</id>
@@ -722,20 +726,24 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>İç kullanım hakları bulut ve yazılım avantajları </text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
       </link>
-    </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="PartnerIncentives"><question>
-    <id>400-000082</id>
-    <title>İş Ortağı teşvikleri kazanabilmek için nasıl yetkin olabilirim?</title>
-    <description><![CDATA[İş Ortağı teşvikleri uygunluğu programlara göre değişiklik gösterir. Bazı programlar Microsoft İş Ortağı Ağı uzmanlığı sahipliğine bakar. Bazıları iş ortağı performansına veya Microsoft kanal izin durumlarına göre verilir. Tüm İş ortakları tüm teşvikler için yetkin değildir. ]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>800-000092</id>
+    <title>İç Kullanım hakları lisanslarımı nasıl aktive edebilirim?</title>
+    <description><![CDATA[Office 365, Kurumsal Mobilite Suite ve Microsoft Dynamics CRM Online iç kullanım hakları lisanslarını aktive edebilmek için adım adım kılavuza aşağıdaki makalelerden ulaşabilirsiniz.]]></description>
     <articlelinks>
       <link>
-        <text>İş ortağı teşvikleri için nasıl yetkin olabilirsiniz, öğrenin.</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+        <text>MPN Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
       </link>
        <link>
-        <text>Kullanıcı hesapları oluşturma ve izinleri atama</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
+        <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="PartnerIncentives"><question>
     <id>400-000080</id>
     <title>İş Ortağı teşvikleri hakkında nasıl destek alabilirim?</title>
     <description><![CDATA[İş Ortağı teşvikleri programı hakkında destek için Destek bölümü altında İş ortağı teşvikleri sayfasını ziyaret ediniz.]]></description>
@@ -800,16 +808,20 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Teşvik ödemeleriniz hakkında bilgi edinme</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question></group><group title="Ruhsat verme" refid="Licensing"><question>
-    <id>1500-000008</id>
-    <title>Microsoft lisanslama hakkında nasıl daha fazla bilgi edinebilirim?</title>
-    <description><![CDATA[Lisanslama hakkındaki diğer soruları görmek için lütfen aşağıdaki makaleye göz atın.]]></description>
+    </articlelinks></question><question>
+    <id>400-000082</id>
+    <title>İş Ortağı teşvikleri kazanabilmek için nasıl yetkin olabilirim?</title>
+    <description><![CDATA[İş Ortağı teşvikleri uygunluğu programlara göre değişiklik gösterir. Bazı programlar Microsoft İş Ortağı Ağı uzmanlığı sahipliğine bakar. Bazıları iş ortağı performansına veya Microsoft kanal izin durumlarına göre verilir. Tüm İş ortakları tüm teşvikler için yetkin değildir. ]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: İş ortağı lisanslama soruları - hızlı başvuru kılavuzu</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+        <text>İş ortağı teşvikleri için nasıl yetkin olabilirsiniz, öğrenin.</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Kullanıcı hesapları oluşturma ve izinleri atama</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
+      </link>
+    </articlelinks></question></group><group title="Ruhsat verme" refid="Licensing"><question>
     <id>1500-000009</id>
     <title>İş ortaklarının, Şirket İçi ürünlere yönelik yeni anahtarlar almalarına ne zaman yetki verilir? </title>
     <description><![CDATA[Şirket içi anahtarları belirli sayıda etkinleştirme için kullanabileceğinizi lütfen unutmayın. Yalnızca ürünün yeni bir sürümü kullanıma sunulduysa iş ortaklarının yeni anahtarlar almalarına yetki verilir. Aksi takdirde, iş ortakları daha önce anahtarları kullanmış ve yeni yıl için yeniden kayıt ödemesi yapmış olsalar bile ek etkinleştirme almayacaklardır. ]]></description>
@@ -817,6 +829,15 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       <link>
         <text>MPN Portalı: İş Ortağı Ağı yazılımı lisanslama avantajları SSS  </text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000008</id>
+    <title>Microsoft lisanslama hakkında nasıl daha fazla bilgi edinebilirim?</title>
+    <description><![CDATA[Lisanslama hakkındaki diğer soruları görmek için lütfen aşağıdaki makaleye göz atın.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4076425: İş ortağı lisanslama soruları - hızlı başvuru kılavuzu</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
     </articlelinks></question></group><group title="Teknik Hizmetler" refid=""><question>
     <id>1400-000110</id>
@@ -828,19 +849,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group><group title="Teknik Yolculuklar" refid="TechnicalJourneys"><question>
-    <id>1400-000113</id>
-    <title>Teknik yolculuğumda Microsoft İş Ortağı Teknik Danışmanları ile nasıl iletişime geçebilirim?</title>
-    <description><![CDATA[]]></description>
-    <articlelinks>
-      <link>
-        <text>Daha fazla bilgi edinin</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text>Dev Chat başlatın</text>
-        <url><![CDATA[?tpqid=1400-000113]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000114</id>
     <title>Teknik yolculuklara erişmek için hangi MPN avantajlarından yararlanırım?</title>
     <description><![CDATA[MPN iş ortağı olarak uzaktan, teknik web seminerlerine ve teknik yolculuğun bir parçası olarak sunulan Dev Chat'e sınırsız erişim elde edersiniz. Skype Kurumsal aracılığıyla bire bir teknik danışmanlık almak için Satış Öncesi Teknik Yardım veya İş Ortağı Danışmanlık Saatleri avantajınızdan yararlanırsınız. ]]></description>
@@ -870,7 +878,29 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Blogu okuyun</text>
         <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=1400-000112]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title>Teknik yolculuğumda Microsoft İş Ortağı Teknik Danışmanları ile nasıl iletişime geçebilirim?</title>
+    <description><![CDATA[]]></description>
+    <articlelinks>
+      <link>
+        <text>Daha fazla bilgi edinin</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text>Dev Chat başlatın</text>
+        <url><![CDATA[?tpqid=1400-000113]]></url>
+      </link>
     </articlelinks></question></group><group title="Ürün desteği" refid="ProductSupport"><question>
+    <id>700-000001</id>
+    <title>Dynamics ürünleriyle ilgili sorun veya sorular için nereden yardım alabilirim?</title>
+    <description><![CDATA[Lütfen İş Ortağı Kaynağı aracılığıyla hizmet isteğinde bulunun. Bu işlem, sitenin Fiyatlandırma ve Sipariş bölümüne gidip Yeni Operasyon İsteği'ni seçerek yapılabilir. Lütfen istekte bir BT numarası belirtin veya sohbet aracılığıyla doğrudan bir yetkili ile iletişime geçin. İsteğiniz talep ettiğiniz şekilde çözüme ulaşmazsa lütfen BT numarasını da e-posta gövdesine ekleyerek Dynamics İlerletme şeklinde e-posta gönderin.]]></description>
+    <articlelinks>
+      <link>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>700-000002</id>
     <title>Kuruluşum veya bir müşterinin adına Office 365, Microsoft Azure veya Microsoft Dynamics 365 için nasıl Destek İstekleri oluştururum?</title>
     <description><![CDATA[Ürün destek istekleri bu portalların herhangi birinden gönderilebilir.]]></description>
@@ -887,33 +917,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Microsoft Dynamics 365 Desteği (Oturum açılması gerekir)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>700-000001</id>
-    <title>Dynamics ürünleriyle ilgili sorun veya sorular için nereden yardım alabilirim?</title>
-    <description><![CDATA[Lütfen İş Ortağı Kaynağı aracılığıyla hizmet isteğinde bulunun. Bu işlem, sitenin Fiyatlandırma ve Sipariş bölümüne gidip Yeni Operasyon İsteği'ni seçerek yapılabilir. Lütfen istekte bir BT numarası belirtin veya sohbet aracılığıyla doğrudan bir yetkili ile iletişime geçin. İsteğiniz talep ettiğiniz şekilde çözüme ulaşmazsa lütfen BT numarasını da e-posta gövdesine ekleyerek Dynamics İlerletme şeklinde e-posta gönderin.]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
-      </link>
     </articlelinks></question></group><group title="Üyelik" refid="Membership"><question>
-    <id>100-000087</id>
-    <title>Belirli bir uzmanlık için gereksinimleri nereden bulabilirim?</title>
-    <description><![CDATA[İş Ortakları Portalı uzmanlık sayfasını ziyaret edin ve seçtiğiniz uzmanlık için linki tıklayın. Her bir uzmanlık sayfası o uzmanlık için gerekli olan belirli gereksinimleri listeler.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portalı: Uzmanlıklar</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000087]]></url>
-      </link>
-       <link>
-        <text>Temel avantajlar ve gereksinimler</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
-      </link>
-       <link>
-        <text>İş Ortağı Merkezi: Uzmanlıklar</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000069</id>
     <title>Şirketim Microsoft İş Ortağı ağına kayıt oldu. Bu profil bireysel hesabımı nasıl ilişkilendirebilirim?</title>
     <description><![CDATA[Microsoft hesabınız zaten varsa, Microsoft İş Ortağı Üyelik Merkezindeki Bireysel olarak İlişkilendirin sayfasından formu doldurarak kayıt olabilirsiniz. Eğer Microsoft hesabınız yoksa öncesinde bir tane oluşturmanız gerekir.]]></description>
@@ -1280,5 +1284,22 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text>Azure Active Directory'ye özel bir etki alanı adı ekleme</text>
         <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000087</id>
+    <title>Belirli bir uzmanlık için gereksinimleri nereden bulabilirim?</title>
+    <description><![CDATA[İş Ortakları Portalı uzmanlık sayfasını ziyaret edin ve seçtiğiniz uzmanlık için linki tıklayın. Her bir uzmanlık sayfası o uzmanlık için gerekli olan belirli gereksinimleri listeler.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portalı: Uzmanlıklar</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000087]]></url>
+      </link>
+       <link>
+        <text>Temel avantajlar ve gereksinimler</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
+      </link>
+       <link>
+        <text>İş Ortağı Merkezi: Uzmanlıklar</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
     </articlelinks></question></group></groups>

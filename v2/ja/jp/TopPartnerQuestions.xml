@@ -115,12 +115,16 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>外部のCSPサブスクリプションにライセンスまたはサービスを追加する方法</title>
-    <description><![CDATA[以下のリンクを表示して、サブスクリプションをアップグレードする方法を確認する]]></description>
+    <title>サブスクリプションを作成する方法または取り消す方法を教えてください。</title>
+    <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>
     <articlelinks>
       <link>
         <text>ライセンスまたはサービスを外部サブスクリプションに追加する</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>パートナー センター: 顧客のサブスクリプションの作成、一時停止、または取り消し</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000092</id>
@@ -265,6 +269,10 @@
         <text>パートナー センター SDK および API 参考資料 </text>
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
       </link>
+       <link>
+        <text>パートナー センター: パートナー管理センター (PAC) からパートナー センターに移行する </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
     <title>自分の CSP 請求書やお客様の課金情報を管理する方法</title>
@@ -273,6 +281,10 @@
       <link>
         <text>パートナー センター: 課金情報</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>パートナー センター: 調整ファイルを使う </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question></group><group title="ダウンロードおよびソフトウェア" refid="DownloadsSoftware"><question>
     <id>800-1000113</id>
@@ -341,8 +353,8 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>MAPS サブスクリプションを最大限に利用する方法</text>
-        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
+        <text>Microsoft Action Pack サブスクリプションの購入または更新</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000045</id>
@@ -1455,7 +1467,25 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>この特典の利用資格と詳細情報を確認するには</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>デモ/トレーニング ライセンスの入手方法とライセンス認証方法を教えてください</title>
+    <description><![CDATA[製品ごとに入手できるキーは 1 つのみです。デモ、トレーニング、または社内使用のいずれかの用途を選択してください。特典の種類 (デモ、トレーニング、または社内使用) ごとに異なるライセンスはありません。デモまたはトレーニングの場合、ライセンス認証してから 30 日以内に非アクティブ化を行う場合、そのプロダクト キーに対してライセンス認証は実施されません。]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN ポータル: 社内使用権クラウドおよびソフトウェアの特典 - 現在も PMC のパートナーの場合</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
+      </link>
     </articlelinks></question></group><group title="製品サポート" refid="ProductSupport"><question>
+    <id>700-000001</id>
+    <title>Dynamics 製品に関する問題や質問に対するサポートはどこで受けられますか?</title>
+    <description><![CDATA[パートナー ソース経由でサービス要求のログを記録してください。これは、サイトの「価格と注文」セクションにアクセスし、[新しい操作要求] を選択することで実行できます。要求の一部として IT 番号を引用またはチャット経由でエージェントと直接チャットしてください。要求が納得のいく形で解決しない場合は、電子メールの本文に IT 番号を記載し、Dynamics まで電子メールにてエスカレーションしてください。]]></description>
+    <articlelinks>
+      <link>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>700-000002</id>
     <title>Office 365、Microsoft Azure、または Microsoft Dynamics 365 に対するサポート要求を組織のためにまたは顧客に変わって作成する方法を教えてください。</title>
     <description><![CDATA[製品のサポート要求は次のそれぞれのポータルから送信できます。]]></description>
@@ -1471,14 +1501,5 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text>Microsoft Dynamics 365 サポート (サインインする必要があります)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>700-000001</id>
-    <title>Dynamics 製品に関する問題や質問に対するサポートはどこで受けられますか?</title>
-    <description><![CDATA[パートナー ソース経由でサービス要求のログを記録してください。これは、サイトの「価格と注文」セクションにアクセスし、[新しい操作要求] を選択することで実行できます。要求の一部として IT 番号を引用またはチャット経由でエージェントと直接チャットしてください。要求が納得のいく形で解決しない場合は、電子メールの本文に IT 番号を記載し、Dynamics まで電子メールにてエスカレーションしてください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -89,12 +89,16 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen CSP Abonnement?</title>
-    <description><![CDATA[Über die nachfolgenden Links erfahren Sie, wie Sie Abonnements upgraden]]></description>
+    <title>Wie wird ein Abonnement erstellt bzw. gekündigt?</title>
+    <description><![CDATA[Weitere Informationen erhalten Sie über die folgenden Links]]></description>
     <articlelinks>
       <link>
         <text>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Erstellen, Aussetzen oder Kündigen von Kundenabonnements</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000092</id>
@@ -239,6 +243,10 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <text>Partner Center SDK- und API-Referenzmaterial </text>
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
       </link>
+       <link>
+        <text>Partner Center: Wechsel von Partner Admin Center (PAC) zu Partner Center </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
     <title>Wie verwalte ich meine CSP-Rechnungen und Kundenabrechnung?</title>
@@ -247,6 +255,10 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
       <link>
         <text>Partner Center: Abrechnung</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Verwenden der Kontenabstimmungsdateien </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question></group><group title="Downloads und Software" refid="DownloadsSoftware"><question SortOrderOnHome="1">
     <id>800-000092</id>
@@ -332,8 +344,8 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Optimale Nutzung von MAPs-Abonnements</text>
-        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
+        <text>Kaufen oder Verlängern eines Microsoft Action Pack-Abonnements</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000045</id>
@@ -681,16 +693,16 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>Kundendienst</text>
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="Lizenzierung" refid="Licensing"><question>
-    <id>1500-000008</id>
-    <title>Wo erfahre ich mehr über die Microsoft-Lizenzierung?</title>
-    <description><![CDATA[Weitere Fragen zur Lizenzierung finden Sie im nachfolgenden Artikel.]]></description>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Wo finde ich Demo-/Trainingslizenzen und wie aktiviere ich sie?</title>
+    <description><![CDATA[Sie erhalten pro Produkt nur einen Product Key. Sie entscheiden, zu welchem Zweck Sie das Produkt verwenden: Demonstration, Training oder interne Nutzung. Es gibt keine unterschiedlichen Lizenzen für die verschiedenen Arten von Benefits (Demonstration, Training oder interne Nutzung). Für Demonstrations- oder Trainingszwecke wird für diesen Produkt Key keine Aktivierung verbraucht, vorausgesetzt Sie aktivieren und deaktivieren den Product Key innerhalb von 30 Tagen.]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: Fragen zur Partnerlizenzierung – Kurzübersichtsleitfaden</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+        <text>MPN-Portal: Cloud- und Softwarevorteile interner Nutzungsrechte – für Partner in PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Lizenzierung" refid="Licensing"><question>
     <id>1500-000009</id>
     <title>Wann erhalten Partner neue Schlüssel für lokale Produkte? </title>
     <description><![CDATA[Bitte beachten Sie, dass lokale Schlüssel nur für eine endliche Anzahl von Aktivierungen gelten. Partner erhalten erst neue Schüssel, wenn eine neue Version des Produkts auf den Markt gebracht wird. Ansonsten erhalten Partner keine zusätzlichen Aktivierungen, auch wenn sie diese bereits verbraucht und für ein erneutes Enrollment-Jahr bezahlt haben. ]]></description>
@@ -699,24 +711,16 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>MPN-Portal: Vorteile der Partner Network-Softwarelizenzierung – FAQ  </text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
-    <id>100-000089</id>
-    <title>Wo kann ich die Anforderung des technischen Assessments für die Enterprise Mobility Angebote finden?</title>
-    <description><![CDATA[Das technische Assessment für die Enterprise Mobility Angebote ist im Partner University zu finden und ist verfügbar in den folgenden Sprachen: Englisch, Deutsch, Spanisch und Französisch.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000008</id>
+    <title>Wo erfahre ich mehr über die Microsoft-Lizenzierung?</title>
+    <description><![CDATA[Weitere Fragen zur Lizenzierung finden Sie im nachfolgenden Artikel.]]></description>
     <articlelinks>
       <link>
-        <text>Ermöglichen von technischen Assessments für Enterprise Mobility</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000089]]></url>
+        <text>KB 4076425: Fragen zur Partnerlizenzierung – Kurzübersichtsleitfaden</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-       <link>
-        <text>Enterprise Mobility Management</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Enterprise Mobility Management für Kompetenzen</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
     <id>100-000091</id>
     <title>Welche Bezahlungsmethoden werden für die MPN-Registrierung bzw. die erneute MPN-Registrierung akzeptiert?</title>
     <description><![CDATA[Im folgenden Artikel erfahren Sie, welche Bezahlungsmethoden für die MPN-Registrierung bzw. die erneute MPN-Registrierung akzeptiert werden.]]></description>
@@ -1093,20 +1097,24 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Senden einer Gruppeneinladung</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017800?tpqid=100-000079]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
-    <id>400-000079</id>
-    <title>Wo finde ich weitere Informationen zu Partner-Incentives? </title>
-    <description><![CDATA[Seit dem 1. Juli 2015 sind im Microsoft Partner Network Informationen zu allen Partner-Incentives-Programmen verfügbar! Zu einem Incentives-Programm berechtigte Partner finden alle zu dem betreffenden Programm verfügbaren Materialien unter aka.ms/partnerincentives. Die Partner sehen auch dann Details zu den meisten Cloud-Incentives, wenn sie die erforderlichen Kompetenzen noch nicht erworben haben. ]]></description>
+    </articlelinks></question><question>
+    <id>100-000089</id>
+    <title>Wo kann ich die Anforderung des technischen Assessments für die Enterprise Mobility Angebote finden?</title>
+    <description><![CDATA[Das technische Assessment für die Enterprise Mobility Angebote ist im Partner University zu finden und ist verfügbar in den folgenden Sprachen: Englisch, Deutsch, Spanisch und Französisch.]]></description>
     <articlelinks>
       <link>
-        <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
+        <text>Ermöglichen von technischen Assessments für Enterprise Mobility</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000089]]></url>
       </link>
        <link>
-        <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+        <text>Enterprise Mobility Management</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Partner Center: Enterprise Mobility Management für Kompetenzen</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
+      </link>
+    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
     <id>400-000080</id>
     <title>Wie erhalte ich Support für Partner-Incentives? </title>
     <description><![CDATA[Support für das Partner-Incentives-Programm finden Sie im Abschnitt „Support“ auf der Seite „Partner-Incentives“.]]></description>
@@ -1171,16 +1179,20 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Produkt-Support" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Wo finde ich Hilfe zu Problemen oder Fragen im Zusammenhang mit Dynamics-Produkten?</title>
-    <description><![CDATA[Geben Sie über PartnerSource eine Serviceanfrage ein. Hierzu können Sie den Abschnitt zu Preisen und Bestellungen der Website besuchen und „New Operations Request“ auswählen. Geben Sie im Rahmen der Anfrage eine IT-Nummer an, oder chatten Sie direkt mit einem unserer Mitarbeiter. Wenn Ihre Anfrage nicht zu Ihrer Zufriedenheit beantwortet wird, senden Sie uns eine E-Mail unter Angabe von „Dynamics Escalation“ und der IT-Nummer im Nachrichtentext.]]></description>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>Wo finde ich weitere Informationen zu Partner-Incentives? </title>
+    <description><![CDATA[Seit dem 1. Juli 2015 sind im Microsoft Partner Network Informationen zu allen Partner-Incentives-Programmen verfügbar! Zu einem Incentives-Programm berechtigte Partner finden alle zu dem betreffenden Programm verfügbaren Materialien unter aka.ms/partnerincentives. Die Partner sehen auch dann Details zu den meisten Cloud-Incentives, wenn sie die erforderlichen Kompetenzen noch nicht erworben haben. ]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Grundlegendes zu Ihren Incentiveauszahlungen</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question></group><group title="Produkt-Support" refid="ProductSupport"><question>
     <id>700-000002</id>
     <title>Wie erstelle ich Supportanfragen für Office 365, Microsoft Azure oder Microsoft Dynamics 365 für meine Organisation oder im Auftrag eines Kunden?</title>
     <description><![CDATA[Produktsupportanfragen können über jedes dieser Portale übermittelt werden.]]></description>
@@ -1197,16 +1209,16 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Microsoft Dynamics 365-Support (Anmeldung erforderlich)</text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Schulung" refid="Training"><question>
-    <id>1200-000089</id>
-    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
-    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Wo finde ich Hilfe zu Problemen oder Fragen im Zusammenhang mit Dynamics-Produkten?</title>
+    <description><![CDATA[Geben Sie über PartnerSource eine Serviceanfrage ein. Hierzu können Sie den Abschnitt zu Preisen und Bestellungen der Website besuchen und „New Operations Request“ auswählen. Geben Sie im Rahmen der Anfrage eine IT-Nummer an, oder chatten Sie direkt mit einem unserer Mitarbeiter. Wenn Ihre Anfrage nicht zu Ihrer Zufriedenheit beantwortet wird, senden Sie uns eine E-Mail unter Angabe von „Dynamics Escalation“ und der IT-Nummer im Nachrichtentext.]]></description>
     <articlelinks>
       <link>
-        <text>Lernpfade für Microsoft Partner </text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Schulung" refid="Training"><question>
     <id>1200-000056</id>
     <title>Bietet Microsoft Trainings zu einem günstigen Preis oder kostenfrei an?</title>
     <description><![CDATA[Das Partner University ist eine Leistung für Unternehmen die im Microsoft Partner Network registriert sind und verfügbar für jede Programmstufe. Das Partner University bietet Registrierung und Zugriff zu günstigen oder kostenfreien Trainings (persönlich oder online). Es wird auch zur Erfüllung der Anforderungen an das Microsoft Action Pack oder Kompetenzen genutzt.]]></description>
@@ -1240,20 +1252,16 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question></group><group title="Technische Erkundungstrips" refid="TechnicalJourneys"><question>
-    <id>1400-000112</id>
-    <title>Was ist ein technischer Erkundungstrip? Warum spielt dies für meine Partnerorganisation eine wichtige Rolle?</title>
-    <description><![CDATA[Mithilfe technischer Erkundungstrips können Sie Ihre technischen Kompetenzen schneller entwickeln, um den Umsatz, die Bereitstellungen und die Anwendungsentwicklung zu beschleunigen. Starten Sie Ihren technischen Erkundungstrip, um in Form von empfohlenen interaktiven Technikwebinaren und Einzelberatungsgesprächen mit virtuellen Whiteboards, Architekturanalysen und nachgestellten realistischen Szenarien technische Beratung von Microsoft Partner Technical Consultants zu erhalten. ]]></description>
+    </articlelinks></question><question>
+    <id>1200-000089</id>
+    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
+    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
     <articlelinks>
       <link>
-        <text>Technischen Erkundungstrip starten</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+        <text>Lernpfade für Microsoft Partner </text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-       <link>
-        <text>Blog lesen</text>
-        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technische Erkundungstrips" refid="TechnicalJourneys"><question>
     <id>1400-000113</id>
     <title>Wie interagiere ich während des technischen Erkundungstrips mit Microsoft Partner Technical Consultants?</title>
     <description><![CDATA[]]></description>
@@ -1291,5 +1299,18 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
       <link>
         <text>Topfragen von Partnern zu Produkten</text>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title>Was ist ein technischer Erkundungstrip? Warum spielt dies für meine Partnerorganisation eine wichtige Rolle?</title>
+    <description><![CDATA[Mithilfe technischer Erkundungstrips können Sie Ihre technischen Kompetenzen schneller entwickeln, um den Umsatz, die Bereitstellungen und die Anwendungsentwicklung zu beschleunigen. Starten Sie Ihren technischen Erkundungstrip, um in Form von empfohlenen interaktiven Technikwebinaren und Einzelberatungsgesprächen mit virtuellen Whiteboards, Architekturanalysen und nachgestellten realistischen Szenarien technische Beratung von Microsoft Partner Technical Consultants zu erhalten. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Technischen Erkundungstrip starten</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text>Blog lesen</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question></group></groups>

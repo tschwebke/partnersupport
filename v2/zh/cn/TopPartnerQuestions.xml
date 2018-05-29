@@ -12,8 +12,8 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>如何充分利用 MAP 订阅</text>
-        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
+        <text>购买或续订 Microsoft Action Pack 订阅</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000090</id>
@@ -276,12 +276,16 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>如何将授权或服务添加到现有的CSP订阅?</title>
-    <description><![CDATA[查看以下链接，了解如何升级订阅]]></description>
+    <title>如何创建或取消订阅？</title>
+    <description><![CDATA[请查看以下链接了解更多信息]]></description>
     <articlelinks>
       <link>
         <text>向现有订阅添加许可证或服务</text>
         <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>合作伙伴中心：创建、暂停或取消客户订阅</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000092</id>
@@ -434,6 +438,14 @@
       <link>
         <text>合作伙伴中心：帐务</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>合作伙伴中心：使用对帐文件 </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>合作伙伴中心：从合作伙伴管理中心 (PAC) 移至合作伙伴中心 </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question></group><group title="产品支持" refid="ProductSupport"><question>
     <id>700-000001</id>
@@ -1264,16 +1276,16 @@
         <text>验证你是否有资格获得此优惠并了解更多信息</text>
         <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question></group><group title="许可" refid="Licensing"><question>
-    <id>1500-000008</id>
-    <title>如何了解有关 Microsoft 许可的更多信息？</title>
-    <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>我在哪里可以找到演示/培训许可证以及如何激活？</title>
+    <description><![CDATA[每个产品只能获得一个密钥，并且由你决定选择其使用意图：演示、培训或内部使用。对于每种类型的权益（演示、培训或内部使用），没有不同的许可证。对于演示或培训，只要你激活并在 30 天内停用，激活就不会使用该产品密钥。]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: 合作伙伴许可问题 - 快速参考指南</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+        <text>MPN 门户：内部使用权限的云和软件权益 - 适用于仍在 PMC 中的合作伙伴</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="许可" refid="Licensing"><question>
     <id>1500-000009</id>
     <title>合作伙伴何时能够获得本地产品的新密钥？ </title>
     <description><![CDATA[请注意，本地密钥的激活次数有限。只有在推出产品的新版本后，合作伙伴才能获得新密钥。如果没有推出新版本，即使合作伙伴已经消费并且支付了重新注册的新一年的费用，他们也不会收到额外的激活。 ]]></description>
@@ -1281,5 +1293,14 @@
       <link>
         <text>MPN 门户：合作伙伴网络软件许可权益常见问题解答  </text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=1500-000009]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000008</id>
+    <title>如何了解有关 Microsoft 许可的更多信息？</title>
+    <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4076425: 合作伙伴许可问题 - 快速参考指南</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
     </articlelinks></question></group></groups>

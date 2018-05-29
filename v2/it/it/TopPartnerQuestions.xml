@@ -678,6 +678,10 @@
         <text>SDK del Centro per i partner e materiale di riferimento sulle API </text>
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
       </link>
+       <link>
+        <text>Centro per i partner: passaggio dall'interfaccia di amministrazione partner al Centro per i partner </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
     <title>Come posso gestire le fatture CSP e la fatturazione per i clienti?</title>
@@ -686,6 +690,10 @@
       <link>
         <text>Centro per i partner: fatturazione</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Centro per i partner: utilizzo dei file di riconciliazione </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000083</id>
@@ -767,12 +775,16 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
-    <title>Come si aggiungono licenze o servizi a una CSP sottoscrizione esistente?</title>
-    <description><![CDATA[Utilizza i collegamenti che seguono per informazioni sull'aggiornamento della sottoscrizione]]></description>
+    <title>Cosa devo fare per creare o annullare e un abbonamento?</title>
+    <description><![CDATA[Per ottenere ulteriori informazioni, accedi ai collegamenti indicati di seguito.]]></description>
     <articlelinks>
       <link>
         <text>Aggiungere licenze o servizi a una sottoscrizione esistente</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>Centro per i partner: Creare, sospendere o annullare abbonamenti utente</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000092</id>
@@ -962,8 +974,8 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Come ottenere il massimo dall'abbonamento MAP</text>
-        <url><![CDATA[https://vimeo.com/134886254?tpqid=800-000039]]></url>
+        <text>Acquistare o rinnovare un abbonamento a Microsoft Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000032</id>
@@ -1282,5 +1294,14 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
       <link>
         <text>Registrazione a My Visual Studio</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Dove posso scaricare e come posso attivare le licenze per dimostrazioni e formazione?</title>
+    <description><![CDATA[Viene fornito un solo codice per prodotto e l'utente può decidere se utilizzarlo a scopo di dimostrazione, formazione o uso interno. Non sono previste licenze diverse per ciascun tipo di benefit (dimostrazione, formazione o uso interno). Per le dimostrazioni o la formazione, se la licenza viene attivata e disattivata nell'arco di 30 giorni, non viene eseguita alcuna attivazione per il codice "Product Key" corrispondente.]]></description>
+    <articlelinks>
+      <link>
+        <text>Portale MPN: vantaggi del software e del cloud dei diritti di utilizzo interno - Per i partner che utilizzano ancora PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question></group></groups>
