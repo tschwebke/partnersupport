@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item>
+	<solutions>
+		<solution>
+			<linktext>
+				Support for ASP .NET
+			</linktext>
+			<linkurl>
+				<![CDATA[http://www.asp.net/community/support]]>
+			</linkurl>
+		</solution>
+		<solution>
+			<linktext>
+				If you are unable to find what you are looking for, check out the MSDN forum for additional assistance
+			</linktext>
+			<linkurl>
+				<![CDATA[https://social.msdn.microsoft.com/]]>
+			</linkurl>
+		</solution>
+		<solution>
+			<linktext>
+				Technical Support for Microsoft Partners
+			</linktext>
+			<linkurl>
+				<![CDATA[https://support.microsoft.com/help/4020188 ]]>
+			</linkurl>
+		</solution>
+	</solutions>
+	<communities>
+		<community>
+			<linktext>
+				Microsoft ASP .NET  forum
+			</linktext>
+			<linkurl>
+				<![CDATA[https://forums.asp.net/]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/mpn-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				ASP .NET Weblogs
+			</linktext>
+			<linkurl>
+				<![CDATA[http://weblogs.asp.net/aspnet-team/]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/rss-blog-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				@aspnet
+			</linktext>
+			<linkurl>
+				<![CDATA[https://twitter.com/aspnet]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/twitter-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				ASP .NET Facebook
+			</linktext>
+			<linkurl>
+				<![CDATA[https://www.facebook.com/asp.net]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/facebook-34.png
+			</icon>
+		</community>
+	</communities>
+	<submission>
+		<title>
+			Submit an issue
+		</title>
+		<description>
+			Submit your questions/issues and an agent will contact you within 24 business hours to discuss your submission.
+		</description>
+		<linkurl>
+			<![CDATA[https://support.microsoft.com/getsupport/hostpage.aspx?oaspworkflow=start_1.0.0.0&wfname=posprogrammembership&sd=partner&wf=0&mpnid={LOCID}&supporttopicId_L1=100199992&supporttopicId_L2=100200028&supporttopicId_L3=100200034&locale=en-us&SupportRegion=en-us]]>
+		</linkurl>
+		<linktext>
+			Submit issue
+		</linktext>
+		<icon>
+			/images/partner/submitIncident.jpg
+		</icon>
+	</submission>
+	<chat>
+		<title>
+			Start a chat
+		</title>
+		<description>
+			Start a chat with an agent
+		</description>
+		<linkurl>
+			<![CDATA[https://support.microsoft.com/getsupport/hostpage.aspx?oaspworkflow=start_1.0.0.0&wfname=posprogrammembership&sd=partner&wf=0&mpnid={LOCID}&supporttopicId_L1=100199992&supporttopicId_L2=100200028&supporttopicId_L3=100200034&locale=en-us&SupportRegion=en-us]]>
+		</linkurl>
+		<linktext>
+			Submit issue
+		</linktext>
+		<icon>
+			/images/partner/startchat.jpg
+		</icon>
+	</chat>
+	<call>
+		<title>
+			Call an agent
+		</title>
+		<description>
+			Speak to a Regional Service Center agent by phone.
+		</description>
+		<icon>
+			/images/partner/callAgent.jpg
+		</icon>
+		<numbers>
+			<numbertitle>
+				1-800-MPN-SOLVE (1-800-676-7658)
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+			<numbertitle>
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+			<numbertitle>
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+			<numbertitle>
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+		</numbers>
+	</call>
+</item>
