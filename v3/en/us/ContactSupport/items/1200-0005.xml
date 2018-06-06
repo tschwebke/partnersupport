@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item>
+	<solutions>
+		<solution>
+			<linktext>
+				Learning Paths – Top FAQ list
+			</linktext>
+			<linkurl>
+				<![CDATA[http://support.microsoft.com/kb/2964426]]>
+			</linkurl>
+		</solution>
+		<solution>
+			<linktext>
+				How to get Microsoft Partner Network Help from the RSC
+			</linktext>
+			<linkurl>
+				<![CDATA[https://support.microsoft.com/help/3202548]]>
+			</linkurl>
+		</solution>
+	</solutions>
+	<communities>
+		<community>
+			<linktext>
+				Get help from the Microsoft Partner Support Community
+			</linktext>
+			<linkurl>
+				<![CDATA[https://partnersupport.microsoft.com/en-us/par_progmem/forum/par_compet-par_othercom]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/mpn-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				Follow @msPartner on Twitter
+			</linktext>
+			<linkurl>
+				<![CDATA[https://twitter.com/msPartner]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/twitter-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				Read the Microsoft US Partner Team blog
+			</linktext>
+			<linkurl>
+				<![CDATA[http://blogs.technet.com/b/msuspartner/]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/rss-blog-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				Join Microsoft Partner Network on Facebook
+			</linktext>
+			<linkurl>
+				<![CDATA[https://www.facebook.com/mspartner/]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/facebook-34.png
+			</icon>
+		</community>
+		<community>
+			<linktext>
+				Subscribe to the Microsoft Partner Network YouTube Channel
+			</linktext>
+			<linkurl>
+				<![CDATA[https://www.youtube.com/user/msPartner]]>
+				<![CDATA[" target="_blank]]>
+			</linkurl>
+			<icon>
+				/images/partner/youtube-34.png
+			</icon>
+		</community>
+	</communities>
+	<submission>
+		<title>
+			Submit an issue
+		</title>
+		<description>
+			Submit your questions/issues and an agent will contact you within 24 business hours to discuss your submission.
+		</description>
+		<linkurl>
+			<![CDATA[https://support.microsoft.com/getsupport/hostpage.aspx?oaspworkflow=start_1.0.0.0&wfname=posprogrammembership&sd=partner&wf=0&mpnid={LOCID}&supporttopicId_L1=100199992&supporttopicId_L2=100200028&supporttopicId_L3=100200034&locale=en-us&SupportRegion=en-us]]>
+		</linkurl>
+		<linktext>
+			Submit issue
+		</linktext>
+		<icon>
+			/images/partner/submitIncident.jpg
+		</icon>
+	</submission>
+	<chat>
+		<title>
+			Start a chat
+		</title>
+		<description>
+			Start a chat with an agent
+		</description>
+		<linkurl>
+			<![CDATA[https://support.microsoft.com/getsupport/hostpage.aspx?oaspworkflow=start_1.0.0.0&wfname=posprogrammembership&sd=partner&wf=0&mpnid={LOCID}&supporttopicId_L1=100199992&supporttopicId_L2=100200028&supporttopicId_L3=100200034&locale=en-us&SupportRegion=en-us]]>
+		</linkurl>
+		<linktext>
+			Submit issue
+		</linktext>
+		<icon>
+			/images/partner/startchat.jpg
+		</icon>
+	</chat>
+	<call>
+		<title>
+			Click to call an agent
+		</title>
+		<description>
+			Click here to schedule a callback
+		</description>
+		<icon>
+			/images/partner/callAgent.jpg
+		</icon>
+		<numbers>
+			<numbertitle>
+                Click to call
+			</numbertitle>
+			<numberurl>
+                <![CDATA[https://xbox.com/support]]>
+			</numberurl>
+			<numbertitle>
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+			<numbertitle>
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+			<numbertitle>
+			</numbertitle>
+			<numberurl>
+			</numberurl>
+		</numbers>
+	</call>
+</item>
