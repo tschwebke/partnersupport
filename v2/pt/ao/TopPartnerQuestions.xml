@@ -707,6 +707,15 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
     </articlelinks></question></group><group title="Jornadas técnicas" refid="TechnicalJourneys"><question>
+    <id>1400-000110</id>
+    <title>Onde posso encontrar as principais perguntas feitas pelos parceiros durante as fases de pré-vendas e implantação de projetos de clientes híbridos e na nuvem?</title>
+    <description><![CDATA[Consulte as perguntas mais frequentes feitas pelos parceiros durante as fases de pré-vendas e implantação dos projetos de clientes, incluindo posicionamento competitivo, demonstrações, configuração, licenciamento técnico, migração e implantação e desenvolvimento de aplicativos. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Principais perguntas dos parceiros sobre o produto</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1400-000112</id>
     <title>O que é uma jornada técnica? Por que ela é importante para minha organização parceira?</title>
     <description><![CDATA[Jornadas técnicas ajudam a desenvolver suas capacidades técnicas de maneira mais rápida, para acelerar as vendas, as implantações e o desenvolvimento de aplicativos. Inicie sua jornada técnica para receber orientação técnica de consultores técnicos de parceiros da Microsoft, por meio de um roteiro recomendado de webinars técnicos interativos e consultas personalizadas com quadro de comunicações virtual, revisões de arquitetura e sombreamento de cenários do mundo real. ]]></description>
@@ -768,21 +777,21 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
     </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
-    <id>200-000068</id>
-    <title>Como posso criar demonstrações dos produtos de Office 365?</title>
-    <description><![CDATA[O “Microsoft Office demo portal” permite-lhe aceder aos materiais de apoio para demonstrações e também criar ambientes de demonstrações dos produtos de Office 365 sem requerer uma instalação local. O ambiente de demonstração Microsoft Office consiste numa avaliação de Office 365 personalizada com um “Tenant”, já preenchido com conteúdo pronto para demonstração. Assim que tenha criado o seu Office 365 “Tenant”, poderá fornecer demonstrações que abrangem todos os produtos Office, como o Exchange, Sharepoint, Lync, Outlook, Word, Excel, PowerPoint e muitos outros.]]></description>
+    <id>200-000029</id>
+    <title>Como submeter um pedido de suporte de Signature Cloud?</title>
+    <description><![CDATA[Obtenha uma visão geral do benefício Signature Cloud Support, incluindo o processo de submeter um pedido de suporte.]]></description>
     <articlelinks>
       <link>
-        <text>Portal de demonstrações do Microsoft Office</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+        <text>Saiba mais sobre o Suporte à Assinatura na Nuvem</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
       </link>
        <link>
-        <text>Locatários de demonstração do Microsoft Office 365, do Project Online e do Power BI</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+        <text>Visão geral do benefício Signature Cloud Support</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
       </link>
        <link>
-        <text>Microsoft Office 365 Initial Journey</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+        <text>Suporte à Assinatura na Nuvem para o Microsoft Office 365 </text>
+        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -906,23 +915,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000029</id>
-    <title>Como submeter um pedido de suporte de Signature Cloud?</title>
-    <description><![CDATA[Obtenha uma visão geral do benefício Signature Cloud Support, incluindo o processo de submeter um pedido de suporte.]]></description>
-    <articlelinks>
-      <link>
-        <text>Saiba mais sobre o Suporte à Assinatura na Nuvem</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>Visão geral do benefício Signature Cloud Support</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>Suporte à Assinatura na Nuvem para o Microsoft Office 365 </text>
-        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000026</id>
     <title>Eu sou um parceiro da Microsoft. Como posso ativar as funcionalidades de parceiro?</title>
     <description><![CDATA[Use os seguintes recursos para aceder aos seus benefícios na nuvem e ativar as funcionalidades de parceiro:]]></description>
@@ -973,6 +965,23 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Partner Center: Comunicados do CSP</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>Como posso criar demonstrações dos produtos de Office 365?</title>
+    <description><![CDATA[O “Microsoft Office demo portal” permite-lhe aceder aos materiais de apoio para demonstrações e também criar ambientes de demonstrações dos produtos de Office 365 sem requerer uma instalação local. O ambiente de demonstração Microsoft Office consiste numa avaliação de Office 365 personalizada com um “Tenant”, já preenchido com conteúdo pronto para demonstração. Assim que tenha criado o seu Office 365 “Tenant”, poderá fornecer demonstrações que abrangem todos os produtos Office, como o Exchange, Sharepoint, Lync, Outlook, Word, Excel, PowerPoint e muitos outros.]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal de demonstrações do Microsoft Office</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Locatários de demonstração do Microsoft Office 365, do Project Online e do Power BI</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365 Initial Journey</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
@@ -1025,15 +1034,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Partner Center: Bem-vindo ao Microsoft Partner Center</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
-      </link>
-    </articlelinks></question></group><group title="Serviços Técnicos" refid=""><question>
-    <id>1400-000110</id>
-    <title>Onde posso encontrar as principais perguntas feitas pelos parceiros durante as fases de pré-vendas e implantação de projetos de clientes híbridos e na nuvem?</title>
-    <description><![CDATA[Consulte as perguntas mais frequentes feitas pelos parceiros durante as fases de pré-vendas e implantação dos projetos de clientes, incluindo posicionamento competitivo, demonstrações, configuração, licenciamento técnico, migração e implantação e desenvolvimento de aplicativos. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Principais perguntas dos parceiros sobre o produto</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group><group title="Suporte ao produto" refid="ProductSupport"><question>
     <id>700-000002</id>
