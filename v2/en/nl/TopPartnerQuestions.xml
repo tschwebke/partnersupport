@@ -29,6 +29,19 @@
         <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000013</id>
+    <title>How do I get started using the Partner Support Community?</title>
+    <description><![CDATA[Connect with experts and other partners at no cost to get answers to your product, developer, presales, and Microsoft Partner Network membership questions.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Support Community FAQ</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
+      </link>
+       <link>
+        <text>Partner support community</text>
+        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>How do I qualify for Technical/Product Support?</title>
     <description><![CDATA[Review the Core Benefits and Requirements and MPN Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
@@ -239,24 +252,7 @@
         <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question SortOrderOnHome="5">
-    <id>200-000100</id>
-    <title>Where do I find information about how to do things in Partner Center?</title>
-    <description><![CDATA[To find out how to accomplish tasks for your organization and your customers in Partner Center Dashboard, visit the Partner Center Help library or our developer reference material.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center Help Library   </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
-      </link>
-       <link>
-        <text>Partner Center SDK and API reference material </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
-      </link>
-       <link>
-        <text>Moving from Partner Admin Center to the Partner Dashboard</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question>
     <id>200-000026</id>
     <title>We are a Microsoft Partner. How can we activate partner features?</title>
     <description><![CDATA[Use these resource to learn how to access your online services benefits and activate partner features:]]></description>
@@ -294,6 +290,19 @@
        <link>
         <text>Partner Center: Create, suspend, or cancel customer subscription</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="4">
+    <id>200-000101</id>
+    <title>How do I manage my CSP Invoices and customer billing?</title>
+    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Billing</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Use the reconciliations files </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000066</id>
@@ -364,7 +373,7 @@
         <text>Partner Center: Organization tax information</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>How to join the Cloud Solution Provider program?</title>
     <description><![CDATA[Review the following information about enrollment.]]></description>
@@ -412,7 +421,7 @@
         <text>Cloud Community on Yammer</text>
         <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>What are the steps to get started on Partner Center?</title>
     <description><![CDATA[Read the article below to see learn more about Partner Center website.]]></description>
@@ -486,37 +495,24 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Partner Center: CSP Incentive information</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000101</id>
-    <title>How do I manage my CSP Invoices and customer billing?</title>
-    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>200-000100</id>
+    <title>Where do I find information about how to do things in Partner Center?</title>
+    <description><![CDATA[To find out how to accomplish tasks for your organization and your customers in Partner Center Dashboard, visit the Partner Center Help library or our developer reference material.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Billing</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+        <text>Partner Center Help Library   </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
        <link>
-        <text>Partner Center: Use the reconciliations files </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
-      </link>
-    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question>
-    <id>800-000092</id>
-    <title>How do I activate my internal-use rights licenses?</title>
-    <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+        <text>Partner Center SDK and API reference material </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
       </link>
        <link>
-        <text>Partner Center: Manage your Microsoft Partner Network membership benefits</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+        <text>Moving from Partner Admin Center to the Partner Dashboard</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
       </link>
-       <link>
-        <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
     <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. Renewal process is needed for O365 and Dynamics separately from re-enrollment of MAPS. They do not renew automatically once partner renewed their MAPS Membership. For details about license benefits, refer to the following resources:]]></description>
@@ -533,7 +529,7 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Purchase or renew Microsoft Action Pack subscription</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>800-000075</id>
     <title>Where can I view changes to the downloads and software available to me?</title>
     <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
@@ -549,6 +545,23 @@ You can use the dashboard as a source for key data to help you efficiently manag
        <link>
         <text>KB 3007588: How to activate and assign Office 365 (E3) internal-use rights licenses</text>
         <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="2">
+    <id>800-000036</id>
+    <title>How do I activate my Visual Studio subscription?</title>
+    <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4013871: Microsoft Partner Network (MPN) Visual Studio Subscriptions</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Activate Visual Studio Online subscription</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online subscriptions</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000105</id>
@@ -605,6 +618,10 @@ You can use the dashboard as a source for key data to help you efficiently manag
        <link>
         <text>KB 2966345: Assign Visual Studio Online subscription access and privileges</text>
         <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
+      </link>
+       <link>
+        <text>Assigning Visual Studio Online Privileges</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmaction/assigning-msdn-privileges/bc0dc817-40dc-4b38-9f20-81a3d824d899?tpqid=800-000030]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000087</id>
@@ -675,22 +692,22 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Visual Studio 2015 License not recognized</text>
         <url><![CDATA[https://msdn.microsoft.com/library/dn950037.aspx?tpqid=800-000045]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>How do I activate my Visual Studio subscription?</title>
-    <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>800-000092</id>
+    <title>How do I activate my internal-use rights licenses?</title>
+    <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
     <articlelinks>
       <link>
-        <text>KB 4013871: Microsoft Partner Network (MPN) Visual Studio Subscriptions</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871?tpqid=800-000036]]></url>
+        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
       </link>
        <link>
-        <text>Activate Visual Studio Online subscription</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+        <text>Partner Center: Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
       </link>
        <link>
-        <text>Visual Studio Online subscriptions</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+        <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group><group title="Licensing" refid="Licensing"><question>
     <id>1500-000006</id>
@@ -904,7 +921,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Partner Center: Update your partner profile</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>100-000092</id>
     <title>How to link my organization’s work account to my new Partner Center account?</title>
     <description><![CDATA[If your company doesn’t already have work account, you can create one for free during the enrollment process. If you want to use an existing work account but you’re having trouble signing in, review the following articles:]]></description>
@@ -917,7 +934,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Add a custom domain name to Azure Active Directory</text>
         <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title>How to print/download final invoice from MAPS and Competency fee?</title>
     <description><![CDATA[See the article below to learn how to print final invoices]]></description>
@@ -945,6 +962,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <description><![CDATA[After the recent program changes, you or your associated MCPs may not be correctly recognized in the Partner Membership Center, despite being linked correctly and passing the required exams. In this situation, please reassign the MCP through the “Manage Microsoft Certified Professionals” section in the Partner Membership Center. This workaround should solve the situation. If the issue still persists, please contact your local Regional Service Center for further assistance.]]></description>
     <articlelinks>
       <link>
+        <text>Partner Support Community post: Microsoft Certified Professional Management in the Partner Membership Center</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmgold/microsoft-certified-professional-management-in-the/afba0781-fcd3-4895-b9fd-4c14b6ccf0f2?tpqid=100-000050]]></url>
+      </link>
+       <link>
         <text>KB 2966774: Troubleshoot issues with MCP exams and certifications not credited correctly</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
       </link>
@@ -1168,6 +1189,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
        <link>
         <text>Chat with Microsoft Partner Support</text>
         <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
+      </link>
+       <link>
+        <text>Partner Support Community</text>
+        <url><![CDATA[https://partnersupport.microsoft.com?tpqid=100-000081]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000018</id>

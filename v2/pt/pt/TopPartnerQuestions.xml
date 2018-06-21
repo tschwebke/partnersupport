@@ -81,6 +81,10 @@
     <description><![CDATA[Após as recentes alterações no programa de Parceiros, você ou os seus MCPs podem não estar a ser reconhecidos corretamente na sua Central de Participação, apesar estarem corretamente associados à Organização e terem passado nos Exames requeridos. Neste caso, deverá reatribuir os MCPs em “Gerenciar Microsoft Certified Professionals”. Este modo de contornar esse problema resolverá essa situação. Se o problema persistir, aconselhamos que contacte o Centro Regional de Suporte. ]]></description>
     <articlelinks>
       <link>
+        <text>Mensagem da comunidade de suporte de parceiro: Gestão de Microsoft Certified Professionals na central de participação de parceiro</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmgold/microsoft-certified-professional-management-in-the/afba0781-fcd3-4895-b9fd-4c14b6ccf0f2?tpqid=100-000050]]></url>
+      </link>
+       <link>
         <text>olucionar problemas com exames e certificações não creditadas corretamente</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
       </link>
@@ -200,7 +204,7 @@
         <text>Inscreva-se para receber atualizações sobre como tornar-se um ADR ou instalador de Surface Hub da Microsoft</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title>Como imprimir/baixar a fatura final do MAPS e a taxa de Competência?</title>
     <description><![CDATA[Consulte o artigo abaixo para aprender a imprimir faturas finais]]></description>
@@ -234,10 +238,6 @@
       <link>
         <text>Como obter ajuda do RSC para o Microsoft Partner Network</text>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000081]]></url>
-      </link>
-       <link>
-        <text>Conversar com o Suporte a Parceiros da Microsoft</text>
-        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000090</id>
@@ -309,7 +309,7 @@
         <text>Formas de pagamento aceitas para inscrição no MPN</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966328?tpqid=100-000091]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>100-000092</id>
     <title>Como vincular a conta de trabalho da minha organização com a minha nova conta do Partner Center?</title>
     <description><![CDATA[Se a sua empresa ainda não tiver uma conta corporativa, você poderá criar uma gratuitamente durante o processo de inscrição. Se quiser usar uma conta de trabalho existente, mas estiver com problemas para entrar, reveja os seguintes artigos:]]></description>
@@ -409,6 +409,10 @@
         <text>Atribuir privilégios e acesso de assinatura do Visual Studio Online</text>
         <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
       </link>
+       <link>
+        <text>Atribuindo Privilégios do Visual Studio Online</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/en-us/mpnpartnermem/forum/mpnpartpq-mpnpmaction/assigning-msdn-privileges/bc0dc817-40dc-4b38-9f20-81a3d824d899?tpqid=800-000030]]></url>
+      </link>
     </articlelinks></question><question>
     <id>800-000104</id>
     <title>Onde posso baixar e como ativar minhas licenças direitos de uso interno (IUR)?</title>
@@ -428,7 +432,7 @@
         <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="1">
     <id>800-000092</id>
     <title>Como ativar as minhas licenças de uso interno?</title>
     <description><![CDATA[Pode encontrar instruções passo a passo para ativar as licenças de uso interno de Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM Online ao consultar os seguintes artigos:]]></description>
@@ -445,7 +449,7 @@
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quais benefícios de software recebo no Microsoft Action Pack?</title>
     <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. O processo de renovação é necessário para o O365 e o Dynamics separadamente do novo registro do MAPS. Eles não são renovados automaticamente quando o parceiro renova sua Associação ao MAPS. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
@@ -530,7 +534,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Licença do Visual Studio 2015 não reconhecida</text>
         <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>800-000036</id>
     <title>Como ativar a minha subscrição Visual Studio Online?</title>
     <description><![CDATA[Uma subscrição Visual Studio Online fornece-lhe acesso a ferramentas, plataformas e serviços que necessite para desenvolver e testar as suas aplicações com sucesso. Consulte o artigo abaixo para saber como ativar a sua subscrição.]]></description>
@@ -547,7 +551,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Subscrições Visual Studio Online.</text>
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>800-000075</id>
     <title>Onde posso analisar as alterações dos downloads e software disponíveis para a minha empresa?</title>
     <description><![CDATA[Pode encontrar informação sobre as mais recentes alterações nos programas da Rede de Parceiros da Microsoft, ao consultar a página web das Novidades e Portal de Distribuição Digital.]]></description>
@@ -772,94 +776,98 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Portal MPN: Perguntas frequentes sobre benefícios de licenciamento de software para Partner Network  </text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1500-000001</id>
-    <title>Onde posso encontrar os recursos de preparação e treinamento necessários para gerenciar meu relacionamento com a Microsoft?</title>
-    <description><![CDATA[O portal Microsoft Readiness é a melhor maneira de encontrar facilmente recursos de treinamento e preparação operacional que fornecerão informações de alterações e lançamentos de programas, políticas, processos e ferramentas (inclui Comercial, OEM, ADD, CFPP desde que o CSP está no Partner Center)]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Readiness</text>
-        <url><![CDATA[https://www.microsoftreadiness.com/?tpqid=1500-000001]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000002</id>
-    <title>Que recursos estão disponíveis para me ajudar a compreender o Licenciamento por Volume?</title>
-    <description><![CDATA[A Microsoft fornece treinamentos e recursos de Licenciamento por Volume para ajudá-lo a acessar preços, cotações, contratos, ativação de produtos e outras ferramentas.]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal MPN: Treinamento e recursos para Licenciamento por Volume</text>
-        <url><![CDATA[https://partner.microsoft.com/licensing/training-and-resources?tpqid=1500-000002]]></url>
-      </link>
-       <link>
-        <text>Home page de licenciamento</text>
-        <url><![CDATA[https://www.microsoft.com/licensing?tpqid=1500-000002]]></url>
-      </link>
-       <link>
-        <text>Prepare-se para o licenciamento</text>
-        <url><![CDATA[https://getlicensingready.com?tpqid=1500-000002]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000003</id>
-    <title>Que recursos estão disponíveis para perguntas sobre o Contrato de Produtos e Serviços da Microsoft (MPSA)?</title>
-    <description><![CDATA[O Contrato de Produtos e Serviços da Microsoft (MPSA) é um contrato de licenciamento transacional para organizações comerciais, governamentais e acadêmicas com 250 ou mais usuários/dispositivos. O MPSA funciona melhor para organizações que desejam licenciar softwares da Microsoft no local e/ou serviços de nuvem conforme necessário, sem o compromisso de toda a organização com um único acordo sem expiração. ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPSA Academy em portais Readiness</text>
-        <url><![CDATA[https://www.microsoftreadiness.com/opsacademy/details/programs/ce53ec8a-c419-4f9c-8c95-814e994bc32f?tpqid=1500-000003]]></url>
-      </link>
-       <link>
-        <text>Contrato de Produtos e Serviços da Microsoft</text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/MPSA/default.aspx?tpqid=1500-000003]]></url>
-      </link>
-       <link>
-        <text>Licenciamento por Volume - Partner Center (Entrada necessária)</text>
-        <url><![CDATA[https://licensing.microsoft.com/?tpqid=1500-000003]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000004</id>
-    <title>Onde posso obter assistência com Programas, Contratos, Acordos, Pedidos, Faturas, Listas de Preços, Limites de Crédito, Suspensões de crédito, problemas com o site VLSC e Incentivos?</title>
-    <description><![CDATA[Use o Explore.ms para entrar em contato com o um Centro Operacional Regional (ROC) por meio da Ferramenta de Registro de Chamadas (CLT). Se você precisar de assistência adicional ou não estiver satisfeito com a resposta recebida, responda ao email de confirmação na solicitação enviada via CLT e digite ESCALATE no corpo do email.]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal Explore.ms</text>
-        <url><![CDATA[http://www.explore.ms?tpqid=1500-000004]]></url>
-      </link>
-       <link>
-        <text>Enviar e gerenciar solicitações de serviço do Microsoft Operations (MSOps)</text>
-        <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000005</id>
-    <title>Onde posso obter assistência com questões ou problemas de Benefícios do Software Assurance?</title>
-    <description><![CDATA[Para todas as questões do Software Assurance em nome dos clientes, envie uma solicitação de suporte no Centro de Serviços de Licenciamento por Volume.]]></description>
-    <articlelinks>
-      <link>
-        <text>Centro de Serviços de Licenciamento por Volume</text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/servicecenter/Help/Contact.aspx?tpqid=1500-000005]]></url>
-      </link>
-       <link>
-        <text>Visão geral do Software Assurance</text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx?tpqid=1500-000005]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000006</id>
-    <title>O que é o Home Use Program?</title>
-    <description><![CDATA[O Home Use Program é um benefício do Software Assurance disponível para os clientes de licenciamento por volume da Microsoft com cobertura ativa do Software Assurance em seus aplicativos do Office. Os funcionários que usam as licenças cobertas no trabalho estão qualificados para comprar esses aplicativos do Office para uso em um dispositivo pessoal durante a vigência do emprego.]]></description>
-    <articlelinks>
-      <link>
-        <text>Home Use Program</text>
-        <url><![CDATA[https://www.microsofthup.com/hupuk/hup.aspx?tpqid=1500-000006]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000007</id>
-    <title>Sou parceiro do Dynamics e gostaria de negociar por meio de um Contrato de Provedor de Soluções (SPA). Como devo me registrar?</title>
-    <description><![CDATA[Em primeiro lugar, registre seu interesse usando o link para o Partner Source fornecido abaixo. Depois de iniciado o processo, se você precisar de mais assistência, envie um email para o ROC local.]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
-      </link>
     </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
+    <id>200-000029</id>
+    <title>Como submeter um pedido de suporte de Signature Cloud?</title>
+    <description><![CDATA[Obtenha uma visão geral do benefício Signature Cloud Support, incluindo o processo de submeter um pedido de suporte.]]></description>
+    <articlelinks>
+      <link>
+        <text>Saiba mais sobre o Suporte à Assinatura na Nuvem</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
+      </link>
+       <link>
+        <text>Visão geral do benefício Signature Cloud Support</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
+      </link>
+       <link>
+        <text>Suporte à Assinatura na Nuvem para o Microsoft Office 365 </text>
+        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000087</id>
+    <title>Onde posso encontrar informações sobre regras de cobrança, termos de pagamento e disponibilidade de faturas?</title>
+    <description><![CDATA[Reveja as informações nos artigos a seguir para obter mais informações sobre cobrança]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Informações de cobrança</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Usar os arquivos de reconciliação </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Cenários comuns de cobrança </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000088</id>
+    <title>Como adicionar a ID do IVA da minha organização?</title>
+    <description><![CDATA[Reveja o seguinte artigo sobre como adicionar sua ID do IVA]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Informação fiscais da organização</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000089</id>
+    <title>Como solicitar um relacionamento do CSP?</title>
+    <description><![CDATA[Para gerenciar o serviço ou a assinatura de um cliente em seu nome, o cliente deve conceder a você permissões de administrador para esse serviço. Leia mais informações nos seguintes artigos:]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Solicitar um relacionamento de revendedor</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text>Partner Center:  Remover um relacionamento de revendedor</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000091</id>
+    <title>Como usar as promoções e onde posso encontrar promoções disponíveis?</title>
+    <description><![CDATA[A Microsoft oferece dois tipos de promoções: aquelas disponíveis a todos os parceiros elegíveis no programa Provedor de Soluções na Nuvem (CSP) e aquelas disponíveis apenas para parceiros em uma determinada região geográfica.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Usar promoções para atrair novos clientes</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000096</id>
+    <title>Existe uma comunidade global de Provedores de Soluções na Nuvem (CSP) com a qual eu possa me envolver?</title>
+    <description><![CDATA[Sim, você pode se envolver com a Comunidade do CSP no Yammer.]]></description>
+    <articlelinks>
+      <link>
+        <text>Comunidade da Nuvem no Yammer</text>
+        <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000097</id>
+    <title>Como posso obter ajuda do Centro de Serviço Regional (RSC) para perguntas relacionadas ao Partner Center ou ao programa Provedor de Soluções na Nuvem (CSP)?</title>
+    <description><![CDATA[O Centro de Serviço Regional (RSC) está disponível para fornecer assistência a questões e problemas do Partner Center ou do programa Provedor de Soluções na Nuvem (CSP).]]></description>
+    <articlelinks>
+      <link>
+        <text>Conversar com o Suporte a Parceiros da Microsoft</text>
+        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=CSP&tpqid=200-000097]]></url>
+      </link>
+       <link>
+        <text>Site de suporte do Partner Center</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/support?tpqid=200-000097]]></url>
+      </link>
+       <link>
+        <text>Enviar uma solicitação de suporte do Partner Center ou do CSP</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851613&tpqid=200-000097]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000099</id>
     <title>Onde posso encontrar informações sobre a API do Partner Center?</title>
     <description><![CDATA[Obtenha materiais de referência, instruções e exemplos de código para todas as suas necessidades de desenvolvimento de API do Partner Center usando estes recursos.]]></description>
@@ -988,7 +996,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Criar, suspender ou cancelar assinaturas de clientes</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>Como ingressar no programa Provedor de Soluções na Nuvem?</title>
     <description><![CDATA[Reveja as seguintes informações sobre inscrição]]></description>
@@ -1014,7 +1022,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Informações sobre incentivos do CSP</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>Quais são as etapas para começar a participar do Partner Center?</title>
     <description><![CDATA[Leia o artigo abaixo para saber mais sobre o site do Partner Center.]]></description>
@@ -1027,107 +1035,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Bem-vindo ao Microsoft Partner Center</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>200-000029</id>
-    <title>Como submeter um pedido de suporte de Signature Cloud?</title>
-    <description><![CDATA[Obtenha uma visão geral do benefício Signature Cloud Support, incluindo o processo de submeter um pedido de suporte.]]></description>
-    <articlelinks>
-      <link>
-        <text>Saiba mais sobre o Suporte à Assinatura na Nuvem</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>Visão geral do benefício Signature Cloud Support</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>Suporte à Assinatura na Nuvem para o Microsoft Office 365 </text>
-        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000087</id>
-    <title>Onde posso encontrar informações sobre regras de cobrança, termos de pagamento e disponibilidade de faturas?</title>
-    <description><![CDATA[Reveja as informações nos artigos a seguir para obter mais informações sobre cobrança]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Informações de cobrança</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Usar os arquivos de reconciliação </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Cenários comuns de cobrança </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000088</id>
-    <title>Como adicionar a ID do IVA da minha organização?</title>
-    <description><![CDATA[Reveja o seguinte artigo sobre como adicionar sua ID do IVA]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Informação fiscais da organização</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000089</id>
-    <title>Como solicitar um relacionamento do CSP?</title>
-    <description><![CDATA[Para gerenciar o serviço ou a assinatura de um cliente em seu nome, o cliente deve conceder a você permissões de administrador para esse serviço. Leia mais informações nos seguintes artigos:]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Solicitar um relacionamento de revendedor</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
-      </link>
-       <link>
-        <text>Partner Center:  Remover um relacionamento de revendedor</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000091</id>
-    <title>Como usar as promoções e onde posso encontrar promoções disponíveis?</title>
-    <description><![CDATA[A Microsoft oferece dois tipos de promoções: aquelas disponíveis a todos os parceiros elegíveis no programa Provedor de Soluções na Nuvem (CSP) e aquelas disponíveis apenas para parceiros em uma determinada região geográfica.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Usar promoções para atrair novos clientes</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000096</id>
-    <title>Existe uma comunidade global de Provedores de Soluções na Nuvem (CSP) com a qual eu possa me envolver?</title>
-    <description><![CDATA[Sim, você pode se envolver com a Comunidade do CSP no Yammer.]]></description>
-    <articlelinks>
-      <link>
-        <text>Comunidade da Nuvem no Yammer</text>
-        <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000097</id>
-    <title>Como posso obter ajuda do Centro de Serviço Regional (RSC) para perguntas relacionadas ao Partner Center ou ao programa Provedor de Soluções na Nuvem (CSP)?</title>
-    <description><![CDATA[O Centro de Serviço Regional (RSC) está disponível para fornecer assistência a questões e problemas do Partner Center ou do programa Provedor de Soluções na Nuvem (CSP).]]></description>
-    <articlelinks>
-      <link>
-        <text>Conversar com o Suporte a Parceiros da Microsoft</text>
-        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=CSP&tpqid=200-000097]]></url>
-      </link>
-       <link>
-        <text>Site de suporte do Partner Center</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/support?tpqid=200-000097]]></url>
-      </link>
-       <link>
-        <text>Enviar uma solicitação de suporte do Partner Center ou do CSP</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851613&tpqid=200-000097]]></url>
-      </link>
     </articlelinks></question></group><group title="Suporte ao produto" refid="ProductSupport"><question>
-    <id>700-000001</id>
-    <title>Onde posso obter assistência com um problema ou pergunta sobre os produtos Dynamics?</title>
-    <description><![CDATA[Registre uma solicitação de serviço no Partner Source. Isso pode ser feito visitando a seção de Preços e Pedidos do site e selecionando Nova Solicitações de Operações. Cite um número de TI como parte do pedido ou converse diretamente com um agente via chat. Se a sua solicitação não for resolvida satisfatoriamente, envie um email para a equipe de Escalonamento do Dynamics, incluindo o número de TI no corpo do email.]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>700-000002</id>
     <title>Como faço para criar Solicitações de Suporte para o Office 365, Microsoft Azure ou Microsoft Dynamics 365, para minha organização ou em nome de um cliente?</title>
     <description><![CDATA[Solicitações de suporte a produtos podem ser enviadas de cada um destes portais.]]></description>
@@ -1145,109 +1053,15 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
     </articlelinks></question><question>
-    <id>700-000003</id>
-    <title>Existem fóruns de comunidade disponíveis para o Microsoft Azure, Microsoft Dynamics 365 ou Office 365 que possam ser utilizados para questões técnicas relacionadas ao produto?</title>
-    <description><![CDATA[Sim! Existem vários fóruns de comunidade disponíveis para responder a questões técnicas relacionadas a produtos.]]></description>
+    <id>700-000001</id>
+    <title>Onde posso obter assistência com um problema ou pergunta sobre os produtos Dynamics?</title>
+    <description><![CDATA[Registre uma solicitação de serviço no Partner Source. Isso pode ser feito visitando a seção de Preços e Pedidos do site e selecionando Nova Solicitações de Operações. Cite um número de TI como parte do pedido ou converse diretamente com um agente via chat. Se a sua solicitação não for resolvida satisfatoriamente, envie um email para a equipe de Escalonamento do Dynamics, incluindo o número de TI no corpo do email.]]></description>
     <articlelinks>
       <link>
-        <text>Comunidade do Microsoft Azure</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
-      </link>
-       <link>
-        <text>Comunidade do Microsoft Dynamics 365</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
-      </link>
-       <link>
-        <text>Comunidade do Office 365</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
     </articlelinks></question></group><group title="Vantagens" refid="Benefits"><question>
-    <id>300-000028</id>
-    <title>Como qualificar para o benefício de Signature Cloud Support?</title>
-    <description><![CDATA[Reveja o Guia de Divulgação para mais informações sobre os requisitos para Cloud Performance e as Competências híbridas.]]></description>
-    <articlelinks>
-      <link>
-        <text>Guia de Divulgação do Microsoft Partner Network</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000106</id>
-    <title>Quais são as etapas para criar uma conta de usuário e atribuir permissões?</title>
-    <description><![CDATA[Agora, você tem a capacidade de atribuir aos usuários três novas funções no Partner Center que ajudarão a gerenciar seus negócios: administrador do MPN, administrador do perfil de negócios e administrador de indicações.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Criar contas de usuário e atribuir permissões</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Gerenciar sua conta do Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000004</id>
-    <title>Como faço para obter o meu logotipo de competência?</title>
-    <description><![CDATA[Vá para Partner Logo Builder para criar e fazer o download de logotipos personalizados que podem ser usados para promover a sua parceria com a Microsoft em todas as competências que você conquistou.]]></description>
-    <articlelinks>
-      <link>
-        <text>Logo Builder para Parceiros</text>
-        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>Introdução ao Logo Builder</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>Guia de Selo de Vendedor Parceiro do MPN</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000099</id>
-    <title>Como me registrar no Visual Studio se eu já estava registrado no MSDN?</title>
-    <description><![CDATA[Aprenda a se registrar no Visual Studio, seguindo as etapas descritas no artigo da Base de Dados de Conhecimento, Registro no My Visual Studio. (Observe que o RSC do MPN é responsável por dar suporte aos membros do MPN para a compreensão dos benefícios da assinatura do Visual Studio, o acesso à assinatura e o uso básico do portal do Visual Studio.)]]></description>
-    <articlelinks>
-      <link>
-        <text>Registro no My Visual Studio</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000102</id>
-    <title>Quais são os benefícios na obtenção de uma competência?</title>
-    <description><![CDATA[Consulte os seguintes links para obter mais informações]]></description>
-    <articlelinks>
-      <link>
-        <text>Visão geral de competências</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>Visão geral de benefícios</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>파트너 센터: 역량</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000072</id>
-    <title>Wo finde ich Informationen zu Neuigkeiten bei Kompetenzleistungen?</title>
-    <description><![CDATA[As notícias mais atuais sobre alterações recentes e futuras aos benefícios e outros aspetos da associação podem ser encontradas na página Novidades.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Requisitos futuros de competências da Microsoft para associação Gold e Silver</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Benefícios e requisitos principais</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Visão geral do Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000103</id>
     <title>Como atribuir acesso e privilégios de Assinatura do Visual Studio Online a parceiros MAPS e de Competência?</title>
     <description><![CDATA[Você pode encontrar instruções passo a passo sobre como atribuir acesso e privilégios de Assinatura do Visual Studio Online a parceiros MAPS e de Competência no artigo abaixo.]]></description>
@@ -1270,48 +1084,38 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>Onde posso encontrar e como ativar licenças de demonstração/treinamento?</title>
-    <description><![CDATA[Você obtém apenas uma chave por produto, e deve escolher a finalidade para a qual a usará: demonstração, treinamento ou uso interno. Não há licenças diferentes para cada tipo de benefício (demonstração, treinamento ou uso interno). Para demonstração ou treinamento, desde que você a ative e desative dentro de 30 dias, nenhuma ativação será gravada na chave do produto (Product Key).]]></description>
+    <id>300-000014</id>
+    <title>O que são horas de consultoria ao parceiro?</title>
+    <description><![CDATA[As horas de consultoria do parceiro são a moeda usada para acessar determinados serviços de pré-venda técnica e implantação oferecidos aos membros do Microsoft Partner Network. Use suas horas para desenvolver seu conjunto de habilidades com treinamento técnico e obter orientação personalizada para competir, desenvolver e implantar soluções para seus clientes.]]></description>
     <articlelinks>
       <link>
-        <text>Portal MPN: Benefício de software e nuvem de Direitos de Uso Interno - para parceiros ainda no PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
+        <text>Serviços de pré-venda técnica e implantação</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000100</id>
-    <title>Como me qualifico para suporte técnico/de produto?</title>
-    <description><![CDATA[Consulte os Principais benefícios e requisitos e o Resumo de benefícios técnicos do MPN para obter informações sobre a qualificação para suporte técnico/de produto com base na sua assinatura.]]></description>
-    <articlelinks>
-      <link>
+       <link>
         <text>Benefícios e requisitos principais</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
       </link>
        <link>
-        <text>Resumo de benefícios técnicos do MPN</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+        <text>Não tem certeza de quantas horas você tem? Veja suas horas de consultoria de parceiro disponíveis. </text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000098</id>
-    <title>Como eu faço a certificação de uma aplicação através do Microsoft Referrals?</title>
-    <description><![CDATA[Participar de certificações ou programas da Microsoft ajudará a impulsionar suas indicações. ]]></description>
+    <id>300-000004</id>
+    <title>Como faço para obter o meu logotipo de competência?</title>
+    <description><![CDATA[Vá para Partner Logo Builder para criar e fazer o download de logotipos personalizados que podem ser usados para promover a sua parceria com a Microsoft em todas as competências que você conquistou.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Expanda seus negócios com indicações da Microsoft</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
+        <text>Logo Builder para Parceiros</text>
+        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
       </link>
        <link>
-        <text>Portal MPN: Saiba mais sobre Competências </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
+        <text>Introdução ao Logo Builder</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000105</id>
-    <title>Quem está qualificado e onde posso obter IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas?</title>
-    <description><![CDATA[Parceiros que cumprem os critérios de desempenho da Competência Cloud Business Applications e têm atualmente a competência ERP. Leia o artigo abaixo para ver as perguntas frequentes e saber mais sobre estes IUR ]]></description>
-    <articlelinks>
-      <link>
-        <text>Perguntas frequentes ‒ IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
+       <link>
+        <text>Guia de Selo de Vendedor Parceiro do MPN</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000108</id>
@@ -1348,21 +1152,56 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>O que são horas de consultoria ao parceiro?</title>
-    <description><![CDATA[As horas de consultoria do parceiro são a moeda usada para acessar determinados serviços de pré-venda técnica e implantação oferecidos aos membros do Microsoft Partner Network. Use suas horas para desenvolver seu conjunto de habilidades com treinamento técnico e obter orientação personalizada para competir, desenvolver e implantar soluções para seus clientes.]]></description>
+    <id>300-000105</id>
+    <title>Quem está qualificado e onde posso obter IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas?</title>
+    <description><![CDATA[Parceiros que cumprem os critérios de desempenho da Competência Cloud Business Applications e têm atualmente a competência ERP. Leia o artigo abaixo para ver as perguntas frequentes e saber mais sobre estes IUR ]]></description>
     <articlelinks>
       <link>
-        <text>Serviços de pré-venda técnica e implantação</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+        <text>Perguntas frequentes ‒ IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
-       <link>
+    </articlelinks></question><question>
+    <id>300-000100</id>
+    <title>Como me qualifico para suporte técnico/de produto?</title>
+    <description><![CDATA[Consulte os Principais benefícios e requisitos e o Resumo de benefícios técnicos do MPN para obter informações sobre a qualificação para suporte técnico/de produto com base na sua assinatura.]]></description>
+    <articlelinks>
+      <link>
         <text>Benefícios e requisitos principais</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
       </link>
        <link>
-        <text>Não tem certeza de quantas horas você tem? Veja suas horas de consultoria de parceiro disponíveis. </text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+        <text>Resumo de benefícios técnicos do MPN</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000102</id>
+    <title>Quais são os benefícios na obtenção de uma competência?</title>
+    <description><![CDATA[Consulte os seguintes links para obter mais informações]]></description>
+    <articlelinks>
+      <link>
+        <text>Visão geral de competências</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>Visão geral de benefícios</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>파트너 센터: 역량</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000098</id>
+    <title>Como eu faço a certificação de uma aplicação através do Microsoft Referrals?</title>
+    <description><![CDATA[Participar de certificações ou programas da Microsoft ajudará a impulsionar suas indicações. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Expanda seus negócios com indicações da Microsoft</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
+      </link>
+       <link>
+        <text>Portal MPN: Saiba mais sobre Competências </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000101</id>
@@ -1376,6 +1215,36 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Etapas para criar um incidente de suporte</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000106</id>
+    <title>Quais são as etapas para criar uma conta de usuário e atribuir permissões?</title>
+    <description><![CDATA[Agora, você tem a capacidade de atribuir aos usuários três novas funções no Partner Center que ajudarão a gerenciar seus negócios: administrador do MPN, administrador do perfil de negócios e administrador de indicações.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Criar contas de usuário e atribuir permissões</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Gerenciar sua conta do Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000072</id>
+    <title>Wo finde ich Informationen zu Neuigkeiten bei Kompetenzleistungen?</title>
+    <description><![CDATA[As notícias mais atuais sobre alterações recentes e futuras aos benefícios e outros aspetos da associação podem ser encontradas na página Novidades.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Requisitos futuros de competências da Microsoft para associação Gold e Silver</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Benefícios e requisitos principais</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Visão geral do Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000043</id>
@@ -1393,5 +1262,49 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Acelere o seu negócio com os benefícios de uso interno (IUR)</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000028</id>
+    <title>Como qualificar para o benefício de Signature Cloud Support?</title>
+    <description><![CDATA[Reveja o Guia de Divulgação para mais informações sobre os requisitos para Cloud Performance e as Competências híbridas.]]></description>
+    <articlelinks>
+      <link>
+        <text>Guia de Divulgação do Microsoft Partner Network</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000013</id>
+    <title>Como faço para começar a usar a comunidade de suporte ao parceiro?</title>
+    <description><![CDATA[Conecte-se com especialistas e outros parceiros gratuitamente para obter respostas a suas questões sobre produtos, desenvolvedores, pré-vendas e associação à Microsoft Partner Network.]]></description>
+    <articlelinks>
+      <link>
+        <text>Perguntas frequentes (FAQ) da comunidade de suporte ao parceiro</text>
+        <url><![CDATA[http://partnersupport.microsoft.com/page/faq?tpqid=300-000013]]></url>
+      </link>
+       <link>
+        <text>Partner support community</text>
+        <url><![CDATA[https://www.youtube.com/watch?v=Qbh0r_x84q0&tpqid=300-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000099</id>
+    <title>Como me registrar no Visual Studio se eu já estava registrado no MSDN?</title>
+    <description><![CDATA[Aprenda a se registrar no Visual Studio, seguindo as etapas descritas no artigo da Base de Dados de Conhecimento, Registro no My Visual Studio. (Observe que o RSC do MPN é responsável por dar suporte aos membros do MPN para a compreensão dos benefícios da assinatura do Visual Studio, o acesso à assinatura e o uso básico do portal do Visual Studio.)]]></description>
+    <articlelinks>
+      <link>
+        <text>Registro no My Visual Studio</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Onde posso encontrar e como ativar licenças de demonstração/treinamento?</title>
+    <description><![CDATA[Você obtém apenas uma chave por produto, e deve escolher a finalidade para a qual a usará: demonstração, treinamento ou uso interno. Não há licenças diferentes para cada tipo de benefício (demonstração, treinamento ou uso interno). Para demonstração ou treinamento, desde que você a ative e desative dentro de 30 dias, nenhuma ativação será gravada na chave do produto (Product Key).]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal MPN: Benefício de software e nuvem de Direitos de Uso Interno - para parceiros ainda no PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question></group></groups>
