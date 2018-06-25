@@ -239,7 +239,7 @@
         <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question SortOrderOnHome="5">
+    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question>
     <id>200-000100</id>
     <title>Where do I find information about how to do things in Partner Center?</title>
     <description><![CDATA[To find out how to accomplish tasks for your organization and your customers in Partner Center Dashboard, visit the Partner Center Help library or our developer reference material.]]></description>
@@ -249,8 +249,8 @@
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
        <link>
-        <text>Partner Center SDK and API reference material </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
+        <text>Moving from PMC to Partner Dashboard </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
       </link>
        <link>
         <text>Moving from Partner Admin Center to the Partner Dashboard</text>
@@ -364,7 +364,7 @@
         <text>Partner Center: Organization tax information</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000092</id>
     <title>How to join the Cloud Solution Provider program?</title>
     <description><![CDATA[Review the following information about enrollment.]]></description>
@@ -526,12 +526,8 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Partner Center: Action Pack subscription benefits</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Purchase or renew Microsoft Action Pack subscription</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+        <text>License Table for Microsoft Action Pack partners </text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
@@ -797,39 +793,28 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title>Can I use my granted licenses for training purpose?</title>
+    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Benefit Package Usage Guide </text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title>Are my online tokens activated automatically once I renew my Action Pack subscription/competency?</title>
+    <description><![CDATA[When you renew a subscription or re-enroll in the Action Pack subscription/program with a competency, a new set of tokens will be issued based on the organization’s entitlement at the time of re-enrollment.
+Partner program administrators are required to activate the tokens to avoid a lapse in cloud services. These tokens are not activated automatically. They can be activated when you want to, but take into consideration the compliance perspective. After Action Pack/ Competency expires, you will not have a license for the particular benefit, even if the tokens are still active.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Benefit Package Usage Guide </text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
     </articlelinks></question></group><group title="Membership" refid="Membership"><question>
-    <id>100-000033</id>
-    <title>How do I manage my company's membership?</title>
-    <description><![CDATA[Partners can access the Partner Membership Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Membership Center.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2984366: Partner Membership Center Overview </text>
-        <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
-      </link>
-       <link>
-        <text>Manage your MPN membership</text>
-        <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Manage your Microsoft Partner Network membership benefits</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000085</id>
-    <title>How do I merge separate MPN enrollments?.</title>
-    <description><![CDATA[Read the article below to see the considerations that could impact your access to benefits and ability to transact.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4024707: How do I merge separate MPN enrollments</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
-      </link>
-       <link>
-        <text>KB 3202548: How to get Microsoft Partner Network Help from the RSC</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000012</id>
-    <title>How do I renew my company’s membership?</title>
+    <title>How do I renew my MPN membership?</title>
     <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
     <articlelinks>
       <link>
@@ -1191,46 +1176,46 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>MPN Portal: Digital Partner of Record Overview</text>
         <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>How do I set up an account in the new Partner Center?</title>
+    <description><![CDATA[Access below link to find out more information.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center account FAQ</text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000033</id>
+    <title>How do I manage my company's membership?</title>
+    <description><![CDATA[Partners can access the Partner Membership Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Membership Center.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2984366: Partner Membership Center Overview </text>
+        <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text>Manage your MPN membership</text>
+        <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000085</id>
+    <title>How do I merge separate MPN enrollments?.</title>
+    <description><![CDATA[Read the article below to see the considerations that could impact your access to benefits and ability to transact.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4024707: How do I merge separate MPN enrollments</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
+      </link>
+       <link>
+        <text>KB 3202548: How to get Microsoft Partner Network Help from the RSC</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
+      </link>
     </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
-    <id>400-000002</id>
-    <title>How can I receive incentives for selling and deploying Microsoft Cloud Solutions? </title>
-    <description><![CDATA[Access resources that can help you get started with online services incentives and learn what to do if you have questions about your fee statement or the payment process.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 3082022: Incentives for selling and deploying Microsoft Cloud Solutions</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>How do I get support for partner incentives? </title>
-    <description><![CDATA[You can find support for the Partner Incentives program under the Support section on the Partner Incentives page.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Get support for partner incentives </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: View the new Partner Incentives page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>How to update my Banking and Tax information?</title>
-    <description><![CDATA[See the articleS below to learn how to update your banking and tax information]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 3073470: How to add bank details for Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>KB 3090503: How to submit tax and bank forms for Azure Online Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>KB 3011099: Where Do I Update My Tax Details</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000008</id>
     <title>What are Microsoft partner incentives?</title>
     <description><![CDATA[Take advantage of partner incentives to drive revenue. If your business focuses on certain strategic activities and solution areas, you could be eligible to earn incentives.]]></description>
@@ -1268,6 +1253,45 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       <link>
         <text>MPN Portal: MPN members can sign in to Partner Membersip Center to see incentives information</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000002</id>
+    <title>How can I receive incentives for selling and deploying Microsoft Cloud Solutions? </title>
+    <description><![CDATA[Access resources that can help you get started with online services incentives and learn what to do if you have questions about your fee statement or the payment process.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3082022: Incentives for selling and deploying Microsoft Cloud Solutions</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000080</id>
+    <title>How do I get support for partner incentives? </title>
+    <description><![CDATA[You can find support for the Partner Incentives program under the Support section on the Partner Incentives page.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Get support for partner incentives </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: View the new Partner Incentives page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000083</id>
+    <title>How to update my Banking and Tax information?</title>
+    <description><![CDATA[See the articles below to learn how to update your banking and tax information]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3073470: How to add bank details for Azure Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>KB 3090503: How to submit tax and bank forms for Azure Online Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>KB 3011099: Where Do I Update My Tax Details</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
     </articlelinks></question></group><group title="Product support" refid="ProductSupport"><question>
     <id>700-000002</id>
@@ -1313,6 +1337,19 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
     </articlelinks></question></group><group title="Technical Journeys" refid="TechnicalJourneys"><question>
+    <id>1400-000112</id>
+    <title>What is a technical journey? Why is it important to my partner organization?</title>
+    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Start your technical journey</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text>Read blog</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1400-000113</id>
     <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
     <description><![CDATA[There are three ways to engage across the technical journey: technical webinars, technical consultations, and live chat (for app dev.)]]></description>
@@ -1350,19 +1387,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       <link>
         <text>KB 3182623: Top Partner Product Questions</text>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000112</id>
-    <title>What is a technical journey? Why is it important to my partner organization?</title>
-    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Start your technical journey</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text>Read blog</text>
-        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question></group><group title="Training" refid="Training"><question>
     <id>1200-000022</id>
