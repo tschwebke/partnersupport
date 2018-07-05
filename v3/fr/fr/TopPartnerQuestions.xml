@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Abonnement" refid="Membership"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Abonnement" refid="Membership"><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>Comment puis-je renouveler l'abonnement de mon entreprise ?</title>
     <description><![CDATA[Apprenez à déterminer quand vous devez renouveler votre abonnement, comment le renouveler, explorez les possibilités offertes par le réseau, et plus encore.]]></description>
@@ -207,7 +207,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Inscrivez-vous pour recevoir des mises à jour relatives à la façon de devenir installateur ou distributeur autorisé de périphériques Microsoft Surface</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title>Comment imprimer/télécharger la facture finale à partir des frais liés aux partenaires MAPS et de compétence ?</title>
     <description><![CDATA[Consultez l'article ci-dessous pour apprendre à imprimer les factures finales]]></description>
@@ -1000,7 +1000,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Espace partenaires : Informations sur les primes incitatives CSP</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>Quelles sont les étapes de prise en main dans l’Espace partenaires ?</title>
     <description><![CDATA[Lisez l’article ci-dessous pour en savoir plus sur le site web Espace partenaires.]]></description>
@@ -1366,7 +1366,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
         <text>Avantage logiciels et Cloud lié aux licences à usage interne</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quels bénéfices de logiciels sont inclus avec Microsoft Action Pack ?</title>
     <description><![CDATA[Des abonnés à l’Action Pack reçoivent généralement 10 licences d'usage interne pour la dernière version des logiciels Microsoft. Cela comprend des licences pour l’installation locale, services en ligne et un abonnement Visual Studio Online. Le processus de renouvellement est nécessaire pour Office 365 et Dynamics, en plus de la réinscription de MAPS. Leur renouvellement n’est pas automatique lorsque le partenaire renouvelle son abonnement MAPS. Pour plus d'informations sur les avantages de la licence, consultez les ressources suivantes :]]></description>

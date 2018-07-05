@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Associação" refid="Membership"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Associação" refid="Membership"><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>Como faço para renovar a associação da minha empresa?</title>
     <description><![CDATA[Aprenda como determinar quando você deve renovar a associação, como fazer para renovar, oportunidades na rede, etc.]]></description>
@@ -200,7 +200,7 @@
         <text>Inscreva-se para receber atualizações sobre como tornar-se um ADR ou instalador de Surface Hub da Microsoft</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title>Como imprimir/baixar a fatura final do MAPS e a taxa de Competência?</title>
     <description><![CDATA[Consulte o artigo abaixo para aprender a imprimir faturas finais]]></description>
@@ -445,7 +445,7 @@
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quais benefícios de software recebo no Microsoft Action Pack?</title>
     <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. O processo de renovação é necessário para o O365 e o Dynamics separadamente do novo registro do MAPS. Eles não são renovados automaticamente quando o parceiro renova sua Associação ao MAPS. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
@@ -1014,7 +1014,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Informações sobre incentivos do CSP</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>Quais são as etapas para começar a participar do Partner Center?</title>
     <description><![CDATA[Leia o artigo abaixo para saber mais sobre o site do Partner Center.]]></description>

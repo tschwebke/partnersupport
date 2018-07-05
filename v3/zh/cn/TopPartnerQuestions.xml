@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="下载和软件" refid="DownloadsSoftware"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="下载和软件" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>有微软行动宝盒，您会获得什么软件权益？   </title>
     <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可。这包括本地软件许可，线上服务，和Visual Studio Online订阅。O365 和 Dynamics 分别需要重新注册 MAPS 的续签过程。合作伙伴续签其 MAPS 成员资格后，他们不会自动续签。对于许可权益的详细资讯，请参考以下资源：    ]]></description>
@@ -309,7 +309,7 @@
         <text>合作伙伴中心：CSP 激励信息</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>开始使用合作伙伴的步骤是什么？</title>
     <description><![CDATA[请参阅下面的文章，了解有关合作伙伴中心网站的详细信息。]]></description>
@@ -896,7 +896,7 @@
         <text>注册接收成为 Microsoft Surface Hub ADR 或安装程序的更新</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title>如何从 MAPS 和资格费打印/下载最终发票？</title>
     <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
@@ -909,7 +909,7 @@
         <text>KB 4089764：如何在合作伙伴中心获取发票</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>如何续订我所在公司的成员资格？</title>
     <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>

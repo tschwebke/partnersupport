@@ -93,7 +93,7 @@
         <text>기술 여정 시작</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="다운로드 및 소프트웨어" refid="DownloadsSoftware"><question>
+    </articlelinks></question></group><group title="다운로드 및 소프트웨어" refid="DownloadsSoftware"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Microsoft Action Pack에서 어떤 소프트웨어 혜택을 제공하고 있습니까? </title>
     <description><![CDATA[Action Pack 구독자는 일반적으로 최신 Microsoft 소프트웨어의 10개 내부 사용 라이선스 (IUR)를 받게 됩니다. 여기에는 온프레미스 라이선스, 온라인 서비스, 그리고 Visual Studio Online 구독이 포함됩니다. O365 및 Dynamics의 경우 MAPS의 재등록과 별도로 갱신 프로세스를 수행해야 합니다. 이러한 제품은 파트너가 MAPS 멤버 자격을 갱신한 후에도 자동으로 갱신되지 않습니다. 라이선스 혜택에 대한 세부 정보는 다음 리소스에서 확인할 수 있습니다:]]></description>
@@ -389,7 +389,7 @@
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question></group><group title="멤버십" refid="Membership"><question SortOrderOnHome="6">
+    </articlelinks></question></group><group title="멤버십" refid="Membership"><question>
     <id>100-000078</id>
     <title>MAPS 및 역량 요금에서 최종 송장을 인쇄/다운로드하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[아래 문서에서 최종 송장을 인쇄하는 방법을 알아보세요.]]></description>
@@ -671,7 +671,7 @@
         <text>KB 4090552: MAPS 또는 역량의 만료 날짜를 확인하는 방법</text>
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>내 회사의 회원자격을 어떻게 갱신합니까?</title>
     <description><![CDATA[회원자격을 갱신해야 하는 시기를 판단하는 방법, 갱신하는 방법, 네트워크에서의 기회, 등등을 알아보십시오.]]></description>
@@ -926,7 +926,7 @@
         <text>파트너 센터: CSP 인센티브 정보</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>파트너 센터 사용을 시작하려면 어떤 단계를 수행해야 하나요?</title>
     <description><![CDATA[아래 문서에서 파트너 센터 웹 사이트에 대해 자세히 알아보세요.]]></description>

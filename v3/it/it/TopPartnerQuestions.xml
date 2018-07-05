@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Adesione" refid="Membership"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Adesione" refid="Membership"><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>Come posso rinnovare l'adesione della mia azienda?</title>
     <description><![CDATA[Scopri come e quando rinnovare la tua adesione, le opportunità che il network ti offre e molto altro.]]></description>
@@ -200,7 +200,7 @@
         <text>Iscriviti per ricevere aggiornamenti su come diventare un ADR di Microsoft Surface Hub o su come installarlo</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title>Come si stampa/scarica la fattura finale per le quote per MAPS e competenze?</title>
     <description><![CDATA[Leggi l'articolo sottostante per scoprire come stampare le fatture finali]]></description>
@@ -821,7 +821,7 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Centro per i partner: informazioni sugli incentivi CSP</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>Qual è la procedura da seguire per iniziare a utilizzare il Centro per i partner?</title>
     <description><![CDATA[Leggere l'articolo seguente per ulteriori informazioni sul sito Web del Centro per i partner.]]></description>
@@ -938,7 +938,7 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
         <text>Abbonamenti Visual Studio Online</text>
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quali vantaggi software si ottengono con il Microsoft Action Pack? </title>
     <description><![CDATA[Gli abbonati Action Pack ricevono generalmente 10 licenze ad uso interno dell’ultimo software Microsoft. Questo include licenze software on-premises, online services e abbonamento Visual Studio Online. Per Office 365 e Dynamics è necessario un processo di rinnovo separato dalla reiscrizione a MAPS. Questi prodotti non si rinnovano automaticamente quando il partner rinnova l'iscrizione a MAPS. Per informazioni dettagliate sui benefici licenze, consulta le seguenti risorse: ]]></description>
