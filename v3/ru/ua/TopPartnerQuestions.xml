@@ -1,55 +1,195 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Выгоды" refid="Benefits"><question>
-    <id>300-000004</id>
-    <title>Как получить собственный логотип компетенции?</title>
-    <description><![CDATA[Обратитесь к веб-сайту Partner Logo Builder, где можно создать и загрузить собственный логотип, говорящий о вашем статусе партнерства с Майкрософт и полученных компетенциях.]]></description>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+    <id>800-000039</id>
+    <title>Какие преимущества программного обеспечения Вы получаете с Microsoft Action Pack? </title>
+    <description><![CDATA[Абоненты Action Pack как правило получают 10 лицензий для внутреннего пользования последних версий программного обеспечения Microsoft. Это включает в себя лицензии локального программного обеспечения, интернет-услуги и подписки Visual Studio Online. Помимо повторной регистрации MAPS отдельно должно быть выполнено обновление O365 и Dynamics.  Обновление этих программ не будет выполнено автоматически после возобновления их участия в программе MAPS. Для получения информации о лицензионных преимуществах, обратитесь к следующим ресурсам:]]></description>
     <articlelinks>
       <link>
-        <text>Partner Logo Builder</text>
-        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+        <text>Обзор пакета Microsoft Action Pack</text>
+        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Приступая к работе с Logo Builder</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
+        <text>Центр партнеров. Преимущества подписки на пакет Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Руководство по знаку продавец-партнер MPN</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
+        <text>Приобретение или возобновление подписки Microsoft Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>Как активировать Microsoft Azure  лицензии для внутреннего использования</title>
-    <description><![CDATA[Посмотрите как активировать Microsoft Azure лицензии для внутреннего использования следуя шагам представленным в Базе Знаний в статье  Как активировать Microsoft Azure  лицензии для внутреннего использования.]]></description>
+    <id>800-000090</id>
+    <title>Где я могу загрузить программное обеспечение и ключ продукта Windows 10?</title>
+    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
+
+Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
+
+Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
+
+Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
+]]></description>
     <articlelinks>
       <link>
-        <text>Как активировать Microsoft Azure  лицензии для внутреннего использования.</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+        <text>Портал Partner Digital Distribution Portal</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Подписки Visual Studio Online</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Веб-сайт для загрузки Visual Studio Online</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000075</id>
+    <title>Где можно просмотреть изменения в загрузках и программном обеспечении, доступным для меня?</title>
+    <description><![CDATA[Все последние изменения для участников партнерских программ можно найти на новой странице Портал Загрузок и Ключей  и Что нового ?]]></description>
+    <articlelinks>
+      <link>
+        <text>Что нового?</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
       </link>
        <link>
         <text>  Права на внутреннее использование облака и преимущества программного обеспечения</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
       </link>
        <link>
-        <text>Ускорьте свой бизнес с преимуществом Права внутреннего использования</text>
-        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+        <text>Активация и назначение лицензий на внутреннее использование Office 365 (E3)</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>Что такое консультационные часы партнера?</title>
-    <description><![CDATA[Часы консультаций для партнеров являются валютой, используемой для доступа к некоторым ключевым услугам по предпродажной подготовке и развертыванию, предлагаемым участникам Microsoft Partner Network. Используйте свои часы консультаций для формирования необходимого набора навыков с помощью технического обучения и получения индивидуальных рекомендаций по разработке, развертыванию и эффективному выводу на рынок клиентских решений.]]></description>
+    <id>800-000048</id>
+    <title>Каким образом я могу получить кредит(ы) для моих преимуществ для внутреннего использования по Microsoft Azure? </title>
+    <description><![CDATA[у которых есть компетенция или подписка Microsoft Action Pack, имеют доступ к ежемесячному кредиту для подписки Microsoft Azure. Это преимущество предоставляется на организацию независимо от количества купленных подписок на Action Pack или дополнительных преимуществ (Additional Benefit Toolkits). Если один из администраторов в рамках одной и той же организации уже запросил кредит на преимущества по Azure, то другие администраторы из этой же организации не смогут претендовать на это преимущество. Прочитайте следующую статью, чтобы узнать больше о преимуществах Microsoft Azure для внутреннего использования.]]></description>
     <articlelinks>
       <link>
-        <text>Техническая предпродажная подготовка и услуги по развертыванию</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+        <text>Как активировать Microsoft Azure  лицензии для внутреннего использования.</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
       </link>
        <link>
-        <text>Основные преимущества и требования</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+        <text>Активация лицензий на внутреннее использование Microsoft Azure</text>
+        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
       </link>
        <link>
-        <text>Не знаете, сколько часов консультаций вы имеете? Просмотрите доступные часы консультаций для партнеров. </text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+        <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
       </link>
     </articlelinks></question><question>
+    <id>800-000036</id>
+    <title>Как активировать подписку Visual Studio Online? </title>
+    <description><![CDATA[С подпиской Visual Studio Online, Вы можете получить инструменты, платформы и услуги, необходимые для успешного развития и тестирования приложений. Вы можете ознакомиться со статьёй ниже, чтобы узнать, как активировать подписку.]]></description>
+    <articlelinks>
+      <link>
+        <text>Подписки на Visual Studio по  партнерской программе Microsoft Partner Network (MPN)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Activate Visual Studio Online subscription</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Подписки Visual Studio Online</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>Как получить право на внутреннее использование плана Office 365 (E3) в Microsoft Partner Network?</title>
+    <description><![CDATA[Ознакомьтесь с преимуществами прав на внутреннее использование Office 365 (E3) в Microsoft Partner Network.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2996518. Как получить право на внутреннее использование плана Office 365 (E3) в Microsoft Partner Network</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text>Активация и назначение лицензий на внутреннее использование Office 365 (E3)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>Как активировать лицензии для внутреннего использования по партнёрской программе Microsoft Partner Network?</title>
+    <description><![CDATA[Ниже представлено несколько статей, в которых имеется пошаговая инструкция по активации продуктов: Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online.]]></description>
+    <articlelinks>
+      <link>
+        <text>Портал MPN. Преимущества прав на внутреннее использование облака и программного обеспечения – для партнеров все еще в PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>https://support.microsoft.com/kb/3007588</text>
+        <url><![CDATA[Microsoft?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000087</id>
+    <title>У нас есть подписка на Microsoft Action Pack и мы выполнили условия для получения дополнительный лицензий на Microsoft Office 365 и Microsoft Dynamics CRM Online путем продаж. Каким образом мы можем получить ключи (tokens)?</title>
+    <description><![CDATA[Дополнительные ключи (tokens) не назначаются автоматически в профиле вашей компании.  Пожалуйста, обратитесь в ваш Региональный Сервисный Центр для получения необходимой информации по вашему запросу.]]></description>
+    <articlelinks>
+      <link>
+        <text>Обращение в службу поддержки</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
+      </link>
+       <link>
+        <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000045</id>
+    <title>Почему у меня отражается пробная версия Visual Studio несмотря на то, что я зарегистрирован? </title>
+    <description><![CDATA[Изменились условия регистрации для партнеров, которые используют MSDN and Visual Studio. Вы можете найти дополнительную информацию по этой ссылке:]]></description>
+    <articlelinks>
+      <link>
+        <text>Вход в систему в Visual Studio</text>
+        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
+      </link>
+       <link>
+        <text>Лицензия на Visual Studio 2015 не распознана</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000030</id>
+    <title>Как решить проблему ограниченного количества технических Visual Studio Online ID?</title>
+    <description><![CDATA[Партнеры с компетенцией имеют неограниченный доступ к подписке Visual Studio Online и не понадобится дополнительное увеличения лимита. Партнеры Action Pack могут увеличить лимит Visual Studio Online до 360% от их подписки, если они свяжутся со службой поддержки. Используйте ресурсы ниже, чтобы узнать больше об увеличении лимита Action Pack до 360%.]]></description>
+    <articlelinks>
+      <link>
+        <text>Невозможно назначить подписку Visual Studio Online новым пользователям</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
+      </link>
+       <link>
+        <text>Назначение подписки Visual Studio Online: доступ и преимущества </text>
+        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000104</id>
+    <title>Откуда загрузить и как активировать лицензии на внутреннее использование (IUR)?</title>
+    <description><![CDATA[Чтобы узнать, как активировать и назначить свои лицензии на внутреннее использование (IUR), см. следующие статьи.]]></description>
+    <articlelinks>
+      <link>
+        <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения (Прокрутите страницу вниз до нижней части для просмотра таблицы лицензий для партнеров с компетенциями)</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Какие преимущества дают мои права на внутреннее использование / Почему важно ими пользоваться</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>Могу ли я приобрести подписку на надстройку в дополнение к моим правам на внутреннее использование подписки на онлайн-службы MPN?</title>
+    <description><![CDATA[Нет, это невозможно. Вам необходимо приобрести хотя бы 1 лицензию по основной подписке с доступными каналами приобретения для того, чтобы иметь возможность для добавления любой надстройки. Исключение: для надстроек CRM OL и Dynamics 365, таких как непроизводственные экземпляры и хранилище. Вы можете отсюда отправить запрос на получения бесплатной базовой подписки.]]></description>
+    <articlelinks>
+      <link>
+        <text>Отправить запрос для получения бесплатной базовой подписки отсюда</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>Руководство по использованию продукта для получения преимуществ от применения программного обеспечения и облачных служб</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
+    </articlelinks></question></group><group title="Выгоды" refid="Benefits"><question>
     <id>300-000102</id>
     <title>В чем заключаются преимущества получения компетенции?</title>
     <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам]]></description>
@@ -120,6 +260,23 @@
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000014</id>
+    <title>Что такое консультационные часы партнера?</title>
+    <description><![CDATA[Часы консультаций для партнеров являются валютой, используемой для доступа к некоторым ключевым услугам по предпродажной подготовке и развертыванию, предлагаемым участникам Microsoft Partner Network. Используйте свои часы консультаций для формирования необходимого набора навыков с помощью технического обучения и получения индивидуальных рекомендаций по разработке, развертыванию и эффективному выводу на рынок клиентских решений.]]></description>
+    <articlelinks>
+      <link>
+        <text>Техническая предпродажная подготовка и услуги по развертыванию</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Основные преимущества и требования</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Не знаете, сколько часов консультаций вы имеете? Просмотрите доступные часы консультаций для партнеров. </text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>Как получить квалификацию для оказания услуг по технической поддержке / поддержке по продукту?</title>
     <description><![CDATA[Воспользуйтесь обзором основных преимуществ и требований, а также сводкой технических льгот для участников программы MPN, в которых приведены сведения о доступной технической поддержке / поддержке по продукту в рамках вашей подписки.]]></description>
@@ -133,6 +290,23 @@
         <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000043</id>
+    <title>Как активировать Microsoft Azure  лицензии для внутреннего использования</title>
+    <description><![CDATA[Посмотрите как активировать Microsoft Azure лицензии для внутреннего использования следуя шагам представленным в Базе Знаний в статье  Как активировать Microsoft Azure  лицензии для внутреннего использования.]]></description>
+    <articlelinks>
+      <link>
+        <text>Как активировать Microsoft Azure  лицензии для внутреннего использования.</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>  Права на внутреннее использование облака и преимущества программного обеспечения</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>Ускорьте свой бизнес с преимуществом Права внутреннего использования</text>
+        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000101</id>
     <title>Каким образом я могу обратиться за технической/профессиональной помощью в случае инцидента?</title>
     <description><![CDATA[Обратитесь к своду технических льгот для участников MPN для оценки соответствия вашей компании требованиям по оказанию технической помощи.]]></description>
@@ -144,6 +318,23 @@
        <link>
         <text>Пошаговая инструкция по созданию запроса в Службу поддержки</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000004</id>
+    <title>Как получить собственный логотип компетенции?</title>
+    <description><![CDATA[Обратитесь к веб-сайту Partner Logo Builder, где можно создать и загрузить собственный логотип, говорящий о вашем статусе партнерства с Майкрософт и полученных компетенциях.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Logo Builder</text>
+        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>Приступая к работе с Logo Builder</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>Руководство по знаку продавец-партнер MPN</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000103</id>
@@ -231,197 +422,6 @@
       <link>
         <text>Портал MPN. Преимущества прав на внутреннее использование облака и программного обеспечения – для партнеров все еще в PMC</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question></group><group title="Загрузки и ПО" refid="DownloadsSoftware"><question>
-    <id>800-000030</id>
-    <title>Как решить проблему ограниченного количества технических Visual Studio Online ID?</title>
-    <description><![CDATA[Партнеры с компетенцией имеют неограниченный доступ к подписке Visual Studio Online и не понадобится дополнительное увеличения лимита. Партнеры Action Pack могут увеличить лимит Visual Studio Online до 360% от их подписки, если они свяжутся со службой поддержки. Используйте ресурсы ниже, чтобы узнать больше об увеличении лимита Action Pack до 360%.]]></description>
-    <articlelinks>
-      <link>
-        <text>Невозможно назначить подписку Visual Studio Online новым пользователям</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Назначение подписки Visual Studio Online: доступ и преимущества </text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>Как активировать лицензии для внутреннего использования по партнёрской программе Microsoft Partner Network?</title>
-    <description><![CDATA[Ниже представлено несколько статей, в которых имеется пошаговая инструкция по активации продуктов: Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online.]]></description>
-    <articlelinks>
-      <link>
-        <text>Портал MPN. Преимущества прав на внутреннее использование облака и программного обеспечения – для партнеров все еще в PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>https://support.microsoft.com/kb/3007588</text>
-        <url><![CDATA[Microsoft?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000104</id>
-    <title>Откуда загрузить и как активировать лицензии на внутреннее использование (IUR)?</title>
-    <description><![CDATA[Чтобы узнать, как активировать и назначить свои лицензии на внутреннее использование (IUR), см. следующие статьи.]]></description>
-    <articlelinks>
-      <link>
-        <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения (Прокрутите страницу вниз до нижней части для просмотра таблицы лицензий для партнеров с компетенциями)</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Какие преимущества дают мои права на внутреннее использование / Почему важно ими пользоваться</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Где я могу загрузить программное обеспечение и ключ продукта Windows 10?</title>
-    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
-
-Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
-
-Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
-
-Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Портал Partner Digital Distribution Portal</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Подписки Visual Studio Online</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Веб-сайт для загрузки Visual Studio Online</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Могу ли я приобрести подписку на надстройку в дополнение к моим правам на внутреннее использование подписки на онлайн-службы MPN?</title>
-    <description><![CDATA[Нет, это невозможно. Вам необходимо приобрести хотя бы 1 лицензию по основной подписке с доступными каналами приобретения для того, чтобы иметь возможность для добавления любой надстройки. Исключение: для надстроек CRM OL и Dynamics 365, таких как непроизводственные экземпляры и хранилище. Вы можете отсюда отправить запрос на получения бесплатной базовой подписки.]]></description>
-    <articlelinks>
-      <link>
-        <text>Отправить запрос для получения бесплатной базовой подписки отсюда</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Руководство по использованию продукта для получения преимуществ от применения программного обеспечения и облачных служб</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000087</id>
-    <title>У нас есть подписка на Microsoft Action Pack и мы выполнили условия для получения дополнительный лицензий на Microsoft Office 365 и Microsoft Dynamics CRM Online путем продаж. Каким образом мы можем получить ключи (tokens)?</title>
-    <description><![CDATA[Дополнительные ключи (tokens) не назначаются автоматически в профиле вашей компании.  Пожалуйста, обратитесь в ваш Региональный Сервисный Центр для получения необходимой информации по вашему запросу.]]></description>
-    <articlelinks>
-      <link>
-        <text>Обращение в службу поддержки</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
-      </link>
-       <link>
-        <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000045</id>
-    <title>Почему у меня отражается пробная версия Visual Studio несмотря на то, что я зарегистрирован? </title>
-    <description><![CDATA[Изменились условия регистрации для партнеров, которые используют MSDN and Visual Studio. Вы можете найти дополнительную информацию по этой ссылке:]]></description>
-    <articlelinks>
-      <link>
-        <text>Вход в систему в Visual Studio</text>
-        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
-      </link>
-       <link>
-        <text>Лицензия на Visual Studio 2015 не распознана</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000075</id>
-    <title>Где можно просмотреть изменения в загрузках и программном обеспечении, доступным для меня?</title>
-    <description><![CDATA[Все последние изменения для участников партнерских программ можно найти на новой странице Портал Загрузок и Ключей  и Что нового ?]]></description>
-    <articlelinks>
-      <link>
-        <text>Что нового?</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>  Права на внутреннее использование облака и преимущества программного обеспечения</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>Активация и назначение лицензий на внутреннее использование Office 365 (E3)</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000048</id>
-    <title>Каким образом я могу получить кредит(ы) для моих преимуществ для внутреннего использования по Microsoft Azure? </title>
-    <description><![CDATA[у которых есть компетенция или подписка Microsoft Action Pack, имеют доступ к ежемесячному кредиту для подписки Microsoft Azure. Это преимущество предоставляется на организацию независимо от количества купленных подписок на Action Pack или дополнительных преимуществ (Additional Benefit Toolkits). Если один из администраторов в рамках одной и той же организации уже запросил кредит на преимущества по Azure, то другие администраторы из этой же организации не смогут претендовать на это преимущество. Прочитайте следующую статью, чтобы узнать больше о преимуществах Microsoft Azure для внутреннего использования.]]></description>
-    <articlelinks>
-      <link>
-        <text>Как активировать Microsoft Azure  лицензии для внутреннего использования.</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>Активация лицензий на внутреннее использование Microsoft Azure</text>
-        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>Какие преимущества программного обеспечения Вы получаете с Microsoft Action Pack? </title>
-    <description><![CDATA[Абоненты Action Pack как правило получают 10 лицензий для внутреннего пользования последних версий программного обеспечения Microsoft. Это включает в себя лицензии локального программного обеспечения, интернет-услуги и подписки Visual Studio Online. Помимо повторной регистрации MAPS отдельно должно быть выполнено обновление O365 и Dynamics.  Обновление этих программ не будет выполнено автоматически после возобновления их участия в программе MAPS. Для получения информации о лицензионных преимуществах, обратитесь к следующим ресурсам:]]></description>
-    <articlelinks>
-      <link>
-        <text>Обзор пакета Microsoft Action Pack</text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Центр партнеров. Преимущества подписки на пакет Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Приобретение или возобновление подписки Microsoft Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>Как активировать подписку Visual Studio Online? </title>
-    <description><![CDATA[С подпиской Visual Studio Online, Вы можете получить инструменты, платформы и услуги, необходимые для успешного развития и тестирования приложений. Вы можете ознакомиться со статьёй ниже, чтобы узнать, как активировать подписку.]]></description>
-    <articlelinks>
-      <link>
-        <text>Подписки на Visual Studio по  партнерской программе Microsoft Partner Network (MPN)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Activate Visual Studio Online subscription</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Подписки Visual Studio Online</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000032</id>
-    <title>Как получить право на внутреннее использование плана Office 365 (E3) в Microsoft Partner Network?</title>
-    <description><![CDATA[Ознакомьтесь с преимуществами прав на внутреннее использование Office 365 (E3) в Microsoft Partner Network.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2996518. Как получить право на внутреннее использование плана Office 365 (E3) в Microsoft Partner Network</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>Активация и назначение лицензий на внутреннее использование Office 365 (E3)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
     </articlelinks></question></group><group title="лицензирование" refid="Licensing"><question>
     <id>1500-000009</id>
@@ -780,10 +780,6 @@ Note: Партнёры не могут использовать уже акти�
         <text>Microsoft Cloud Services Dashboard</text>
         <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
       </link>
-       <link>
-        <text>Руководство пользователя панелью управления облачными службами</text>
-        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
-      </link>
     </articlelinks></question><question>
     <id>200-000100</id>
     <title>Где можно найти сведения о выполнении задач в Центре партнеров?</title>
@@ -1027,8 +1023,8 @@ Note: Партнёры не могут использовать уже акти�
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
        <link>
-        <text>KB 4089764: Как получить счет в Центре партнеров</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
+        <text>Скачивание счета-фактуры для Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/ru-ru/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000060</id>

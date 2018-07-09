@@ -1,4 +1,233 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="クラウド サービス" refid="CloudServices"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+    <id>800-000039</id>
+    <title>マイクロソフト アクション パックで入手できるソフトウェア特典は、どのようなものですか？</title>
+    <description><![CDATA[通常、アクションパックご購入のパートナー様には、マイクロソフトの最新ソフトウェアの社内使用ライセンスが 10ライセンス 付与されます。　この社内使用ライセンスには、オンプレミス ソフトウェア、オンライン サービス、Visual Studio Online サブスクリプションのライセンスで構成されています。MAPS の再登録とは別に、O365 と Dynamics の更新プロセスが必要です。パートナーが MAPS メンバーシップを更新しても、O365 と Dynamics は自動的に更新されません。
+ライセンス特典の詳細については、以下の資料をご覧ください:]]></description>
+    <articlelinks>
+      <link>
+        <text>マイクロソフト アクション パックの概要</text>
+        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>パートナー センター: Action Pack のサブスクリプション特典</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack サブスクリプションの購入または更新</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000090</id>
+    <title>Windows 10 ソフトウェアと製品キーはどこでダウンロードしますか？</title>
+    <description><![CDATA[マイクロソフト コンピテンシー、もしくはアクション パックご購入のパートナー様は、パートナー デジタル ダウンロード ポータルから社内使用ライセンスの Windows 10 Enterprise のソフトウェアや製品キーを入手できます。同時に、開発、テスト、評価目的として、パートナー特典のVisual Studio Online サブスクリプションからもソフトウェアやキーの入手が可能です。(これには Pro と Home エディションが含まれます。) Visual Studio Online サブスクリプションへのアクセスは、権限が割り当てられた社員のみに制限されます。
+
+ご注意: Windows 10 Enterprise の社内使用ライセンスは、アップグレードでのみ利用可能です。
+
+ご注意: デジタル ディストリビューション ポータルからのソフトウェアのダウンロードにはソフトウェア ダウンロード特典が必要で、製品の表示にはキー表示特典が求められます。Visual Studio Online サブスクライバー ダウンロードをするには、コンピテンシーのパートナーにはプレミアム サブスクリプション特典が、アクション パックのサブスクライバーには技術窓口担当者の担当業務が必要です。
+
+ご注意: インプレース アップグレード実行時に既存の Windows 8.1 と Windows 10 の製品キーを使うことはできません。　かわりに新しい製品キーをデジタルダウンロードポータルか入手するようにします。]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー デジタル ディストリビューション ポータル</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online サブスクリプション</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online ダウンロード サイト</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000075</id>
+    <title>使用可能なAgreements, Orders and Subscription Managementの変更はどこでも見ることができますか?</title>
+    <description><![CDATA[パートナー メンバーシップ プログラムのすべての最新の変更は、「最新情報」そしてデジタルダウンロードポータル ページで見ることができます 。]]></description>
+    <articlelinks>
+      <link>
+        <text>最新情報</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>社内使用クラウドおよびソフトウェア特典</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>Office 365 (E3) 内部使用権ライセンスのライセンス認証と割り当てを行う方法</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000048</id>
+    <title>マイクロソフト Azure 社内使用ライセンス (IUR) のクレジットは、どのように請求できますか？</title>
+    <description><![CDATA[コンピテンシー、もしくはアクションパックご購入のパートナー様は、いずれもマイクロソフト Azure 月次クレジットにアクセスすることができます。この特典は、アクション パックの購読数や追加事業所キットの購入数に関係なく、会社単位で提供されます。社内の管理者のうち、誰か 1 人でも Azure 特典を請求されていた場合、同じ会社の別のユーザーはクレジットを請求することができません。
+マイクロソフト Azure IUR 特典についての詳細は、以下の情報をご確認ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>マイクロソフト Azure 社内使用権ライセンスのアクティブ化の方法</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
+      </link>
+       <link>
+        <text>マイクロソフト Azure 社内使用権ライセンスはどうやってアクティブ化しますか？</text>
+        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
+      </link>
+       <link>
+        <text>社内使用権 クラウドおよびソフトウェア特典</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000036</id>
+    <title>Visual Studio Online サブスクリプションの有効化はどのように行いますか？</title>
+    <description><![CDATA[Visual Studio Online は、開発やアプリケーションのテストを円滑に行うために必要な各種ツールやプラットフォーム、サービスなどを提供しています。　サブスクリプション有効化の方法については、以下の情報をご覧ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Partner Network (MPN) Visual Studio サブスクリプション</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online サブスクリプションをアクティブ化する</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online ダウンロード サイト</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。</title>
+    <description><![CDATA[マイクロソフト パートナー ネットワーク Office 365 (E3) 社内使用権の特典の概要を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text>Office 365 (E3) 内部使用権ライセンスのライセンス認証と割り当てを行う方法</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>クラウド製品の社内使用ライセンス有効化の方法について教えてください。</title>
+    <description><![CDATA[Office 365、エンタープライズ モビリティ スイート、マイクロソフト Dynamics CRM オンラインの社内使用ライセンスを有効化するためのステップ バイ ステップのガイドがそれぞれ以下の場所にございますので、ご確認ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN ポータル: 社内使用権クラウドおよびソフトウェアの特典 - 現在も PMC のパートナーの場合</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network メンバーシップの特典を管理する</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000087</id>
+    <title>マイクロソフト アクション パック サブスクリプションを所有し、追加の Microsoft Office 365/Microsoft Dynamics CRM Online シートの販売の要件を満たしています。トークンはどこにありますか?</title>
+    <description><![CDATA[追加のトークンはアカウントに自動的に割り当てられません。要求に関する必要な情報を取得するには、マイクロソフト認定プログラム事務局にお問い合わせください。]]></description>
+    <articlelinks>
+      <link>
+        <text>サポートへの問い合わせ</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
+      </link>
+       <link>
+        <text>社内使用クラウドおよびソフトウェア特典</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000045</id>
+    <title>パートナー特典として使用していたVisual Studioで、サインインしたときに試用版と表示されるのですが、これはなぜですか？</title>
+    <description><![CDATA[MSDN や Visual Studio を使うパートナーのサインインの手続きが変わりました。　詳しくは以下の情報をご確認ください。:]]></description>
+    <articlelinks>
+      <link>
+        <text>Visual Studio へのサインイン</text>
+        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
+      </link>
+       <link>
+        <text>Visual Studio 2015 のライセンスが認識されない</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000030</id>
+    <title>Visual Studio Online のテクニカル ID によるアクセス数の制限について教えてください。</title>
+    <description><![CDATA[コンピテンシーパートナー様へのTechnical IDの発行上限は撤廃されております。また、MAPSご購読のパートナー様向けにもTechnical IDの発行上限を増やしております。以下の資料をご覧いただき、Technical IDの発行方法についてご確認ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>新規ユーザーに Visual Studio Online サブスクリプションを割り当てできない</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online サブスクリプションのアクセスと特典を割り当てる</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000104</id>
+    <title>IUR ライセンスのダウンロード場所とライセンス認証方法を教えてください</title>
+    <description><![CDATA[IUR ライセンスをライセンス認証し、割り当てる方法については、以下の記事を参照してください]]></description>
+    <articlelinks>
+      <link>
+        <text>社内使用権 クラウドおよびソフトウェア特典(ページの一番下までスクロールすると、コンピテンシー パートナーのライセンス表が表示されます)</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>内部使用権 (IUR) の利点と IUR を使用する重要性</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network メンバーシップの特典を管理する</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>MPN IUR (内部使用権) Online Services サブスクリプションがある場合、アドオン サブスクリプションを購入できますか?</title>
+    <description><![CDATA[いいえ、購入できません。アドオンを追加するには、利用可能な購入経路で基本サブスクリプションを 1 ライセンス以上購入する必要があります。例外: CRM OL および Dynamics 365 のアドオンの場合 (非運用環境のインスタンスやストレージなど)、こちらで依頼を送信して無料の基本サブスクリプションを取得できます。]]></description>
+    <articlelinks>
+      <link>
+        <text>ここで依頼を送信して無料の基本サブスクリプションを取得する</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>ソフトウェアおよびクラウド サービスの利点に関する製品使用ガイド</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-1000111</id>
+    <title>パートナー特典や各種プログラム要件に関するお問い合わせについての連絡先情報はどこから入手できますか？　マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには？　</title>
+    <description><![CDATA[パートナー特典や各種プログラム要件に関するお問い合わせはパートナー コールセンター内　マイクロソフト認定プログラム事務局までご連絡ください。　（自動音声メッセージで3番を選択ください。）
+また、マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには、パートナーメンバーシップフォーラムをご活用ください。　プライベート投稿の機能やファイルの共有方法についてはコミュニティ内の投稿をご覧ください。 
+※　パートナーメンバーシップフォーラムをご覧になる場合は、パートナーアカウントに紐づくマイクロソフトアカウントでログインする必要があります。　]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー コールセンター </text>
+        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Support/call-center.aspx?tpqid=800-1000111]]></url>
+      </link>
+       <link>
+        <text>パートナー メンバーシップ フォーラムプライベート投稿について </text>
+        <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-1000113</id>
+    <title>「Office365試用版のデータが削除されます」との通知がきました。すでに製品版を有効化して利用していますが、製品版のサブスクリプションも削除されるのですか？</title>
+    <description><![CDATA[いいえ。　試用版で利用いただいていたサブスクリプションのみが削除されます。　製品版で利用いただいているサブスクリプションには影響がありません。　有効化の手順については、以下各種ウェブサイトをご覧ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>Office365 社内使用ライセンスの有効化ガイド</text>
+        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Membership/program/mpn-guide_02.aspx#tab?tpqid=800-1000113]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-1000112</id>
+    <title>Office365の試用版を利用していますが、試用期間の延長をすることはできますか？</title>
+    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
+Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
+※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
+※代理管理ではこの手続きを行うことができません。
+※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
+    <articlelinks>
+      <link>
+        <text>Office365管理センタ</text>
+        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
+      </link>
+    </articlelinks></question></group><group title="クラウド サービス" refid="CloudServices"><question>
     <id>200-000026</id>
     <title>私たちはマイクロソフトのパートナーです。 パートナー機能を有効にするにはどうすればよいでしょう？</title>
     <description><![CDATA[オンライン サービス特典にアクセスしてパートナー機能を有効にするには、こちらのリソースをご確認ください。]]></description>
@@ -10,64 +239,6 @@
        <link>
         <text>パートナー機能を有効にするにはどうすればよいですか</text>
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000085</id>
-    <title>Cloud Services Partner Dashboard とは?</title>
-    <description><![CDATA[Microsoft Cloud Services Dashboard は、リセラーやディストリビューターが、Microsoft Office 365、Microsoft Intune、Microsoft Dynamics CRM Online の顧客のサブスクリプションのステータスを追跡するために役立ちます。
-ダッシュボードを主要なデータのソースとして使用すると、貴社を指名パートナーとして指定している顧客のサブスクリプションを効率的に管理できます。このデータを使用して、需要、導入、更新をより効果的かつ先見的に促進できます。 
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Cloud Services Dashboard について</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
-      </link>
-       <link>
-        <text>Microsoft Cloud Services Dashboard</text>
-        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
-      </link>
-       <link>
-        <text>クラウド サービス ダッシュボード ユーザー ガイド</text>
-        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>クラウド ソリューション プロバイダー (CSP) プログラムに関する最新情報の詳細はどこで確認できますか?</title>
-    <description><![CDATA[パートナー センター ポータルで CSP プログラムに関する最新情報の詳細をご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー センター: CSP プログラムに関する詳細をご確認ください。</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
-      </link>
-       <link>
-        <text>パートナー センター: CSP に関するお知らせ</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>Office 365 のデモを実施したいのですが、どうすればできますか？</title>
-    <description><![CDATA[マイクロソフト Office Demo ポータルを活用することで、ローカルにソフトウェアをフル インストールするなどの作業をせずに、デモ環境をセットアップし、Office 製品のデモのためのガイド資料を入手することができます。マイクロソフト Office のデモ環境は、デモ用コンテンツを備えた Office 365 試用版テナントで構成されます。Office 365 テナントがセットアップされると、 Exchange、SharePoint、Skype、Outlook、Word、Excel、Powerpoint その他あらゆる Office 製品をカバーする効果的なデモを実施することができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト Office Demo ポータル</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>マイクロソフト Office 365, Project Online, および Power BI デモ テナント</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365 の最初の旅</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>顧客に Office 365 を採用するよう推奨するにはどうすればよいですか?</title>
-    <description><![CDATA[オンライン サービス ビジネスを始めたばかりか、拡張する準備ができているかどうかにかかわりなく、Cloud SureStep は収益性を最大にするお手伝いをするよう設計されています。]]></description>
-    <articlelinks>
-      <link>
-        <text>Cloud SureStep の概要</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000029</id>
@@ -105,6 +276,38 @@
         <url><![CDATA[http://support.microsoft.com/kb/2985319?tpqid=200-1000109]]></url>
       </link>
     </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>Office 365 のデモを実施したいのですが、どうすればできますか？</title>
+    <description><![CDATA[マイクロソフト Office Demo ポータルを活用することで、ローカルにソフトウェアをフル インストールするなどの作業をせずに、デモ環境をセットアップし、Office 製品のデモのためのガイド資料を入手することができます。マイクロソフト Office のデモ環境は、デモ用コンテンツを備えた Office 365 試用版テナントで構成されます。Office 365 テナントがセットアップされると、 Exchange、SharePoint、Skype、Outlook、Word、Excel、Powerpoint その他あらゆる Office 製品をカバーする効果的なデモを実施することができます。]]></description>
+    <articlelinks>
+      <link>
+        <text>マイクロソフト Office Demo ポータル</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>マイクロソフト Office 365, Project Online, および Power BI デモ テナント</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365 の最初の旅</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000085</id>
+    <title>Cloud Services Partner Dashboard とは?</title>
+    <description><![CDATA[Microsoft Cloud Services Dashboard は、リセラーやディストリビューターが、Microsoft Office 365、Microsoft Intune、Microsoft Dynamics CRM Online の顧客のサブスクリプションのステータスを追跡するために役立ちます。
+ダッシュボードを主要なデータのソースとして使用すると、貴社を指名パートナーとして指定している顧客のサブスクリプションを効率的に管理できます。このデータを使用して、需要、導入、更新をより効果的かつ先見的に促進できます。 
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Cloud Services Dashboard について</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>Microsoft Cloud Services Dashboard</text>
+        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-1000107</id>
     <title>Learningコンピテンシーパートナーに付与されるクラスルームライセンスに制限はありますか？</title>
     <description><![CDATA[他の社内使用ライセンス特典とは異なり、Learningコンピテンシーパートナー向けに提供されているライセンスは有効化を前提とした使用が想定されていません。　頻繁に再イメージ化する学習、開発ラボ、デモンストレーション用コンピューターなどで使用される場合に都度、有効化すると、ライセンスキーの認証回数の上限に引きあたり、それ以降、特典を使用出来なくなってしまいます。　現在、このライセンス認証を回避するRearm機能の活用が提供されていますが、この機能が使用できる製品に制限があること、また、一括でライセンス認証を行うことができないなど、使用にあたっては各種の制限がございます。　上記のような用途でクラスルーム環境を構築・運用されるパートナー様には、ボリュームライセンスの使用をお勧めします。　ボリュームライセンスでは、パソコンスクールなどのビジネスに最適なライセンスが提供され、KMS認証など、ライセンス認証の一元的な管理も可能です。　ボリュームライセンスのライセンス認証については以下をご参照ください。]]></description>
@@ -112,6 +315,28 @@
       <link>
         <text>製品のライセンス認証についてよく寄せられる質問</text>
         <url><![CDATA[http://www.microsoft.com/ja-jp/licensing/existing-customers/product-activation-faq.aspx?tpqid=200-1000107]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000083</id>
+    <title>クラウド ソリューション プロバイダー (CSP) プログラムに関する最新情報の詳細はどこで確認できますか?</title>
+    <description><![CDATA[パートナー センター ポータルで CSP プログラムに関する最新情報の詳細をご確認ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー センター: CSP プログラムに関する詳細をご確認ください。</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+      </link>
+       <link>
+        <text>パートナー センター: CSP に関するお知らせ</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000066</id>
+    <title>顧客に Office 365 を採用するよう推奨するにはどうすればよいですか?</title>
+    <description><![CDATA[オンライン サービス ビジネスを始めたばかりか、拡張する準備ができているかどうかにかかわりなく、Cloud SureStep は収益性を最大にするお手伝いをするよう設計されています。]]></description>
+    <articlelinks>
+      <link>
+        <text>Cloud SureStep の概要</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
@@ -285,235 +510,6 @@
        <link>
         <text>パートナー センター: 調整ファイルを使う </text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
-      </link>
-    </articlelinks></question></group><group title="ダウンロードおよびソフトウェア" refid="DownloadsSoftware"><question>
-    <id>800-1000113</id>
-    <title>「Office365試用版のデータが削除されます」との通知がきました。すでに製品版を有効化して利用していますが、製品版のサブスクリプションも削除されるのですか？</title>
-    <description><![CDATA[いいえ。　試用版で利用いただいていたサブスクリプションのみが削除されます。　製品版で利用いただいているサブスクリプションには影響がありません。　有効化の手順については、以下各種ウェブサイトをご覧ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Office365 社内使用ライセンスの有効化ガイド</text>
-        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Membership/program/mpn-guide_02.aspx#tab?tpqid=800-1000113]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-1000112</id>
-    <title>Office365の試用版を利用していますが、試用期間の延長をすることはできますか？</title>
-    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
-Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
-※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
-※代理管理ではこの手続きを行うことができません。
-※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
-    <articlelinks>
-      <link>
-        <text>Office365管理センタ</text>
-        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000075</id>
-    <title>使用可能なダウンロードおよびソフトウェアの変更はどこでも見ることができますか?</title>
-    <description><![CDATA[パートナー メンバーシップ プログラムのすべての最新の変更は、「最新情報」そしてデジタルダウンロードポータル ページで見ることができます 。]]></description>
-    <articlelinks>
-      <link>
-        <text>最新情報</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>社内使用クラウドおよびソフトウェア特典</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>Office 365 (E3) 内部使用権ライセンスのライセンス認証と割り当てを行う方法</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000087</id>
-    <title>マイクロソフト アクション パック サブスクリプションを所有し、追加の Microsoft Office 365/Microsoft Dynamics CRM Online シートの販売の要件を満たしています。トークンはどこにありますか?</title>
-    <description><![CDATA[追加のトークンはアカウントに自動的に割り当てられません。要求に関する必要な情報を取得するには、マイクロソフト認定プログラム事務局にお問い合わせください。]]></description>
-    <articlelinks>
-      <link>
-        <text>サポートへの問い合わせ</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
-      </link>
-       <link>
-        <text>社内使用クラウドおよびソフトウェア特典</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>マイクロソフト アクション パックで入手できるソフトウェア特典は、どのようなものですか？</title>
-    <description><![CDATA[通常、アクションパックご購入のパートナー様には、マイクロソフトの最新ソフトウェアの社内使用ライセンスが 10ライセンス 付与されます。　この社内使用ライセンスには、オンプレミス ソフトウェア、オンライン サービス、Visual Studio Online サブスクリプションのライセンスで構成されています。MAPS の再登録とは別に、O365 と Dynamics の更新プロセスが必要です。パートナーが MAPS メンバーシップを更新しても、O365 と Dynamics は自動的に更新されません。
-ライセンス特典の詳細については、以下の資料をご覧ください:]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト アクション パックの概要</text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>パートナー センター: Action Pack のサブスクリプション特典</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack サブスクリプションの購入または更新</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000045</id>
-    <title>パートナー特典として使用していたVisual Studioで、サインインしたときに試用版と表示されるのですが、これはなぜですか？</title>
-    <description><![CDATA[MSDN や Visual Studio を使うパートナーのサインインの手続きが変わりました。　詳しくは以下の情報をご確認ください。:]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio へのサインイン</text>
-        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
-      </link>
-       <link>
-        <text>Visual Studio 2015 のライセンスが認識されない</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>Visual Studio Online のテクニカル ID によるアクセス数の制限について教えてください。</title>
-    <description><![CDATA[コンピテンシーパートナー様へのTechnical IDの発行上限は撤廃されております。また、MAPSご購読のパートナー様向けにもTechnical IDの発行上限を増やしております。以下の資料をご覧いただき、Technical IDの発行方法についてご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>新規ユーザーに Visual Studio Online サブスクリプションを割り当てできない</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online サブスクリプションのアクセスと特典を割り当てる</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000048</id>
-    <title>マイクロソフト Azure 社内使用ライセンス (IUR) のクレジットは、どのように請求できますか？</title>
-    <description><![CDATA[コンピテンシー、もしくはアクションパックご購入のパートナー様は、いずれもマイクロソフト Azure 月次クレジットにアクセスすることができます。この特典は、アクション パックの購読数や追加事業所キットの購入数に関係なく、会社単位で提供されます。社内の管理者のうち、誰か 1 人でも Azure 特典を請求されていた場合、同じ会社の別のユーザーはクレジットを請求することができません。
-マイクロソフト Azure IUR 特典についての詳細は、以下の情報をご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト Azure 社内使用権ライセンスのアクティブ化の方法</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>マイクロソフト Azure 社内使用権ライセンスはどうやってアクティブ化しますか？</text>
-        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>社内使用権 クラウドおよびソフトウェア特典</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000104</id>
-    <title>IUR ライセンスのダウンロード場所とライセンス認証方法を教えてください</title>
-    <description><![CDATA[IUR ライセンスをライセンス認証し、割り当てる方法については、以下の記事を参照してください]]></description>
-    <articlelinks>
-      <link>
-        <text>社内使用権 クラウドおよびソフトウェア特典(ページの一番下までスクロールすると、コンピテンシー パートナーのライセンス表が表示されます)</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>内部使用権 (IUR) の利点と IUR を使用する重要性</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network メンバーシップの特典を管理する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>Visual Studio Online サブスクリプションの有効化はどのように行いますか？</title>
-    <description><![CDATA[Visual Studio Online は、開発やアプリケーションのテストを円滑に行うために必要な各種ツールやプラットフォーム、サービスなどを提供しています。　サブスクリプション有効化の方法については、以下の情報をご覧ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Partner Network (MPN) Visual Studio サブスクリプション</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online サブスクリプションをアクティブ化する</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online ダウンロード サイト</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000032</id>
-    <title>マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。</title>
-    <description><![CDATA[マイクロソフト パートナー ネットワーク Office 365 (E3) 社内使用権の特典の概要を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>Office 365 (E3) 内部使用権ライセンスのライセンス認証と割り当てを行う方法</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>クラウド製品の社内使用ライセンス有効化の方法について教えてください。</title>
-    <description><![CDATA[Office 365、エンタープライズ モビリティ スイート、マイクロソフト Dynamics CRM オンラインの社内使用ライセンスを有効化するためのステップ バイ ステップのガイドがそれぞれ以下の場所にございますので、ご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN ポータル: 社内使用権クラウドおよびソフトウェアの特典 - 現在も PMC のパートナーの場合</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network メンバーシップの特典を管理する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN IUR (内部使用権) Online Services サブスクリプションがある場合、アドオン サブスクリプションを購入できますか?</title>
-    <description><![CDATA[いいえ、購入できません。アドオンを追加するには、利用可能な購入経路で基本サブスクリプションを 1 ライセンス以上購入する必要があります。例外: CRM OL および Dynamics 365 のアドオンの場合 (非運用環境のインスタンスやストレージなど)、こちらで依頼を送信して無料の基本サブスクリプションを取得できます。]]></description>
-    <articlelinks>
-      <link>
-        <text>ここで依頼を送信して無料の基本サブスクリプションを取得する</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>ソフトウェアおよびクラウド サービスの利点に関する製品使用ガイド</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-1000111</id>
-    <title>パートナー特典や各種プログラム要件に関するお問い合わせについての連絡先情報はどこから入手できますか？　マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには？　</title>
-    <description><![CDATA[パートナー特典や各種プログラム要件に関するお問い合わせはパートナー コールセンター内　マイクロソフト認定プログラム事務局までご連絡ください。　（自動音声メッセージで3番を選択ください。）
-また、マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには、パートナーメンバーシップフォーラムをご活用ください。　プライベート投稿の機能やファイルの共有方法についてはコミュニティ内の投稿をご覧ください。 
-※　パートナーメンバーシップフォーラムをご覧になる場合は、パートナーアカウントに紐づくマイクロソフトアカウントでログインする必要があります。　]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー コールセンター </text>
-        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Support/call-center.aspx?tpqid=800-1000111]]></url>
-      </link>
-       <link>
-        <text>パートナー メンバーシップ フォーラムプライベート投稿について </text>
-        <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Windows 10 ソフトウェアと製品キーはどこでダウンロードしますか？</title>
-    <description><![CDATA[マイクロソフト コンピテンシー、もしくはアクション パックご購入のパートナー様は、パートナー デジタル ダウンロード ポータルから社内使用ライセンスの Windows 10 Enterprise のソフトウェアや製品キーを入手できます。同時に、開発、テスト、評価目的として、パートナー特典のVisual Studio Online サブスクリプションからもソフトウェアやキーの入手が可能です。(これには Pro と Home エディションが含まれます。) Visual Studio Online サブスクリプションへのアクセスは、権限が割り当てられた社員のみに制限されます。
-
-ご注意: Windows 10 Enterprise の社内使用ライセンスは、アップグレードでのみ利用可能です。
-
-ご注意: デジタル ディストリビューション ポータルからのソフトウェアのダウンロードにはソフトウェア ダウンロード特典が必要で、製品の表示にはキー表示特典が求められます。Visual Studio Online サブスクライバー ダウンロードをするには、コンピテンシーのパートナーにはプレミアム サブスクリプション特典が、アクション パックのサブスクライバーには技術窓口担当者の担当業務が必要です。
-
-ご注意: インプレース アップグレード実行時に既存の Windows 8.1 と Windows 10 の製品キーを使うことはできません。　かわりに新しい製品キーをデジタルダウンロードポータルか入手するようにします。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー デジタル ディストリビューション ポータル</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online サブスクリプション</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online ダウンロード サイト</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group><group title="テクニカル サービス" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000110</id>
@@ -949,8 +945,8 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
        <link>
-        <text>KB 4089764: パートナー センターで請求書を取得する方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
+        <text>Action Pack 請求書のダウンロード</text>
+        <url><![CDATA[https://docs.microsoft.com/ja-jp/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000094</id>

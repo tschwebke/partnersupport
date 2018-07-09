@@ -1,55 +1,195 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Avantajlar" refid="Benefits"><question>
-    <id>300-000004</id>
-    <title>Uzmanlık logomu nasıl alabilirim?</title>
-    <description><![CDATA[Microsoft İş Ortağı durumunuzu öne çıkarmak ve sahip olduğunuz Uzmanlıkları göstermek için İş Ortağı Logo Oluşturucusuna gidip, logo oluşturabilir ve özelleştirilmiş logolar indirebilirsiniz.]]></description>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+    <id>800-000039</id>
+    <title>Microsoft Bayi İç Kullanım seti ile hangi yazılımları kullanma avantajına erişirim?</title>
+    <description><![CDATA[Bayi paketi üyeliği olanlara genelde, Microsoft yazılımlarının son versiyonun, iç kullanım 10 lisansı gönderilir. Bu lisanslar kurum içi yazılım, online hizmetler ve Visual Studio Online üyeliğini kapsar. MAPS yeniden kaydından ayrı olarak O365 ve Dynamics için yenileme süreci gerekir. İş ortağı, MAPS Üyeliği'ni yeniledikten sonra bunlar otomatik olarak yenilenmez. Lisans avantajları hakkında daha detaylı bilgi için bu kaynakları referans alınız.]]></description>
     <articlelinks>
       <link>
-        <text>İş Ortağı logo oluşturucusu</text>
-        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+        <text>Microsoft Bayi Paketine genel bakış</text>
+        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Logo Builder'ı Kullanmaya Başlama</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
+        <text>İş Ortağı Merkezi: Eylem Paketi abonelik avantajları</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>MPN İş Ortağı Satıcı Rozeti Kılavuzu</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
+        <text>Microsoft Eylem Paketi aboneliği satın alma veya yenileme</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>Microsoft Azure iç kullanım hakları lisanslarını nasıl aktive edebilirim?</title>
-    <description><![CDATA[Microsoft Azure iç kullanım hakları lisanslarınızı nasıl aktive edebileceğinizi "Microsoft Azure iç kullanım hakları lisanslarınızı nasıl aktive edebilirsiniz?" makalesini takip ederek gerçekleştirebilirsiniz.]]></description>
+    <id>800-000090</id>
+    <title>Windows 10 yazılım ve ürün anahtarını nereden indirebilirim?</title>
+    <description><![CDATA[Microsoft uzmanlığı veya Bayi Paketi aboneliği olan iş ortakları Windows 10 Kurumsal yazılım ve ürün anahtarına şirket içinde kullanmak amacıyla İş Ortağı Dijital Dağıtım Portalından erişebilirler. Geliştirmek, test etmek ve değerlendirmek amacıyla, iş ortakları Visual Studio Online üyeliği program avantajı kapsamında gelen yazılım ve anahtarlarını kullanabilirler. ( Bu Pro ve Ev sürümlerini içerir.) Sadece Visual Studio Online üyeliğine tanımlanmış son kullanıcılar içindir. 
+Not: Windows 10 Kurumsal için İç Kullanım lisansları sadece yükseltme için geçerlidir. 
+
+Not: Yazılım indirme ayrıcalığı, Dijital Dağıtım Portalından yazılım indirmek için gereklidir ve Anahtarları Gör ayrıcalığı ürünleri görmek için gereklidir. Visual Studio Online abonesi indirmelerine erişebilmek için Uzmanlık sahibi iş ortakları için Premium Abone ayrıcalığı gerekmekte ve Bayi paketi aboneliği olanlar için Teknik Kontak rolü gerekmektedir. 
+
+Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya Windows 10 ürün anahtarlarını kullanamazlar. Bunun yerine İş Ortağı Dijital Dağıtım Portalı üzerinden yeni bir anahtar almaları gerekmektedir.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Azure iç kullanım hakları lisanslarımı nasıl aktive edebilirim?</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+        <text>İş ortağı dijital dağıtım portalı</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online Abonelikleri</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online indirme sitesi</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000075</id>
+    <title>Bana sunulan indirebileceklerim ve yazılımsal değişikliklerini nereden görebilirim?</title>
+    <description><![CDATA[İş Ortağı üyeliği programları ile ilgili tüm değişiklikleri Dijital Dağıtım Portalı ve Yenilikler sayfasından bulabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Yenilikler</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
       </link>
        <link>
         <text>İç kullanım hakları bulut ve yazılım avantajları </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
       </link>
        <link>
-        <text>İç Kullanım Hakları (IUR) avantajları ile işinizi canlandırın</text>
-        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+        <text>Office 365 (E3) dahili kullanım hakkı lisanslarının etkinleştirilmesi ve atanması</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>İş Ortağı danışmanlık saatleri nedir?</title>
-    <description><![CDATA[İş Ortakları saatleri, iş ortaklarının kendilerine teklif edilen belirli servislere giriş yapabilmeleri için kullanılabilen değerdir. Sahip olduğunuz saatleri, uzmanlıklarınızı artırmak ve ürünlerin kurulumları sırasında özelleştirilmiş rehberlik almak için kullanabilirsiniz.]]></description>
+    <id>800-000048</id>
+    <title>Microsoft Azure iç kullanım hakları (IUR) kredilerini nasıl talep edebilirim?</title>
+    <description><![CDATA[Uzmanlığa sahip olan tüm iş ortakları veya Microsoft Bayi Paketi olanlar Microsoft Azure'a aylık kredi kullanımı kapsamında giriş yapabilirler. Bu avantaj her bir organizasyona ne kadar Bayi Paketi veya ek avantaj araçları alımı yapmış olması gözetilmeksizin sağlanır. Eğer organizasyon içerisindeki bir yönetici haklarına sahip kişi Azure avantajlarından gelen hakları kullanmayı daha önceden talep etti ise, aynı kurumdaki başka kullanıcılar bir daha aynı hakkı talep edemezler. Microsoft Azure IUR avantajları hak talebi hakkında daha fazla bilgi için aşağıdaki makaleyi inceleyebilirsiniz.]]></description>
     <articlelinks>
       <link>
-        <text>Satış öncesi teknik ve kurulum hizmetleri</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+        <text>Microsoft Azure iç kullanım hakları lisanslarımı nasıl aktive edebilirim?</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
       </link>
        <link>
-        <text>Temel avantajlar ve gereksinimler</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+        <text>Microsoft Azure iç kullanım hakları lisanslarını nasıl aktive edebilirim?</text>
+        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
       </link>
        <link>
-        <text>Ne kadar saatiniz olduğunundan emin değil misiniz? İş ortakları danışmanlık saatlerinizi görüntüleyin</text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+        <text>İç Kullanım Hakları bulut ve yazılım avantajları</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
       </link>
     </articlelinks></question><question>
+    <id>800-000036</id>
+    <title>Visual Studio Online aboneliğimi nasıl aktive edebilirim?</title>
+    <description><![CDATA[Visual Studio Online üyeliği ile uygulama geliştirmek ve uygulamalarınızı test etmek için ihtiyacınız olan, araçlar, platformlar ve hizmetleri alabilirsiniz. Aboneliğinizi aktive etmek için aşağıdaki makaleyi inceleyebilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft İş Ortağı Ağı (MPN) Visual Studio Abonelikleri</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online aboneliğini aktive et</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online Abonelikleri</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>Microsoft İş Ortakları Ağı kapsamında Office 365 (E3) iç kullanım haklarına nasıl sahip olabilirim?</title>
+    <description><![CDATA[Microsoft İş Ortağı Ağı Office 365 (E3) iç kullanım hakları avantajlarına göz atın.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2996518: Microsoft İş Ortağı Ağı üzerinden Office 365 (E3) iç kullanım hakları avantajlarını nasıl elde edebilirim?</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text>Office 365 (E3) dahili kullanım hakkı lisanslarının etkinleştirilmesi ve atanması</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>İç Kullanım hakları lisanslarımı nasıl aktive edebilirim?</title>
+    <description><![CDATA[Office 365, Kurumsal Mobilite Suite ve Microsoft Dynamics CRM Online iç kullanım hakları lisanslarını aktive edebilmek için adım adım kılavuza aşağıdaki makalelerden ulaşabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000087</id>
+    <title>Microsoft Bayi iç kullanım aboneliğine ve Microsoft Office 365 / Microsoft Dynamics CRM Online için ek lisans alabilme gereksinimlerini sağladım. Anahtarımı nereden alabilirim?</title>
+    <description><![CDATA[Ek anahtarlar hesabınıza otomatik olarak tanımlanmaz. Lütfen talebinize istinaden gerekli olan bilgilerin gönderilmesi için Regional Service Center ile iletişime geçiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Destek ile iletişime geçin</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
+      </link>
+       <link>
+        <text>İç kullanım hakları bulut ve yazılım avantajları </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000045</id>
+    <title>Visual Studio da oturum açtığımda neden deneme versiyonuna sahipsin yazıyor?</title>
+    <description><![CDATA[MSDN ve Visual Studio kullanan iş ortaklarının ilk oturum açma deneyimleri değiştirildi. Daha fazla bilgiyi buradan bulabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Visual Studio'ya giriş yapmak</text>
+        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
+      </link>
+       <link>
+        <text>Visual Studio 2015 lisansları tanınmıyor</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000030</id>
+    <title>Visual Studio Online teknik ID limitlerini nasıl yönetebilirim?</title>
+    <description><![CDATA[Yetkinlik sahibi olan iş ortaklarının Visual Studio Online abonelikleri için eşik arttırmalaı gerekmez. Bayi içi kullanım seti olan iş ortakları destek ile iletişime geçerek %360 oranında eşik arttırımı alabilirler. Bayi içi kullanım seti için eşik arttırımı konusunda detaylı bilgi için aşağıda sağlanan kaynakları inceleyiniz. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Visual Studio Online Aboneliklerini yeni kullanıcılara atayamıyorum</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online aboneliğine giriş ve yetkiler atanması</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000104</id>
+    <title>IUR Lisanslarımı nereden indirip etkinleştirebilirim?</title>
+    <description><![CDATA[IUR lisanslarınızı nasıl etkinleştirip atayacağınız konusunda bilgi edinmek için aşağıdaki makaleye göz atın]]></description>
+    <articlelinks>
+      <link>
+        <text>İç kullanım hakları bulut ve yazılım avantajları (Uzmanlık İş Ortaklarına yönelik Lisans tablosunu görüntülemek için sayfayı düğmenin bulunduğu bölüme kaydırın)
+ 
+</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Dahili kullanım haklarımın avantajları nelerdir ve dahili kullanım haklarını kullanmam neden önemlidir?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>MPN Dahili Kullanım Hakları Çevrimiçi Hizmetler aboneliğimin üzerine bir eklenti aboneliği satın alabilir miyim?</title>
+    <description><![CDATA[Hayır, bunu yapamazsınız. Eklenti ekleyebilmek için mevcut satın alma kanalları aracılığıyla en az bir temel abonelik lisansı satın almanız gerekir. Özel durum: Üretim dışı örnekler ve depolama alanı gibi CRM OL ve Dynamics 365 Eklentileri için ücretsiz temel abonelik almak için talebinizi buradan gönderebilirsiniz]]></description>
+    <articlelinks>
+      <link>
+        <text>Ücretsiz temel abonelik almak için buradan talebinizi gönderin</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>Yazılım ve Bulut Hizmetlerinin Avantajları için Ürün Kullanım Kılavuzu</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
+    </articlelinks></question></group><group title="Avantajlar" refid="Benefits"><question>
     <id>300-000102</id>
     <title>Uzmanlığa erişmenin avantajları nelerdir?</title>
     <description><![CDATA[Daha fazla bilgi için lütfen aşağıdaki bağlantıları inceleyin]]></description>
@@ -119,6 +259,23 @@
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000014</id>
+    <title>İş Ortağı danışmanlık saatleri nedir?</title>
+    <description><![CDATA[İş Ortakları saatleri, iş ortaklarının kendilerine teklif edilen belirli servislere giriş yapabilmeleri için kullanılabilen değerdir. Sahip olduğunuz saatleri, uzmanlıklarınızı artırmak ve ürünlerin kurulumları sırasında özelleştirilmiş rehberlik almak için kullanabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Satış öncesi teknik ve kurulum hizmetleri</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Temel avantajlar ve gereksinimler</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Ne kadar saatiniz olduğunundan emin değil misiniz? İş ortakları danışmanlık saatlerinizi görüntüleyin</text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000100</id>
     <title>Nasıl Teknik Destek/Ürün Desteği alabilirim?</title>
     <description><![CDATA[Aboneliğinize göre Teknik Destek/Ürün Desteği uygunluğu hakkında bilgi edinmek için Core Avantajları ve Gereksinimleri'ni ve MPN Teknik Avantajları Özeti'ni inceleyin.]]></description>
@@ -132,6 +289,23 @@
         <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000043</id>
+    <title>Microsoft Azure iç kullanım hakları lisanslarını nasıl aktive edebilirim?</title>
+    <description><![CDATA[Microsoft Azure iç kullanım hakları lisanslarınızı nasıl aktive edebileceğinizi "Microsoft Azure iç kullanım hakları lisanslarınızı nasıl aktive edebilirsiniz?" makalesini takip ederek gerçekleştirebilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Azure iç kullanım hakları lisanslarımı nasıl aktive edebilirim?</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>İç kullanım hakları bulut ve yazılım avantajları </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>İç Kullanım Hakları (IUR) avantajları ile işinizi canlandırın</text>
+        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000101</id>
     <title>Bir Teknik/Profesyonel Destek Olayını nasıl gönderirim?</title>
     <description><![CDATA[Şirketinizin teknik destek için uygun olduğunu doğrulamak üzere MPN Teknik Avantajları Özeti'ni inceleyin.]]></description>
@@ -143,6 +317,23 @@
        <link>
         <text>Destek Olayı oluşturmak için adımlar</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000004</id>
+    <title>Uzmanlık logomu nasıl alabilirim?</title>
+    <description><![CDATA[Microsoft İş Ortağı durumunuzu öne çıkarmak ve sahip olduğunuz Uzmanlıkları göstermek için İş Ortağı Logo Oluşturucusuna gidip, logo oluşturabilir ve özelleştirilmiş logolar indirebilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>İş Ortağı logo oluşturucusu</text>
+        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>Logo Builder'ı Kullanmaya Başlama</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>MPN İş Ortağı Satıcı Rozeti Kılavuzu</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000103</id>
@@ -232,23 +423,21 @@
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question></group><group title="Bulut Servisleri" refid="CloudServices"><question>
-    <id>200-000085</id>
-    <title>Cloud Services Partner Dashboard nedir?</title>
-    <description><![CDATA[Bulut Hizmetleri Panosu bayilere ve distribütörlere, müşterilerinin Microsoft Office 365, Microsoft Intune ve Microsoft Dynamics CRM Online aboneliklerinin durumlarını takip etmelerine yardımcı olur.
-
-Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin aboneliklerini etkili biçimde yönetebilmek için önemli bir kaynak olarak kullanabilirsiniz. Bu veri ile talepleri, kurulumları ve yenilemeleri etkili ve proaktif biçimde hareket etmek için kullanabilirsiniz.]]></description>
+    <id>200-000068</id>
+    <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
+    <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Bulut Hizmetleri Panosu hakkında daha fazla bilgi edinin</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+        <text>Microsoft Office demo portalı</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
       </link>
        <link>
-        <text>Microsoft Bulut Hizmetleri Panosu</text>
-        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+        <text>Microsoft Office 365, Project Online ve Power BI demo tenantları</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
       </link>
        <link>
-        <text>Bulut Hizmetleri Panosu kullanıcı rehberi</text>
-        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
+        <text>Microsoft Office 365 ile ilk yolculuk</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
@@ -264,13 +453,17 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>Müşterilerimi Office 365'e adapte olması için nasıl yönlendirebilirim?</title>
-    <description><![CDATA[Cloud SureStep, hem başlangıç seviyesindeki hem de ölçeklendirmeye hazır çevrimiçi hizmet işlerinin kârlılığını en üst düzeye çıkarmaya yardımcı olması için tasarlanmıştır.]]></description>
+    <id>200-000083</id>
+    <title>Bulut Çözümü Sağlayıcısı (CSP) programı hakkında nereden bilgi alabilirim ve en son bilgilerden haberdar olabilirim?</title>
+    <description><![CDATA[İş Ortağı Merkezi portalından CSP programıyla ilgili haberleri alın ve daha fazla bilgi edinin.]]></description>
     <articlelinks>
       <link>
-        <text>Bulut SureStep'e göz gezdirin</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+        <text>İş Ortağı Merkezi: CSP programı hakkında daha fazla bilgi edinin</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+      </link>
+       <link>
+        <text>İş Ortağı Merkezi: CSP Duyuruları</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>200-000092</id>
@@ -312,17 +505,17 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>Bulut Çözümü Sağlayıcısı (CSP) programı hakkında nereden bilgi alabilirim ve en son bilgilerden haberdar olabilirim?</title>
-    <description><![CDATA[İş Ortağı Merkezi portalından CSP programıyla ilgili haberleri alın ve daha fazla bilgi edinin.]]></description>
+    <id>200-000026</id>
+    <title>Microsoft iş ortağıyız. İş Ortağı özelliklerimizi nasıl aktive edebiliriz?</title>
+    <description><![CDATA[Online hizmetler avantajlarına nasıl ulaşacağınızı ve iş ortakları özelliklerini nasıl aktive edeceğinizi bu kaynakları kullanarak öğrenebilirsiniz.]]></description>
     <articlelinks>
       <link>
-        <text>İş Ortağı Merkezi: CSP programı hakkında daha fazla bilgi edinin</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+        <text>Yazılım ve online hizmetler avantajları sayfası</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
       </link>
        <link>
-        <text>İş Ortağı Merkezi: CSP Duyuruları</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+        <text>İş Ortağı Özellikleri Nasıl Etkinleştirilir</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -416,19 +609,6 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000026</id>
-    <title>Microsoft iş ortağıyız. İş Ortağı özelliklerimizi nasıl aktive edebiliriz?</title>
-    <description><![CDATA[Online hizmetler avantajlarına nasıl ulaşacağınızı ve iş ortakları özelliklerini nasıl aktive edeceğinizi bu kaynakları kullanarak öğrenebilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Yazılım ve online hizmetler avantajları sayfası</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
-      </link>
-       <link>
-        <text>İş Ortağı Özellikleri Nasıl Etkinleştirilir</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000029</id>
     <title>İmza Bulut Desteği destek çağrısı nasıl açabilirim?</title>
     <description><![CDATA[İmza Bulut Desteği çağrısı nasıl açılır konularını da içeren İmza Bulut Desteği avantajlarına göz atmak için buradan başlayın.]]></description>
@@ -444,6 +624,21 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
        <link>
         <text>Signature Cloud Support for Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000085</id>
+    <title>Cloud Services Partner Dashboard nedir?</title>
+    <description><![CDATA[Bulut Hizmetleri Panosu bayilere ve distribütörlere, müşterilerinin Microsoft Office 365, Microsoft Intune ve Microsoft Dynamics CRM Online aboneliklerinin durumlarını takip etmelerine yardımcı olur.
+
+Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin aboneliklerini etkili biçimde yönetebilmek için önemli bir kaynak olarak kullanabilirsiniz. Bu veri ile talepleri, kurulumları ve yenilemeleri etkili ve proaktif biçimde hareket etmek için kullanabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Bulut Hizmetleri Panosu hakkında daha fazla bilgi edinin</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>Microsoft Bulut Hizmetleri Panosu</text>
+        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000100</id>
@@ -476,21 +671,13 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
-    <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
+    <id>200-000066</id>
+    <title>Müşterilerimi Office 365'e adapte olması için nasıl yönlendirebilirim?</title>
+    <description><![CDATA[Cloud SureStep, hem başlangıç seviyesindeki hem de ölçeklendirmeye hazır çevrimiçi hizmet işlerinin kârlılığını en üst düzeye çıkarmaya yardımcı olması için tasarlanmıştır.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Office demo portalı</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365, Project Online ve Power BI demo tenantları</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365 ile ilk yolculuk</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+        <text>Bulut SureStep'e göz gezdirin</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
     </articlelinks></question></group><group title="Eğitim" refid="Training"><question>
     <id>1200-000056</id>
@@ -534,197 +721,6 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
       <link>
         <text>Microsoft iş ortağı öğrenme yolları</text>
         <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
-      </link>
-    </articlelinks></question></group><group title="İndirmeler ve Yazılımlar" refid="DownloadsSoftware"><question>
-    <id>800-000104</id>
-    <title>IUR Lisanslarımı nereden indirip etkinleştirebilirim?</title>
-    <description><![CDATA[IUR lisanslarınızı nasıl etkinleştirip atayacağınız konusunda bilgi edinmek için aşağıdaki makaleye göz atın]]></description>
-    <articlelinks>
-      <link>
-        <text>İç kullanım hakları bulut ve yazılım avantajları (Uzmanlık İş Ortaklarına yönelik Lisans tablosunu görüntülemek için sayfayı düğmenin bulunduğu bölüme kaydırın)
- 
-</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Dahili kullanım haklarımın avantajları nelerdir ve dahili kullanım haklarını kullanmam neden önemlidir?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000045</id>
-    <title>Visual Studio da oturum açtığımda neden deneme versiyonuna sahipsin yazıyor?</title>
-    <description><![CDATA[MSDN ve Visual Studio kullanan iş ortaklarının ilk oturum açma deneyimleri değiştirildi. Daha fazla bilgiyi buradan bulabilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio'ya giriş yapmak</text>
-        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
-      </link>
-       <link>
-        <text>Visual Studio 2015 lisansları tanınmıyor</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>İç Kullanım hakları lisanslarımı nasıl aktive edebilirim?</title>
-    <description><![CDATA[Office 365, Kurumsal Mobilite Suite ve Microsoft Dynamics CRM Online iç kullanım hakları lisanslarını aktive edebilmek için adım adım kılavuza aşağıdaki makalelerden ulaşabilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft İş Ortağı Ağı üyelik avantajlarınızı yönetme</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN Dahili Kullanım Hakları Çevrimiçi Hizmetler aboneliğimin üzerine bir eklenti aboneliği satın alabilir miyim?</title>
-    <description><![CDATA[Hayır, bunu yapamazsınız. Eklenti ekleyebilmek için mevcut satın alma kanalları aracılığıyla en az bir temel abonelik lisansı satın almanız gerekir. Özel durum: Üretim dışı örnekler ve depolama alanı gibi CRM OL ve Dynamics 365 Eklentileri için ücretsiz temel abonelik almak için talebinizi buradan gönderebilirsiniz]]></description>
-    <articlelinks>
-      <link>
-        <text>Ücretsiz temel abonelik almak için buradan talebinizi gönderin</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Yazılım ve Bulut Hizmetlerinin Avantajları için Ürün Kullanım Kılavuzu</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000075</id>
-    <title>Bana sunulan indirebileceklerim ve yazılımsal değişikliklerini nereden görebilirim?</title>
-    <description><![CDATA[İş Ortağı üyeliği programları ile ilgili tüm değişiklikleri Dijital Dağıtım Portalı ve Yenilikler sayfasından bulabilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Yenilikler</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>İç kullanım hakları bulut ve yazılım avantajları </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>Office 365 (E3) dahili kullanım hakkı lisanslarının etkinleştirilmesi ve atanması</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>Microsoft Bayi İç Kullanım seti ile hangi yazılımları kullanma avantajına erişirim?</title>
-    <description><![CDATA[Bayi paketi üyeliği olanlara genelde, Microsoft yazılımlarının son versiyonun, iç kullanım 10 lisansı gönderilir. Bu lisanslar kurum içi yazılım, online hizmetler ve Visual Studio Online üyeliğini kapsar. MAPS yeniden kaydından ayrı olarak O365 ve Dynamics için yenileme süreci gerekir. İş ortağı, MAPS Üyeliği'ni yeniledikten sonra bunlar otomatik olarak yenilenmez. Lisans avantajları hakkında daha detaylı bilgi için bu kaynakları referans alınız.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Bayi Paketine genel bakış</text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>İş Ortağı Merkezi: Eylem Paketi abonelik avantajları</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Microsoft Eylem Paketi aboneliği satın alma veya yenileme</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000048</id>
-    <title>Microsoft Azure iç kullanım hakları (IUR) kredilerini nasıl talep edebilirim?</title>
-    <description><![CDATA[Uzmanlığa sahip olan tüm iş ortakları veya Microsoft Bayi Paketi olanlar Microsoft Azure'a aylık kredi kullanımı kapsamında giriş yapabilirler. Bu avantaj her bir organizasyona ne kadar Bayi Paketi veya ek avantaj araçları alımı yapmış olması gözetilmeksizin sağlanır. Eğer organizasyon içerisindeki bir yönetici haklarına sahip kişi Azure avantajlarından gelen hakları kullanmayı daha önceden talep etti ise, aynı kurumdaki başka kullanıcılar bir daha aynı hakkı talep edemezler. Microsoft Azure IUR avantajları hak talebi hakkında daha fazla bilgi için aşağıdaki makaleyi inceleyebilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Azure iç kullanım hakları lisanslarımı nasıl aktive edebilirim?</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>Microsoft Azure iç kullanım hakları lisanslarını nasıl aktive edebilirim?</text>
-        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>İç Kullanım Hakları bulut ve yazılım avantajları</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Windows 10 yazılım ve ürün anahtarını nereden indirebilirim?</title>
-    <description><![CDATA[Microsoft uzmanlığı veya Bayi Paketi aboneliği olan iş ortakları Windows 10 Kurumsal yazılım ve ürün anahtarına şirket içinde kullanmak amacıyla İş Ortağı Dijital Dağıtım Portalından erişebilirler. Geliştirmek, test etmek ve değerlendirmek amacıyla, iş ortakları Visual Studio Online üyeliği program avantajı kapsamında gelen yazılım ve anahtarlarını kullanabilirler. ( Bu Pro ve Ev sürümlerini içerir.) Sadece Visual Studio Online üyeliğine tanımlanmış son kullanıcılar içindir. 
-Not: Windows 10 Kurumsal için İç Kullanım lisansları sadece yükseltme için geçerlidir. 
-
-Not: Yazılım indirme ayrıcalığı, Dijital Dağıtım Portalından yazılım indirmek için gereklidir ve Anahtarları Gör ayrıcalığı ürünleri görmek için gereklidir. Visual Studio Online abonesi indirmelerine erişebilmek için Uzmanlık sahibi iş ortakları için Premium Abone ayrıcalığı gerekmekte ve Bayi paketi aboneliği olanlar için Teknik Kontak rolü gerekmektedir. 
-
-Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya Windows 10 ürün anahtarlarını kullanamazlar. Bunun yerine İş Ortağı Dijital Dağıtım Portalı üzerinden yeni bir anahtar almaları gerekmektedir.]]></description>
-    <articlelinks>
-      <link>
-        <text>İş ortağı dijital dağıtım portalı</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online Abonelikleri</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online indirme sitesi</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>Visual Studio Online aboneliğimi nasıl aktive edebilirim?</title>
-    <description><![CDATA[Visual Studio Online üyeliği ile uygulama geliştirmek ve uygulamalarınızı test etmek için ihtiyacınız olan, araçlar, platformlar ve hizmetleri alabilirsiniz. Aboneliğinizi aktive etmek için aşağıdaki makaleyi inceleyebilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft İş Ortağı Ağı (MPN) Visual Studio Abonelikleri</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online aboneliğini aktive et</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online Abonelikleri</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>Visual Studio Online teknik ID limitlerini nasıl yönetebilirim?</title>
-    <description><![CDATA[Yetkinlik sahibi olan iş ortaklarının Visual Studio Online abonelikleri için eşik arttırmalaı gerekmez. Bayi içi kullanım seti olan iş ortakları destek ile iletişime geçerek %360 oranında eşik arttırımı alabilirler. Bayi içi kullanım seti için eşik arttırımı konusunda detaylı bilgi için aşağıda sağlanan kaynakları inceleyiniz. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio Online Aboneliklerini yeni kullanıcılara atayamıyorum</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online aboneliğine giriş ve yetkiler atanması</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000087</id>
-    <title>Microsoft Bayi iç kullanım aboneliğine ve Microsoft Office 365 / Microsoft Dynamics CRM Online için ek lisans alabilme gereksinimlerini sağladım. Anahtarımı nereden alabilirim?</title>
-    <description><![CDATA[Ek anahtarlar hesabınıza otomatik olarak tanımlanmaz. Lütfen talebinize istinaden gerekli olan bilgilerin gönderilmesi için Regional Service Center ile iletişime geçiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Destek ile iletişime geçin</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
-      </link>
-       <link>
-        <text>İç kullanım hakları bulut ve yazılım avantajları </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000032</id>
-    <title>Microsoft İş Ortakları Ağı kapsamında Office 365 (E3) iç kullanım haklarına nasıl sahip olabilirim?</title>
-    <description><![CDATA[Microsoft İş Ortağı Ağı Office 365 (E3) iç kullanım hakları avantajlarına göz atın.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2996518: Microsoft İş Ortağı Ağı üzerinden Office 365 (E3) iç kullanım hakları avantajlarını nasıl elde edebilirim?</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>Office 365 (E3) dahili kullanım hakkı lisanslarının etkinleştirilmesi ve atanması</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
     </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="PartnerIncentives"><question>
     <id>400-000080</id>
@@ -1027,8 +1023,8 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
        <link>
-        <text>KB 4089764: İş Ortağı Merkezi'nde faturanızı edinme</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
+        <text>Faturanızı Action Pack indirin</text>
+        <url><![CDATA[https://docs.microsoft.com/tr-tr/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000060</id>
