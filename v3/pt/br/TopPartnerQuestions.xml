@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Quais benefícios de software recebo no Microsoft Action Pack?</title>
     <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. O processo de renovação é necessário para o O365 e o Dynamics separadamente do novo registro do MAPS. Eles não são renovados automaticamente quando o parceiro renova sua Associação ao MAPS. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
@@ -192,7 +192,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Guia de uso de produtos para benefícios de software e serviços de nuvem</text>
         <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
-    </articlelinks></question></group><group title="Associação" refid="Membership"><question>
+    </articlelinks></question></group><group title="Associação" refid="ProgramsMembership"><question>
     <id>100-000050</id>
     <title>A minha Organização tem Microsoft Certified Professionals (MCP) que não são reconhecidos como qualificáveis para cumprir os requisitos de determinada Competência Silver ou Gold. O que devo fazer?</title>
     <description><![CDATA[Após as recentes alterações no programa de Parceiros, você ou os seus MCPs podem não estar a ser reconhecidos corretamente na sua Central de Participação, apesar estarem corretamente associados à Organização e terem passado nos Exames requeridos. Neste caso, deverá reatribuir os MCPs em “Gerenciar Microsoft Certified Professionals”. Este modo de contornar esse problema resolverá essa situação. Se o problema persistir, aconselhamos que contacte o Centro Regional de Suporte. ]]></description>
@@ -624,7 +624,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Recursos do Microsoft Referrals</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/search?tpqid=1200-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="Incentivos do parceiro" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="Incentivos do parceiro" refid="IncentivesPayouts"><question>
     <id>400-000083</id>
     <title>Como atualizar minhas informações bancárias e fiscais?</title>
     <description><![CDATA[Consulte os artigos abaixo para saber como atualizar suas informações bancárias e fiscais]]></description>
@@ -754,7 +754,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Comece sua jornada técnica</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Licenciamento" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Licenciamento" refid="LicensingSalesMarketing"><question>
     <id>1500-000008</id>
     <title>Como posso saber mais sobre o licenciamento da Microsoft?</title>
     <description><![CDATA[Consulte o artigo abaixo para ver mais perguntas sobre o licenciamento.]]></description>
@@ -859,7 +859,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Serviços em nuvem" refid="AccountSetupManagement"><question>
     <id>200-000099</id>
     <title>Onde posso encontrar informações sobre a API do Partner Center?</title>
     <description><![CDATA[Obtenha materiais de referência, instruções e exemplos de código para todas as suas necessidades de desenvolvimento de API do Partner Center usando estes recursos.]]></description>

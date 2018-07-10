@@ -1,21 +1,260 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question>
-    <id>800-000092</id>
-    <title>How do I activate my internal-use rights licenses?</title>
-    <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Account Setup and Management" refid="AccountSetupManagement"><question SortOrderOnHome="3">
+    <id>200-000086</id>
+    <title>How to create or cancel a subscription?</title>
+    <description><![CDATA[Please review the following links for more information.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+        <text>Partner Center: Add licenses or services to an existing subscription</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
        <link>
-        <text>Partner Center: Manage your Microsoft Partner Network membership benefits</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+        <text>Partner Center: Create, suspend, or cancel customer subscription</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="4">
+    <id>200-000101</id>
+    <title>How do I manage my CSP Invoices and customer billing?</title>
+    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Billing</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
       </link>
        <link>
-        <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+        <text>Partner Center: Use the reconciliations files </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
+    <id>200-000100</id>
+    <title>Where do I find information about how to do things in Partner Center?</title>
+    <description><![CDATA[To find out how to accomplish tasks for your organization and your customers in Partner Center Dashboard, visit the Partner Center Help library or our developer reference material.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center Help Library   </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
+      </link>
+       <link>
+        <text>Moving from PMC to Partner Dashboard </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
+      </link>
+       <link>
+        <text>Moving from Partner Admin Center to the Partner Dashboard</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000026</id>
+    <title>We are a Microsoft Partner. How can we activate partner features?</title>
+    <description><![CDATA[Use these resource to learn how to access your online services benefits and activate partner features:]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Software and online services benefits page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
+      </link>
+       <link>
+        <text>KB 4024694: How to Activate your Partner Features</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000083</id>
+    <title>Where can I find information and stay updated with the latest information about the Cloud Solution Provider (CSP) program?</title>
+    <description><![CDATA[Stay up to date and learn more about the CSP program from the Partner Center portal.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Learn more about the CSP program</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+      </link>
+       <link>
+        <text>Partner Center: CSP Announcements</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000066</id>
+    <title>How can I encourage my customers to adopt Office 365?</title>
+    <description><![CDATA[Whether your online service business is just starting or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Cloud SureStep Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000097</id>
+    <title>How can I get help for questions related to the Partner Center or Cloud Solution Partner (CSP) program, from the Regional Service Center (RSC)?</title>
+    <description><![CDATA[The Regional Service Center (RSC) is available to provide assistance for Partner Center or Cloud Solution Provider (CSP) program questions and issues.]]></description>
+    <articlelinks>
+      <link>
+        <text>Chat with Microsoft Partner Support</text>
+        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=CSP&tpqid=200-000097]]></url>
+      </link>
+       <link>
+        <text>Partner Center support site</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/support?tpqid=200-000097]]></url>
+      </link>
+       <link>
+        <text>Submit a Partner Center or CSP support request</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851613&tpqid=200-000097]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000068</id>
+    <title>How can my company create Office 365 demos?</title>
+    <description><![CDATA[The Microsoft Office demo portal allows you to set up demonstration environments and access demonstration guide materials for Office products without requiring a full local installation. The Microsoft Office demo environment consists of a personalized Office 365 trial tenant populated with demo-ready content. Once your Office 365 tenant is set up, you can deliver effective demos that cover the full range of Office products, such as Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, and more. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Office demo portal</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>KB 2990500: Microsoft Office 365, Project Online, and Power BI demo tenants</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>KB 3061449: Register for Microsoft Office 365 Initial Journey technical training</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000029</id>
+    <title>How do I submit a Signature Cloud Support incident?</title>
+    <description><![CDATA[Get an overview of the Signature Cloud Support benefit, including how to submit a Signature Cloud Support incident.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal:Learn more about Signature Cloud Support</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
+      </link>
+       <link>
+        <text>KB 2996739: Signature Cloud Support Benefit Overview</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
+      </link>
+       <link>
+        <text>KB 2993570: Signature Cloud Support for Microsoft Office 365 </text>
+        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000088</id>
+    <title>How to add my organizations VAT ID?</title>
+    <description><![CDATA[Review the following article about how to add your VAT ID.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Organization tax information</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>200-000092</id>
+    <title>How to join the Cloud Solution Provider program?</title>
+    <description><![CDATA[Review the following information about enrollment.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Enroll in the Cloud Solution Provider program</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Apply to sell in national clouds - Cloud Germany</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/csp-national-clouds-overview?tpqid=200-000092]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Get started</text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000089</id>
+    <title>How to request a CSP relationship?</title>
+    <description><![CDATA[To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. Read more information in the following articles:]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Request a reseller relationship</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text>Partner Center:  Remove a reseller relationship</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000091</id>
+    <title>How to use the promotions and where can I find available promotions?</title>
+    <description><![CDATA[Microsoft offers two kinds of promotions; those available to all eligible partners in the Cloud Solution Provider (CSP) program, and those available only to partners in a particular geographic region.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Use promotions to attract new customers</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000096</id>
+    <title>Is there a global Cloud Solution Partner (CSP) community I can engage with?</title>
+    <description><![CDATA[Yes, you can engage with the CSP Community on Yammer.]]></description>
+    <articlelinks>
+      <link>
+        <text>Cloud Community on Yammer</text>
+        <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000095</id>
+    <title>What are the steps to get started on Partner Center?</title>
+    <description><![CDATA[Read the article below to see learn more about Partner Center website.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Join the Microsoft Partner Network (MPN)</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Welcome to the Microsoft Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000085</id>
+    <title>What is the Cloud Services Partner Dashboard?</title>
+    <description><![CDATA[The Cloud Services Partner Dashboard helps resellers and distributors track the status of their customers’ subscriptions for Microsoft Office 365, Microsoft Intune, and Microsoft Dynamics CRM Online. 
+You can use the dashboard as a source for key data to help you efficiently manage the subscriptions of customers who have designated your organization as their partner of record. With this data, you can more effectively and proactively drive demand, deployment, and renewals. ]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4036921: Learn more about the Microsoft Cloud Services Dashboard</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>Microsoft Cloud Services Dashboard</text>
+        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000087</id>
+    <title>Where can I find information about billing rules, payment terms and invoice availability?</title>
+    <description><![CDATA[Review the information in the following articles to learn more about billing.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Billing information</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Use the reconciliations files </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Common billing scenarios </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000099</id>
+    <title>Where can I find information about the Partner Center API?</title>
+    <description><![CDATA[Get reference material, instructions and code samples for all your Partner Center API development needs from these resources.]]></description>
+    <articlelinks>
+      <link>
+        <text>Develop for Partner Center</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/developer?tpqid=200-000099]]></url>
+      </link>
+       <link>
+        <text>Partner Center Managed API reference</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/partner-center-managed-api?tpqid=200-000099]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Join the Partner Center API and SDK Early Adopter Program</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000094</id>
+    <title>Where can I find more information about my financial position in the incentives programs in Partner Center?</title>
+    <description><![CDATA[Find out more info about payment trends.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: CSP Incentive information</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
+      </link>
+    </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000036</id>
     <title>How do I activate my Visual Studio subscription?</title>
     <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
@@ -32,6 +271,23 @@
         <text>Visual Studio Online subscriptions</text>
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>How do I activate my internal-use rights licenses?</title>
+    <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
@@ -47,7 +303,7 @@
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
-    <title>Where can I view changes to the Agreements, Orders and Subscription Management available to me?</title>
+    <title>Where can I view changes to the Agreements, Orders, Subscription Management available to me?</title>
     <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
     <articlelinks>
       <link>
@@ -188,6 +444,24 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://msdn.microsoft.com/library/dn950037.aspx?tpqid=800-000045]]></url>
       </link>
     </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
+    <id>300-000103</id>
+    <title>How to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners ?</title>
+    <description><![CDATA[You can find step-by-step instructions on how to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners in the article below.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2966345: Assign Visual Studio Online subscription access and privileges</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>How to create on-premises professional support incidents using an Access ID and a Contract ID?</title>
+    <description><![CDATA[See the article below to learn how to create on-premises professional support incidents using an Access ID and a Contract ID.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3020636: Using an Access ID and a Contract ID to create on-premises professional support incidents</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000099</id>
     <title>How to register to Visual Studio if I was already registered on MSDN?</title>
     <description><![CDATA[Learn how to register on Visual Studio by following the steps outlined in the Knowledge Base article My Visual Studio Registration (Note that the MPN RSC is responsible to support MPN members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
@@ -402,24 +676,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>How to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners ?</title>
-    <description><![CDATA[You can find step-by-step instructions on how to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners in the article below.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2966345: Assign Visual Studio Online subscription access and privileges</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>How to create on-premises professional support incidents using an Access ID and a Contract ID?</title>
-    <description><![CDATA[See the article below to learn how to create on-premises professional support incidents using an Access ID and a Contract ID.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 3020636: Using an Access ID and a Contract ID to create on-premises professional support incidents</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000109</id>
     <title>Where can I find and how do I activate demonstration/training licenses?</title>
     <description><![CDATA[You get only one key per product and it’s your decision to choose what to use it for: demonstration, training or internal use. There are no different licenses for each type of benefits (demonstration, training or internal use). For demonstration or training, as long as you activate and deactivate it within 30 days, no activation is burnt against that product key.]]></description>
@@ -441,263 +697,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>KB 2904733 Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents </text>
         <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
       </link>
-    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question SortOrderOnHome="5">
-    <id>200-000092</id>
-    <title>How to join the Cloud Solution Provider program?</title>
-    <description><![CDATA[Review the following information about enrollment.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Enroll in the Cloud Solution Provider program</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Apply to sell in national clouds - Cloud Germany</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/csp-national-clouds-overview?tpqid=200-000092]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Get started</text>
-        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000089</id>
-    <title>How to request a CSP relationship?</title>
-    <description><![CDATA[To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. Read more information in the following articles:]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Request a reseller relationship</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
-      </link>
-       <link>
-        <text>Partner Center:  Remove a reseller relationship</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000091</id>
-    <title>How to use the promotions and where can I find available promotions?</title>
-    <description><![CDATA[Microsoft offers two kinds of promotions; those available to all eligible partners in the Cloud Solution Provider (CSP) program, and those available only to partners in a particular geographic region.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Use promotions to attract new customers</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000096</id>
-    <title>Is there a global Cloud Solution Partner (CSP) community I can engage with?</title>
-    <description><![CDATA[Yes, you can engage with the CSP Community on Yammer.]]></description>
-    <articlelinks>
-      <link>
-        <text>Cloud Community on Yammer</text>
-        <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000095</id>
-    <title>What are the steps to get started on Partner Center?</title>
-    <description><![CDATA[Read the article below to see learn more about Partner Center website.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Join the Microsoft Partner Network (MPN)</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Welcome to the Microsoft Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000085</id>
-    <title>What is the Cloud Services Partner Dashboard?</title>
-    <description><![CDATA[The Cloud Services Partner Dashboard helps resellers and distributors track the status of their customers’ subscriptions for Microsoft Office 365, Microsoft Intune, and Microsoft Dynamics CRM Online. 
-You can use the dashboard as a source for key data to help you efficiently manage the subscriptions of customers who have designated your organization as their partner of record. With this data, you can more effectively and proactively drive demand, deployment, and renewals. ]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4036921: Learn more about the Microsoft Cloud Services Dashboard</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
-      </link>
-       <link>
-        <text>Microsoft Cloud Services Dashboard</text>
-        <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000087</id>
-    <title>Where can I find information about billing rules, payment terms and invoice availability?</title>
-    <description><![CDATA[Review the information in the following articles to learn more about billing.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Billing information</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Use the reconciliations files </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Common billing scenarios </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000099</id>
-    <title>Where can I find information about the Partner Center API?</title>
-    <description><![CDATA[Get reference material, instructions and code samples for all your Partner Center API development needs from these resources.]]></description>
-    <articlelinks>
-      <link>
-        <text>Develop for Partner Center</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/developer?tpqid=200-000099]]></url>
-      </link>
-       <link>
-        <text>Partner Center Managed API reference</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/partner-center-managed-api?tpqid=200-000099]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Join the Partner Center API and SDK Early Adopter Program</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000094</id>
-    <title>Where can I find more information about my financial position in the incentives programs in Partner Center?</title>
-    <description><![CDATA[Find out more info about payment trends.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: CSP Incentive information</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
-    <id>200-000086</id>
-    <title>How to create or cancel a subscription?</title>
-    <description><![CDATA[Please review the following links for more information.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Add licenses or services to an existing subscription</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Create, suspend, or cancel customer subscription</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000101</id>
-    <title>How do I manage my CSP Invoices and customer billing?</title>
-    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Billing</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Use the reconciliations files </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000026</id>
-    <title>We are a Microsoft Partner. How can we activate partner features?</title>
-    <description><![CDATA[Use these resource to learn how to access your online services benefits and activate partner features:]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Software and online services benefits page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
-      </link>
-       <link>
-        <text>KB 4024694: How to Activate your Partner Features</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>Where can I find information and stay updated with the latest information about the Cloud Solution Provider (CSP) program?</title>
-    <description><![CDATA[Stay up to date and learn more about the CSP program from the Partner Center portal.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Learn more about the CSP program</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
-      </link>
-       <link>
-        <text>Partner Center: CSP Announcements</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000100</id>
-    <title>Where do I find information about how to do things in Partner Center?</title>
-    <description><![CDATA[To find out how to accomplish tasks for your organization and your customers in Partner Center Dashboard, visit the Partner Center Help library or our developer reference material.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center Help Library   </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
-      </link>
-       <link>
-        <text>Moving from PMC to Partner Dashboard </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
-      </link>
-       <link>
-        <text>Moving from Partner Admin Center to the Partner Dashboard</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>How can I encourage my customers to adopt Office 365?</title>
-    <description><![CDATA[Whether your online service business is just starting or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Cloud SureStep Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000097</id>
-    <title>How can I get help for questions related to the Partner Center or Cloud Solution Partner (CSP) program, from the Regional Service Center (RSC)?</title>
-    <description><![CDATA[The Regional Service Center (RSC) is available to provide assistance for Partner Center or Cloud Solution Provider (CSP) program questions and issues.]]></description>
-    <articlelinks>
-      <link>
-        <text>Chat with Microsoft Partner Support</text>
-        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=CSP&tpqid=200-000097]]></url>
-      </link>
-       <link>
-        <text>Partner Center support site</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/support?tpqid=200-000097]]></url>
-      </link>
-       <link>
-        <text>Submit a Partner Center or CSP support request</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851613&tpqid=200-000097]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>How can my company create Office 365 demos?</title>
-    <description><![CDATA[The Microsoft Office demo portal allows you to set up demonstration environments and access demonstration guide materials for Office products without requiring a full local installation. The Microsoft Office demo environment consists of a personalized Office 365 trial tenant populated with demo-ready content. Once your Office 365 tenant is set up, you can deliver effective demos that cover the full range of Office products, such as Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, and more. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Office demo portal</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>KB 2990500: Microsoft Office 365, Project Online, and Power BI demo tenants</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>KB 3061449: Register for Microsoft Office 365 Initial Journey technical training</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000029</id>
-    <title>How do I submit a Signature Cloud Support incident?</title>
-    <description><![CDATA[Get an overview of the Signature Cloud Support benefit, including how to submit a Signature Cloud Support incident.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal:Learn more about Signature Cloud Support</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>KB 2996739: Signature Cloud Support Benefit Overview</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>KB 2993570: Signature Cloud Support for Microsoft Office 365 </text>
-        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000088</id>
-    <title>How to add my organizations VAT ID?</title>
-    <description><![CDATA[Review the following article about how to add your VAT ID.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Organization tax information</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
-      </link>
-    </articlelinks></question></group><group title="Incentives and Payouts" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="Incentives and Payouts" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title>How do I get support for Incentives and Payouts? </title>
     <description><![CDATA[You can find support for the Incentives and Payouts program under the Support section on the Incentives and Payouts page.]]></description>
@@ -775,7 +775,7 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>KB 3082022: Incentives for selling and deploying Microsoft Cloud Solutions</text>
         <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Licensing" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Licensing" refid=""><question>
     <id>1500-000006</id>
     <title>What is the Home Use Program?</title>
     <description><![CDATA[The Home Use Program is a Software Assurance benefit available to Microsoft volume licensing customers with active Software Assurance coverage on their Office applications. Employees who use the covered licenses at work are eligible to purchase these Office applications for use on a personal device during the term of their employment.]]></description>
@@ -899,7 +899,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question></group><group title="Programs and Membership" refid="Membership"><question>
+    </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
     <id>100-000079</id>
     <title>How to send a group invite?</title>
     <description><![CDATA[See the article below to learn how to send a group invite]]></description>
@@ -1302,7 +1302,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Download your Action Pack invoice</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Presales, Deployment, and App Development" refid="TechnicalPresalesAppDev"><question>
+    </articlelinks></question></group><group title="Technical Presales, Deployment, App Development" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000113</id>
     <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
     <description><![CDATA[There are three ways to engage across the technical journey: technical webinars, technical consultations, and live chat (for app dev.)]]></description>
@@ -1354,7 +1354,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Read blog</text>
         <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Support (Products, Platforms, and Tools)" refid="ProductSupport"><question>
+    </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="ProductSupport"><question>
     <id>700-000003</id>
     <title>Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?</title>
     <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>

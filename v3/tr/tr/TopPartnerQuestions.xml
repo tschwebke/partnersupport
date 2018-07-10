@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Microsoft Bayi İç Kullanım seti ile hangi yazılımları kullanma avantajına erişirim?</title>
     <description><![CDATA[Bayi paketi üyeliği olanlara genelde, Microsoft yazılımlarının son versiyonun, iç kullanım 10 lisansı gönderilir. Bu lisanslar kurum içi yazılım, online hizmetler ve Visual Studio Online üyeliğini kapsar. MAPS yeniden kaydından ayrı olarak O365 ve Dynamics için yenileme süreci gerekir. İş ortağı, MAPS Üyeliği'ni yeniledikten sonra bunlar otomatik olarak yenilenmez. Lisans avantajları hakkında daha detaylı bilgi için bu kaynakları referans alınız.]]></description>
@@ -422,7 +422,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>MPN Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-    </articlelinks></question></group><group title="Bulut Servisleri" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Bulut Servisleri" refid="AccountSetupManagement"><question>
     <id>200-000068</id>
     <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
     <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
@@ -722,7 +722,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>Microsoft iş ortağı öğrenme yolları</text>
         <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="İş Ortakları Teşvikleri" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title>İş Ortağı teşvikleri hakkında nasıl destek alabilirim?</title>
     <description><![CDATA[İş Ortağı teşvikleri programı hakkında destek için Destek bölümü altında İş ortağı teşvikleri sayfasını ziyaret ediniz.]]></description>
@@ -800,7 +800,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>Kullanıcı hesapları oluşturma ve izinleri atama</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question></group><group title="Ruhsat verme" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Ruhsat verme" refid="LicensingSalesMarketing"><question>
     <id>1500-000009</id>
     <title>İş ortaklarının, Şirket İçi ürünlere yönelik yeni anahtarlar almalarına ne zaman yetki verilir? </title>
     <description><![CDATA[Şirket içi anahtarları belirli sayıda etkinleştirme için kullanabileceğinizi lütfen unutmayın. Yalnızca ürünün yeni bir sürümü kullanıma sunulduysa iş ortaklarının yeni anahtarlar almalarına yetki verilir. Aksi takdirde, iş ortakları daha önce anahtarları kullanmış ve yeni yıl için yeniden kayıt ödemesi yapmış olsalar bile ek etkinleştirme almayacaklardır. ]]></description>
@@ -1000,7 +1000,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>Office 365 Topluluğu</text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question></group><group title="Üyelik" refid="Membership"><question>
+    </articlelinks></question></group><group title="Üyelik" refid="ProgramsMembership"><question>
     <id>100-000077</id>
     <title>Surface veya Surface Hub Microsoft Yetkili Cihaz Bayi (ADR) olabilme bilgilerini nereden bulabilirim?</title>
     <description><![CDATA[Surface veya Surface Hub Microsoft Yetkili Cihaz Bayi olmak istiyorsanız, Microsoft Surface Yetkili Cihaz Distribütörü ile iletişime geçmelisiniz ve ADR program için güncellemeler almak için kayıt olmalısınız.]]></description>

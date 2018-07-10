@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Adesione" refid="Membership"><question SortOrderOnHome="2">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Adesione" refid="ProgramsMembership"><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>Come posso rinnovare l'adesione della mia azienda?</title>
     <description><![CDATA[Scopri come e quando rinnovare la tua adesione, le opportunità che il network ti offre e molto altro.]]></description>
@@ -383,7 +383,7 @@
         <text>Portale MPN: Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
-    </articlelinks></question></group><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question>
+    </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000032</id>
     <title>Come ottenere i benefici dei diritti di uso interno di Office 365 (E3) tramite rete Partner Microsoft?</title>
     <description><![CDATA[Visualizzare una panoramica dei benefici dei diritti di uso interno di Office 365 (E3) della rete Partner Microsoft.]]></description>
@@ -620,7 +620,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Percorsi formativi per partner Microsoft</text>
         <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="Incentivi per partner" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="Incentivi per partner" refid="IncentivesPayouts"><question>
     <id>400-000083</id>
     <title>In che modo posso aggiornare le informazioni bancarie e i dati fiscali?</title>
     <description><![CDATA[Leggi gli articoli sottostanti per scoprire come aggiornare le informazioni bancarie e i dati fiscali]]></description>
@@ -698,7 +698,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Creare account utente e assegnare autorizzazioni</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question></group><group title="Licenza" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Licenza" refid="LicensingSalesMarketing"><question>
     <id>1500-000008</id>
     <title>Dove posso trovare ulteriori informazioni sulle licenze Microsoft?</title>
     <description><![CDATA[Per ulteriori domande sulle licenze, consultare l'articolo indicato di seguito.]]></description>
@@ -855,7 +855,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Inizia il tuo percorso di formazione tecnica</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Servizi cloud" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Servizi cloud" refid="AccountSetupManagement"><question>
     <id>200-000099</id>
     <title>Dove posso trovare informazioni sull'API del Centro per i partner?</title>
     <description><![CDATA[Da queste risorse è possibile ottenere materiale di riferimento, istruzioni ed esempi di codice per qualsiasi esigenza di sviluppo tramite l'API del Centro per i partner.]]></description>

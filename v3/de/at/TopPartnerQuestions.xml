@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Welche Software-Leistungen sind im Microsoft Action Pack enthalten?</title>
     <description><![CDATA[Action Pack-Abonnenenten erhalten generell bis zu 10 Lizenzen der aktuellen Microsoft Software-Produkte für die firmeninterne Nutzung. Enthalten sind Software für die lokale Installation, Online Services-Produkte und Visual Studio Online-Abonnements. Für O365 und Dynamics ist ein Verlängerungsprozess getrennt vom erneuten Enrollment von MAPS erforderlich. Sie werden nicht automatisch verlängert, wenn ein Partner seine MAPS-Mitgliedschaft verlängert. Detaillierte Infomationen zu den Lizenzen finden Sie hier:]]></description>
@@ -190,7 +190,7 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
         <text>Produktbenutzerhandbuch für Software- und Cloud Services-Vorteile</text>
         <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
-    </articlelinks></question></group><group title="Cloud-Services" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Cloud-Services" refid="AccountSetupManagement"><question>
     <id>200-000085</id>
     <title>Was ist das Cloud Services Partner Dashboard?</title>
     <description><![CDATA[Das Microsoft Cloud Services Dashboard hilft Resellern und Distributoren den Status der Office 365, Microsoft Intune und CRM Online Abonnements ihrer Kunden zu verfolgen. 
@@ -681,7 +681,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <text>MPN-Portal: Cloud- und Softwarevorteile interner Nutzungsrechte – für Partner in PMC</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
-    </articlelinks></question></group><group title="Lizenzierung" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Lizenzierung" refid="LicensingSalesMarketing"><question>
     <id>1500-000009</id>
     <title>Wann erhalten Partner neue Schlüssel für lokale Produkte? </title>
     <description><![CDATA[Bitte beachten Sie, dass lokale Schlüssel nur für eine endliche Anzahl von Aktivierungen gelten. Partner erhalten erst neue Schüssel, wenn eine neue Version des Produkts auf den Markt gebracht wird. Ansonsten erhalten Partner keine zusätzlichen Aktivierungen, auch wenn sie diese bereits verbraucht und für ein erneutes Enrollment-Jahr bezahlt haben. ]]></description>
@@ -786,7 +786,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question></group><group title="Mitgliedschaft" refid="Membership"><question>
+    </articlelinks></question></group><group title="Mitgliedschaft" refid="ProgramsMembership"><question>
     <id>100-000070</id>
     <title>Mein Unternehmen hat ein Profil im Microsoft Partner Network erstellt. Wie kann ich mich als Person diesem Profil hinzufügen?</title>
     <description><![CDATA[Wenn Sie bereits über ein Microsoft Konto (früher Windows Live ID) verfügen, loggen Sie sich bitte in das Partner Membership Center ein und klicken auf die Option „Als Einzelperson zuordnen“. Füllen Sie die erforderlichen Informationen ein. 
@@ -1180,7 +1180,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte zu
         <text>Partner Center: Zugriff auf Ihr Partner Center-Dashboard</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner-Incentives" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="Partner-Incentives" refid="IncentivesPayouts"><question>
     <id>400-000082</id>
     <title>Wie qualifiziere ich mich für Partnerprovisionen?</title>
     <description><![CDATA[Die Berechtigung für Partnerprovisionen variiert je nach Programm. Manche Programme richten sich nach den erlangten Microsoft Partner Network Kompetenzen. Manche Programme bewerten die Partnerleistung oder den Microsoft channel authorization status. Nicht alle Partner werden für alle Provisionen qualifiziert sein. ]]></description>

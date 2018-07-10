@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Abonnement" refid="Membership"><question SortOrderOnHome="2">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Abonnement" refid="ProgramsMembership"><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>Comment puis-je renouveler l'abonnement de mon entreprise ?</title>
     <description><![CDATA[Apprenez à déterminer quand vous devez renouveler votre abonnement, comment le renouveler, explorez les possibilités offertes par le réseau, et plus encore.]]></description>
@@ -390,7 +390,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Portail MPN : Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
-    </articlelinks></question></group><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question>
+    </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000032</id>
     <title>Comment bénéficier des avantages des droits d'utilisation interne Office 365 (E3) via le réseau Microsoft Partner Network ?</title>
     <description><![CDATA[Obtenez une vue d'ensemble des avantages des droits d'utilisation interne Office 365 (E3) du réseau Microsoft Partner Network.]]></description>
@@ -552,7 +552,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
-    <title>Où puis-je visualiser les modifications apportées aux Agreements, Orders and Subscription Management disponibles ?</title>
+    <title>Où puis-je visualiser les modifications apportées aux Agreements, Orders, Subscription Management disponibles ?</title>
     <description><![CDATA[Vous trouverez toutes les dernières modifications apportées aux programmes d'adhésion pour les partenaires sur la page Portail de téléchargement Partenaire et Nouveautés.]]></description>
     <articlelinks>
       <link>
@@ -856,7 +856,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
         <text>Chemins de formation pour les partenaires Microsoft</text>
         <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="Incentives Partenaire" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="Incentives Partenaire" refid="IncentivesPayouts"><question>
     <id>400-000082</id>
     <title>Comment puis-je devenir éligible pour gagner des primes partenaires ?</title>
     <description><![CDATA[L'éligibilité pour les primes partenaires varie selon le programme. Certains programmes demandent l'obtention d’une compétence au Réseau de Partenaire de Microsoft. D’autres évaluent la performance du partenaire ou le statut d'autorisation du canal de distribution Microsoft. Pas tous les partenaires auront le droit à des primes.]]></description>
@@ -934,7 +934,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
         <text>Offres incitatives pour la vente et le déploiement de solutions Microsoft Cloud</text>
         <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Licences" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Licences" refid="LicensingSalesMarketing"><question>
     <id>1500-000009</id>
     <title>Quand les partenaires sont-ils habilités à recevoir de nouvelles clés pour les produits locaux ? </title>
     <description><![CDATA[Notez que les clés locales comportent un nombre limité d’activations. Les partenaires sont habilités à recevoir de nouvelles clés uniquement lors de la publication d’une nouvelle version du produit. Si ce n’est pas le cas, les partenaires ne recevront pas d’activations supplémentaires, même s’ils les ont déjà consommées et payées dans le cadre de la nouvelle année de réinscription. ]]></description>
@@ -1091,7 +1091,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
         <text>Questions fréquentes des partenaires sur les produits</text>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-    </articlelinks></question></group><group title="Services dans le Cloud" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Services dans le Cloud" refid="AccountSetupManagement"><question>
     <id>200-000100</id>
     <title>Où puis-je trouver des informations sur les opérations possibles dans l’Espace partenaires ?</title>
     <description><![CDATA[Pour savoir comment effectuer certaines opérations pour votre organisation et vos clients dans le tableau de bord de l’Espace partenaires, consultez la bibliothèque d’aide de l’Espace partenaires ou consultez notre documentation de référence pour développeurs.]]></description>

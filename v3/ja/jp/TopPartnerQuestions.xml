@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>マイクロソフト アクション パックで入手できるソフトウェア特典は、どのようなものですか？</title>
     <description><![CDATA[通常、アクションパックご購入のパートナー様には、マイクロソフトの最新ソフトウェアの社内使用ライセンスが 10ライセンス 付与されます。　この社内使用ライセンスには、オンプレミス ソフトウェア、オンライン サービス、Visual Studio Online サブスクリプションのライセンスで構成されています。MAPS の再登録とは別に、O365 と Dynamics の更新プロセスが必要です。パートナーが MAPS メンバーシップを更新しても、O365 と Dynamics は自動的に更新されません。
@@ -41,7 +41,7 @@
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
-    <title>使用可能なAgreements, Orders and Subscription Managementの変更はどこでも見ることができますか?</title>
+    <title>使用可能なAgreements, Orders, Subscription Managementの変更はどこでも見ることができますか?</title>
     <description><![CDATA[パートナー メンバーシップ プログラムのすべての最新の変更は、「最新情報」そしてデジタルダウンロードポータル ページで見ることができます 。]]></description>
     <articlelinks>
       <link>
@@ -227,7 +227,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>Office365管理センタ</text>
         <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
       </link>
-    </articlelinks></question></group><group title="クラウド サービス" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="クラウド サービス" refid="AccountSetupManagement"><question>
     <id>200-000026</id>
     <title>私たちはマイクロソフトのパートナーです。 パートナー機能を有効にするにはどうすればよいでしょう？</title>
     <description><![CDATA[オンライン サービス特典にアクセスしてパートナー機能を有効にするには、こちらのリソースをご確認ください。]]></description>
@@ -619,7 +619,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>マークロソフト パートナー ラーニング パス</text>
         <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="パートナー インセンティブ" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="パートナー インセンティブ" refid="IncentivesPayouts"><question>
     <id>400-000083</id>
     <title>銀行と税金の情報を更新するにはどうすればよいですか?</title>
     <description><![CDATA[銀行と税金の情報を更新する方法にいては、以下の記事を参照してください]]></description>
@@ -715,7 +715,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>ユーザー アカウントの作成とアクセス許可の割り当て</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question></group><group title="メンバーシップ" refid="Membership"><question>
+    </articlelinks></question></group><group title="メンバーシップ" refid="ProgramsMembership"><question>
     <id>100-000086</id>
     <title>試験はどのようにスケジュールすることができますか？</title>
     <description><![CDATA[Microsoft 認定試験をスケジュールする、試験センターを見つける、試験を再度スケジュールする、または試験を確認するには、Pearson VUE ウェブサイトの Microsoft 認定ページにアクセスしてください。]]></description>
@@ -1173,7 +1173,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>パートナー様に影響を及ぼす変更内容</text>
         <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/membership/downloads/microsoft-partner-network-competency-roadmap.aspx?tpqid=100-1000106]]></url>
       </link>
-    </articlelinks></question></group><group title="ライセンス" refid="Licensing"><question>
+    </articlelinks></question></group><group title="ライセンス" refid="LicensingSalesMarketing"><question>
     <id>1500-000008</id>
     <title>マイクロソフトのライセンスの詳細情報</title>
     <description><![CDATA[ライセンスのその他の質問については、以下の記事を参照してください。]]></description>

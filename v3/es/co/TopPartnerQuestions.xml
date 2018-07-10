@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders and Subscription Management" refid="DownloadsSoftware"><question SortOrderOnHome="6">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>¿Qué beneficios de software obtiene con su Microsoft Action Pack?</title>
     <description><![CDATA[Los suscriptores de Action Pack generalmente reciben 10 licencias de uso interno para la última versión del software de Microsoft. Esto incluye las licencias de instalación local de software, servicios en línea, y suscripciones a Visual Studio Online. Se necesita un proceso de renovación de O365 y Dynamics independiente de la nueva inscripción de MAPS. Estos productos no se renuevan automáticamente cuando el socio renueva su pertenencia a MAPS. Para obtener más información acerca de los beneficios de licencias, consulte los siguientes recursos:]]></description>
@@ -41,7 +41,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
-    <title>¿Dónde puedo ver los cambios en las Agreements, Orders and Subscription Management que están disponibles?</title>
+    <title>¿Dónde puedo ver los cambios en las Agreements, Orders, Subscription Management que están disponibles?</title>
     <description><![CDATA[En la página Novedades y Portal de Distribución Digital encontrará todos los cambios recientes en los programas de pertenencia de partners.]]></description>
     <articlelinks>
       <link>
@@ -282,7 +282,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Comience su camino técnico</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="Incentivos para partners" refid="PartnerIncentives"><question>
+    </articlelinks></question></group><group title="Incentivos para partners" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title>¿Cómo obtengo soporte para incentivos para partners?</title>
     <description><![CDATA[En la página de incentivos para partners encontrará soporte para el programa de incentivos para partners en la sección de soporte.]]></description>
@@ -360,7 +360,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Comprender los pagos de incentivos</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Licencias" refid="Licensing"><question>
+    </articlelinks></question></group><group title="Licencias" refid="LicensingSalesMarketing"><question>
     <id>1500-000008</id>
     <title>¿Cómo puedo obtener más información sobre las licencias de Microsoft?</title>
     <description><![CDATA[Consulte el artículo siguiente para obtener más preguntas sobre las licencias.]]></description>
@@ -465,7 +465,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question></group><group title="Pertenencia" refid="Membership"><question>
+    </articlelinks></question></group><group title="Pertenencia" refid="ProgramsMembership"><question>
     <id>100-000078</id>
     <title>¿Cómo se imprime o descarga la factura final por los cargos de sucripción a MAP y por competencias?</title>
     <description><![CDATA[Consulte el artículo abajo para ver cómo se imprimen las facturas finales.]]></description>
@@ -1083,7 +1083,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Soporte técnico Premier para partners (PSfP)</text>
         <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
       </link>
-    </articlelinks></question></group><group title="Servicios en la nube" refid="CloudServices"><question>
+    </articlelinks></question></group><group title="Servicios en la nube" refid="AccountSetupManagement"><question>
     <id>200-000100</id>
     <title>¿Dónde puedo encontrar información sobre cómo hacer cosas en el Centro de partners?</title>
     <description><![CDATA[Para obtener información sobre cómo realizar tareas de la organización y los clientes en el panel del Centro de partners, visite la biblioteca de ayuda del Centro de partners o el material de referencia para desarrolladores.]]></description>
