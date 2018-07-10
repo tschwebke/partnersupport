@@ -1,195 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>Microsoft Action Pack에서 어떤 소프트웨어 혜택을 제공하고 있습니까? </title>
-    <description><![CDATA[Action Pack 구독자는 일반적으로 최신 Microsoft 소프트웨어의 10개 내부 사용 라이선스 (IUR)를 받게 됩니다. 여기에는 온프레미스 라이선스, 온라인 서비스, 그리고 Visual Studio Online 구독이 포함됩니다. O365 및 Dynamics의 경우 MAPS의 재등록과 별도로 갱신 프로세스를 수행해야 합니다. 이러한 제품은 파트너가 MAPS 멤버 자격을 갱신한 후에도 자동으로 갱신되지 않습니다. 라이선스 혜택에 대한 세부 정보는 다음 리소스에서 확인할 수 있습니다:]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Action Pack 개요</text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>파트너 센터: Action Pack 구독 혜택</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack 구독 구매 또는 갱신</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Windows 10 소프트웨어와 제품 키는 어디에서 다운로드할 수 있습니까?</title>
-    <description><![CDATA[Microsoft 역량이나 Action Pack 구독을 보유한 파트너는 파트너 디지털 배포 포탈에서 Windows 10 Enterprise 소프트웨어와 제품 키를 다운로드할 수 있습니다. 개발, 테스트, 그리고 평가용으로 프로그램 혜택이 (프로와 홈 에디션에 포함) 부여된 MSDN 구독과 함께 소프트웨어와 키를 사용할 수 있습니다. MSDN 구독에 지정된 최종 사용자에게만 액세스 권한이 제한됩니다.
-
-참고: Windows 10 Enterprise의 내부 사용 라이선스는 업그레이드용으로만 이용할 수 있습니다.
-
-참고: 소프트웨어 다운로드 권한이 있어야 디지털 배포 포탈에서 소프트웨어를 다운로드할 수 있습니다. 키 보기 권한은 제품을 볼 때 요구됩니다. MSDN 구독자 다운로드로 액세스하기 위해서는 역량을 보유한 파트너에게 프리미엄 구독 권한이 요구되며 Action Pack 구독을 보유한 파트너에게는 Technical Contact 역할이 요구됩니다.
-
-참고: 파트너가 업그레이드를 할 때 기존의 Windows 8.1이나 Windows 10의 제품 키를 사용하지 않습니다. 그 대신, 파트너 디지털 배포 포탈에서 반드시 새로운 키를 획득해야 합니다.  
-]]></description>
-    <articlelinks>
-      <link>
-        <text>파트너 디지털 배포 포탈</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online 구독</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online 다운로드 사이트</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000075</id>
-    <title>내가 사용할 수 있는 Agreements, Orders, Subscription Management에 대한 변경 사항은 어디서 볼 수 있습니까?</title>
-    <description><![CDATA[파트너 멤버십 프로그램의 최근 변경 사항 전체는 새 소식 페이지에 나와 있습니다과파트너 디지털 배포.]]></description>
-    <articlelinks>
-      <link>
-        <text>새 소식</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>내부 사용권 클라우드 및 소프트웨어 혜택</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>Office 365(E3) 내부 사용권 라이선스를 활성화하고 할당하는 방법</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000048</id>
-    <title>Microsoft Azure IUR (Internal use right) 크레딧을 클레임하는 방법이 어떻게 됩니까?</title>
-    <description><![CDATA[역량이나 Microsoft 액션팩에 등록되어 있는 모든 파트너는 Microsoft Azure 월간 크레딧을 사용할 수 있습니다. 본 혜택은 액션팩의 구독 숫자나 구매한 Additional Benefit Toolkit 수량에 상관없이, 각 조직에 따라 제공됩니다. 조직내 관리자 중 한 명이 이미 크레딧을 클레임했다면, 조직내 다른 사용자는 해당 크레딧을 클레임할 수 없습니다. 다음 문서를 참조하여 Microsoft Azure IUR 혜택의 클레임 방법을 확인할 수 있습니다. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Azure IUR (Internal Use Right) 라이선스의 활성화 방법</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>Microsoft Azure IUR (Internal Use Right) 라이선스의 활성화 방법</text>
-        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text> IUR(Internal Use Right) 클라우드와 소프트웨어 혜택</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>Visual Studio Online 구독은 어떻게 인증할 수 있습니까?</title>
-    <description><![CDATA[Visual Studio Online 구독을 통해 응용 프로그램을 개발하고 테스트하기 위해 필요한 툴과 플랫폼, 그리고 서비스를 이용할 수 있습니다. 다음 문서를 참조하시면 구독 활성화 방법을 확인하실 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft 파트너 네트워크(MPN) Visual Studio 구독</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online 구독 활성화</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online 구독</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000032</id>
-    <title>Microsoft 파트너 네트워크를 통해 Office 365(E3) 내부 사용 권한 혜택을 어떻게 얻을 수 있습니까?</title>
-    <description><![CDATA[Microsoft 파트너 네트워크 Office 365(E3) 내부 사용 권한 혜택의 개요를 확인하십시오.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft 파트너 네트워크를 통해 Office 365(E3) 내부 사용 권한 혜택을 어떻게 얻을 수 있습니까?</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>Office 365(E3) 내부 사용권 라이선스를 활성화하고 할당하는 방법</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>내부 사용 권한 (IUR) 라이선스를 활성화 하는 방법은 어떻게 됩니까?</title>
-    <description><![CDATA[아래의 문서를 참조하시면 Office 365, Enterprise Mobility Suite, 그리고 Microsoft Dynamics CRM Online 내부 사용 권한 라이선스의 인증 절차를 확인하실 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN 포털: 내부 사용권 클라우드 및 소프트웨어 혜택 - PMC를 계속 사용 중인 파트너용</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft 파트너 네트워크 멤버 자격 혜택 관리</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000087</id>
-    <title>마이크로소프트 Action Pack을 구독하고 있고 판매를 통해 마이크로소프트 오피스 365 및 마이크로소프트 Dynamics CRM Online 시트의 추가 조건을 충족했습니다. 이와 관련한 토큰은 어디에서 찾을 수 있습니까?</title>
-    <description><![CDATA[추가 토큰은 귀하의 계정에 자동적으로 지정되지 않습니다. 지역 서비스 센터로 연락하여 요청하셔야 합니다. ]]></description>
-    <articlelinks>
-      <link>
-        <text>지원 문의</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
-      </link>
-       <link>
-        <text>내부 사용권 클라우드 및 소프트웨어 혜택</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000045</id>
-    <title>로그인할 때 Visual Studio의 평가판 버전이라고 표시되는 이유는 무엇입니까?</title>
-    <description><![CDATA[MSDN과 Visual Studio를 사용하는 파트너의 로그인 프로세스가 변경되었습니다. 다음 링크에서 추가 정보를 확인할 수 있습니다:]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio에서 로그인하기</text>
-        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
-      </link>
-       <link>
-        <text>Visual Studio 2015 라이선스가 인식되지 않는 이슈</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>Visual Studio Online 테크니컬 ID의 한도에 대한 관리 방법을 알고싶습니다.</title>
-    <description><![CDATA[역량 파트너는 제한없는 한도로 Visual Studio Online 구독을 가지게 되어 한도를 설정할 필요가 없습니다. 액션팩 파트너가 고객 서비스 팀으로 문의하는 경우, 구독에서 360%로 액션팩 한도가 중가되었다고 안내할 수 있습니다. 다음의 리소스를 참조하여 360%까지 증가된 액션팩 한도 관련 정보를 확인합니다.    ]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio Online 구독을 신규 사용자에게 지정할 수 없는 이슈</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online 구독 액세스와 권환 지정하기</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000104</id>
-    <title>IUR 라이선스는 어디서 다운로드할 수 있으며 라이선스를 활성화하려면 어떻게 해야 하나요?</title>
-    <description><![CDATA[아래 문서에서 IUR 라이선스를 활성화하고 할당하는 방법을 알아보세요.]]></description>
-    <articlelinks>
-      <link>
-        <text>내부 사용권 클라우드 및 소프트웨어 혜택 (페이지 단추까지 아래로 스크롤하여 역량 파트너에 대한 라이선스 표 참조)</text>
-        <url><![CDATA[?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>내 사용권 혜택이란 무엇이며, 왜 이것을 사용하는 것이 중요한가요?</text>
-        <url><![CDATA[?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Microsoft 파트너 네트워크 멤버 자격 혜택 관리</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN IUR(내부 사용권) Online Services 구독에 더하여 추가 기능 구독을 구매할 수 있나요?</title>
-    <description><![CDATA[아니요. 그렇게 할 수 없습니다. 추가 기능을 추가하려면 사용 가능한 구매 채널을 통해 기본 구독 라이선스를 하나 이상 구매해야 합니다. 예외: 비프로덕션 인스턴스 및 저장소 같은 CRM OL 및 Dynamics 365 추가 기능의 경우 여기서 요청을 제출하여 무료 기본 구독을 얻을 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>여기서 요청을 제출하여 무료 기본 구독 얻기</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>소프트웨어 및 클라우드 서비스 혜택에 대한 제품 사용 가이드</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question></group><group title="교육" refid="Training"><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="교육" refid="Training"><question>
     <id>1200-000056</id>
     <title>Microsoft에서 무료이거나 저렴한 비용의 교육을 제공합니까?</title>
     <description><![CDATA[파트너 러닝 센터는 어느 수준에서나 Microsoft 파트너 네트워크에 등록된 조직이 이용할 수 있는 혜택입니다. 파트너 러닝 센터는 무료이거나 저렴한 비용의 온라인 및 실제 교육에 대한 등록과 액세스를 제공합니다. Microsoft Action Pack 및 역량에 대한 평가 요구 사항을 완료하는 데 사용할 수도 있습니다.]]></description>
@@ -284,7 +93,198 @@
         <text>기술 여정 시작</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="라이센싱" refid="LicensingSalesMarketing"><question>
+    </articlelinks></question></group><group title="다운로드 및 소프트웨어" refid="DownloadsSoftware"><question>
+    <id>800-000039</id>
+    <title>Microsoft Action Pack에서 어떤 소프트웨어 혜택을 제공하고 있습니까? </title>
+    <description><![CDATA[Action Pack 구독자는 일반적으로 최신 Microsoft 소프트웨어의 10개 내부 사용 라이선스 (IUR)를 받게 됩니다. 여기에는 온프레미스 라이선스, 온라인 서비스, 그리고 Visual Studio Online 구독이 포함됩니다. O365 및 Dynamics의 경우 MAPS의 재등록과 별도로 갱신 프로세스를 수행해야 합니다. 이러한 제품은 파트너가 MAPS 멤버 자격을 갱신한 후에도 자동으로 갱신되지 않습니다. 라이선스 혜택에 대한 세부 정보는 다음 리소스에서 확인할 수 있습니다:]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Action Pack 개요</text>
+        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>파트너 센터: Action Pack 구독 혜택</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack 구독 구매 또는 갱신</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000090</id>
+    <title>Windows 10 소프트웨어와 제품 키는 어디에서 다운로드할 수 있습니까?</title>
+    <description><![CDATA[Microsoft 역량이나 Action Pack 구독을 보유한 파트너는 파트너 디지털 배포 포탈에서 Windows 10 Enterprise 소프트웨어와 제품 키를 다운로드할 수 있습니다. 개발, 테스트, 그리고 평가용으로 프로그램 혜택이 (프로와 홈 에디션에 포함) 부여된 MSDN 구독과 함께 소프트웨어와 키를 사용할 수 있습니다. MSDN 구독에 지정된 최종 사용자에게만 액세스 권한이 제한됩니다.
+
+참고: Windows 10 Enterprise의 내부 사용 라이선스는 업그레이드용으로만 이용할 수 있습니다.
+
+참고: 소프트웨어 다운로드 권한이 있어야 디지털 배포 포탈에서 소프트웨어를 다운로드할 수 있습니다. 키 보기 권한은 제품을 볼 때 요구됩니다. MSDN 구독자 다운로드로 액세스하기 위해서는 역량을 보유한 파트너에게 프리미엄 구독 권한이 요구되며 Action Pack 구독을 보유한 파트너에게는 Technical Contact 역할이 요구됩니다.
+
+참고: 파트너가 업그레이드를 할 때 기존의 Windows 8.1이나 Windows 10의 제품 키를 사용하지 않습니다. 그 대신, 파트너 디지털 배포 포탈에서 반드시 새로운 키를 획득해야 합니다.  
+]]></description>
+    <articlelinks>
+      <link>
+        <text>파트너 디지털 배포 포탈</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online 구독</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online 다운로드 사이트</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000087</id>
+    <title>마이크로소프트 Action Pack을 구독하고 있고 판매를 통해 마이크로소프트 오피스 365 및 마이크로소프트 Dynamics CRM Online 시트의 추가 조건을 충족했습니다. 이와 관련한 토큰은 어디에서 찾을 수 있습니까?</title>
+    <description><![CDATA[추가 토큰은 귀하의 계정에 자동적으로 지정되지 않습니다. 지역 서비스 센터로 연락하여 요청하셔야 합니다. ]]></description>
+    <articlelinks>
+      <link>
+        <text>지원 문의</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
+      </link>
+       <link>
+        <text>내부 사용권 클라우드 및 소프트웨어 혜택</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000045</id>
+    <title>로그인할 때 Visual Studio의 평가판 버전이라고 표시되는 이유는 무엇입니까?</title>
+    <description><![CDATA[MSDN과 Visual Studio를 사용하는 파트너의 로그인 프로세스가 변경되었습니다. 다음 링크에서 추가 정보를 확인할 수 있습니다:]]></description>
+    <articlelinks>
+      <link>
+        <text>Visual Studio에서 로그인하기</text>
+        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
+      </link>
+       <link>
+        <text>Visual Studio 2015 라이선스가 인식되지 않는 이슈</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000075</id>
+    <title>내가 사용할 수 있는 다운로드 및 소프트웨어에 대한 변경 사항은 어디서 볼 수 있습니까?</title>
+    <description><![CDATA[파트너 멤버십 프로그램의 최근 변경 사항 전체는 새 소식 페이지에 나와 있습니다과파트너 디지털 배포.]]></description>
+    <articlelinks>
+      <link>
+        <text>새 소식</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>내부 사용권 클라우드 및 소프트웨어 혜택</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>Office 365(E3) 내부 사용권 라이선스를 활성화하고 할당하는 방법</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000030</id>
+    <title>Visual Studio Online 테크니컬 ID의 한도에 대한 관리 방법을 알고싶습니다.</title>
+    <description><![CDATA[역량 파트너는 제한없는 한도로 Visual Studio Online 구독을 가지게 되어 한도를 설정할 필요가 없습니다. 액션팩 파트너가 고객 서비스 팀으로 문의하는 경우, 구독에서 360%로 액션팩 한도가 중가되었다고 안내할 수 있습니다. 다음의 리소스를 참조하여 360%까지 증가된 액션팩 한도 관련 정보를 확인합니다.    ]]></description>
+    <articlelinks>
+      <link>
+        <text>Visual Studio Online 구독을 신규 사용자에게 지정할 수 없는 이슈</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online 구독 액세스와 권환 지정하기</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000104</id>
+    <title>IUR 라이선스는 어디서 다운로드할 수 있으며 라이선스를 활성화하려면 어떻게 해야 하나요?</title>
+    <description><![CDATA[아래 문서에서 IUR 라이선스를 활성화하고 할당하는 방법을 알아보세요.]]></description>
+    <articlelinks>
+      <link>
+        <text>내부 사용권 클라우드 및 소프트웨어 혜택 (페이지 단추까지 아래로 스크롤하여 역량 파트너에 대한 라이선스 표 참조)</text>
+        <url><![CDATA[?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>내 사용권 혜택이란 무엇이며, 왜 이것을 사용하는 것이 중요한가요?</text>
+        <url><![CDATA[?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Microsoft 파트너 네트워크 멤버 자격 혜택 관리</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>MPN IUR(내부 사용권) Online Services 구독에 더하여 추가 기능 구독을 구매할 수 있나요?</title>
+    <description><![CDATA[아니요. 그렇게 할 수 없습니다. 추가 기능을 추가하려면 사용 가능한 구매 채널을 통해 기본 구독 라이선스를 하나 이상 구매해야 합니다. 예외: 비프로덕션 인스턴스 및 저장소 같은 CRM OL 및 Dynamics 365 추가 기능의 경우 여기서 요청을 제출하여 무료 기본 구독을 얻을 수 있습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text>여기서 요청을 제출하여 무료 기본 구독 얻기</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>소프트웨어 및 클라우드 서비스 혜택에 대한 제품 사용 가이드</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000048</id>
+    <title>Microsoft Azure IUR (Internal use right) 크레딧을 클레임하는 방법이 어떻게 됩니까?</title>
+    <description><![CDATA[역량이나 Microsoft 액션팩에 등록되어 있는 모든 파트너는 Microsoft Azure 월간 크레딧을 사용할 수 있습니다. 본 혜택은 액션팩의 구독 숫자나 구매한 Additional Benefit Toolkit 수량에 상관없이, 각 조직에 따라 제공됩니다. 조직내 관리자 중 한 명이 이미 크레딧을 클레임했다면, 조직내 다른 사용자는 해당 크레딧을 클레임할 수 없습니다. 다음 문서를 참조하여 Microsoft Azure IUR 혜택의 클레임 방법을 확인할 수 있습니다. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Azure IUR (Internal Use Right) 라이선스의 활성화 방법</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
+      </link>
+       <link>
+        <text>Microsoft Azure IUR (Internal Use Right) 라이선스의 활성화 방법</text>
+        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
+      </link>
+       <link>
+        <text> IUR(Internal Use Right) 클라우드와 소프트웨어 혜택</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000036</id>
+    <title>Visual Studio Online 구독은 어떻게 인증할 수 있습니까?</title>
+    <description><![CDATA[Visual Studio Online 구독을 통해 응용 프로그램을 개발하고 테스트하기 위해 필요한 툴과 플랫폼, 그리고 서비스를 이용할 수 있습니다. 다음 문서를 참조하시면 구독 활성화 방법을 확인하실 수 있습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft 파트너 네트워크(MPN) Visual Studio 구독</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online 구독 활성화</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online 구독</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>Microsoft 파트너 네트워크를 통해 Office 365(E3) 내부 사용 권한 혜택을 어떻게 얻을 수 있습니까?</title>
+    <description><![CDATA[Microsoft 파트너 네트워크 Office 365(E3) 내부 사용 권한 혜택의 개요를 확인하십시오.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft 파트너 네트워크를 통해 Office 365(E3) 내부 사용 권한 혜택을 어떻게 얻을 수 있습니까?</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text>Office 365(E3) 내부 사용권 라이선스를 활성화하고 할당하는 방법</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>내부 사용 권한 (IUR) 라이선스를 활성화 하는 방법은 어떻게 됩니까?</title>
+    <description><![CDATA[아래의 문서를 참조하시면 Office 365, Enterprise Mobility Suite, 그리고 Microsoft Dynamics CRM Online 내부 사용 권한 라이선스의 인증 절차를 확인하실 수 있습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 포털: 내부 사용권 클라우드 및 소프트웨어 혜택 - PMC를 계속 사용 중인 파트너용</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft 파트너 네트워크 멤버 자격 혜택 관리</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question></group><group title="라이센싱" refid="Licensing"><question>
     <id>1500-000008</id>
     <title>Microsoft 라이선싱에 대해 자세히 알아보려면 어떻게 해야 하나요?</title>
     <description><![CDATA[아래 문서에서 라이선싱과 관련된 추가 질문을 확인하세요.]]></description>
@@ -389,7 +389,7 @@
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question></group><group title="멤버십" refid="ProgramsMembership"><question>
+    </articlelinks></question></group><group title="멤버십" refid="Membership"><question SortOrderOnHome="6">
     <id>100-000078</id>
     <title>MAPS 및 역량 요금에서 최종 송장을 인쇄/다운로드하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[아래 문서에서 최종 송장을 인쇄하는 방법을 알아보세요.]]></description>
@@ -399,8 +399,8 @@
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
        <link>
-        <text>Action Pack 청구서 다운로드</text>
-        <url><![CDATA[https://docs.microsoft.com/ko-kr/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
+        <text>KB 4089764: 파트너 센터에서 송장을 받는 방법</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000082</id>
@@ -671,7 +671,7 @@
         <text>KB 4090552: MAPS 또는 역량의 만료 날짜를 확인하는 방법</text>
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>100-000012</id>
     <title>내 회사의 회원자격을 어떻게 갱신합니까?</title>
     <description><![CDATA[회원자격을 갱신해야 하는 시기를 판단하는 방법, 갱신하는 방법, 네트워크에서의 기회, 등등을 알아보십시오.]]></description>
@@ -813,7 +813,7 @@
         <text>Office 365 커뮤니티</text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question></group><group title="클라우드 서비스" refid="AccountSetupManagement"><question>
+    </articlelinks></question></group><group title="클라우드 서비스" refid="CloudServices"><question>
     <id>200-000100</id>
     <title>파트너 센터에서 사용 방법에 대한 정보는 어디서 확인할 수 있나요?</title>
     <description><![CDATA[파트너 센터 대시보드에서 조직과 고객을 위해 작업 방법을 찾으려면 파트너 센터 도움말 라이브러리나 Microsoft 개발자 참조 자료를 확인하십시오.]]></description>
@@ -865,6 +865,10 @@
        <link>
         <text>Microsoft Cloud Services 대시보드</text>
         <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>Cloud Services 대시보드 사용자 가이드</text>
+        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000068</id>
@@ -922,7 +926,7 @@
         <text>파트너 센터: CSP 인센티브 정보</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>200-000095</id>
     <title>파트너 센터 사용을 시작하려면 어떤 단계를 수행해야 하나요?</title>
     <description><![CDATA[아래 문서에서 파트너 센터 웹 사이트에 대해 자세히 알아보세요.]]></description>
@@ -1069,7 +1073,7 @@
         <text>파트너 기능을 활성화하려면 어떻게 해야 하나요</text>
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
-    </articlelinks></question></group><group title="파트너 인센티브" refid="IncentivesPayouts"><question>
+    </articlelinks></question></group><group title="파트너 인센티브" refid="PartnerIncentives"><question>
     <id>400-000002</id>
     <title>Microsoft Cloud Solutions 판매 및 배포에 대한 인센티브는 어떻게 받을 수 있습니까?</title>
     <description><![CDATA[온라인 서비스 인센티브를 시작하는 데 도움을 줄 수 있는 리소스에 액세스한 다음 수수료 계산서 또는 지불 프로세스에 대해 질문이 있는 경우 어떻게 해야 하는지를 알아보십시오.]]></description>

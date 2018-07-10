@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="下载和软件" refid="DownloadsSoftware"><question>
     <id>800-000039</id>
     <title>有微软行动宝盒，您会获得什么软件权益？   </title>
     <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可。这包括本地软件许可，线上服务，和Visual Studio Online订阅。O365 和 Dynamics 分别需要重新注册 MAPS 的续签过程。合作伙伴续签其 MAPS 成员资格后，他们不会自动续签。对于许可权益的详细资讯，请参考以下资源：    ]]></description>
@@ -41,7 +41,7 @@
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
-    <title>可以在哪里查看可用Agreements, Orders, Subscription Management的更改？</title>
+    <title>可以在哪里查看可用下载和软件的更改？</title>
     <description><![CDATA[合作伙伴成员资格项目的所有最新更改都可在“新增内容”页面找到和Digital Distribution页。]]></description>
     <articlelinks>
       <link>
@@ -183,7 +183,7 @@
         <text>软件和云服务权益的产品使用指南</text>
         <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
-    </articlelinks></question></group><group title="云服务" refid="AccountSetupManagement"><question>
+    </articlelinks></question></group><group title="云服务" refid="CloudServices"><question>
     <id>200-000085</id>
     <title>合作伙伴Online Service仪表板是什么？</title>
     <description><![CDATA[合作伙伴Online Service仪表板可以帮助经销商和分销商追踪他们客户的Microsoft Office 365、Microsoft Intune和Microsoft Dynamics CRM Online订阅。 
@@ -196,6 +196,10 @@
        <link>
         <text>Microsoft 云服务仪表板</text>
         <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>云服务仪表板用户指南</text>
+        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000083</id>
@@ -305,7 +309,7 @@
         <text>合作伙伴中心：CSP 激励信息</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>200-000095</id>
     <title>开始使用合作伙伴的步骤是什么？</title>
     <description><![CDATA[请参阅下面的文章，了解有关合作伙伴中心网站的详细信息。]]></description>
@@ -482,7 +486,7 @@
         <text>Office 365 社区</text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question></group><group title="合作伙伴奖励" refid="IncentivesPayouts"><question>
+    </articlelinks></question></group><group title="合作伙伴奖励" refid="PartnerIncentives"><question>
     <id>400-000002</id>
     <title>如何获得销售和部署 Microsoft 云解决方案的奖励？</title>
     <description><![CDATA[查看能够帮您入手获得联机服务奖励以及了解如何解决您的奖金明细单或付款过程问题的资料。]]></description>
@@ -603,7 +607,7 @@
         <text>合作伙伴学院</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
-    </articlelinks></question></group><group title="成员资格" refid="ProgramsMembership"><question>
+    </articlelinks></question></group><group title="成员资格" refid="Membership"><question>
     <id>100-000087</id>
     <title>我在哪里可以找到对具体能力的要求？</title>
     <description><![CDATA[访问合作伙伴门户的能力网页并选择具体能力的链接。每个能力页面列出针对该能力的要求。]]></description>
@@ -892,7 +896,7 @@
         <text>注册接收成为 Microsoft Surface Hub ADR 或安装程序的更新</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000078</id>
     <title>如何从 MAPS 和资格费打印/下载最终发票？</title>
     <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
@@ -905,7 +909,7 @@
         <text>KB 4089764：如何在合作伙伴中心获取发票</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>100-000012</id>
     <title>如何续订我所在公司的成员资格？</title>
     <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
@@ -1281,7 +1285,7 @@
         <text>分配 Visual Studio Online 订阅的访问权限和特权</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
       </link>
-    </articlelinks></question></group><group title="许可" refid="LicensingSalesMarketing"><question>
+    </articlelinks></question></group><group title="许可" refid="Licensing"><question>
     <id>1500-000008</id>
     <title>如何了解有关 Microsoft 许可的更多信息？</title>
     <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
