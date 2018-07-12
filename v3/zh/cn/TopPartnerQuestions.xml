@@ -8,12 +8,8 @@
         <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>合作伙伴中心：Action Pack 订阅权益</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>购买或续订 Microsoft Action Pack 订阅</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+        <text>Microsoft Action Pack 合作伙伴的许可证表 </text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000090</id>
@@ -419,8 +415,8 @@
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
        <link>
-        <text>合作伙伴中心 SDK 和 API 参考资料 </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
+        <text>从 PMC 移至合作伙伴仪表板 </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000101</id>
@@ -907,7 +903,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
-    <title>如何续订我所在公司的成员资格？</title>
+    <title>我如何续订我的 MPN 成员身份？</title>
     <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
     <articlelinks>
       <link>
@@ -992,20 +988,16 @@
         <text>与 Microsoft 合作伙伴支持聊天</text>
         <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
       </link>
-    </articlelinks></question></group><group title="技术之旅" refid=""><question>
-    <id>1400-000113</id>
-    <title>在整个技术之旅期间，我如何与 Microsoft 合作伙伴技术咨询人员进行交流？</title>
-    <description><![CDATA[]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>如何在新的合作伙伴中心中设置帐户？</title>
+    <description><![CDATA[请访问下面的链接，以了解更多信息。]]></description>
     <articlelinks>
       <link>
-        <text>了解更多</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+        <text></text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
-       <link>
-        <text>开始与开发人员交流</text>
-        <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="技术之旅" refid=""><question>
     <id>1400-000114</id>
     <title>我可以利用哪些 MPN 权益使用技术之旅？</title>
     <description><![CDATA[作为 MPN 合作伙伴，你可以无限制地访问远程技术网络研讨会，并且可以无限制地访问作为技术之旅的一部分提供的开发人员交流。若要通过 Skype for Business 参与一对一技术咨询，你可以利用自己的技术售前协助或合作伙伴咨询时间权益。 ]]></description>
@@ -1035,6 +1027,19 @@
         <text>阅读博客</text>
         <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title>在整个技术之旅期间，我如何与 Microsoft 合作伙伴技术咨询人员进行交流？</title>
+    <description><![CDATA[]]></description>
+    <articlelinks>
+      <link>
+        <text>了解更多</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text>开始与开发人员交流</text>
+        <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
+      </link>
     </articlelinks></question></group><group title="技术服务" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000110</id>
     <title>在云和混合客户项目的售前和部署阶段期间，我在哪里可以找到合作伙伴询问的热门问题？</title>
@@ -1045,19 +1050,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
     </articlelinks></question></group><group title="权益" refid="Benefits"><question>
-    <id>300-000104</id>
-    <title>如何使用访问 ID 和合同 ID 创建本地专业支持事件？</title>
-    <description><![CDATA[请参阅下文了解如何使用访问 ID 和合同 ID 创建本地专业支持事件。]]></description>
-    <articlelinks>
-      <link>
-        <text>使用访问 ID 和合同 ID 创建本地专业支持事件</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text>客户支持</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000100</id>
     <title>如何获得技术/产品支持资格？</title>
     <description><![CDATA[查看核心权益和要求以及 MPN 技术权益摘要，了解有关基于你的订阅的技术/产品支持资格的信息。]]></description>
@@ -1281,16 +1273,20 @@
         <text>分配 Visual Studio Online 订阅的访问权限和特权</text>
         <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
       </link>
-    </articlelinks></question></group><group title="许可" refid="LicensingSalesMarketing"><question>
-    <id>1500-000008</id>
-    <title>如何了解有关 Microsoft 许可的更多信息？</title>
-    <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>如何使用访问 ID 和合同 ID 创建本地专业支持事件？</title>
+    <description><![CDATA[请参阅下文了解如何使用访问 ID 和合同 ID 创建本地专业支持事件。]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: 合作伙伴许可问题 - 快速参考指南</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+        <text>使用访问 ID 和合同 ID 创建本地专业支持事件</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>客户支持</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question></group><group title="许可" refid="LicensingSalesMarketing"><question>
     <id>1500-000001</id>
     <title>我在哪里可以了解管理我与 Microsoft 的关系所需的准备情况和培训？</title>
     <description><![CDATA[Microsoft 准备情况门户是轻松查找操作准备情况和培训资源的最佳方法，它为计划、策略、过程和工具提供更改和启动信息，其中包括商业、OEM、ADD、CFPP（因为 CSP 位于合作伙伴中心）]]></description>
@@ -1385,5 +1381,32 @@
       <link>
         <text>MPN 门户：合作伙伴网络软件许可权益常见问题解答  </text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=1500-000009]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000008</id>
+    <title>如何了解有关 Microsoft 许可的更多信息？</title>
+    <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4076425: 合作伙伴许可问题 - 快速参考指南</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title>我是否可以将我的获得授权的许可证用于培训目的？</title>
+    <description><![CDATA[不得使用获得授权的许可证进行客户培训。IUR 仅可用于内部员工培训目的，并且你应了解这将会消耗激活的事实。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 权益包使用指南 </text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title>我续订 Action Pack 订阅/能力后，是否会自动激活我的在线令牌？</title>
+    <description><![CDATA[当你续订订阅或重新注册具有能力的 Action Pack 订阅/计划时，将根据重新注册时组织的权利颁发一组新令牌。合作伙伴计划管理员需要激活令牌以避免在云服务中失效。这些令牌不会自动激活。当你需要时可以将其激活，但要从合规性角度进行考虑。Action Pack/能力到期后，即使令牌仍处于活动状态，你也不会获得特定权益的许可证。]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 权益包使用指南 </text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -8,12 +8,8 @@
         <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Partner Center: Vorteile Ihres Action Pack-Abonnements</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Kaufen oder Verlängern eines Microsoft Action Pack-Abonnements</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+        <text>Lizenztabelle für Microsoft Action Pack-Partner </text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000090</id>
@@ -428,7 +424,7 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
        <link>
-        <text>Partner Center SDK- und API-Referenzmaterial </text>
+        <text>Wechsel von PMC zum Partner Dashboard </text>
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
       </link>
        <link>
@@ -786,36 +782,25 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title>Kann ich meine gewährten Lizenzen für Schulungszwecke verwenden?</title>
+    <description><![CDATA[Sie dürfen die gewährten Lizenzen nicht für Kundenschulungen verwenden. IURs dürfen nur für die Schulung interner Mitarbeiter verwendet werden und Sie sollten sich der Tatsache bewusst sein, dass dies eine Aktivierung erfordert. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Nutzungsleitfaden für das MPN Benefit-Paket </text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title>Werden meine Online-Tokens automatisch aktiviert, wenn ich meine Action Pack-Subscription/Kompetenz verlängere?</title>
+    <description><![CDATA[Wenn Sie eine Subscription verlängern oder erneut zur/zum Action Pack-Subscription/Programm mit einer Kompetenz beitreten, wird ein neue Satz Tokens auf Basis der Berechtigung der Organisation zum Zeitpunkt des erneuten Beitritts ausgestellt. Partnerprogramm-Administratoren müssen die Tokens aktivieren, um einen Fehler bei den Cloud-Diensten zu vermeiden. Diese Tokens werden nicht automatisch aktiviert. Sie können aktiviert werden, wenn Sie dies möchten, Sie sollen jedoch den Compliance-Aspekt berücksichtigen. Nach Ablauf des Action Pack/der Kompetenz haben Sie keine Lizenz für den speziellen Benefit mehr, auch wenn die Tokens noch aktiv sind.]]></description>
+    <articlelinks>
+      <link>
+        <text>Nutzungsleitfaden für das MPN Benefit-Paket </text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
     </articlelinks></question></group><group title="Mitgliedschaft" refid="ProgramsMembership"><question>
-    <id>100-000070</id>
-    <title>Mein Unternehmen hat ein Profil im Microsoft Partner Network erstellt. Wie kann ich mich als Person diesem Profil hinzufügen?</title>
-    <description><![CDATA[Wenn Sie bereits über ein Microsoft Konto (früher Windows Live ID) verfügen, loggen Sie sich bitte in das Partner Membership Center ein und klicken auf die Option „Als Einzelperson zuordnen“. Füllen Sie die erforderlichen Informationen ein. 
-
-Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ein Konto.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Als Einzelperson zuordnen</text>
-        <url><![CDATA[https://partners.microsoft.com/partnerprogram/OrganizationSearch.aspx?tpqid=100-000070]]></url>
-      </link>
-       <link>
-        <text>Übersicht Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000084</id>
-    <title>Was kostet die Verlängerung meiner Kompetenz und wo finde ich weitere Informationen?</title>
-    <description><![CDATA[Partner können auf der Seite mit den Kompetenzen die aktuellsten Anforderungen und Kosten für den Erwerb der Kompetenz anzeigen. Über die nachfolgenden hilfreichen Links erhalten Sie die aktuelle Preisliste für Kompetenzen]]></description>
-    <articlelinks>
-      <link>
-        <text>Kompetenzen partners</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Kompetenzen</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000094</id>
     <title>Erstellen eines Partner Center-Kontos</title>
     <description><![CDATA[In diesem Artikel wird erläutert, wie Sie ein Partner Center-Konto erstellen. Er ist für Partner gedacht, die ihre Informationen zur Partner Network-Mitgliedschaft vom Partner Membership Center in das Partner Center verschieben. ]]></description>
@@ -1165,7 +1150,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte zu
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
-    <title>Wie erneuere ich die Mitgliedschaft meines Unternehmens?</title>
+    <title>Wie verlängere ich meine MPN-Mitgliedschaft?</title>
     <description><![CDATA[Hier erfahren Sie, wann Sie Ihre Mitgliedschaft erneuern sollten, wie Sie dazu vorgehen, welche Chancen das Netzwerk für Sie bereithält u. v. a.]]></description>
     <articlelinks>
       <link>
@@ -1180,46 +1165,45 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte zu
         <text>Partner Center: Zugriff auf Ihr Partner Center-Dashboard</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>Wie richte ich ein neues Konto in Partner Center ein?</title>
+    <description><![CDATA[Rufen Sie den folgenden Link auf, um mehr Informationen zu finden.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center-Konto-FAQ</text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000070</id>
+    <title>Mein Unternehmen hat ein Profil im Microsoft Partner Network erstellt. Wie kann ich mich als Person diesem Profil hinzufügen?</title>
+    <description><![CDATA[Wenn Sie bereits über ein Microsoft Konto (früher Windows Live ID) verfügen, loggen Sie sich bitte in das Partner Membership Center ein und klicken auf die Option „Als Einzelperson zuordnen“. Füllen Sie die erforderlichen Informationen ein. 
+
+Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ein Konto.
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Als Einzelperson zuordnen</text>
+        <url><![CDATA[https://partners.microsoft.com/partnerprogram/OrganizationSearch.aspx?tpqid=100-000070]]></url>
+      </link>
+       <link>
+        <text>Übersicht Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000084</id>
+    <title>Was kostet die Verlängerung meiner Kompetenz und wo finde ich weitere Informationen?</title>
+    <description><![CDATA[Partner können auf der Seite mit den Kompetenzen die aktuellsten Anforderungen und Kosten für den Erwerb der Kompetenz anzeigen. Über die nachfolgenden hilfreichen Links erhalten Sie die aktuelle Preisliste für Kompetenzen]]></description>
+    <articlelinks>
+      <link>
+        <text>Kompetenzen partners</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Kompetenzen</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
+      </link>
     </articlelinks></question></group><group title="Partner-Incentives" refid="IncentivesPayouts"><question>
-    <id>400-000082</id>
-    <title>Wie qualifiziere ich mich für Partnerprovisionen?</title>
-    <description><![CDATA[Die Berechtigung für Partnerprovisionen variiert je nach Programm. Manche Programme richten sich nach den erlangten Microsoft Partner Network Kompetenzen. Manche Programme bewerten die Partnerleistung oder den Microsoft channel authorization status. Nicht alle Partner werden für alle Provisionen qualifiziert sein. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Wie man sich für Partnerprovisionen qualifizieren kann?</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
-      </link>
-       <link>
-        <text>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000002</id>
-    <title>Wie erhalte ich Incentives für das Verkaufen und Bereitstellen von Microsoft Cloud Lösungen? </title>
-    <description><![CDATA[Hier haben Sie Zugriff auf Ressourcen, die Ihnen helfen, sich mit Incentives für Onlinedienste zurechtzufinden, und Sie erfahren, was Sie tun müssen, wenn Sie Fragen zu Ihrem Gebührenauszug oder dem Zahlungsprozess haben.]]></description>
-    <articlelinks>
-      <link>
-        <text>Incentives für den Verkauf und die Bereitstellung von Microsoft Cloud-Lösungen</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>Wie aktualisiere ich meine Bank- und Steuerdaten?</title>
-    <description><![CDATA[In den nachfolgenden Artikeln erfahren Sie, wie Sie Ihre Bank- und Steuerdaten aktualisieren]]></description>
-    <articlelinks>
-      <link>
-        <text>Hinzufügen von Bankdetails für Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>Übermitteln von Steuer- und Bankformularen für Azure Online Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>Wo aktiviere ich meine Steuerdetails?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000008</id>
     <title>Was sind Microsoft Partner-Incentives? </title>
     <description><![CDATA[Partner-Incentives sind eine Facette der Ressourcen, die Microsoft in sein Partnerökosystem investiert. Gleichgültig, ob Sie Ihre Geschäfte lokal, in der Cloud oder irgendwo dazwischen abwickeln, die Partner-Incentives sollen die Wirtschaftlichkeit und das Wachstum Ihres Unternehmens fördern sowie die Microsoft-Strategie „Cloud-first, mobile-first“ stärken. Zu Incentives gehören Programme für große, mittlere und kleine Unternehmen, für Cloud-Dienste und Geräte.]]></description>
@@ -1257,6 +1241,45 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte zu
        <link>
         <text>Betrachten Sie die neue Seite „Partner-Incentives“</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000082</id>
+    <title>Wie qualifiziere ich mich für Partnerprovisionen?</title>
+    <description><![CDATA[Die Berechtigung für Partnerprovisionen variiert je nach Programm. Manche Programme richten sich nach den erlangten Microsoft Partner Network Kompetenzen. Manche Programme bewerten die Partnerleistung oder den Microsoft channel authorization status. Nicht alle Partner werden für alle Provisionen qualifiziert sein. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Wie man sich für Partnerprovisionen qualifizieren kann?</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+       <link>
+        <text>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000002</id>
+    <title>Wie erhalte ich Incentives für das Verkaufen und Bereitstellen von Microsoft Cloud Lösungen? </title>
+    <description><![CDATA[Hier haben Sie Zugriff auf Ressourcen, die Ihnen helfen, sich mit Incentives für Onlinedienste zurechtzufinden, und Sie erfahren, was Sie tun müssen, wenn Sie Fragen zu Ihrem Gebührenauszug oder dem Zahlungsprozess haben.]]></description>
+    <articlelinks>
+      <link>
+        <text>Incentives für den Verkauf und die Bereitstellung von Microsoft Cloud-Lösungen</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000083</id>
+    <title>Wie aktualisiere ich meine Bank- und Steuerdaten?</title>
+    <description><![CDATA[In den nachfolgenden Artikeln erfahren Sie, wie Sie Ihre Bank- und Steuerdaten aktualisieren]]></description>
+    <articlelinks>
+      <link>
+        <text>Hinzufügen von Bankdetails für Azure Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>Übermitteln von Steuer- und Bankformularen für Azure Online Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>Wo aktiviere ich meine Steuerdetails?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
     </articlelinks></question></group><group title="Produkt-Support" refid="ProductSupport"><question>
     <id>700-000001</id>

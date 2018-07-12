@@ -8,12 +8,8 @@
         <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Centro de partners: beneficios de la suscripción a Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Comprar o renovar una suscripción de Microsoft Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+        <text>Tabla de licencias para partners de Microsoft Action Pack </text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000090</id>
@@ -465,33 +461,25 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title>¿Puedo usar mis licencias concedidas para entrenamiento?</title>
+    <description><![CDATA[No puede usar las licencias concedidas para el entrenamiento de clientes. Los derechos de uso interno (IUR) se pueden usar únicamente para el entrenamiento de los empleados internos y se debe tener en cuenta que se consumirá una activación. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Guía de uso del paquete de beneficios de MPN</text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title>¿Mis tokens en línea se activan automáticamente cuando renuevo la suscripción o competencia de Action Pack?</title>
+    <description><![CDATA[Cuando renueve una suscripción o vuelve a inscribirse a la suscripción o programa Action Pack con una competencia, se emitirá un nuevo conjunto de tokens en función de los derechos de la organización en el momento de la nueva inscripción. Los administradores del programa de partner deben activar los tokens para evitar la interrupción de los servicios en la nube. Estos tokens no se activan automáticamente. Se pueden activar cuando quiera, pero debe tener en cuenta la perspectiva de cumplimiento. Cuando expire Action Pack o la competencia, no dispondrá de una licencia para el beneficio en concreto, incluso si los tokens aún siguen activos.]]></description>
+    <articlelinks>
+      <link>
+        <text>Guía de uso del paquete de beneficios de MPN</text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
     </articlelinks></question></group><group title="Pertenencia" refid="ProgramsMembership"><question>
-    <id>100-000078</id>
-    <title>¿Cómo se imprime o descarga la factura final por los cargos de sucripción a MAP y por competencias?</title>
-    <description><![CDATA[Consulte el artículo abajo para ver cómo se imprimen las facturas finales.]]></description>
-    <articlelinks>
-      <link>
-        <text>Cómo imprimir facturas finales</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
-      </link>
-       <link>
-        <text>Descargar tu factura de Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/es-es/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000082</id>
-    <title>¿Qué requisitos me faltan para renovar mis competencias?</title>
-    <description><![CDATA[Los asociados pueden revisar la lista de requisitos de competencias en el Partner Membership Center. Mantenga el puntero del mouse sobre Requisitos y recursos y seleccione Resumen de competencias. Los asociados también pueden ver la lista de competencias y los requisitos correspondientes en el portal de MPN.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4089772: Pasos para conocer los requisitos faltantes en el Centro de partners</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text>KB 4089772: Pasos para conocer los requisitos faltantes en el Centro de partners</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000081</id>
     <title>¿Cómo se obtiene ayuda para preguntas sobre Microsoft Partner Network (MPN) del Centro de servicios regional (RSC)?</title>
     <description><![CDATA[En este artículo se explica cómo obtener ayuda para preguntas sobre Microsoft Partner Network (MPN) del Centro de servicios regional (RSC).]]></description>
@@ -757,7 +745,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
-    <title>¿Cómo puedo renovar la membresía de mi empresa?</title>
+    <title>¿Cómo se renueva la pertenencia a MPN?</title>
     <description><![CDATA[Aprenda cómo determinar cuándo debe renovar su membresía, cómo renovarla, oportunidades en la red y más.]]></description>
     <articlelinks>
       <link>
@@ -850,50 +838,42 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Registrarse para recibir actualizaciones para convertirse en un instalador o ADR de Microsoft Surface Hub</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>¿Cómo se configura una cuenta en el nuevo Centro de partners?</title>
+    <description><![CDATA[Acceda al vínculo siguiente para obtener más información.]]></description>
+    <articlelinks>
+      <link>
+        <text>FAQ de la cuenta del centro de partners</text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000078</id>
+    <title>¿Cómo se imprime o descarga la factura final por los cargos de sucripción a MAP y por competencias?</title>
+    <description><![CDATA[Consulte el artículo abajo para ver cómo se imprimen las facturas finales.]]></description>
+    <articlelinks>
+      <link>
+        <text>Cómo imprimir facturas finales</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text>Descargar tu factura de Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/es-es/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000082</id>
+    <title>¿Qué requisitos me faltan para renovar mis competencias?</title>
+    <description><![CDATA[Los asociados pueden revisar la lista de requisitos de competencias en el Partner Membership Center. Mantenga el puntero del mouse sobre Requisitos y recursos y seleccione Resumen de competencias. Los asociados también pueden ver la lista de competencias y los requisitos correspondientes en el portal de MPN.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4089772: Pasos para conocer los requisitos faltantes en el Centro de partners</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text>KB 4089772: Pasos para conocer los requisitos faltantes en el Centro de partners</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
+      </link>
     </articlelinks></question></group><group title="Prestaciones" refid="Benefits"><question>
-    <id>300-000072</id>
-    <title>¿Dónde puedo encontrar información acerca de las actualizaciones a los beneficios de la competencia?</title>
-    <description><![CDATA[En la página Novedades encontrará las últimas noticias sobre cambios recientes e inminentes en las ventajas y otros aspectos relativos a la pertenencia.]]></description>
-    <articlelinks>
-      <link>
-        <text>Centro de partners: próximos requisitos para las competencias de Microsoft para las suscripciones Gold y Silver</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Beneficios y requisitos principales</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Introducción a Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000098</id>
-    <title>¿Cómo completo una certificación de aplicación a través de Microsoft Referrals?</title>
-    <description><![CDATA[Participar en certificaciones o programas de Microsoft ayudará a sus referencias. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Centro de partners: impulse el crecimiento de su empresa con referencias de Microsoft</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
-      </link>
-       <link>
-        <text>Portal MPN: obtenga más información sobre las competencias </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000101</id>
-    <title>¿Cómo se presenta una incidencia de soporte técnico o profesional?</title>
-    <description><![CDATA[Consulte el resumen sobre los beneficios técnicos de MPN para validar que su empresa es elegible para recibir soporte técnico.]]></description>
-    <articlelinks>
-      <link>
-        <text>Resumen sobre los beneficios técnicos de MPN</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
-      </link>
-       <link>
-        <text>Pasos para crear una incidencia de soporte técnico</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000004</id>
     <title>¿Qué tengo que hacer para obtener mi logotipo de competencia?</title>
     <description><![CDATA[Vaya a Partner Logo Builder para crear y descargar logotipos personalizados que puede utilizar para promover que es partner de Microsoft y las competencias que ha logrado.]]></description>
@@ -1083,46 +1063,50 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Soporte técnico Premier para partners (PSfP)</text>
         <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
       </link>
-    </articlelinks></question></group><group title="Servicios en la nube" refid="AccountSetupManagement"><question>
-    <id>200-000100</id>
-    <title>¿Dónde puedo encontrar información sobre cómo hacer cosas en el Centro de partners?</title>
-    <description><![CDATA[Para obtener información sobre cómo realizar tareas de la organización y los clientes en el panel del Centro de partners, visite la biblioteca de ayuda del Centro de partners o el material de referencia para desarrolladores.]]></description>
+    </articlelinks></question><question>
+    <id>300-000072</id>
+    <title>¿Dónde puedo encontrar información acerca de las actualizaciones a los beneficios de la competencia?</title>
+    <description><![CDATA[En la página Novedades encontrará las últimas noticias sobre cambios recientes e inminentes en las ventajas y otros aspectos relativos a la pertenencia.]]></description>
     <articlelinks>
       <link>
-        <text>Biblioteca de ayuda del Centro de partners   </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
+        <text>Centro de partners: próximos requisitos para las competencias de Microsoft para las suscripciones Gold y Silver</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
       </link>
        <link>
-        <text>Material de referencia del SDK del Centro de partners y API </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
+        <text>Beneficios y requisitos principales</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
       </link>
        <link>
-        <text>Centro de partners: Trasladarse del Centro de administración de partners (PAC) al Centro de partners </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000101</id>
-    <title>¿Cómo se administran las facturas CSP y la facturación de cliente?</title>
-    <description><![CDATA[Consulte la información abajo para ver cómo administrar la facturación. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Centro de partners: Facturación</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
-      </link>
-       <link>
-        <text>Centro de partners: use archivos de reconciliaciones </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+        <text>Introducción a Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>¿Cómo puedo animar a mis clientes a adoptar Office 365?</title>
-    <description><![CDATA[Ya sea que su empresa de servicio online esté en sus inicios o lista para crecer, Cloud SureStep está diseñado para ayudarlo a maximizar la rentabilidad.]]></description>
+    <id>300-000098</id>
+    <title>¿Cómo completo una certificación de aplicación a través de Microsoft Referrals?</title>
+    <description><![CDATA[Participar en certificaciones o programas de Microsoft ayudará a sus referencias. ]]></description>
     <articlelinks>
       <link>
-        <text>Introducción a Cloud SureStep</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+        <text>Centro de partners: impulse el crecimiento de su empresa con referencias de Microsoft</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+       <link>
+        <text>Portal MPN: obtenga más información sobre las competencias </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title>¿Cómo se presenta una incidencia de soporte técnico o profesional?</title>
+    <description><![CDATA[Consulte el resumen sobre los beneficios técnicos de MPN para validar que su empresa es elegible para recibir soporte técnico.]]></description>
+    <articlelinks>
+      <link>
+        <text>Resumen sobre los beneficios técnicos de MPN</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text>Pasos para crear una incidencia de soporte técnico</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question></group><group title="Servicios en la nube" refid="AccountSetupManagement"><question SortOrderOnHome="3">
     <id>200-000086</id>
     <title>¿Cómo se crea o cancela una suscripción?</title>
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
@@ -1344,6 +1328,45 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
        <link>
         <text>Signature Cloud Support para Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000100</id>
+    <title>¿Dónde puedo encontrar información sobre cómo hacer cosas en el Centro de partners?</title>
+    <description><![CDATA[Para obtener información sobre cómo realizar tareas de la organización y los clientes en el panel del Centro de partners, visite la biblioteca de ayuda del Centro de partners o el material de referencia para desarrolladores.]]></description>
+    <articlelinks>
+      <link>
+        <text>Biblioteca de ayuda del Centro de partners   </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
+      </link>
+       <link>
+        <text>Pasar de PMC al Panel de asociado </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
+      </link>
+       <link>
+        <text>Centro de partners: Trasladarse del Centro de administración de partners (PAC) al Centro de partners </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="4">
+    <id>200-000101</id>
+    <title>¿Cómo se administran las facturas CSP y la facturación de cliente?</title>
+    <description><![CDATA[Consulte la información abajo para ver cómo administrar la facturación. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Centro de partners: Facturación</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Centro de partners: use archivos de reconciliaciones </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000066</id>
+    <title>¿Cómo puedo animar a mis clientes a adoptar Office 365?</title>
+    <description><![CDATA[Ya sea que su empresa de servicio online esté en sus inicios o lista para crecer, Cloud SureStep está diseñado para ayudarlo a maximizar la rentabilidad.]]></description>
+    <articlelinks>
+      <link>
+        <text>Introducción a Cloud SureStep</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
     </articlelinks></question></group><group title="Soporte de producto" refid="ProductSupport"><question>
     <id>700-000002</id>

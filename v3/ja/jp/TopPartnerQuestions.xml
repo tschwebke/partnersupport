@@ -9,12 +9,8 @@
         <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>パートナー センター: Action Pack のサブスクリプション特典</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack サブスクリプションの購入または更新</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+        <text>Microsoft Action Pack のパートナーのためのライセンスのテーブル </text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000090</id>
@@ -491,8 +487,8 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
        <link>
-        <text>パートナー センター SDK および API 参考資料 </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
+        <text>PMC からパートナー ダッシュボードへの移行 </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
       </link>
        <link>
         <text>パートナー センター: パートナー管理センター (PAC) からパートナー センターに移行する </text>
@@ -967,7 +963,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
-    <title>会社のメンバーシップを更新するにはどうすれば良いのですか？</title>
+    <title>MPN メンバーシップはどのように更新するのでしょか?</title>
     <description><![CDATA[メンバーシップの更新時期、更新方法、ネットワーク内での機会等について学んでください。]]></description>
     <articlelinks>
       <link>
@@ -1173,16 +1169,16 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>パートナー様に影響を及ぼす変更内容</text>
         <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/membership/downloads/microsoft-partner-network-competency-roadmap.aspx?tpqid=100-1000106]]></url>
       </link>
-    </articlelinks></question></group><group title="ライセンス" refid="LicensingSalesMarketing"><question>
-    <id>1500-000008</id>
-    <title>マイクロソフトのライセンスの詳細情報</title>
-    <description><![CDATA[ライセンスのその他の質問については、以下の記事を参照してください。]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>新しいパートナー センターでアカウントをどのように設定するのでしょうか?</title>
+    <description><![CDATA[以下のリンクにアクセスして詳細をご確認ください。]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: パートナーのライセンスに関する質問 - クイック リファレンス ガイド</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+        <text>パートナー センター アカウントに関する FAQ</text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="ライセンス" refid="LicensingSalesMarketing"><question>
     <id>1500-000009</id>
     <title>パートナーがオンプレミス製品の新しいキーを受け取ることができるのはいつですか? </title>
     <description><![CDATA[オンプレミス キーにはライセンス認証回数の上限があることに注意してください。パートナーは、新しいバージョンの製品がリリースされた場合にのみ新しいキーを受け取ることができます。それ以外の場合、既にオンプレミス キーを使用し、新しい年の再登録料金を支払っている場合でも、追加のライセンス認証はパートナーに提供されません。 ]]></description>
@@ -1278,50 +1274,34 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1500-000008</id>
+    <title>マイクロソフトのライセンスの詳細情報</title>
+    <description><![CDATA[ライセンスのその他の質問については、以下の記事を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4076425: パートナーのライセンスに関する質問 - クイック リファレンス ガイド</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title>付与されたライセンスをトレーニングの目的で使用できますか?</title>
+    <description><![CDATA[顧客トレーニングのために付与されたライセンスを使用することは許可されていません。IUR は社員限定のトレーニングの目的で使用できますが、ライセンス認証が行われる事実を認識する必要があります。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 特典パッケージ活用に関するガイド </text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title>Action Pack サブスクリプション/コンピテンシーを更新するとオンライン トークンが自動的にアクティブ化されますか?</title>
+    <description><![CDATA[サブスクリプションを更新または Action Pack を再登録すると、再登録時の組織の権利に基づいて新しい一連のトークンが発行されます。パートナー プログラムの管理者は、クラウド サービスの中断を回避するためにトークンを発行する必要があります。これらのトークンは自動的にアクティブ化されません。お客様がトークンをアクティブ化したいときに行えますが、コンプライアンスの観点を考慮してください。Action Pack/コンピテンシーの期限切れ後、トークンがまだ有効でも、特定の特典に対するライセンスがない状態になります。]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 特典パッケージ活用に関するガイド </text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
     </articlelinks></question></group><group title="特典" refid="Benefits"><question>
-    <id>300-000104</id>
-    <title>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法</title>
-    <description><![CDATA[アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法については、次の記事を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text>カスタマー サポート</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000101</id>
-    <title>テクニカル/プロフェッショナル サポート インシデントを送信するにはどうすればよいですか?</title>
-    <description><![CDATA[テクニカル サポートを受ける資格を確認するには、「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Partner Network の技術的特典の概要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
-      </link>
-       <link>
-        <text>サポート インシデントを作成する手順</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>マイクロソフト Azure の社内使用ライセンス有効化の方法について教えてください。</title>
-    <description><![CDATA[以下、「マイクロソフト Azure 社内使用権ライセンスのアクティブ化方法」の資料に記載されている手順に従って、マイクロソフト Azure 社内使用ライセンスを有効化することができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト Azure 社内使用権ライセンスのアクティブ化の方法</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text>社内使用権 クラウドおよびソフトウェア特典</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text>社内使用権 (IUR) 特典でビジネスの一層の発展を</text>
-        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000105</id>
     <title>Microsoft Dynamics 365 for Unified Operations の内部使用権 (IUR) を取得できる対象ユーザーと取得できる場所</title>
     <description><![CDATA[クラウド ビジネス アプリケーション コンピテンシーのパフォーマンス条件を満たし、現在 ERP コンピテンシーを持っているパートナーが対象です。この IUR についてよく寄せられる質問と詳細については、以下の記事を参照してください ]]></description>
@@ -1540,6 +1520,49 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text>パートナー様向けプレミア サポート (PSfP)</text>
         <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法</title>
+    <description><![CDATA[アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法については、次の記事を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text>カスタマー サポート</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title>テクニカル/プロフェッショナル サポート インシデントを送信するにはどうすればよいですか?</title>
+    <description><![CDATA[テクニカル サポートを受ける資格を確認するには、「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Partner Network の技術的特典の概要</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text>サポート インシデントを作成する手順</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000043</id>
+    <title>マイクロソフト Azure の社内使用ライセンス有効化の方法について教えてください。</title>
+    <description><![CDATA[以下、「マイクロソフト Azure 社内使用権ライセンスのアクティブ化方法」の資料に記載されている手順に従って、マイクロソフト Azure 社内使用ライセンスを有効化することができます。]]></description>
+    <articlelinks>
+      <link>
+        <text>マイクロソフト Azure 社内使用権ライセンスのアクティブ化の方法</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>社内使用権 クラウドおよびソフトウェア特典</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>社内使用権 (IUR) 特典でビジネスの一層の発展を</text>
+        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
       </link>
     </articlelinks></question></group><group title="製品サポート" refid="ProductSupport"><question>
     <id>700-000002</id>

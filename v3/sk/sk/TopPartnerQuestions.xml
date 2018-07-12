@@ -44,7 +44,7 @@
     </articlelinks></question><question>
     <id>200-000026</id>
     <title>We are a Microsoft Partner. How can we activate partner features?</title>
-    <description><![CDATA[Use these resource to learn how to access your online services benefits and activate partner features:]]></description>
+    <description><![CDATA[Use these resources to learn how to access your online services benefits and activate partner features:]]></description>
     <articlelinks>
       <link>
         <text>MPN Portal: Software and online services benefits page</text>
@@ -116,7 +116,7 @@
     <description><![CDATA[Get an overview of the Signature Cloud Support benefit, including how to submit a Signature Cloud Support incident.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal:Learn more about Signature Cloud Support</text>
+        <text>MPN Portal: Learn more about Signature Cloud Support</text>
         <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
       </link>
        <link>
@@ -445,8 +445,8 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       </link>
     </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
     <id>300-000103</id>
-    <title>How to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners ?</title>
-    <description><![CDATA[You can find step-by-step instructions on how to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners in the article below.]]></description>
+    <title>How to assign Visual Studio Online Subscription access and privileges for MAPS and Competency partners ?</title>
+    <description><![CDATA[You can find step-by-step instructions on how to assign Visual Studio Online Subscription access and privileges for MAPS and Competency partners in the article below.]]></description>
     <articlelinks>
       <link>
         <text>KB 2966345: Assign Visual Studio Online subscription access and privileges</text>
@@ -532,7 +532,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     </articlelinks></question><question>
     <id>300-000106</id>
     <title>What are the steps to create a user account and assign permission?</title>
-    <description><![CDATA[You now have the ability to assign users to three new roles in Partner Center that will help you manage your business, MPN admin, Business profile admin, and Referral admin.]]></description>
+    <description><![CDATA[You have the ability to assign users to three new roles in Partner Center that will help you manage your business, MPN admin, Business profile admin, and Referral admin.]]></description>
     <articlelinks>
       <link>
         <text>Partner Center: Create user accounts and assign permissions</text>
@@ -763,7 +763,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <description><![CDATA[Eligibility for Incentives and Payouts varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: MPN members can sign in to Partner Membersip Center to see incentives information</text>
+        <text>MPN Portal: MPN members can sign in to Partner Membership Center to see incentives information</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
       </link>
     </articlelinks></question><question>
@@ -776,6 +776,78 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
       </link>
     </articlelinks></question></group><group title="Licensing" refid=""><question>
+    <id>1500-000008</id>
+    <title>How can I learn more about Microsoft licensing?</title>
+    <description><![CDATA[Please see the below article for more questions about licensing.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4076425: Partner licensing questions – quick reference guide</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title>Can I use my granted licenses for training purpose?</title>
+    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Benefit Package Usage Guide </text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title>Are my online tokens activated automatically once I renew my Action Pack subscription/competency?</title>
+    <description><![CDATA[When you renew a subscription or re-enroll in the Action Pack subscription/program with a competency, a new set of tokens will be issued based on the organization’s entitlement at the time of re-enrollment.
+Partner program administrators are required to activate the tokens to avoid a lapse in cloud services. These tokens are not activated automatically. They can be activated when you want to, but take into consideration the compliance perspective. After Action Pack/ Competency expires, you will not have a license for the particular benefit, even if the tokens are still active.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Benefit Package Usage Guide </text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>When are partners empowered to receive new keys for On-Premise products? </title>
+    <description><![CDATA[Please note that the on-premises keys have a finite number of activations. Partners are empowered to receive new keys only if there has been launched a new version of the product. If not, partners will not receive additional activations even if they already consumed them and paid for a new year of re-enrollment. ]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Partner Network software licensing benefits FAQ  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+      </link>
+    </articlelinks></question></group><group title="Licensing, Sales and Marketing" refid="LicensingSalesMarketing"><question>
+    <id>1500-000004</id>
+    <title>Where can I get assistance with Programs, Contracts, Agreements, Orders, Invoices, Price List, Credit limits, Credit holds, VLSC site issues, and Incentives?</title>
+    <description><![CDATA[Use Explore.ms to contact a Regional Operational Center (ROC) via the Call Logging Tool (CLT). If you require further assistance or are not satisfied with the response received, respond to the confirmation email from the request submitted via CLT and type  ESCALATE in the body of the  email.]]></description>
+    <articlelinks>
+      <link>
+        <text>Explore.ms Portal</text>
+        <url><![CDATA[http://www.explore.ms?tpqid=1500-000004]]></url>
+      </link>
+       <link>
+        <text>Submit and manage Microsoft Operations (MSOps) service requests</text>
+        <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000005</id>
+    <title>Where can I get assistance with Software Assurance Benefits questions or issues?</title>
+    <description><![CDATA[For all Software Assurance questions on behalf of customers, please submit a support request from the Volume Licensing Service Center.]]></description>
+    <articlelinks>
+      <link>
+        <text>Volume Licensing Service Center</text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/servicecenter/Help/Contact.aspx?tpqid=1500-000005]]></url>
+      </link>
+       <link>
+        <text>Software Assurance overview</text>
+        <url><![CDATA[https://www.microsoft.com/en-us/Licensing/licensing-programs/software-assurance-default.aspx?tpqid=1500-000005]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000007</id>
+    <title>I am a Dynamics partner and would like to transact via a Solution Provider Agreement (SPA), how do I register?</title>
+    <description><![CDATA[In the first instance, please register your interest via the Partner Source link provided below. Once the process has begun, if you require further assistance please email your local ROC.]]></description>
+    <articlelinks>
+      <link>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1500-000006</id>
     <title>What is the Home Use Program?</title>
     <description><![CDATA[The Home Use Program is a Software Assurance benefit available to Microsoft volume licensing customers with active Software Assurance coverage on their Office applications. Employees who use the covered licenses at work are eligible to purchase these Office applications for use on a personal device during the term of their employment.]]></description>
@@ -827,82 +899,10 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Readiness</text>
         <url><![CDATA[https://www.microsoftreadiness.com/?tpqid=1500-000001]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1500-000004</id>
-    <title>Where can I get assistance with Programs, Contracts, Agreements, Orders, Invoices, Price List, Credit limits, Credit holds, VLSC site issues, and Incentives?</title>
-    <description><![CDATA[Use Explore.ms to contact a Regional Operational Center (ROC) via the Call Logging Tool (CLT). If you require further assistance or are not satisfied with the response received, respond to the confirmation email from the request submitted via CLT and type  ESCALATE in the body of the  email.]]></description>
-    <articlelinks>
-      <link>
-        <text>Explore.ms Portal</text>
-        <url><![CDATA[http://www.explore.ms?tpqid=1500-000004]]></url>
-      </link>
-       <link>
-        <text>Submit and manage Microsoft Operations (MSOps) service requests</text>
-        <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000008</id>
-    <title>How can I learn more about Microsoft licensing?</title>
-    <description><![CDATA[Please see the below article for more questions about licensing.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4076425: Partner licensing questions – quick reference guide</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000009</id>
-    <title>When are partners empowered to receive new keys for On-Premise products? </title>
-    <description><![CDATA[Please note that the on-premises keys have a finite number of activations. Partners are empowered to receive new keys only if there has been launched a new version of the product. If not, partners will not receive additional activations even if they already consumed them and paid for a new year of re-enrollment. ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Partner Network software licensing benefits FAQ  </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000005</id>
-    <title>Where can I get assistance with Software Assurance Benefits questions or issues?</title>
-    <description><![CDATA[For all Software Assurance questions on behalf of customers, please submit a support request from the Volume Licensing Service Center.]]></description>
-    <articlelinks>
-      <link>
-        <text>Volume Licensing Service Center</text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/servicecenter/Help/Contact.aspx?tpqid=1500-000005]]></url>
-      </link>
-       <link>
-        <text>Software Assurance overview</text>
-        <url><![CDATA[https://www.microsoft.com/en-us/Licensing/licensing-programs/software-assurance-default.aspx?tpqid=1500-000005]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000010</id>
-    <title>Can I use my granted licenses for training purpose?</title>
-    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Benefit Package Usage Guide </text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000011</id>
-    <title>Are my online tokens activated automatically once I renew my Action Pack subscription/competency?</title>
-    <description><![CDATA[When you renew a subscription or re-enroll in the Action Pack subscription/program with a competency, a new set of tokens will be issued based on the organization’s entitlement at the time of re-enrollment.
-Partner program administrators are required to activate the tokens to avoid a lapse in cloud services. These tokens are not activated automatically. They can be activated when you want to, but take into consideration the compliance perspective. After Action Pack/ Competency expires, you will not have a license for the particular benefit, even if the tokens are still active.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Benefit Package Usage Guide </text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000007</id>
-    <title>I am a Dynamics partner and would like to transact via a Solution Provider Agreement (SPA), how do I register?</title>
-    <description><![CDATA[In the first instance, please register your interest via the Partner Source link provided below. Once the process has begun, if you require further assistance please email your local ROC.]]></description>
-    <articlelinks>
-      <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
-      </link>
     </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
     <id>100-000079</id>
     <title>How to send a group invite?</title>
-    <description><![CDATA[See the article below to learn how to send a group invite]]></description>
+    <description><![CDATA[See the article below to learn how to send a group invite.]]></description>
     <articlelinks>
       <link>
         <text>KB 4017800: How to send a group invite</text>
@@ -954,7 +954,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question><question>
     <id>100-000082</id>
     <title>What are my missing requirements to renew my competencies?</title>
-    <description><![CDATA[Partners can review the list of competency requirements on the Partner Membership Center. Hover over to Requirements and Assets and select Competency Summary. Partners can also view the list of competencies and it’s requirements on the MPN Portal]]></description>
+    <description><![CDATA[Partners can review the list of competency requirements on the Partner Membership Center. Hover over to Requirements and Assets and select Competency Summary. Partners can also view the list of competencies and its requirements on the MPN Portal]]></description>
     <articlelinks>
       <link>
         <text>MPN Portal: Competencies</text>
@@ -1135,7 +1135,7 @@ Partner program administrators are required to activate the tokens to avoid a la
       </link>
     </articlelinks></question><question>
     <id>100-000085</id>
-    <title>How do I merge separate MPN enrollments?.</title>
+    <title>How do I merge separate MPN enrollments?</title>
     <description><![CDATA[Read the article below to see the considerations that could impact your access to benefits and ability to transact.]]></description>
     <articlelinks>
       <link>
@@ -1178,7 +1178,7 @@ Partner program administrators are required to activate the tokens to avoid a la
       </link>
     </articlelinks></question><question>
     <id>100-000096</id>
-    <title>What is Digital Partner Of Record?</title>
+    <title>What is Digital Partner of Record?</title>
     <description><![CDATA[Learn more of Digital Partner Record in the articles below.]]></description>
     <articlelinks>
       <link>
@@ -1262,7 +1262,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question><question>
     <id>100-000094</id>
     <title>How to create a partner center account?</title>
-    <description><![CDATA[The article explains how to create a Partner Center account, and is intended for partners who are moving their partner network membership information from Partner Membership Center to Partner Center. ]]></description>
+    <description><![CDATA[The article explains how to create a Partner Center account and it is intended for partners who are moving their partner network membership information from Partner Membership Center to Partner Center. ]]></description>
     <articlelinks>
       <link>
         <text>Partner Center: Create a Partner Center account</text>
@@ -1292,7 +1292,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question><question>
     <id>100-000078</id>
     <title>How to print/download final invoice from MAPS and Competency fee?</title>
-    <description><![CDATA[See the article below to learn how to print final invoices]]></description>
+    <description><![CDATA[See the article below to learn how to print final invoices.]]></description>
     <articlelinks>
       <link>
         <text>KB 4017791: How to print final invoices</text>
@@ -1391,7 +1391,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question><question>
     <id>700-000001</id>
     <title>Where can I get assistance with an issue or questions about Dynamics products?</title>
-    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not resolved to your satisfaction please email Dynamics Escalation including IT number in the email body.]]></description>
+    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not fully resolved please email Dynamics Escalation including IT number in the email body.]]></description>
     <articlelinks>
       <link>
         <text>Dynamics PartnerSource</text>
