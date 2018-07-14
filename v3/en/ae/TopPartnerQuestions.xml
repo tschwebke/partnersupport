@@ -1,245 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Benefits" refid="Benefits"><question>
-    <id>300-000098</id>
-    <title>How do I complete an application certification through Microsoft Referrals? </title>
-    <description><![CDATA[Participating in  Microsoft certifications or programs will help your referrals. ]]></description>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Account Setup and Management" refid="AccountSetupManagement"><question SortOrderOnHome="3">
+    <id>200-000086</id>
+    <title>How to create or cancel a subscription?</title>
+    <description><![CDATA[Please review the following links for more information.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Grow your business with referrals from Microsoft</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
+        <text>Partner Center: Add licenses or services to an existing subscription</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
        <link>
-        <text>MPN Portal: Learn more about Competencies </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
+        <text>Partner Center: Create, suspend, or cancel customer subscription</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="4">
+    <id>200-000101</id>
+    <title>How do I manage my CSP Invoices and customer billing?</title>
+    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Billing</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Use the reconciliations files </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000004</id>
-    <title>How do I get my competency logo?</title>
-    <description><![CDATA[Go to Partner Logo Builder to create and download custom logos that you can use to promote your Microsoft partner status and the competencies you’ve attained.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Logo Builder</text>
-        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Getting Started with Logo Builder</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>MPN Partner Seller Badge Guide</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000100</id>
-    <title>How do I qualify for Technical/Product Support?</title>
-    <description><![CDATA[Review the Core Benefits and Requirements and MPN Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Core Benefits and Requirement</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
-      </link>
-       <link>
-        <text>KB 2987884: MPN Technical Benefits Summary</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>How do I qualify for the Signature Cloud Support benefit?</title>
-    <description><![CDATA[Review the Core benefits and requirements for information on the individual requirements for the Cloud Performance and Hybrid competencies.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Signature Cloud Support Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>KB 2996739: Signature Cloud Support Benefit Overview</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2996739?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>KB 3020636: Steps on how to create Signature Cloud Support Incident</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000101</id>
-    <title>How do I submit a Technical/Professional Support Incident?</title>
-    <description><![CDATA[Review the MPN Technical Benefits Summary to validate your company is eligible for technical support.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2987884: MPN Technical Benefits Summary</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
-      </link>
-       <link>
-        <text>KB 3020636: Steps on how to create Support Incident</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>How to activate Microsoft Azure internal-use rights licenses?</title>
-    <description><![CDATA[Learn how to activate your Microsoft Azure internal-use rights licenses by following the steps outlined in the Knowledge Base article How-to activate Microsoft Azure internal-use rights licenses.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 3013414: How to activate Microsoft Azure internal-use rights licenses</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text>MPN Portal:  Internal Use Rights cloud and software benefit</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text>Accelerate your business with Internal Use Rights (IUR) benefits</text>
-        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>How to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners ?</title>
-    <description><![CDATA[You can find step-by-step instructions on how to assign Visual Studio Online Subscription access and privileges for MAPS and Compentency partners in the article below.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2966345: Assign Visual Studio Online subscription access and privileges</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>How to create on-premises professional support incidents using an Access ID and a Contract ID?</title>
-    <description><![CDATA[See the article below to learn how to create on-premises professional support incidents using an Access ID and a Contract ID.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 3020636: Using an Access ID and a Contract ID to create on-premises professional support incidents</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000099</id>
-    <title>How to register to Visual Studio if I was already registered on MSDN?</title>
-    <description><![CDATA[Learn how to register on Visual Studio by following the steps outlined in the Knowledge Base article My Visual Studio Registration (Note that the MPN RSC is responsible to support MPN members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4017803: My Visual Studio Registration</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
-      </link>
-       <link>
-        <text>Visual Studio FAQs</text>
-        <url><![CDATA[https://www.visualstudio.com/my/myvsfaq?tpqid=300-000099]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Support</text>
-        <url><![CDATA[https://www.visualstudio.com/support/?tpqid=300-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000107</id>
-    <title>I am interested in learning more about  paid support offerings available for Microsoft Partners, where can I find out more information?</title>
-    <description><![CDATA[There are multiple paid support offerings for Microsoft Partners. Further details review the Microsoft Partner Support Offerings paid support offerings comparison.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Partner Support Offerings</text>
-        <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
-      </link>
-       <link>
-        <text>Advanced Support for Partners (ASfP)</text>
-        <url><![CDATA[https://aka.ms/asfp?tpqid=300-000107]]></url>
-      </link>
-       <link>
-        <text>Premier Support for Partners (PSfP)</text>
-        <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>What are partner advisory hours?</title>
-    <description><![CDATA[Partner advisory hours are the currency used to access certain services offered to partners. Use your hours to build your skills and get customized guidance for deploying solutions.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Understand the scenarios where I can leverage my partner advisory hours</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: How do I qualify for partner advisory hours? </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>Not sure how many hours you have? View your available partner advisory hours</text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000102</id>
-    <title>What are the benefits in attaining a competency?</title>
-    <description><![CDATA[Please review the following links for more information]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Competency Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>KB 2887467: KB 2887467: Benefits Overview</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Competencies</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000106</id>
-    <title>What are the steps to create a user account and assign permission?</title>
-    <description><![CDATA[You now have the ability to assign users to three new roles in Partner Center that will help you manage your business, MPN admin, Business profile admin, and Referral admin.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Create user accounts and assign permissions</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Manage your Partner Center account</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000108</id>
-    <title>Where can I find information about paid support plans available for Microsoft Azure and Microsoft Dynamics 365?</title>
-    <description><![CDATA[Enhanced, paid support is available for both Microsoft Azure and Microsoft Dynamics 365. There are also paid support offerings available across all Microsoft products.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Partner Support Offerings</text>
-        <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000108]]></url>
-      </link>
-       <link>
-        <text>Azure Support Plans</text>
-        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
-      </link>
-       <link>
-        <text>Dynamics 365 Support Plans</text>
-        <url><![CDATA[https://www.microsoft.com/dynamics365/support?tpqid=300-000108]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000072</id>
-    <title>Where can I find information about updates to competency benefits?</title>
-    <description><![CDATA[The latest news about recent and upcoming changes to benefits and other aspects of membership can be found on the What’s new page.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Upcoming Microsoft competency requirements for Gold and Silver membership</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Core benefits and requirements</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000105</id>
-    <title>Who qualifies and where can I get Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)?</title>
-    <description><![CDATA[Partners who meet performance criteria for Cloud Business Applications Competency and currently have ERP competency. Read the article below to see the frequent asked questions and to learn more about this IUR ]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4052881: FAQ - Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>Where can I find and how do I activate demonstration/training licenses?</title>
-    <description><![CDATA[You get only one key per product and it’s your decision to choose what to use it for: demonstration, training or internal use. There are no different licenses for each type of benefits (demonstration, training or internal use). For demonstration or training, as long as you activate and deactivate it within 30 days, no activation is burnt against that product key.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question></group><group title="Cloud services" refid="CloudServices"><question>
     <id>200-000100</id>
     <title>Where do I find information about how to do things in Partner Center?</title>
     <description><![CDATA[To find out how to accomplish tasks for your organization and your customers in Partner Center Dashboard, visit the Partner Center Help library or our developer reference material.]]></description>
@@ -259,7 +44,7 @@
     </articlelinks></question><question>
     <id>200-000026</id>
     <title>We are a Microsoft Partner. How can we activate partner features?</title>
-    <description><![CDATA[Use these resource to learn how to access your online services benefits and activate partner features:]]></description>
+    <description><![CDATA[Use these resources to learn how to access your online services benefits and activate partner features:]]></description>
     <articlelinks>
       <link>
         <text>MPN Portal: Software and online services benefits page</text>
@@ -281,19 +66,6 @@
        <link>
         <text>Partner Center: CSP Announcements</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
-    <id>200-000086</id>
-    <title>How to create or cancel a subscription?</title>
-    <description><![CDATA[Please review the following links for more information.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Add licenses or services to an existing subscription</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Create, suspend, or cancel customer subscription</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000066</id>
@@ -344,7 +116,7 @@
     <description><![CDATA[Get an overview of the Signature Cloud Support benefit, including how to submit a Signature Cloud Support incident.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal:Learn more about Signature Cloud Support</text>
+        <text>MPN Portal: Learn more about Signature Cloud Support</text>
         <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
       </link>
        <link>
@@ -412,7 +184,7 @@
         <text>Cloud Community on Yammer</text>
         <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>What are the steps to get started on Partner Center?</title>
     <description><![CDATA[Read the article below to see learn more about Partner Center website.]]></description>
@@ -438,10 +210,6 @@ You can use the dashboard as a source for key data to help you efficiently manag
        <link>
         <text>Microsoft Cloud Services Dashboard</text>
         <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
-      </link>
-       <link>
-        <text>Cloud Services Dashboard user guide</text>
-        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -486,20 +254,24 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>Partner Center: CSP Incentive information</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000101</id>
-    <title>How do I manage my CSP Invoices and customer billing?</title>
-    <description><![CDATA[Review the information below to see how to manage your billing. ]]></description>
+    </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000036</id>
+    <title>How do I activate my Visual Studio subscription?</title>
+    <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Center: Billing</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+        <text>KB 4013871: Microsoft Partner Network (MPN) Visual Studio Subscriptions</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871?tpqid=800-000036]]></url>
       </link>
        <link>
-        <text>Partner Center: Use the reconciliations files </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+        <text>Activate Visual Studio Online subscription</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
       </link>
-    </articlelinks></question></group><group title="Downloads and software" refid="DownloadsSoftware"><question>
+       <link>
+        <text>Visual Studio Online subscriptions</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000092</id>
     <title>How do I activate my internal-use rights licenses?</title>
     <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
@@ -516,7 +288,7 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>What software benefits do you get with Microsoft Action Pack? </title>
     <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. Renewal process is needed for O365 and Dynamics separately from re-enrollment of MAPS. They do not renew automatically once partner renewed their MAPS Membership. For details about license benefits, refer to the following resources:]]></description>
@@ -531,7 +303,7 @@ You can use the dashboard as a source for key data to help you efficiently manag
       </link>
     </articlelinks></question><question>
     <id>800-000075</id>
-    <title>Where can I view changes to the downloads and software available to me?</title>
+    <title>Where can I view changes to the Agreements, Orders, Subscription Management available to me?</title>
     <description><![CDATA[All recent changes to partner membership programs can be found on the Digital Download Portal and the What’s New page.]]></description>
     <articlelinks>
       <link>
@@ -671,24 +443,339 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Visual Studio 2015 License not recognized</text>
         <url><![CDATA[https://msdn.microsoft.com/library/dn950037.aspx?tpqid=800-000045]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>How do I activate my Visual Studio subscription?</title>
-    <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
+    </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
+    <id>300-000103</id>
+    <title>How to assign Visual Studio Online Subscription access and privileges for MAPS and Competency partners ?</title>
+    <description><![CDATA[You can find step-by-step instructions on how to assign Visual Studio Online Subscription access and privileges for MAPS and Competency partners in the article below.]]></description>
     <articlelinks>
       <link>
-        <text>KB 4013871: Microsoft Partner Network (MPN) Visual Studio Subscriptions</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871?tpqid=800-000036]]></url>
+        <text>KB 2966345: Assign Visual Studio Online subscription access and privileges</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>How to create on-premises professional support incidents using an Access ID and a Contract ID?</title>
+    <description><![CDATA[See the article below to learn how to create on-premises professional support incidents using an Access ID and a Contract ID.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3020636: Using an Access ID and a Contract ID to create on-premises professional support incidents</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000099</id>
+    <title>How to register to Visual Studio if I was already registered on MSDN?</title>
+    <description><![CDATA[Learn how to register on Visual Studio by following the steps outlined in the Knowledge Base article My Visual Studio Registration (Note that the MPN RSC is responsible to support MPN members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4017803: My Visual Studio Registration</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
       </link>
        <link>
-        <text>Activate Visual Studio Online subscription</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+        <text>Visual Studio FAQs</text>
+        <url><![CDATA[https://www.visualstudio.com/my/myvsfaq?tpqid=300-000099]]></url>
       </link>
        <link>
-        <text>Visual Studio Online subscriptions</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+        <text>Visual Studio Support</text>
+        <url><![CDATA[https://www.visualstudio.com/support/?tpqid=300-000099]]></url>
       </link>
-    </articlelinks></question></group><group title="Licensing" refid="Licensing"><question>
+    </articlelinks></question><question>
+    <id>300-000107</id>
+    <title>I am interested in learning more about  paid support offerings available for Microsoft Partners, where can I find out more information?</title>
+    <description><![CDATA[There are multiple paid support offerings for Microsoft Partners. Further details review the Microsoft Partner Support Offerings paid support offerings comparison.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Partner Support Offerings</text>
+        <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
+      </link>
+       <link>
+        <text>Advanced Support for Partners (ASfP)</text>
+        <url><![CDATA[https://aka.ms/asfp?tpqid=300-000107]]></url>
+      </link>
+       <link>
+        <text>Premier Support for Partners (PSfP)</text>
+        <url><![CDATA[https://aka.ms/psfp?tpqid=300-000107]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000014</id>
+    <title>What are partner advisory hours?</title>
+    <description><![CDATA[Partner advisory hours are the currency used to access certain services offered to partners. Use your hours to build your skills and get customized guidance for deploying solutions.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Understand the scenarios where I can leverage my partner advisory hours</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: How do I qualify for partner advisory hours? </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Not sure how many hours you have? View your available partner advisory hours</text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000102</id>
+    <title>What are the benefits in attaining a competency?</title>
+    <description><![CDATA[Please review the following links for more information]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Competency Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>KB 2887467: KB 2887467: Benefits Overview</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Competencies</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000106</id>
+    <title>What are the steps to create a user account and assign permission?</title>
+    <description><![CDATA[You have the ability to assign users to three new roles in Partner Center that will help you manage your business, MPN admin, Business profile admin, and Referral admin.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Create user accounts and assign permissions</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Manage your Partner Center account</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000108</id>
+    <title>Where can I find information about paid support plans available for Microsoft Azure and Microsoft Dynamics 365?</title>
+    <description><![CDATA[Enhanced, paid support is available for both Microsoft Azure and Microsoft Dynamics 365. There are also paid support offerings available across all Microsoft products.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Partner Support Offerings</text>
+        <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text>Azure Support Plans</text>
+        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text>Dynamics 365 Support Plans</text>
+        <url><![CDATA[https://www.microsoft.com/dynamics365/support?tpqid=300-000108]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000072</id>
+    <title>Where can I find information about updates to competency benefits?</title>
+    <description><![CDATA[The latest news about recent and upcoming changes to benefits and other aspects of membership can be found on the What’s new page.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Upcoming Microsoft competency requirements for Gold and Silver membership</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Core benefits and requirements</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Who qualifies and where can I get Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)?</title>
+    <description><![CDATA[Partners who meet performance criteria for Cloud Business Applications Competency and currently have ERP competency. Read the article below to see the frequent asked questions and to learn more about this IUR ]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4052881: FAQ - Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000098</id>
+    <title>How do I complete an application certification through Microsoft Referrals? </title>
+    <description><![CDATA[Participating in  Microsoft certifications or programs will help your referrals. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Grow your business with referrals from Microsoft</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Learn more about Competencies </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000004</id>
+    <title>How do I get my competency logo?</title>
+    <description><![CDATA[Go to Partner Logo Builder to create and download custom logos that you can use to promote your Microsoft partner status and the competencies you’ve attained.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Logo Builder</text>
+        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Getting Started with Logo Builder</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>MPN Partner Seller Badge Guide</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000100</id>
+    <title>How do I qualify for Technical/Product Support?</title>
+    <description><![CDATA[Review the Core Benefits and Requirements and MPN Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Core Benefits and Requirement</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text>KB 2987884: MPN Technical Benefits Summary</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000028</id>
+    <title>How do I qualify for the Signature Cloud Support benefit?</title>
+    <description><![CDATA[Review the Core benefits and requirements for information on the individual requirements for the Cloud Performance and Hybrid competencies.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Signature Cloud Support Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>KB 2996739: Signature Cloud Support Benefit Overview</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2996739?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>KB 3020636: Steps on how to create Signature Cloud Support Incident</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000028]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title>How do I submit a Technical/Professional Support Incident?</title>
+    <description><![CDATA[Review the MPN Technical Benefits Summary to validate your company is eligible for technical support.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2987884: MPN Technical Benefits Summary</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text>KB 3020636: Steps on how to create Support Incident</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000043</id>
+    <title>How to activate Microsoft Azure internal-use rights licenses?</title>
+    <description><![CDATA[Learn how to activate your Microsoft Azure internal-use rights licenses by following the steps outlined in the Knowledge Base article How-to activate Microsoft Azure internal-use rights licenses.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3013414: How to activate Microsoft Azure internal-use rights licenses</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>MPN Portal:  Internal Use Rights cloud and software benefit</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+      </link>
+       <link>
+        <text>Accelerate your business with Internal Use Rights (IUR) benefits</text>
+        <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Where can I find and how do I activate demonstration/training licenses?</title>
+    <description><![CDATA[You get only one key per product and it’s your decision to choose what to use it for: demonstration, training or internal use. There are no different licenses for each type of benefits (demonstration, training or internal use). For demonstration or training, as long as you activate and deactivate it within 30 days, no activation is burnt against that product key.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Internal Use Rights cloud and software benefit - for partners still in PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000110</id>
+    <title>How do I activate my support contracts?</title>
+    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2987884: MPN Technical Benefits Summary</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000110]]></url>
+      </link>
+       <link>
+        <text>KB 2904733 Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents </text>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+      </link>
+    </articlelinks></question></group><group title="Incentives and Payouts" refid="IncentivesPayouts"><question>
+    <id>400-000080</id>
+    <title>How do I get support for Incentives and Payouts? </title>
+    <description><![CDATA[You can find support for the Incentives and Payouts program under the Support section on the Incentives and Payouts page.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Get support for Incentives and Payouts </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: View the new Incentives and Payouts page</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000083</id>
+    <title>How to update my Banking and Tax information?</title>
+    <description><![CDATA[See the articles below to learn how to update your banking and tax information]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3073470: How to add bank details for Azure Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>KB 3090503: How to submit tax and bank forms for Azure Online Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>KB 3011099: Where Do I Update My Tax Details</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000008</id>
+    <title>What are Microsoft Incentives and Payouts?</title>
+    <description><![CDATA[Take advantage of Incentives and Payouts to drive revenue. If your business focuses on certain strategic activities and solution areas, you could be eligible to earn incentives.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: Incentives and Payouts</text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Understand your incentive payouts</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>Where can I get support or find more information about Incentives and Payouts? </title>
+    <description><![CDATA[Information on all Incentives and Payouts programs is available on the Microsoft Partner Network (MPN) Incentives and Payouts page. Partners who are eligible for an incentive program will see all available materials for that program from the Incentives and Payouts page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: View the Incentives and Payouts page</text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Contact Incentives and Payouts Support (select Incentives and Payouts as Category)</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Understand your incentive payouts</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000082</id>
+    <title>How can I become eligible to earn Incentives and Payouts?</title>
+    <description><![CDATA[Eligibility for Incentives and Payouts varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN Portal: MPN members can sign in to Partner Membership Center to see incentives information</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000002</id>
+    <title>How can I receive incentives for selling and deploying Microsoft Cloud Solutions? </title>
+    <description><![CDATA[Access resources that can help you get started with online services incentives and learn what to do if you have questions about your fee statement or the payment process.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 3082022: Incentives for selling and deploying Microsoft Cloud Solutions</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
+      </link>
+    </articlelinks></question></group><group title="Licensing, Sales and Marketing" refid="LicensingSalesMarketing"><question>
     <id>1500-000006</id>
     <title>What is the Home Use Program?</title>
     <description><![CDATA[The Home Use Program is a Software Assurance benefit available to Microsoft volume licensing customers with active Software Assurance coverage on their Office applications. Employees who use the covered licenses at work are eligible to purchase these Office applications for use on a personal device during the term of their employment.]]></description>
@@ -754,19 +841,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1500-000005</id>
-    <title>Where can I get assistance with Software Assurance Benefits questions or issues?</title>
-    <description><![CDATA[For all Software Assurance questions on behalf of customers, please submit a support request from the Volume Licensing Service Center.]]></description>
-    <articlelinks>
-      <link>
-        <text>Volume Licensing Service Center</text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/servicecenter/Help/Contact.aspx?tpqid=1500-000005]]></url>
-      </link>
-       <link>
-        <text>Software Assurance overview</text>
-        <url><![CDATA[https://www.microsoft.com/en-us/Licensing/licensing-programs/software-assurance-default.aspx?tpqid=1500-000005]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1500-000008</id>
     <title>How can I learn more about Microsoft licensing?</title>
     <description><![CDATA[Please see the below article for more questions about licensing.]]></description>
@@ -785,13 +859,17 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1500-000007</id>
-    <title>I am a Dynamics partner and would like to transact via a Solution Provider Agreement (SPA), how do I register?</title>
-    <description><![CDATA[In the first instance, please register your interest via the Partner Source link provided below. Once the process has begun, if you require further assistance please email your local ROC.]]></description>
+    <id>1500-000005</id>
+    <title>Where can I get assistance with Software Assurance Benefits questions or issues?</title>
+    <description><![CDATA[For all Software Assurance questions on behalf of customers, please submit a support request from the Volume Licensing Service Center.]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
+        <text>Volume Licensing Service Center</text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/servicecenter/Help/Contact.aspx?tpqid=1500-000005]]></url>
+      </link>
+       <link>
+        <text>Software Assurance overview</text>
+        <url><![CDATA[https://www.microsoft.com/en-us/Licensing/licensing-programs/software-assurance-default.aspx?tpqid=1500-000005]]></url>
       </link>
     </articlelinks></question><question>
     <id>1500-000010</id>
@@ -812,113 +890,19 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>MPN Benefit Package Usage Guide </text>
         <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
-    </articlelinks></question></group><group title="Membership" refid="Membership"><question>
-    <id>100-000012</id>
-    <title>How do I renew my MPN membership?</title>
-    <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Renew your membership</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Purchase or renew a Microsoft Action Pack subscription </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Access your Partner Center Dashboard</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
-      </link>
     </articlelinks></question><question>
-    <id>100-000086</id>
-    <title>How do I schedule an exam?</title>
-    <description><![CDATA[To schedule your Microsoft Certification exam, locate a testing center, reschedule your exam, or confirm your test, visit the Microsoft Certifications page on the Pearson VUE website.]]></description>
+    <id>1500-000007</id>
+    <title>I am a Dynamics partner and would like to transact via a Solution Provider Agreement (SPA), how do I register?</title>
+    <description><![CDATA[In the first instance, please register your interest via the Partner Source link provided below. Once the process has begun, if you require further assistance please email your local ROC.]]></description>
     <articlelinks>
       <link>
-        <text>Pearson VUE</text>
-        <url><![CDATA[http://www.pearsonvue.com/microsoft/?tpqid=100-000086]]></url>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/northamerica/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-       <link>
-        <text>Pearson Vue Exam Accommodations</text>
-        <url><![CDATA[http://www.pearsonvue.com/accommodations?tpqid=100-000086]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000083</id>
-    <title>How much does it cost to renew my action pack?</title>
-    <description><![CDATA[Review the helpful links below to get the most updated price list for action pack]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Microsoft Action Pack overview</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Purchase or renew a Microsoft Action Pack subscription</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
-      </link>
-       <link>
-        <text>KB 3009703: How to renew your action pack?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000084</id>
-    <title>How much does it cost to renew my competency and where can I find more information?</title>
-    <description><![CDATA[Partners can go to the competency page to view the latest requirements and cost to attain the competency. Review the helpful links below to get the most updated price list for Competencies]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Competencies partners</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Competencies</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000094</id>
-    <title>How to create a partner center account?</title>
-    <description><![CDATA[The article explains how to create a Partner Center account, and is intended for partners who are moving their partner network membership information from Partner Membership Center to Partner Center. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Create a Partner Center account</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000094]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Manage your Partner Center account</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000094]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Update your partner profile</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>100-000092</id>
-    <title>How to link my organization’s work account to my new Partner Center account?</title>
-    <description><![CDATA[If your company doesn’t already have work account, you can create one for free during the enrollment process. If you want to use an existing work account but you’re having trouble signing in, review the following articles:]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Your company work account and Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
-      </link>
-       <link>
-        <text>Add a custom domain name to Azure Active Directory</text>
-        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>100-000078</id>
-    <title>How to print/download final invoice from MAPS and Competency fee?</title>
-    <description><![CDATA[See the article below to learn how to print final invoices]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 4017791: How to print final invoices</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
-      </link>
-       <link>
-        <text>KB 4089764: How to get your invoice in Partner Center</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
     <id>100-000079</id>
     <title>How to send a group invite?</title>
-    <description><![CDATA[See the article below to learn how to send a group invite]]></description>
+    <description><![CDATA[See the article below to learn how to send a group invite.]]></description>
     <articlelinks>
       <link>
         <text>KB 4017800: How to send a group invite</text>
@@ -970,7 +954,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question><question>
     <id>100-000082</id>
     <title>What are my missing requirements to renew my competencies?</title>
-    <description><![CDATA[Partners can review the list of competency requirements on the Partner Membership Center. Hover over to Requirements and Assets and select Competency Summary. Partners can also view the list of competencies and it’s requirements on the MPN Portal]]></description>
+    <description><![CDATA[Partners can review the list of competency requirements on the Partner Membership Center. Hover over to Requirements and Assets and select Competency Summary. Partners can also view the list of competencies and its requirements on the MPN Portal]]></description>
     <articlelinks>
       <link>
         <text>MPN Portal: Competencies</text>
@@ -1098,50 +1082,6 @@ Partner program administrators are required to activate the tokens to avoid a la
         <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=100-000090]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000095</id>
-    <title>When can I expect to be moved from Partner Admin Center (PAC) to Partner Center? </title>
-    <description><![CDATA[Starting spring 2018, Office 365 Partner Admin Center (PAC) tool functionality is moving to the Microsoft Partner Center. You will be presented with a popup dialog box when available for the transfer to Partner Center. On transition day, each partner that attempts to access PAC will be automatically redirected and logged in to the Partner Center Dashboard. When the automatic redirection happens, Partners will no longer be able to access Partner Admin Center.  Note to Advisors: currently, you can’t send Paid and Trial Quotes to customers through Partner Center. You can continue to use the Build your Business functionality in PAC until the Paid and Trial Quotes function is enabled in Partner Center.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Moving from Partner Admin Center (PAC) to Partner Center </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Partner Admin Center is moving to Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000096</id>
-    <title>What is Digital Partner Of Record?</title>
-    <description><![CDATA[Learn more of Digital Partner Record in the articles below.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Digital Partner of Record Overview</text>
-        <url><![CDATA[https://assets.microsoft.com/digital-partner-of-record-overview-2017.pptx?tpqid=100-000096]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Digital Partner of Record and Partner Association</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000097</id>
-    <title>How do I pay by wire transfer in Partner Membership Center?</title>
-    <description><![CDATA[See the process for wire transfer in Partner Membership Center in the article below.]]></description>
-    <articlelinks>
-      <link>
-        <text>Wire Transfer in Partner Membership Center</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089048?tpqid=100-000097]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000098</id>
-    <title>How is my Azure consumption calculated for Cloud Platform Competency?</title>
-    <description><![CDATA[TTM consumption is calculated for the subscriptions who have DPOR attached. In case a partner owns some subscriptions, this is not enough. Partner has to be attached as DPOR for the owned subscriptions. The consumption will be calculated only from the date DPOR is attached.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN Portal: Cloud Platform</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000081</id>
     <title>How can I get help for questions related to the Microsoft Partner Network (MPN), from the Regional Service Center (RSC)?</title>
     <description><![CDATA[This article below explains how to get help for questions related to the Microsoft Partner Network (MPN), from the Regional Service Center (RSC).]]></description>
@@ -1176,15 +1116,6 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>MPN Portal: Digital Partner of Record Overview</text>
         <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-Record?tpqid=100-000054]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>100-000099</id>
-    <title>How do I set up an account in the new Partner Center?</title>
-    <description><![CDATA[Access below link to find out more information.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center account FAQ</text>
-        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
-      </link>
     </articlelinks></question><question>
     <id>100-000033</id>
     <title>How do I manage my company's membership?</title>
@@ -1204,7 +1135,7 @@ Partner program administrators are required to activate the tokens to avoid a la
       </link>
     </articlelinks></question><question>
     <id>100-000085</id>
-    <title>How do I merge separate MPN enrollments?.</title>
+    <title>How do I merge separate MPN enrollments?</title>
     <description><![CDATA[Read the article below to see the considerations that could impact your access to benefits and ability to transact.]]></description>
     <articlelinks>
       <link>
@@ -1215,141 +1146,163 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>KB 3202548: How to get Microsoft Partner Network Help from the RSC</text>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
-    </articlelinks></question></group><group title="Partner incentives" refid="PartnerIncentives"><question>
-    <id>400-000008</id>
-    <title>What are Microsoft partner incentives?</title>
-    <description><![CDATA[Take advantage of partner incentives to drive revenue. If your business focuses on certain strategic activities and solution areas, you could be eligible to earn incentives.]]></description>
+    </articlelinks></question><question SortOrderOnHome="2">
+    <id>100-000012</id>
+    <title>How do I renew my MPN membership?</title>
+    <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: Partner incentives</text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000008]]></url>
+        <text>MPN Portal: Renew your membership</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
        <link>
-        <text>Partner Center: Understand your incentive payouts</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+        <text>Partner Center: Purchase or renew a Microsoft Action Pack subscription </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000012]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Access your Partner Center Dashboard</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000079</id>
-    <title>Where can I get support or find more information about partner incentives? </title>
-    <description><![CDATA[Information on all partner incentives programs is available on the Microsoft Partner Network (MPN) Partner Incentives page. Partners who are eligible for an incentive program will see all available materials for that program from the Partner Incentives page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
+    <id>100-000095</id>
+    <title>When can I expect to be moved from Partner Admin Center (PAC) to Partner Center? </title>
+    <description><![CDATA[Starting spring 2018, Office 365 Partner Admin Center (PAC) tool functionality is moving to the Microsoft Partner Center. You will be presented with a popup dialog box when available for the transfer to Partner Center. On transition day, each partner that attempts to access PAC will be automatically redirected and logged in to the Partner Center Dashboard. When the automatic redirection happens, Partners will no longer be able to access Partner Admin Center.  Note to Advisors: currently, you can’t send Paid and Trial Quotes to customers through Partner Center. You can continue to use the Build your Business functionality in PAC until the Paid and Trial Quotes function is enabled in Partner Center.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: View the Partner Incentives page</text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+        <text>Partner Center: Moving from Partner Admin Center (PAC) to Partner Center </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
       </link>
        <link>
-        <text>MPN Portal: Contact Partner Incentives Support (select Partner incentives as Category)</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000079]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Understand your incentive payouts</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+        <text>Partner Center: Partner Admin Center is moving to Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000082</id>
-    <title>How can I become eligible to earn partner incentives?</title>
-    <description><![CDATA[Eligibility for partner incentives varies by program. Some programs look at Microsoft Partner Network competency attainment. Some evaluate partner performance or Microsoft channel authorization status. Not all partners will be eligible for all incentives.]]></description>
+    <id>100-000096</id>
+    <title>What is Digital Partner of Record?</title>
+    <description><![CDATA[Learn more of Digital Partner Record in the articles below.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: MPN members can sign in to Partner Membersip Center to see incentives information</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000082]]></url>
+        <text>MPN Portal: Digital Partner of Record Overview</text>
+        <url><![CDATA[https://assets.microsoft.com/digital-partner-of-record-overview-2017.pptx?tpqid=100-000096]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Digital Partner of Record and Partner Association</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000002</id>
-    <title>How can I receive incentives for selling and deploying Microsoft Cloud Solutions? </title>
-    <description><![CDATA[Access resources that can help you get started with online services incentives and learn what to do if you have questions about your fee statement or the payment process.]]></description>
+    <id>100-000097</id>
+    <title>How do I pay by wire transfer in Partner Membership Center?</title>
+    <description><![CDATA[See the process for wire transfer in Partner Membership Center in the article below.]]></description>
     <articlelinks>
       <link>
-        <text>KB 3082022: Incentives for selling and deploying Microsoft Cloud Solutions</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
+        <text>Wire Transfer in Partner Membership Center</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089048?tpqid=100-000097]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>How do I get support for partner incentives? </title>
-    <description><![CDATA[You can find support for the Partner Incentives program under the Support section on the Partner Incentives page.]]></description>
+    <id>100-000098</id>
+    <title>How is my Azure consumption calculated for Cloud Platform Competency?</title>
+    <description><![CDATA[TTM consumption is calculated for the subscriptions who have DPOR attached. In case a partner owns some subscriptions, this is not enough. Partner has to be attached as DPOR for the owned subscriptions. The consumption will be calculated only from the date DPOR is attached.]]></description>
     <articlelinks>
       <link>
-        <text>MPN Portal: Get support for partner incentives </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives#Supports?tpqid=400-000080]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: View the new Partner Incentives page</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
+        <text>MPN Portal: Cloud Platform</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>How to update my Banking and Tax information?</title>
-    <description><![CDATA[See the articles below to learn how to update your banking and tax information]]></description>
+    <id>100-000086</id>
+    <title>How do I schedule an exam?</title>
+    <description><![CDATA[To schedule your Microsoft Certification exam, locate a testing center, reschedule your exam, or confirm your test, visit the Microsoft Certifications page on the Pearson VUE website.]]></description>
     <articlelinks>
       <link>
-        <text>KB 3073470: How to add bank details for Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+        <text>Pearson VUE</text>
+        <url><![CDATA[http://www.pearsonvue.com/microsoft/?tpqid=100-000086]]></url>
       </link>
        <link>
-        <text>KB 3090503: How to submit tax and bank forms for Azure Online Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>KB 3011099: Where Do I Update My Tax Details</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
-      </link>
-    </articlelinks></question></group><group title="Product support" refid="ProductSupport"><question>
-    <id>700-000002</id>
-    <title>How do I create Support Requests for Office 365, Microsoft Azure, or Microsoft Dynamics 365, for either for my organization or on behalf of a customer?</title>
-    <description><![CDATA[Product support requests can be submitted from each of these portals.]]></description>
-    <articlelinks>
-      <link>
-        <text>Office 365 Support (Sign in required)</text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
-      </link>
-       <link>
-        <text>Microsoft Azure Support (Sign in required)</text>
-        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000002]]></url>
-      </link>
-       <link>
-        <text>Microsoft Dynamics 365 Support (Sign in required)</text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+        <text>Pearson Vue Exam Accommodations</text>
+        <url><![CDATA[http://www.pearsonvue.com/accommodations?tpqid=100-000086]]></url>
       </link>
     </articlelinks></question><question>
-    <id>700-000001</id>
-    <title>Where can I get assistance with an issue or questions about Dynamics products?</title>
-    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not resolved to your satisfaction please email Dynamics Escalation including IT number in the email body.]]></description>
+    <id>100-000083</id>
+    <title>How much does it cost to renew my action pack?</title>
+    <description><![CDATA[Review the helpful links below to get the most updated price list for action pack]]></description>
     <articlelinks>
       <link>
-        <text>Dynamics PartnerSource</text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text>MPN Portal: Microsoft Action Pack overview</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Purchase or renew a Microsoft Action Pack subscription</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
+      </link>
+       <link>
+        <text>KB 3009703: How to renew your action pack?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
       </link>
     </articlelinks></question><question>
-    <id>700-000003</id>
-    <title>Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?</title>
-    <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
+    <id>100-000084</id>
+    <title>How much does it cost to renew my competency and where can I find more information?</title>
+    <description><![CDATA[Partners can go to the competency page to view the latest requirements and cost to attain the competency. Review the helpful links below to get the most updated price list for Competencies]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Azure Community</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
+        <text>MPN Portal: Competencies partners</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
       </link>
        <link>
-        <text>Microsoft Dynamics 365 Community</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
+        <text>Partner Center: Competencies</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
       </link>
-       <link>
-        <text>Office 365 Community</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
-      </link>
-    </articlelinks></question></group><group title="Technical Presales and App Dev" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000112</id>
-    <title>What is a technical journey? Why is it important to my partner organization?</title>
-    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>How do I set up an account in the new Partner Center?</title>
+    <description><![CDATA[Access below link to find out more information.]]></description>
     <articlelinks>
       <link>
-        <text>Start your technical journey</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text>Read blog</text>
-        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
+        <text>Partner Center account FAQ</text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000094</id>
+    <title>How to create a partner center account?</title>
+    <description><![CDATA[The article explains how to create a Partner Center account and it is intended for partners who are moving their partner network membership information from Partner Membership Center to Partner Center. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Create a Partner Center account</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000094]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Manage your Partner Center account</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000094]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Update your partner profile</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>100-000092</id>
+    <title>How to link my organization’s work account to my new Partner Center account?</title>
+    <description><![CDATA[If your company doesn’t already have work account, you can create one for free during the enrollment process. If you want to use an existing work account but you’re having trouble signing in, review the following articles:]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Your company work account and Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+       <link>
+        <text>Add a custom domain name to Azure Active Directory</text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000078</id>
+    <title>How to print/download final invoice from MAPS and Competency fee?</title>
+    <description><![CDATA[See the article below to learn how to print final invoices.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4017791: How to print final invoices</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text>Download your Action Pack invoice</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
+      </link>
+    </articlelinks></question></group><group title="Technical Presales, Deployment, App Development" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000113</id>
     <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
     <description><![CDATA[There are three ways to engage across the technical journey: technical webinars, technical consultations, and live chat (for app dev.)]]></description>
@@ -1388,24 +1341,63 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>KB 3182623: Top Partner Product Questions</text>
         <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-    </articlelinks></question></group><group title="Training" refid="Training"><question>
-    <id>1200-000022</id>
-    <title>What are the top asked questions about Learning Paths?</title>
-    <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title>What is a technical journey? Why is it important to my partner organization?</title>
+    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
     <articlelinks>
       <link>
-        <text>KB 2964426: Learning Paths – Top FAQ list</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
+        <text>Start your technical journey</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text>MPN Portal: Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+        <text>Read blog</text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="TechnicalSupport"><question>
+    <id>700-000003</id>
+    <title>Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?</title>
+    <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Azure Community</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
       </link>
        <link>
-        <text>Partner University</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
+        <text>Microsoft Dynamics 365 Community</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
+      </link>
+       <link>
+        <text>Office 365 Community</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
     </articlelinks></question><question>
+    <id>700-000002</id>
+    <title>How do I create Support Requests for Office 365, Microsoft Azure, or Microsoft Dynamics 365, for either for my organization or on behalf of a customer?</title>
+    <description><![CDATA[Product support requests can be submitted from each of these portals.]]></description>
+    <articlelinks>
+      <link>
+        <text>Office 365 Support (Sign in required)</text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+      </link>
+       <link>
+        <text>Microsoft Azure Support (Sign in required)</text>
+        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000002]]></url>
+      </link>
+       <link>
+        <text>Microsoft Dynamics 365 Support (Sign in required)</text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000001</id>
+    <title>Where can I get assistance with an issue or questions about Dynamics products?</title>
+    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not fully resolved please email Dynamics Escalation including IT number in the email body.]]></description>
+    <articlelinks>
+      <link>
+        <text>Dynamics PartnerSource</text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+      </link>
+    </articlelinks></question></group><group title="Training" refid="Training"><question>
     <id>1200-000089</id>
     <title>Where can I find information about competency related exams and readiness?</title>
     <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
@@ -1430,5 +1422,22 @@ Partner program administrators are required to activate the tokens to avoid a la
        <link>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1200-000022</id>
+    <title>What are the top asked questions about Learning Paths?</title>
+    <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2964426: Learning Paths – Top FAQ list</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>MPN Portal: Microsoft partner learning paths</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000022]]></url>
+      </link>
+       <link>
+        <text>Partner University</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
       </link>
     </articlelinks></question></group></groups>
