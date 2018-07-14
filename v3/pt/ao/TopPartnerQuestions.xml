@@ -1,220 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>Quais benefícios de software recebo no Microsoft Action Pack?</title>
-    <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. O processo de renovação é necessário para o O365 e o Dynamics separadamente do novo registro do MAPS. Eles não são renovados automaticamente quando o parceiro renova sua Associação ao MAPS. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
-    <articlelinks>
-      <link>
-        <text>Visão geral do Microsoft Action Pack </text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Tabela de licenças para parceiros do Microsoft Action Pack </text>
-        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Onde posso descarregar o Windows 10 e encontrar a chave de produto?</title>
-    <description><![CDATA[Os parceiros com uma competência Microsoft ou subscritores do Action Pack, podem descarregar o Windows 10 Enterprise e encontrar a correspondente chave de produto para uso interno, no Portal de Distribuição Digital. 
-Para propósito de desenvolvimento, testes ou avaliação os parceiros podem descarregar e aceder às chaves disponibilizadas com as subscrições Visual Studio Online que lhe foram oferecidas como benefício de programa. Estas incluem as edições Professional e Home, o acesso está limitado aos colaboradores da sua empresa aos quais foi atribuída uma subscrição Visual Studio Online.
-
-Nota: As licenças de uso interno do Windows 10 Enterprise disponibilizadas não se tratam de licenças completas mas sim apenas de atualização (Upgrade)
-
-Nota: É necessário que o colaborador tenha direitos de acesso a descargas (download) atribuído para realizar descargas no Portal de Distribuição Digital e para ver chaves é necessário ter o privilégio de aceder às chaves atribuído na Central de Participação. De modo aos colaboradores poderem aceder a uma subscrição Visual Studio Online Enterprise os parceiros com uma competência têm que atribuir o privilégio correspondente na Central de Participação, os parceiros com uma subscrição Action Pack podem alocar aos colaboradores uma subscrição Visual Studio Online Professional ao atribuir-lhes uma das três funções de Contacto Técnico.
-
-Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para as versões Windows 8.1 ou Windows 10 com a chave da versão anterior, de modo a realizar esse Upgrade o parceiro deve utilizar a nova chave da correspondente versão para a qual querem atualizar que se encontra disponível no Portal de Distribuição Digital. 
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal de Distribuição Digital de Parceiro</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Subscrições Visual Studio Online.</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Portal de descargas do Visual Studio Online.</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000075</id>
-    <title>Onde posso analisar as alterações dos downloads e software disponíveis para a minha empresa?</title>
-    <description><![CDATA[Pode encontrar informação sobre as mais recentes alterações nos programas da Rede de Parceiros da Microsoft, ao consultar a página web das Novidades e Portal de Distribuição Digital.]]></description>
-    <articlelinks>
-      <link>
-        <text>Novidades</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>Benefícios de licenças de Nuvem e de software com direitos de uso interno.</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
-      </link>
-       <link>
-        <text>Como ativar e atribuir licenças de direitos de uso interno do Office 365 (E3)</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000048</id>
-    <title>Com posso reclamar o Crédito de Microsoft Azure que recebo como benefício para uso interno?</title>
-    <description><![CDATA[Todos os Parceiros com um nível de Competência ativo ou subscritores do Microsoft Action Pack tem acesso a um crédito mensal de Microsoft Azure. Este benefício é fornecido por Organização, independentemente do número de subscrições Microsoft Action Pack ou Additional Benefit Toolkits adquiridos. No caso de um administrador da sua Organização já ter reclamado o benefício de Microsoft Azure, mais nenhum utilizador da mesma Organização terá a possibilidade de reclamar esse benefício. De modo a saber como reclamar o benefício de Microsoft Azure para uso interno, visite o artigo em baixo:]]></description>
-    <articlelinks>
-      <link>
-        <text>Como ativar o benefício para uso interno de Microsoft Azure</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>Como ativar licenças de direitos de uso interno do Microsoft Azure?</text>
-        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
-      </link>
-       <link>
-        <text>Benefício do software de licenças de uso interno na nuvem</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>Como ativar a minha subscrição Visual Studio Online?</title>
-    <description><![CDATA[Uma subscrição Visual Studio Online fornece-lhe acesso a ferramentas, plataformas e serviços que necessite para desenvolver e testar as suas aplicações com sucesso. Consulte o artigo abaixo para saber como ativar a sua subscrição.]]></description>
-    <articlelinks>
-      <link>
-        <text>Assinatura do Visual Studio no Microsoft Partner Network (MPN)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Ativar assinatura do Visual Studio</text>
-        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
-      </link>
-       <link>
-        <text>Subscrições Visual Studio Online.</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000032</id>
-    <title>Como é que obtenho os benefícios dos direitos de utilização interna do Office 365 (E3) através da Microsoft Partner Network?</title>
-    <description><![CDATA[Obter uma visão geral dos benefícios dos direitos de utilização interna do Office 365 (E3) da Microsoft Partner Network.]]></description>
-    <articlelinks>
-      <link>
-        <text>Como é que obtenho os benefícios dos direitos de utilização interna do Office 365 (E3) através da Microsoft Partner Network</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>Como ativar e atribuir licenças de direitos de uso interno do Office 365 (E3)</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>Como ativar as minhas licenças de uso interno?</title>
-    <description><![CDATA[Pode encontrar instruções passo a passo para ativar as licenças de uso interno de Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM Online ao consultar os seguintes artigos:]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal MPN: Benefício de software e nuvem de Direitos de Uso Interno - para parceiros ainda no PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000087</id>
-    <title>Somos detentores de uma subscrição Microsoft Action Pack e já cumprimos os requisitos de vendas para obter os benefícios adicionais de Office 365 / CRM Online. Onde posso encontrar os correspondentes tokens?</title>
-    <description><![CDATA[Os tokens adicionais não lhe serão atribuídos automaticamente. Por favor contacte o seu centro de suporte regional, de modo a ser verificada a sua elegibilidade para receber os tokens adicionais.]]></description>
-    <articlelinks>
-      <link>
-        <text>Contate o suporte</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
-      </link>
-       <link>
-        <text>Benefício do software de licenças de uso interno na nuvem</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000045</id>
-    <title>Por que razão, após iniciar uma sessão no Visual Studio vejo a mensagem que tenho uma versão de avaliação instalada?</title>
-    <description><![CDATA[O processo de iniciar uma sessão para parceiros que utilizam o MSDN e o Visual Studio foi alterado. Poderá encontrar informação adicional na seguinte página web:]]></description>
-    <articlelinks>
-      <link>
-        <text>Iniciar uma Sessão no Visual Studio</text>
-        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
-      </link>
-       <link>
-        <text>Licença do Visual Studio 2015 não reconhecida</text>
-        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>Como gerir o número limitado de ID Técnicos da Visual Studio Online?</title>
-    <description><![CDATA[Os parceiros de Competência não têm limites de ID técnicos do Visual Studio Online por esse motivo não necessitarão de aumento do limite. Os parceiros subscritores de Action Pack podem obter um aumento até 360% do limite total de ID técnicos do Visual Studio Online, tendo para o efeito que contactar o seu serviço regional de suporte. Use os recursos abaixo para tomar conhecimento de como aumentar o seu limite para 360%.]]></description>
-    <articlelinks>
-      <link>
-        <text>Não é possível atribuir as assinaturas do Visual Studio Online a novos usuários</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Atribuir privilégios e acesso de assinatura do Visual Studio Online</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000104</id>
-    <title>Onde posso baixar e como ativar minhas licenças direitos de uso interno (IUR)?</title>
-    <description><![CDATA[Consulte o artigo abaixo para saber como ativar e atribuir suas licenças de IUR]]></description>
-    <articlelinks>
-      <link>
-        <text>Benefícios de licenças de Nuvem e de software com direitos de uso interno (Role até o final da página para ver a tabela de licenças para Parceiros de competência)
- 
-</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Quais são meus benefícios de direitos de uso interno/Por que é importante que eu os utilize?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Posso comprar uma assinatura de Complemento além da minha assinatura de Serviços Online para IUR (Direitos de Uso Interno) do MPN?</title>
-    <description><![CDATA[Não, isso não é possível. Você precisará comprar pelo menos 1 licença de uma assinatura base por meio dos canais de compra disponíveis para poder adicionar qualquer Complemento. Exceção: para Complementos do CRM OL e do Dynamics 365, como instâncias de não produção e armazenamento, você pode enviar sua solicitação aqui para obter uma assinatura base gratuita]]></description>
-    <articlelinks>
-      <link>
-        <text>Envie sua solicitação aqui para obter uma assinatura base gratuita</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Guia de uso de produtos para benefícios de software e serviços de nuvem</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question></group><group title="Associação" refid="ProgramsMembership"><question>
-    <id>100-000050</id>
-    <title>A minha Organização tem Microsoft Certified Professionals (MCP) que não são reconhecidos como qualificáveis para cumprir os requisitos de determinada Competência Silver ou Gold. O que devo fazer?</title>
-    <description><![CDATA[Após as recentes alterações no programa de Parceiros, você ou os seus MCPs podem não estar a ser reconhecidos corretamente na sua Central de Participação, apesar estarem corretamente associados à Organização e terem passado nos Exames requeridos. Neste caso, deverá reatribuir os MCPs em “Gerenciar Microsoft Certified Professionals”. Este modo de contornar esse problema resolverá essa situação. Se o problema persistir, aconselhamos que contacte o Centro Regional de Suporte. ]]></description>
-    <articlelinks>
-      <link>
-        <text>olucionar problemas com exames e certificações não creditadas corretamente</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>incular ou desvincular uma ID do MCP para ou de uma organização parceira</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000003</id>
-    <title>Qual é a diferença entre benefícios principais e benefícios de competência?</title>
-    <description><![CDATA[Ao conquistar a sua primeira competência, você tem direito a uma série de benefícios principais.  Conforme consegue mais competências, receberá outros benefícios específicos a tal competência.]]></description>
-    <articlelinks>
-      <link>
-        <text>Benefícios e requisitos principais</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000003]]></url>
-      </link>
-       <link>
-        <text>Visão geral do Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Associação" refid="Membership"><question>
     <id>100-000012</id>
     <title>Como faço para renovar a associação da minha empresa?</title>
     <description><![CDATA[Aprenda como determinar quando você deve renovar a associação, como fazer para renovar, oportunidades na rede, etc.]]></description>
@@ -230,6 +14,79 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Partner Center: Acessar seu Painel do Parnter Center</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000060</id>
+    <title>Como posso encontrar o contrato legal do Microsoft Partner Network?</title>
+    <description><![CDATA[Para visualizar o contrato legal do Microsoft Partner Network deverá fazer o log-in no seu Partner Membership Center e seguir os seguintes passos: Na Página inicial, clique em Programas adicionais e clique em Status por baixo de Microsoft Online Services Partner Agreement. Selecione o passo 1, Enscrever-se no Microsoft Partner Network, para visualizar o contrato. Alternativamente, poderá abrir a versão para impressão abaixo.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+      </link>
+       <link>
+        <text>Versão imprimível do Microsoft Partner Network Agreement</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000003</id>
+    <title>Qual é a diferença entre benefícios principais e benefícios de competência?</title>
+    <description><![CDATA[Ao conquistar a sua primeira competência, você tem direito a uma série de benefícios principais.  Conforme consegue mais competências, receberá outros benefícios específicos a tal competência.]]></description>
+    <articlelinks>
+      <link>
+        <text>Benefícios e requisitos principais</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000003]]></url>
+      </link>
+       <link>
+        <text>Visão geral do Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000069</id>
+    <title>A minha empresa não está inscrita no Microsoft Partner Network. Como posso proceder ao registo da minha empresa?</title>
+    <description><![CDATA[Se já é detentor de uma Microsoft Account, inicie uma sessão na página “Inscreva a sua  Organização no Microsoft Partner Network” e complete todos os passos necessários. Caso ainda não tenha criado uma Microsoft Account, terá que proceder primeiro a esse passo.]]></description>
+    <articlelinks>
+      <link>
+        <text>Como associar sua Conta da Microsoft a uma ID do Microsoft Partner Network</text>
+        <url><![CDATA[https://vimeo.com/134886256?tpqid=100-000069]]></url>
+      </link>
+       <link>
+        <text>Como associar à ID do MPN</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
+      </link>
+       <link>
+        <text>Como associar uma conta da Microsoft para identificação de rede da sua organização Microsoft Partner</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000033</id>
+    <title>Como faço para gerir a associação da minha empresa?</title>
+    <description><![CDATA[Os parceiros podem aceder ao Centro de Associação de Parceiro para gerir a sua associação da Microsoft Partner Network e aos benefícios associados Consulte este artigo para obter uma visão geral do Centro de Associação de Parceiro.]]></description>
+    <articlelinks>
+      <link>
+        <text>Vista Geral do Centro de Associação de Parceiro </text>
+        <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text>Gerenciar sua associação ao MPN</text>
+        <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000050</id>
+    <title>A minha Organização tem Microsoft Certified Professionals (MCP) que não são reconhecidos como qualificáveis para cumprir os requisitos de determinada Competência Silver ou Gold. O que devo fazer?</title>
+    <description><![CDATA[Após as recentes alterações no programa de Parceiros, você ou os seus MCPs podem não estar a ser reconhecidos corretamente na sua Central de Participação, apesar estarem corretamente associados à Organização e terem passado nos Exames requeridos. Neste caso, deverá reatribuir os MCPs em “Gerenciar Microsoft Certified Professionals”. Este modo de contornar esse problema resolverá essa situação. Se o problema persistir, aconselhamos que contacte o Centro Regional de Suporte. ]]></description>
+    <articlelinks>
+      <link>
+        <text>olucionar problemas com exames e certificações não creditadas corretamente</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text>incular ou desvincular uma ID do MCP para ou de uma organização parceira</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000070</id>
@@ -277,36 +134,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>KB 4090552: Como ver sua data de expiração para MAPS ou Competência</text>
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>Como posso encontrar o contrato legal do Microsoft Partner Network?</title>
-    <description><![CDATA[Para visualizar o contrato legal do Microsoft Partner Network deverá fazer o log-in no seu Partner Membership Center e seguir os seguintes passos: Na Página inicial, clique em Programas adicionais e clique em Status por baixo de Microsoft Online Services Partner Agreement. Selecione o passo 1, Enscrever-se no Microsoft Partner Network, para visualizar o contrato. Alternativamente, poderá abrir a versão para impressão abaixo.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
-      </link>
-       <link>
-        <text>Versão imprimível do Microsoft Partner Network Agreement</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000069</id>
-    <title>A minha empresa não está inscrita no Microsoft Partner Network. Como posso proceder ao registo da minha empresa?</title>
-    <description><![CDATA[Se já é detentor de uma Microsoft Account, inicie uma sessão na página “Inscreva a sua  Organização no Microsoft Partner Network” e complete todos os passos necessários. Caso ainda não tenha criado uma Microsoft Account, terá que proceder primeiro a esse passo.]]></description>
-    <articlelinks>
-      <link>
-        <text>Como associar sua Conta da Microsoft a uma ID do Microsoft Partner Network</text>
-        <url><![CDATA[https://vimeo.com/134886256?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>Como associar à ID do MPN</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>Como associar uma conta da Microsoft para identificação de rede da sua organização Microsoft Partner</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000084</id>
@@ -373,7 +200,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Inscreva-se para receber atualizações sobre como tornar-se um ADR ou instalador de Surface Hub da Microsoft</text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000078</id>
     <title>Como imprimir/baixar a fatura final do MAPS e a taxa de Competência?</title>
     <description><![CDATA[Consulte o artigo abaixo para aprender a imprimir faturas finais]]></description>
@@ -383,8 +210,8 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
        <link>
-        <text>Baixar sua fatura do Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/pt-br/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
+        <text>KB 4089764: Como obter sua fatura no Partner Center</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000082</id>
@@ -411,23 +238,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Conversar com o Suporte a Parceiros da Microsoft</text>
         <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000033</id>
-    <title>Como faço para gerir a associação da minha empresa?</title>
-    <description><![CDATA[Os parceiros podem aceder ao Centro de Associação de Parceiro para gerir a sua associação da Microsoft Partner Network e aos benefícios associados Consulte este artigo para obter uma visão geral do Centro de Associação de Parceiro.]]></description>
-    <articlelinks>
-      <link>
-        <text>Vista Geral do Centro de Associação de Parceiro </text>
-        <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
-      </link>
-       <link>
-        <text>Gerenciar sua associação ao MPN</text>
-        <url><![CDATA[https://vimeo.com/137640848?tpqid=100-000033]]></url>
-      </link>
-       <link>
-        <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000090</id>
@@ -573,20 +383,218 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Portal MPN: Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>100-000099</id>
-    <title>Como faço para configurar uma conta no novo Partner Center?</title>
-    <description><![CDATA[Acesse o link abaixo para obter mais informações.]]></description>
+    </articlelinks></question></group><group title="Downloads e softwares" refid="DownloadsSoftware"><question>
+    <id>800-000032</id>
+    <title>Como é que obtenho os benefícios dos direitos de utilização interna do Office 365 (E3) através da Microsoft Partner Network?</title>
+    <description><![CDATA[Obter uma visão geral dos benefícios dos direitos de utilização interna do Office 365 (E3) da Microsoft Partner Network.]]></description>
     <articlelinks>
       <link>
-        <text></text>
-        <url><![CDATA[Perguntas frequentes sobre a conta do Partner Center?tpqid=100-000099]]></url>
+        <text>Como é que obtenho os benefícios dos direitos de utilização interna do Office 365 (E3) através da Microsoft Partner Network</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
       </link>
        <link>
-        <text>https://support.microsoft.com/help/4340639/</text>
-        <url><![CDATA[?tpqid=100-000099]]></url>
+        <text>Como ativar e atribuir licenças de direitos de uso interno do Office 365 (E3)</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000030</id>
+    <title>Como gerir o número limitado de ID Técnicos da Visual Studio Online?</title>
+    <description><![CDATA[Os parceiros de Competência não têm limites de ID técnicos do Visual Studio Online por esse motivo não necessitarão de aumento do limite. Os parceiros subscritores de Action Pack podem obter um aumento até 360% do limite total de ID técnicos do Visual Studio Online, tendo para o efeito que contactar o seu serviço regional de suporte. Use os recursos abaixo para tomar conhecimento de como aumentar o seu limite para 360%.]]></description>
+    <articlelinks>
+      <link>
+        <text>Não é possível atribuir as assinaturas do Visual Studio Online a novos usuários</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
+      </link>
+       <link>
+        <text>Atribuir privilégios e acesso de assinatura do Visual Studio Online</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000104</id>
+    <title>Onde posso baixar e como ativar minhas licenças direitos de uso interno (IUR)?</title>
+    <description><![CDATA[Consulte o artigo abaixo para saber como ativar e atribuir suas licenças de IUR]]></description>
+    <articlelinks>
+      <link>
+        <text>Benefícios de licenças de Nuvem e de software com direitos de uso interno (Role até o final da página para ver a tabela de licenças para Parceiros de competência)
+ 
+</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Quais são meus benefícios de direitos de uso interno/Por que é importante que eu os utilize?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
+      </link>
+       <link>
+        <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>Como ativar as minhas licenças de uso interno?</title>
+    <description><![CDATA[Pode encontrar instruções passo a passo para ativar as licenças de uso interno de Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM Online ao consultar os seguintes artigos:]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal MPN: Benefício de software e nuvem de Direitos de Uso Interno - para parceiros ainda no PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Gerenciar seus benefícios de associação ao Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000039</id>
+    <title>Quais benefícios de software recebo no Microsoft Action Pack?</title>
+    <description><![CDATA[Subscritores do Action Pack recebem em geral até 10 licenças para uso interno de produtos Microsoft mais recentes. Isto inclui licenças de software para uso local (on-premise), serviços online e subscrições Visual Studio Online. O processo de renovação é necessário para o O365 e o Dynamics separadamente do novo registro do MAPS. Eles não são renovados automaticamente quando o parceiro renova sua Associação ao MAPS. Para mais informação sobre os benefícios de licenças, consulte por favor os seguintes recursos:]]></description>
+    <articlelinks>
+      <link>
+        <text>Visão geral do Microsoft Action Pack </text>
+        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Benefícios da inscrição no Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-action-pack-subscription-benefits?tpqid=800-000039]]></url>
+      </link>
+       <link>
+        <text>Comprar ou renovar uma assinatura do Microsoft Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000039]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000090</id>
+    <title>Onde posso descarregar o Windows 10 e encontrar a chave de produto?</title>
+    <description><![CDATA[Os parceiros com uma competência Microsoft ou subscritores do Action Pack, podem descarregar o Windows 10 Enterprise e encontrar a correspondente chave de produto para uso interno, no Portal de Distribuição Digital. 
+Para propósito de desenvolvimento, testes ou avaliação os parceiros podem descarregar e aceder às chaves disponibilizadas com as subscrições Visual Studio Online que lhe foram oferecidas como benefício de programa. Estas incluem as edições Professional e Home, o acesso está limitado aos colaboradores da sua empresa aos quais foi atribuída uma subscrição Visual Studio Online.
+
+Nota: As licenças de uso interno do Windows 10 Enterprise disponibilizadas não se tratam de licenças completas mas sim apenas de atualização (Upgrade)
+
+Nota: É necessário que o colaborador tenha direitos de acesso a descargas (download) atribuído para realizar descargas no Portal de Distribuição Digital e para ver chaves é necessário ter o privilégio de aceder às chaves atribuído na Central de Participação. De modo aos colaboradores poderem aceder a uma subscrição Visual Studio Online Enterprise os parceiros com uma competência têm que atribuir o privilégio correspondente na Central de Participação, os parceiros com uma subscrição Action Pack podem alocar aos colaboradores uma subscrição Visual Studio Online Professional ao atribuir-lhes uma das três funções de Contacto Técnico.
+
+Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para as versões Windows 8.1 ou Windows 10 com a chave da versão anterior, de modo a realizar esse Upgrade o parceiro deve utilizar a nova chave da correspondente versão para a qual querem atualizar que se encontra disponível no Portal de Distribuição Digital. 
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal de Distribuição Digital de Parceiro</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Subscrições Visual Studio Online.</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Portal de descargas do Visual Studio Online.</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000048</id>
+    <title>Com posso reclamar o Crédito de Microsoft Azure que recebo como benefício para uso interno?</title>
+    <description><![CDATA[Todos os Parceiros com um nível de Competência ativo ou subscritores do Microsoft Action Pack tem acesso a um crédito mensal de Microsoft Azure. Este benefício é fornecido por Organização, independentemente do número de subscrições Microsoft Action Pack ou Additional Benefit Toolkits adquiridos. No caso de um administrador da sua Organização já ter reclamado o benefício de Microsoft Azure, mais nenhum utilizador da mesma Organização terá a possibilidade de reclamar esse benefício. De modo a saber como reclamar o benefício de Microsoft Azure para uso interno, visite o artigo em baixo:]]></description>
+    <articlelinks>
+      <link>
+        <text>Como ativar o benefício para uso interno de Microsoft Azure</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000048]]></url>
+      </link>
+       <link>
+        <text>Como ativar licenças de direitos de uso interno do Microsoft Azure?</text>
+        <url><![CDATA[https://vimeo.com/123338148?tpqid=800-000048]]></url>
+      </link>
+       <link>
+        <text>Benefício do software de licenças de uso interno na nuvem</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000087</id>
+    <title>Somos detentores de uma subscrição Microsoft Action Pack e já cumprimos os requisitos de vendas para obter os benefícios adicionais de Office 365 / CRM Online. Onde posso encontrar os correspondentes tokens?</title>
+    <description><![CDATA[Os tokens adicionais não lhe serão atribuídos automaticamente. Por favor contacte o seu centro de suporte regional, de modo a ser verificada a sua elegibilidade para receber os tokens adicionais.]]></description>
+    <articlelinks>
+      <link>
+        <text>Contate o suporte</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?Issueid=200-0011&tpqid=800-000087]]></url>
+      </link>
+       <link>
+        <text>Benefício do software de licenças de uso interno na nuvem</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000045</id>
+    <title>Por que razão, após iniciar uma sessão no Visual Studio vejo a mensagem que tenho uma versão de avaliação instalada?</title>
+    <description><![CDATA[O processo de iniciar uma sessão para parceiros que utilizam o MSDN e o Visual Studio foi alterado. Poderá encontrar informação adicional na seguinte página web:]]></description>
+    <articlelinks>
+      <link>
+        <text>Iniciar uma Sessão no Visual Studio</text>
+        <url><![CDATA[http://msdn.microsoft.com/library/dn457348.aspx?tpqid=800-000045]]></url>
+      </link>
+       <link>
+        <text>Licença do Visual Studio 2015 não reconhecida</text>
+        <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000036</id>
+    <title>Como ativar a minha subscrição Visual Studio Online?</title>
+    <description><![CDATA[Uma subscrição Visual Studio Online fornece-lhe acesso a ferramentas, plataformas e serviços que necessite para desenvolver e testar as suas aplicações com sucesso. Consulte o artigo abaixo para saber como ativar a sua subscrição.]]></description>
+    <articlelinks>
+      <link>
+        <text>Assinatura do Visual Studio no Microsoft Partner Network (MPN)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Ativar assinatura do Visual Studio</text>
+        <url><![CDATA[https://vimeo.com/134888835?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Subscrições Visual Studio Online.</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000075</id>
+    <title>Onde posso analisar as alterações dos downloads e software disponíveis para a minha empresa?</title>
+    <description><![CDATA[Pode encontrar informação sobre as mais recentes alterações nos programas da Rede de Parceiros da Microsoft, ao consultar a página web das Novidades e Portal de Distribuição Digital.]]></description>
+    <articlelinks>
+      <link>
+        <text>Novidades</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/whats-new?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>Benefícios de licenças de Nuvem e de software com direitos de uso interno.</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000075]]></url>
+      </link>
+       <link>
+        <text>Como ativar e atribuir licenças de direitos de uso interno do Office 365 (E3)</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000075]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>Posso comprar uma assinatura de Complemento além da minha assinatura de Serviços Online para IUR (Direitos de Uso Interno) do MPN?</title>
+    <description><![CDATA[Não, isso não é possível. Você precisará comprar pelo menos 1 licença de uma assinatura base por meio dos canais de compra disponíveis para poder adicionar qualquer Complemento. Exceção: para Complementos do CRM OL e do Dynamics 365, como instâncias de não produção e armazenamento, você pode enviar sua solicitação aqui para obter uma assinatura base gratuita]]></description>
+    <articlelinks>
+      <link>
+        <text>Envie sua solicitação aqui para obter uma assinatura base gratuita</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>Guia de uso de produtos para benefícios de software e serviços de nuvem</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
     </articlelinks></question></group><group title="Formação" refid="Training"><question>
+    <id>1200-000056</id>
+    <title>Onde posso encontrar treino gratuito ou a baixo preço proporcionado pela Microsoft?</title>
+    <description><![CDATA[O Partner University está disponível para todos os Parceiros registados no Microsoft Partner Network, independentemente do nível de participação. Esta plataforma proporciona a possibilidade de registo e participação em treino online, ou em pessoa, gratuitamente ou a preço reduzido. Também é frequentemente utilizado para completar as avaliações que são requisito do Microsoft Action Pack ou determinadas competências.]]></description>
+    <articlelinks>
+      <link>
+        <text>Serviços de pré-venda técnica e implantação - Technical Training</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=1200-000056]]></url>
+      </link>
+       <link>
+        <text>Roteiro de aprendizagem para parceiros da Microsoft</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000056]]></url>
+      </link>
+       <link>
+        <text>Partner University </text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1200-000022</id>
     <title>O que são o top perguntado sobre os caminhos de aprendizado?</title>
     <description><![CDATA[Planos de aprendizado podem ajudá-lo obter treinados ou certificada. Caminhos de aprendizagem destacam os caminhos que são relevantes para sua empresa ou organização. O FAQ de caminhos de aprendizagem fornece respostas para o topo, feitas perguntas sobre caminhos de aprendizado.]]></description>
@@ -616,24 +624,24 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Recursos do Microsoft Referrals</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/search?tpqid=1200-000089]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1200-000056</id>
-    <title>Onde posso encontrar treino gratuito ou a baixo preço proporcionado pela Microsoft?</title>
-    <description><![CDATA[O Partner University está disponível para todos os Parceiros registados no Microsoft Partner Network, independentemente do nível de participação. Esta plataforma proporciona a possibilidade de registo e participação em treino online, ou em pessoa, gratuitamente ou a preço reduzido. Também é frequentemente utilizado para completar as avaliações que são requisito do Microsoft Action Pack ou determinadas competências.]]></description>
+    </articlelinks></question></group><group title="Incentivos do parceiro" refid="PartnerIncentives"><question>
+    <id>400-000083</id>
+    <title>Como atualizar minhas informações bancárias e fiscais?</title>
+    <description><![CDATA[Consulte os artigos abaixo para saber como atualizar suas informações bancárias e fiscais]]></description>
     <articlelinks>
       <link>
-        <text>Serviços de pré-venda técnica e implantação - Technical Training</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=1200-000056]]></url>
+        <text>Como adicionar dados bancários para o Azure Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
       </link>
        <link>
-        <text>Roteiro de aprendizagem para parceiros da Microsoft</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=1200-000056]]></url>
+        <text>Como enviar formulários fiscais e bancários para o Azure Online Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
        <link>
-        <text>Partner University </text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000056]]></url>
+        <text>Onde atualizo meus detalhes fiscais</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="Incentivos do parceiro" refid="IncentivesPayouts"><question>
+    </articlelinks></question><question>
     <id>400-000002</id>
     <title>Como posso receber incentivos para vender e implementar Soluções em Nuvem da Microsoft?</title>
     <description><![CDATA[Aceda aos recursos que podem ajudá-lo a iniciar os incentivos dos serviços online e aprenda o que fazer se tiver dúvidas sobre o extrato de taxas ou sobre o processo de pagamento.]]></description>
@@ -694,24 +702,16 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Criar contas de usuário e atribuir permissões</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=400-000082]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>Como atualizar minhas informações bancárias e fiscais?</title>
-    <description><![CDATA[Consulte os artigos abaixo para saber como atualizar suas informações bancárias e fiscais]]></description>
+    </articlelinks></question></group><group title="Jornadas técnicas" refid=""><question>
+    <id>1400-000110</id>
+    <title>Onde posso encontrar as principais perguntas feitas pelos parceiros durante as fases de pré-vendas e implantação de projetos de clientes híbridos e na nuvem?</title>
+    <description><![CDATA[Consulte as perguntas mais frequentes feitas pelos parceiros durante as fases de pré-vendas e implantação dos projetos de clientes, incluindo posicionamento competitivo, demonstrações, configuração, licenciamento técnico, migração e implantação e desenvolvimento de aplicativos. ]]></description>
     <articlelinks>
       <link>
-        <text>Como adicionar dados bancários para o Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+        <text>Principais perguntas dos parceiros sobre o produto</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
       </link>
-       <link>
-        <text>Como enviar formulários fiscais e bancários para o Azure Online Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>Onde atualizo meus detalhes fiscais</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
-      </link>
-    </articlelinks></question></group><group title="Jornadas técnicas" refid=""><question>
+    </articlelinks></question><question>
     <id>1400-000112</id>
     <title>O que é uma jornada técnica? Por que ela é importante para minha organização parceira?</title>
     <description><![CDATA[Jornadas técnicas ajudam a desenvolver suas capacidades técnicas de maneira mais rápida, para acelerar as vendas, as implantações e o desenvolvimento de aplicativos. Inicie sua jornada técnica para receber orientação técnica de consultores técnicos de parceiros da Microsoft, por meio de um roteiro recomendado de webinars técnicos interativos e consultas personalizadas com quadro de comunicações virtual, revisões de arquitetura e sombreamento de cenários do mundo real. ]]></description>
@@ -754,16 +754,16 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Comece sua jornada técnica</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1400-000110</id>
-    <title>Onde posso encontrar as principais perguntas feitas pelos parceiros durante as fases de pré-vendas e implantação de projetos de clientes híbridos e na nuvem?</title>
-    <description><![CDATA[Consulte as perguntas mais frequentes feitas pelos parceiros durante as fases de pré-vendas e implantação dos projetos de clientes, incluindo posicionamento competitivo, demonstrações, configuração, licenciamento técnico, migração e implantação e desenvolvimento de aplicativos. ]]></description>
+    </articlelinks></question></group><group title="Licenciamento" refid="Licensing"><question>
+    <id>1500-000008</id>
+    <title>Como posso saber mais sobre o licenciamento da Microsoft?</title>
+    <description><![CDATA[Consulte o artigo abaixo para ver mais perguntas sobre o licenciamento.]]></description>
     <articlelinks>
       <link>
-        <text>Principais perguntas dos parceiros sobre o produto</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+        <text>KB 4076425: Perguntas sobre licenciamento de parceiros ‒ guia de referência rápida</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Licenciamento" refid="LicensingSalesMarketing"><question>
+    </articlelinks></question><question>
     <id>1500-000009</id>
     <title>Quando os parceiros são autorizados a receber novas chaves para produtos Locais? </title>
     <description><![CDATA[Observe que as chaves locais têm um número finito de ativações. Os parceiros serão autorizados a receber novas chaves somente se tiver sido lançada uma nova versão do produto. Caso contrário, os parceiros não receberão ativações adicionais, mesmo que já as tenham consumido e pago por um novo ano de registro. ]]></description>
@@ -859,34 +859,54 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1500-000008</id>
-    <title>Como posso saber mais sobre o licenciamento da Microsoft?</title>
-    <description><![CDATA[Consulte o artigo abaixo para ver mais perguntas sobre o licenciamento.]]></description>
+    </articlelinks></question></group><group title="Serviços em nuvem" refid="CloudServices"><question>
+    <id>200-000099</id>
+    <title>Onde posso encontrar informações sobre a API do Partner Center?</title>
+    <description><![CDATA[Obtenha materiais de referência, instruções e exemplos de código para todas as suas necessidades de desenvolvimento de API do Partner Center usando estes recursos.]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: Perguntas sobre licenciamento de parceiros ‒ guia de referência rápida</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+        <text>Desenvolver para o Partner Center</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/developer?tpqid=200-000099]]></url>
+      </link>
+       <link>
+        <text>Referência da API gerenciada do Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/partner-center-managed-api?tpqid=200-000099]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Participe do Programa de Adoção Inicial de API e SDK do Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1500-000010</id>
-    <title>Posso usar minhas licenças concedidas para fins de treinamento?</title>
-    <description><![CDATA[Você não tem permissão para usar as licenças concedidas para treinamento de clientes. IURs podem ser usados para fins de treinamento apenas para funcionários internos, e você deve estar ciente do fato de que uma ativação será consumida. ]]></description>
+    <id>200-000100</id>
+    <title>Onde posso encontrar informações sobre como executar ações no Partner Center?</title>
+    <description><![CDATA[Para saber como realizar tarefas para sua organização e seus clientes no Painel do Partner Center, acesse a biblioteca de Ajuda do Partner Center ou nosso material de referência para desenvolvedores.]]></description>
     <articlelinks>
       <link>
-        <text>Guia de Uso de Pacotes de Benefícios do MPN </text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+        <text>Biblioteca de Ajuda do Partner Center   </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
+      </link>
+       <link>
+        <text>Material de referência de API e SDK do Partner Center </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/developer?tpqid=200-000100]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="4">
+    <id>200-000101</id>
+    <title>Como gerenciar minhas Faturas de CSP e a cobrança ao cliente?</title>
+    <description><![CDATA[Revise as informações abaixo para ver como gerenciar sua cobrança. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Cobrança</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Usar os arquivos de reconciliação </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Transferência do PAC (Partner Admin Center) para o Partner Center </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1500-000011</id>
-    <title>Meus tokens online são ativados automaticamente depois de renovar minha assinatura/competência do Action Pack?</title>
-    <description><![CDATA[Quando você renova uma assinatura ou se reinscreve na assinatura/programa do Action Pack com uma competência, um novo conjunto de tokens é emitido com base no direito da organização no momento da reinscrição. Os administradores do programa de parceiros precisam ativar os tokens para evitar um lapso nos serviços de nuvem. Esses tokens não são ativados automaticamente. Eles podem ser ativados quando você quiser, mas leve em consideração a perspectiva de conformidade. Depois que o Action Pack/Competência expirar, você não terá uma licença para o benefício específico, mesmo se os tokens ainda estiverem ativos.]]></description>
-    <articlelinks>
-      <link>
-        <text>Guia de Uso de Pacotes de Benefícios do MPN </text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
-      </link>
-    </articlelinks></question></group><group title="Serviços em nuvem" refid="AccountSetupManagement"><question>
     <id>200-000026</id>
     <title>Eu sou um parceiro da Microsoft. Como posso ativar as funcionalidades de parceiro?</title>
     <description><![CDATA[Use os seguintes recursos para aceder aos seus benefícios na nuvem e ativar as funcionalidades de parceiro:]]></description>
@@ -911,6 +931,10 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Painel de Serviços de Nuvem</text>
         <url><![CDATA[https://vimeo.com/139233180?tpqid=200-000085]]></url>
+      </link>
+       <link>
+        <text>Guia do usuário do Painel de Serviços de Nuvem</text>
+        <url><![CDATA[https://assets.microsoft.com/mpn-cloud-consumption-user-guide.pdf?tpqid=200-000085]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000066</id>
@@ -990,7 +1014,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Partner Center: Informações sobre incentivos do CSP</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/incentives-payouts?tpqid=200-000094]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>200-000095</id>
     <title>Quais são as etapas para começar a participar do Partner Center?</title>
     <description><![CDATA[Leia o artigo abaixo para saber mais sobre o site do Partner Center.]]></description>
@@ -1094,53 +1118,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text>Enviar uma solicitação de suporte do Partner Center ou do CSP</text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851613&tpqid=200-000097]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>200-000099</id>
-    <title>Onde posso encontrar informações sobre a API do Partner Center?</title>
-    <description><![CDATA[Obtenha materiais de referência, instruções e exemplos de código para todas as suas necessidades de desenvolvimento de API do Partner Center usando estes recursos.]]></description>
-    <articlelinks>
-      <link>
-        <text>Desenvolver para o Partner Center</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/developer?tpqid=200-000099]]></url>
-      </link>
-       <link>
-        <text>Referência da API gerenciada do Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/partner-center-managed-api?tpqid=200-000099]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Participe do Programa de Adoção Inicial de API e SDK do Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000100</id>
-    <title>Onde posso encontrar informações sobre como executar ações no Partner Center?</title>
-    <description><![CDATA[Para saber como realizar tarefas para sua organização e seus clientes no Painel do Partner Center, acesse a biblioteca de Ajuda do Partner Center ou nosso material de referência para desenvolvedores.]]></description>
-    <articlelinks>
-      <link>
-        <text>Biblioteca de Ajuda do Partner Center   </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
-      </link>
-       <link>
-        <text>Migrando do PMC para o Painel de Parceiros </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pmc-to-partner-center ?tpqid=200-000100]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000101</id>
-    <title>Como gerenciar minhas Faturas de CSP e a cobrança ao cliente?</title>
-    <description><![CDATA[Revise as informações abaixo para ver como gerenciar sua cobrança. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Cobrança</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Usar os arquivos de reconciliação </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Transferência do PAC (Partner Admin Center) para o Partner Center </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
-      </link>
     </articlelinks></question></group><group title="Suporte ao produto" refid="ProductSupport"><question>
     <id>700-000001</id>
     <title>Onde posso obter assistência com um problema ou pergunta sobre os produtos Dynamics?</title>
@@ -1185,6 +1162,49 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
     </articlelinks></question></group><group title="Vantagens" refid="Benefits"><question>
+    <id>300-000028</id>
+    <title>Como qualificar para o benefício de Signature Cloud Support?</title>
+    <description><![CDATA[Reveja o Guia de Divulgação para mais informações sobre os requisitos para Cloud Performance e as Competências híbridas.]]></description>
+    <articlelinks>
+      <link>
+        <text>Guia de Divulgação do Microsoft Partner Network</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000106</id>
+    <title>Quais são as etapas para criar uma conta de usuário e atribuir permissões?</title>
+    <description><![CDATA[Agora, você tem a capacidade de atribuir aos usuários três novas funções no Partner Center que ajudarão a gerenciar seus negócios: administrador do MPN, administrador do perfil de negócios e administrador de indicações.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Center: Criar contas de usuário e atribuir permissões</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+      </link>
+       <link>
+        <text>Partner Center: Gerenciar sua conta do Partner Center</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000004</id>
+    <title>Como faço para obter o meu logotipo de competência?</title>
+    <description><![CDATA[Vá para Partner Logo Builder para criar e fazer o download de logotipos personalizados que podem ser usados para promover a sua parceria com a Microsoft em todas as competências que você conquistou.]]></description>
+    <articlelinks>
+      <link>
+        <text>Logo Builder para Parceiros</text>
+        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>Introdução ao Logo Builder</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text>Guia de Selo de Vendedor Parceiro do MPN</text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000099</id>
     <title>Como me registrar no Visual Studio se eu já estava registrado no MSDN?</title>
     <description><![CDATA[Aprenda a se registrar no Visual Studio, seguindo as etapas descritas no artigo da Base de Dados de Conhecimento, Registro no My Visual Studio. (Observe que o RSC do MPN é responsável por dar suporte aos membros do MPN para a compreensão dos benefícios da assinatura do Visual Studio, o acesso à assinatura e o uso básico do portal do Visual Studio.)]]></description>
@@ -1373,48 +1393,5 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text>Acelere o seu negócio com os benefícios de uso interno (IUR)</text>
         <url><![CDATA[https://vimeo.com/158216561?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>Como qualificar para o benefício de Signature Cloud Support?</title>
-    <description><![CDATA[Reveja o Guia de Divulgação para mais informações sobre os requisitos para Cloud Performance e as Competências híbridas.]]></description>
-    <articlelinks>
-      <link>
-        <text>Guia de Divulgação do Microsoft Partner Network</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>Para verificar se você está qualificado para esse benefício e saber mais</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000106</id>
-    <title>Quais são as etapas para criar uma conta de usuário e atribuir permissões?</title>
-    <description><![CDATA[Agora, você tem a capacidade de atribuir aos usuários três novas funções no Partner Center que ajudarão a gerenciar seus negócios: administrador do MPN, administrador do perfil de negócios e administrador de indicações.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Center: Criar contas de usuário e atribuir permissões</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
-      </link>
-       <link>
-        <text>Partner Center: Gerenciar sua conta do Partner Center</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000004</id>
-    <title>Como faço para obter o meu logotipo de competência?</title>
-    <description><![CDATA[Vá para Partner Logo Builder para criar e fazer o download de logotipos personalizados que podem ser usados para promover a sua parceria com a Microsoft em todas as competências que você conquistou.]]></description>
-    <articlelinks>
-      <link>
-        <text>Logo Builder para Parceiros</text>
-        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>Introdução ao Logo Builder</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>Guia de Selo de Vendedor Parceiro do MPN</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
       </link>
     </articlelinks></question></group></groups>
