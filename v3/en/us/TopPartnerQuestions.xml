@@ -601,15 +601,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <articlelinks>
       <link>
         <text>Partner Logo Builder</text>
-        <url><![CDATA[http://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>MPN Portal: Getting Started with Logo Builder</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=1&tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text>MPN Partner Seller Badge Guide</text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/Home/_DownloadResource?resourceId=3&tpqid=300-000004]]></url>
+        <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000100</id>
@@ -1298,20 +1290,16 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Download your Action Pack invoice</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Presales, Deployment, App Development" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000113</id>
-    <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
-    <description><![CDATA[There are three ways to engage across the technical journey: technical webinars, technical consultations, and live chat (for app dev.)]]></description>
+    </articlelinks></question><question>
+    <id>100-000100</id>
+    <title>How can I onboard as an Indirect Reseller?</title>
+    <description><![CDATA[Access below link to learn how you can enroll in the Cloud Solution provider program. ]]></description>
     <articlelinks>
       <link>
-        <text>Learn more</text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+        <text>Enroll in the Cloud Solution Provider program</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-       <link>
-        <text>Start a Dev Chat</text>
-        <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technical Presales, Deployment, App Development" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000114</id>
     <title>What MPN benefits do I leverage to access the technical journeys?</title>
     <description><![CDATA[As an MPN partner, you receive unlimited access to remote, technical webinars, and unlimited access to Dev Chat offered as part of the technical journey. To engage in a one-to-one technical consultation via Skype for Business, you will leverage your Technical Presales Assistance or Partner Advisory Hours benefit. ]]></description>
@@ -1350,24 +1338,20 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Read blog</text>
         <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="TechnicalSupport"><question>
-    <id>700-000003</id>
-    <title>Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?</title>
-    <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title>How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?</title>
+    <description><![CDATA[There are three ways to engage across the technical journey: technical webinars, technical consultations, and live chat (for app dev.)]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Azure Community</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
+        <text>Learn more</text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
       </link>
        <link>
-        <text>Microsoft Dynamics 365 Community</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
+        <text>Start a Dev Chat</text>
+        <url><![CDATA[https://support.microsoft.com/help/3174960?tpqid=1400-000113]]></url>
       </link>
-       <link>
-        <text>Office 365 Community</text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="TechnicalSupport"><question>
     <id>700-000002</id>
     <title>How do I create Support Requests for Office 365, Microsoft Azure, or Microsoft Dynamics 365, for either for my organization or on behalf of a customer?</title>
     <description><![CDATA[Product support requests can be submitted from each of these portals.]]></description>
@@ -1393,16 +1377,24 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question></group><group title="Training" refid="Training"><question>
-    <id>1200-000089</id>
-    <title>Where can I find information about competency related exams and readiness?</title>
-    <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
+    </articlelinks></question><question>
+    <id>700-000003</id>
+    <title>Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?</title>
+    <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
+        <text>Microsoft Azure Community</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text>Microsoft Dynamics 365 Community</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
+      </link>
+       <link>
+        <text>Office 365 Community</text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
+      </link>
+    </articlelinks></question></group><group title="Training" refid="Training"><question>
     <id>1200-000056</id>
     <title>Does Microsoft offer low or no-cost training?</title>
     <description><![CDATA[Training is a benefit available to organizations enrolled in the Microsoft Partner Network at any level. MPN provides registration and access to online and in-person low and no-cost training. It is also used to complete the assessment requirements for Microsoft Action Pack and competencies.]]></description>
@@ -1435,5 +1427,14 @@ Partner program administrators are required to activate the tokens to avoid a la
        <link>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=1200-000022]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1200-000089</id>
+    <title>Where can I find information about competency related exams and readiness?</title>
+    <description><![CDATA[For information regarding competency exams and readiness, please visit the Microsoft partner learning paths page below. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft partner learning paths</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=1200-000089]]></url>
       </link>
     </articlelinks></question></group></groups>
