@@ -134,15 +134,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>Как назначить доступ и привилегии к подписке Visual Studio Online  для партнеров MAPS и партнеров с компетенциями?</title>
-    <description><![CDATA[В следующей статье приведены пошаговые инструкции по назначению доступа к подписке Visual Studio Online и привилегий для партнеров MAPS и партнеров с компетенциями.]]></description>
-    <articlelinks>
-      <link>
-        <text>Назначение доступа к подписке Visual Studio Online и привилегий</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000104</id>
     <title>Как создать инциденты профессиональной поддержки на местах с помощью идентификатора доступа и контракта ID?</title>
     <description><![CDATA[Рекомендации по созданию инцидентов профессиональной поддержки на местах с помощью идентификатора доступа и контракта приведены в следующей статье.]]></description>
@@ -379,6 +370,19 @@
         <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>200-000083</id>
+    <title>Где получить дополнительную информацию и быть в курсе самых последних обновлений по программе «Поставщик облачных решений» (CSP)?</title>
+    <description><![CDATA[Портал Центра партнеров позволяет оставаться в курсе последних обновлений и получать подробные сведения о программе CSP.]]></description>
+    <articlelinks>
+      <link>
+        <text>Центр партнеров. Подробнее о программе CSP</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+      </link>
+       <link>
+        <text>Центр партнеров. Уведомления CSP</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000026</id>
     <title>Мы Microsoft Partner. Как мы можем активировать функции партнеров?</title>
     <description><![CDATA[Вы можете использовать следующие ресурсы, чтобы ознакомиться с информацией о том, как получить доступ к преимуществам своего онлайн-сервиса и активировать функции партнеров:]]></description>
@@ -390,6 +394,32 @@
        <link>
         <text>Активация функций Партнера</text>
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000100</id>
+    <title>Где можно найти сведения о выполнении задач в Центре партнеров?</title>
+    <description><![CDATA[Для получения дополнительных сведений о выполнении задач для вашей организации и клиентов в панели мониторинга Центра партнеров посетите библиотеку справочной документации или ознакомьтесь со справочными материалами разработчика.]]></description>
+    <articlelinks>
+      <link>
+        <text>Библиотека справочной документации Центра партнеров   </text>
+        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000101</id>
+    <title>Как управлять моими счетами CSP и выставлением счетов клиентам?</title>
+    <description><![CDATA[Ознакомьтесь с приведенной ниже информацией, чтобы узнать, как управлять выставлением счетов. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Центр партнеров. Выставление счетов</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Центр партнеров. Использование файлов сверки </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+      </link>
+       <link>
+        <text>Центр партнеров. Переход из Центра администратора партнера в Центр партнеров </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000029</id>
@@ -409,32 +439,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000100</id>
-    <title>Где можно найти сведения о выполнении задач в Центре партнеров?</title>
-    <description><![CDATA[Для получения дополнительных сведений о выполнении задач для вашей организации и клиентов в панели мониторинга Центра партнеров посетите библиотеку справочной документации или ознакомьтесь со справочными материалами разработчика.]]></description>
-    <articlelinks>
-      <link>
-        <text>Библиотека справочной документации Центра партнеров   </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>200-000101</id>
-    <title>Как управлять моими счетами CSP и выставлением счетов клиентам?</title>
-    <description><![CDATA[Ознакомьтесь с приведенной ниже информацией, чтобы узнать, как управлять выставлением счетов. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Центр партнеров. Выставление счетов</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
-      </link>
-       <link>
-        <text>Центр партнеров. Использование файлов сверки </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
-      </link>
-       <link>
-        <text>Центр партнеров. Переход из Центра администратора партнера в Центр партнеров </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000068</id>
     <title>Каким образом моя компания может создать демо версии офис 365?</title>
     <description><![CDATA[Демо портал Microsoft Office позволяет создать демонстрационные среды и материалы, руководство демонстрационного доступа для продуктов Office, без необходимости полной локальной установки .Демо среда Microsoft Office состоит из  пробного арендатора персонального Office 365, населенного готовым к демо контентом. После того, как Ваш арендатор офиса 365 настроен, Вы можете поставить эффективные демо-версии, которые смогут охватыватить весь спектр офисных продуктов, таких как Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint, и многие другие]]></description>
@@ -452,16 +456,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000085</id>
-    <title>Что такое Cloud Services Partner Dashboard?</title>
-    <description><![CDATA[Microsoft Cloud Services Dashboard – это панель, которая помогает реселлерам и дистрибьютерам отслеживать статус подписок своих клиентов на Microsoft Office 365, Microsoft Intune и Microsoft Dynamics CRM Online. 
-Вы можете использовать эту панель в качестве источника ключевых данных для эффективного управления подписками ваших клиентов, которые назначили вашу организацию в качестве партнера (partner of record). С помощью этих данных вы можете более эффективно и активно стимулировать спрос, развертывание и продления. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Узнайте больше о Partner Online Services Dashboard</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
     <id>200-000086</id>
     <title>Как создать или отменить подписку?</title>
     <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам]]></description>
@@ -475,15 +469,16 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>Как мотивировать моих клиентов к покупке Office 365?</title>
-    <description><![CDATA[Независимо от того, начинаете ли вы свой бизнес по предоставлению интернет-служб или он уже достиг впечатляющих размеров, Cloud SureStep поможет вам максимизировать прибыль.]]></description>
+    <id>200-000085</id>
+    <title>Что такое Cloud Services Partner Dashboard?</title>
+    <description><![CDATA[Microsoft Cloud Services Dashboard – это панель, которая помогает реселлерам и дистрибьютерам отслеживать статус подписок своих клиентов на Microsoft Office 365, Microsoft Intune и Microsoft Dynamics CRM Online. 
+Вы можете использовать эту панель в качестве источника ключевых данных для эффективного управления подписками ваших клиентов, которые назначили вашу организацию в качестве партнера (partner of record). С помощью этих данных вы можете более эффективно и активно стимулировать спрос, развертывание и продления. ]]></description>
     <articlelinks>
       <link>
-        <text>Обзор Cloud SureStep</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+        <text>Узнайте больше о Partner Online Services Dashboard</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>Как стать участником программы «Поставщик облачных решений»?</title>
     <description><![CDATA[Ознакомьтесь с приведенными ниже сведениями о процедуре регистрации]]></description>
@@ -523,17 +518,13 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>Где получить дополнительную информацию и быть в курсе самых последних обновлений по программе «Поставщик облачных решений» (CSP)?</title>
-    <description><![CDATA[Портал Центра партнеров позволяет оставаться в курсе последних обновлений и получать подробные сведения о программе CSP.]]></description>
+    <id>200-000066</id>
+    <title>Как мотивировать моих клиентов к покупке Office 365?</title>
+    <description><![CDATA[Независимо от того, начинаете ли вы свой бизнес по предоставлению интернет-служб или он уже достиг впечатляющих размеров, Cloud SureStep поможет вам максимизировать прибыль.]]></description>
     <articlelinks>
       <link>
-        <text>Центр партнеров. Подробнее о программе CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
-      </link>
-       <link>
-        <text>Центр партнеров. Уведомления CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+        <text>Обзор Cloud SureStep</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -584,6 +575,23 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
       </link>
     </articlelinks></question></group><group title="Программа поощрений и выплаты" refid="IncentivesPayouts"><question>
+    <id>400-000083</id>
+    <title>Как обновить мои банковские и налоговые сведения?</title>
+    <description><![CDATA[Дополнительные данные о том, как обновить банковские и налоговые сведения, см. в следующих статьях]]></description>
+    <articlelinks>
+      <link>
+        <text>Как добавить банковские сведения для поощрений по программе Azure Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>Как отправить формы налоговых и банковских сведений для получения поощрений по программе Azure Online Incentives</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>Где обновить мои налоговые сведения</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000080</id>
     <title>Как получить поддержку в вопросе поощрения партнера?</title>
     <description><![CDATA[Поддержку по программе поощрения для партнеров можно получить в разделе "Поддержка" на странице "Поощрения для партнеров".]]></description>
@@ -644,24 +652,24 @@
         <text>Разберитесь в своих поощрительных выплатах</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>Как обновить мои банковские и налоговые сведения?</title>
-    <description><![CDATA[Дополнительные данные о том, как обновить банковские и налоговые сведения, см. в следующих статьях]]></description>
+    </articlelinks></question></group><group title="Программы и участие в них" refid="ProgramsMembership"><question>
+    <id>100-000061</id>
+    <title>Где мы можем увидеть дату окончания подписки   Microsoft Action Pack? </title>
+    <description><![CDATA[Для просмотра даты окончания подписки, зайдите в Центр Сообщества   Партнеров, в меню выберите опцию  Заказы и Преимущества затем нажмите Подписка Microsoft Action Pack.]]></description>
     <articlelinks>
       <link>
-        <text>Как добавить банковские сведения для поощрений по программе Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
+        <text>Портал MPN. Войдите в центр Partner Membership Center</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/Reports/PartnerSummaryReport?tpqid=100-000061]]></url>
       </link>
        <link>
-        <text>Как отправить формы налоговых и банковских сведений для получения поощрений по программе Azure Online Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+        <text>Приостановка действия подписки</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/suspend-a-subscription?tpqid=100-000061]]></url>
       </link>
        <link>
-        <text>Где обновить мои налоговые сведения</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+        <text>KB 4090552: Как посмотреть дату истечения срока действия подписки на MAPS или компетенцию</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question></group><group title="Программы и участие в них" refid="ProgramsMembership"><question>
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>Моя организация не участвует в программе Microsoft Partner Network. Как зарегистрировать свою компанию?</title>
     <description><![CDATA[Если Вы зарегистрированы в Microsoft, войдите на страницу программы Microsoft Partner Network, чтобы начать регистрацию Вашей компании. Если у Вас нет учетной записи Microsoft, Вам будет необходимо создать её прежде чем Вы начнёте регистрировать компанию.]]></description>
@@ -688,19 +696,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>Где я могу найти соглашение  Microsoft Partner Network? </title>
-    <description><![CDATA[Чтобы просмотреть соглашение  Microsoft Partner Network , вам нужно будет зайти в  Центр Сообщества партнеров  . При входе откройте Дополнительные программы  и выберите  Статус под   Microsoft онлайн партнерским соглашением. Затем выбрать шаг 1 , Подключиться к партнерской сети  Microsoft, для того чтобы посмотреть соглашение. Либо можете открыть версию для распечатки, расположенную ниже.]]></description>
-    <articlelinks>
-      <link>
-        <text>Центр сообщества партнеров</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network соглашение для печати</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000094</id>
     <title>Как создать учетную запись Центра партнеров?</title>
     <description><![CDATA[В этой статье рассказывается о том, как создать учетную запись Центра партнеров. Эта статья для партнеров, которые переносят сведения о своем членстве в MPN из центра Partner Membership Center в Центр партнеров. ]]></description>
@@ -716,6 +711,19 @@
        <link>
         <text>Центр партнеров: Обновление вашего профиля партнера</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000060</id>
+    <title>Где я могу найти соглашение  Microsoft Partner Network? </title>
+    <description><![CDATA[Чтобы просмотреть соглашение  Microsoft Partner Network , вам нужно будет зайти в  Центр Сообщества партнеров  . При входе откройте Дополнительные программы  и выберите  Статус под   Microsoft онлайн партнерским соглашением. Затем выбрать шаг 1 , Подключиться к партнерской сети  Microsoft, для того чтобы посмотреть соглашение. Либо можете открыть версию для распечатки, расположенную ниже.]]></description>
+    <articlelinks>
+      <link>
+        <text>Центр сообщества партнеров</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network соглашение для печати</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000102</id>
@@ -869,19 +877,6 @@
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000082</id>
-    <title>Соответствия каким требованиям мне не хватает для возобновления моих компетенций?</title>
-    <description><![CDATA[Партнеры могут просматривать список требований к компетенции в Центре поддержки участников Партнерской программы. Наведите указатель на раздел "Требования и ресурсы" и выберите "Сводка по компетенциям". Партнеры также могут просматривать список компетенций и требования к ним на портале MPN ]]></description>
-    <articlelinks>
-      <link>
-        <text>Компетенции</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text>KB 4089772: Последовательность действий, чтобы увидеть не выполненные требования в Центре партнеров</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000095</id>
     <title>Когда предполагается мой переход из Центра администратора партнера (PAC) в Центр партнеров? </title>
     <description><![CDATA[Начиная с весны 2018 года функциональные возможности средства «Центр администратора партнера Office 365» переносятся в Центр партнеров Майкрософт. Когда возможность для перехода в Центр партнеров будет доступна, вы увидите всплывающее диалоговое окно с контекстным меню. В день перехода каждый партнер, который попытается войти в Центр администратора партнера будет автоматически перенаправлен и зарегистрирован в панели мониторинга Центра партнеров. После завершения процедуры автоматического перенаправления, партнеры не будут иметь доступа к Центру администратора партнера.  Примечание для консультантов: отправка ценовых предложений по платным и пробным версиям клиентам через Центр партнеров в настоящее время невозможна. Вы можете продолжать использовать функции Построение бизнеса в Центре администратора партнера до тех пор, пока в Центре партнеров не будет включена функция Ценовые предложения по платным и пробным версиям.]]></description>
@@ -924,6 +919,19 @@
       <link>
         <text>Портал MPN. Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000082</id>
+    <title>Соответствия каким требованиям мне не хватает для возобновления моих компетенций?</title>
+    <description><![CDATA[Партнеры могут просматривать список требований к компетенции в Центре поддержки участников Партнерской программы. Наведите указатель на раздел "Требования и ресурсы" и выберите "Сводка по компетенциям". Партнеры также могут просматривать список компетенций и требования к ним на портале MPN ]]></description>
+    <articlelinks>
+      <link>
+        <text>Компетенции</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text>KB 4089772: Последовательность действий, чтобы увидеть не выполненные требования в Центре партнеров</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000081</id>
@@ -1025,15 +1033,6 @@
         <text>Центр партнеров. Компетенции</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000103</id>
-    <title>Где я могу найти информацию об экзаменах для компетенций и готовности?</title>
-    <description><![CDATA[Для получения информации об экзаменах для компетенций и готовности, пожалуйста, посетите страницу Microsoft partner learning paths по ссылке ниже. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Схемы обучения партнера корпорации Майкрософт</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000092</id>
     <title>Как привязать рабочую учетную запись моей организации к учетной записи Центра партнеров?</title>
@@ -1057,6 +1056,15 @@
         <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000103</id>
+    <title>Где я могу найти информацию об экзаменах для компетенций и готовности?</title>
+    <description><![CDATA[Для получения информации об экзаменах для компетенций и готовности, пожалуйста, посетите страницу Microsoft partner learning paths по ссылке ниже. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Схемы обучения партнера корпорации Майкрософт</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000101</id>
     <title>Предлагает ли Microsoft бесплатное обучение (тренинги) или же обучение по доступным ценам?</title>
     <description><![CDATA[Центр Обучения Партнер это преимущество доступно для организаций, включенных в программы Microsoft Partner Network на любом уровне. Центр обучения партнеров обеспечивает регистрацию и доступ к онлайн обучению, включая бесплатное и по доступным ценам. Он также используется для прохождения требуемых екзаменов для Microsoft Action Pack и компетенций.]]></description>
@@ -1073,24 +1081,7 @@
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000101]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000061</id>
-    <title>Где мы можем увидеть дату окончания подписки   Microsoft Action Pack? </title>
-    <description><![CDATA[Для просмотра даты окончания подписки, зайдите в Центр Сообщества   Партнеров, в меню выберите опцию  Заказы и Преимущества затем нажмите Подписка Microsoft Action Pack.]]></description>
-    <articlelinks>
-      <link>
-        <text>Портал MPN. Войдите в центр Partner Membership Center</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/Reports/PartnerSummaryReport?tpqid=100-000061]]></url>
-      </link>
-       <link>
-        <text>Приостановка действия подписки</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/suspend-a-subscription?tpqid=100-000061]]></url>
-      </link>
-       <link>
-        <text>KB 4090552: Как посмотреть дату истечения срока действия подписки на MAPS или компетенцию</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>Как подключиться в качестве непрямого розничного торговца?</title>
     <description><![CDATA[Чтобы узнать подробнее о том, как зарегистрироваться в качестве участника программы «Поставщик облачных решений», перейдите по ссылке.]]></description>
@@ -1208,6 +1199,30 @@
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="Управление соглашениями, заказами и подписками" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000090</id>
+    <title>Где я могу загрузить программное обеспечение и ключ продукта Windows 10?</title>
+    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
+
+Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
+
+Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
+
+Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Портал Partner Digital Distribution Portal</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Подписки Visual Studio Online</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Веб-сайт для загрузки Visual Studio Online</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000032</id>
     <title>Как получить право на внутреннее использование плана Office 365 (E3) в Microsoft Partner Network?</title>
     <description><![CDATA[Ознакомьтесь с преимуществами прав на внутреннее использование Office 365 (E3) в Microsoft Partner Network.]]></description>
@@ -1262,10 +1277,6 @@
       <link>
         <text>Невозможно назначить подписку Visual Studio Online новым пользователям</text>
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Назначение подписки Visual Studio Online: доступ и преимущества </text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000048</id>
@@ -1361,29 +1372,5 @@
        <link>
         <text>Лицензия на Visual Studio 2015 не распознана</text>
         <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Где я могу загрузить программное обеспечение и ключ продукта Windows 10?</title>
-    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
-
-Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
-
-Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
-
-Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Портал Partner Digital Distribution Portal</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Подписки Visual Studio Online</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Веб-сайт для загрузки Visual Studio Online</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -327,15 +327,6 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question></group><group title="Leistungen" refid="Benefits"><question>
-    <id>300-000105</id>
-    <title>Wer ist berechtigt, und wo erhalte ich Microsoft Dynamics 365 für Unified Operations Internal Use Rights (IUR)?</title>
-    <description><![CDATA[Partner, die die Leistungskriterien für die Cloud Business Applications-Kompetenz erfüllen und derzeit über ERP-Kompetenz verfügen. Lesen Sie den Artikel mit häufig gestellten Fragen weiter unten, um mehr über diese IUR zu erfahren. ]]></description>
-    <articlelinks>
-      <link>
-        <text>FAQ – Microsoft Dynamics 365 für Unified Operations Internal Use Rights (IUR)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000098</id>
     <title>Wie kann ich einen Produktest auf Microsoft Referrals durchführen? </title>
     <description><![CDATA[Die Teilnahme an Microsoft-Zertifizierungen oder -Programmen hilft Ihnen bei Ihren Empfehlungen. ]]></description>
@@ -470,13 +461,17 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>Wie weise ich Zugriff und Berechtigungen für Visual Studio Online-Abonnements zu MAPS und Kompetenzpartnern zu?</title>
-    <description><![CDATA[Im folgenden Artikel finden Sie eine ausführliche Anleitung zum Zuweisen von Zugriff und Berechtigungen für Visual Studio Online-Abonnements zu MAPS und Kompetenzpartnern.]]></description>
+    <id>300-000104</id>
+    <title>Wie erstelle ich lokale professionelle Supportvorfälle mit einer Zugangs-ID und einer Vertrags-ID?</title>
+    <description><![CDATA[Im folgenden Artikel erfahren Sie, wie Sie lokale professionelle Supportvorfälle mit einer Zugangs-ID und einer Vertrags-ID erstellen.]]></description>
     <articlelinks>
       <link>
-        <text>Zugriff und Berechtigungen für Visual Studio Online-Abonnements zuweisen</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
+        <text>Erstellen von lokalen professionellen Supportvorfällen mit einer Zugangs-ID und einer Vertrags-ID</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text>Kundendienst</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000108</id>
@@ -505,19 +500,6 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>Wie erstelle ich lokale professionelle Supportvorfälle mit einer Zugangs-ID und einer Vertrags-ID?</title>
-    <description><![CDATA[Im folgenden Artikel erfahren Sie, wie Sie lokale professionelle Supportvorfälle mit einer Zugangs-ID und einer Vertrags-ID erstellen.]]></description>
-    <articlelinks>
-      <link>
-        <text>Erstellen von lokalen professionellen Supportvorfällen mit einer Zugangs-ID und einer Vertrags-ID</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text>Kundendienst</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000043</id>
     <title>Wie aktiviere ich die Azure-Lizenzen für den internen Gebrauch?</title>
     <description><![CDATA[Lernen Sie wie man die Azure-Lizenzen für den internen Gebrauch aktiviert. Folgen Sie den Schritten, die im Knowledge Base Artikel “Wie man die Azure-Lizenzen für den internen Gebrauch aktiviert” aufgezeigt werden. ]]></description>
@@ -529,6 +511,15 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
        <link>
         <text>Cloud- und Softwareleistungen für den internen Gebrauch (Internal Use Rights)</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title>Wer ist berechtigt, und wo erhalte ich Microsoft Dynamics 365 für Unified Operations Internal Use Rights (IUR)?</title>
+    <description><![CDATA[Partner, die die Leistungskriterien für die Cloud Business Applications-Kompetenz erfüllen und derzeit über ERP-Kompetenz verfügen. Lesen Sie den Artikel mit häufig gestellten Fragen weiter unten, um mehr über diese IUR zu erfahren. ]]></description>
+    <articlelinks>
+      <link>
+        <text>FAQ – Microsoft Dynamics 365 für Unified Operations Internal Use Rights (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000109</id>
@@ -663,6 +654,25 @@ Sobald Sie einen Office365 Tenant erstellt haben, haben Sie die Möglichkeit die
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
     </articlelinks></question></group><group title="Programme und Mitgliedschaft" refid="ProgramsMembership"><question>
+    <id>100-000061</id>
+    <title>Wo sehe ich das Ablaufdatum unseres Microsoft Action Pack Abonnements? </title>
+    <description><![CDATA[Um das Ablaufdatum zu sehen melden Sie sich im Partner Membership Center an. 
+Wählen Sie den Menüpunkt Bestellungen und Vorteile. 
+Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN-Portal: Anmelden beim Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/?tpqid=100-000061]]></url>
+      </link>
+       <link>
+        <text>Kaufen oder Verlängern eines Microsoft Action Pack-Abonnements</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
+      </link>
+       <link>
+        <text>KB 4090552: Anzeigen des Ablaufdatums für MAPS oder Kompetenzen</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>Wir sind noch kein Mitglied im Microsoft Partner Network. Wie registrieren wir unser Unternehmen?</title>
     <description><![CDATA[Wenn Sie bereits über ein Microsoft Konto (früher Windows Live ID) verfügen, loggen Sie sich im Microsoft Partner Network (Mitgliedschaft / Mitgliedschaft / Registrieren) ein um ein Profil zu kreieren.
@@ -691,19 +701,6 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte zu
         <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>Wo kann ich den Microsoft Partner Network Vertrag finden? </title>
-    <description><![CDATA[Um den Microsoft Partner Network Vertrag zu sehen, melden Sie sich bitte in Ihrem Partner Membership Center an. Sobald Sie angemeldet sind gehen Sie zu Weitere Programme und wählen Status neben Microsoft Online Services-Partnervertrag. Dann wählen Sie Schritt 1 Registrieren für das Microsoft Partner Network, um den Vertrag zu sehen. Oder, Sie öffnen die Druckversion über den folgenden Link:]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network Vertrag Druckversion</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000094</id>
     <title>Erstellen eines Partner Dashboard-Kontos</title>
     <description><![CDATA[In diesem Artikel wird erläutert, wie Sie ein Partner Dashboard-Konto erstellen. Er ist für Partner gedacht, die ihre Informationen zur Partner Network-Mitgliedschaft vom Partner Membership Center in das Partner Dashboard verschieben. ]]></description>
@@ -719,6 +716,19 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte zu
        <link>
         <text>Partner Dashboard: Aktualisieren Ihres Partnerprofils</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000060</id>
+    <title>Wo kann ich den Microsoft Partner Network Vertrag finden? </title>
+    <description><![CDATA[Um den Microsoft Partner Network Vertrag zu sehen, melden Sie sich bitte in Ihrem Partner Membership Center an. Sobald Sie angemeldet sind gehen Sie zu Weitere Programme und wählen Status neben Microsoft Online Services-Partnervertrag. Dann wählen Sie Schritt 1 Registrieren für das Microsoft Partner Network, um den Vertrag zu sehen. Oder, Sie öffnen die Druckversion über den folgenden Link:]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network Vertrag Druckversion</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000102</id>
@@ -875,19 +885,6 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000082</id>
-    <title>Welche Anforderungen zum Verlängern meiner Kompetenzen sind nicht erfüllt?</title>
-    <description><![CDATA[Partner können die Liste der Kompetenzanforderungen im Partner Membership Center überprüfen. Zeigen Sie mit der Maus auf „Programmguthaben“, und wählen Sie „Kompetenzübersicht“ aus. Partner können auch im MPN-Portal die Liste der Kompetenzen und deren Anforderungen anzeigen]]></description>
-    <articlelinks>
-      <link>
-        <text>Kompetenzen</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text>KB 4089772: Schritte zum Anzeigen der nicht erfüllten Anforderungen im Partner Dashboard</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000095</id>
     <title>Wann kann ich den Wechsel von Partner Admin Center (PAC) zu Partner Dashboard erwarten? </title>
     <description><![CDATA[Ab Frühjahr 2018 findet ein Wechsel der Office 365 Partner Admin Center (PAC)-Toolfunktionalität zum Microsoft Partner Dashboard statt. Sie sehen ein Popup-Dialogfeld, wenn der Wechsel zum Partner Dashboard möglich ist. Am Tag des Übergangs wird jeder Partner, der versucht, auf das PAC zuzugreifen, automatisch umgeleitet und beim Partner Dashboard Dashboard angemeldet. Nach der automatischen Umleitung können Partner nicht mehr auf das Partner Admin Center zugreifen.  Hinweis für Berater: Sie können zurzeit keine Angebot für Kauf- und Testangebote über das Partner Dashboard an Kunden senden. Sie können weiterhin die Funktion Ihr Geschäft voranbringen in PAC verwenden, bis die Funktion für Kauf- und Testangebote im Partner Dashboard aktiviert ist.]]></description>
@@ -930,6 +927,19 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
       <link>
         <text>MPN-Portal: Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000082</id>
+    <title>Welche Anforderungen zum Verlängern meiner Kompetenzen sind nicht erfüllt?</title>
+    <description><![CDATA[Partner können die Liste der Kompetenzanforderungen im Partner Membership Center überprüfen. Zeigen Sie mit der Maus auf „Programmguthaben“, und wählen Sie „Kompetenzübersicht“ aus. Partner können auch im MPN-Portal die Liste der Kompetenzen und deren Anforderungen anzeigen]]></description>
+    <articlelinks>
+      <link>
+        <text>Kompetenzen</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text>KB 4089772: Schritte zum Anzeigen der nicht erfüllten Anforderungen im Partner Dashboard</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000081</id>
@@ -1033,15 +1043,6 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text>Partner Dashboard: Kompetenzen</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000103</id>
-    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
-    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
-    <articlelinks>
-      <link>
-        <text>Lernpfade für Microsoft Partner </text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000092</id>
     <title>Verknüpfen des Geschäftskontos meiner Organisation mit meinem neuen Partner Dashboard-Konto</title>
@@ -1065,6 +1066,15 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000103</id>
+    <title>Wo kann ich Informationen über kompetenzbezogene Examen und Onlinetest finden? </title>
+    <description><![CDATA[Um Informationen bezüglich Kompetenzexamen und Onlinetests zu finden, nutzen Sie bitte die Microsoft Lernpfade: ]]></description>
+    <articlelinks>
+      <link>
+        <text>Lernpfade für Microsoft Partner </text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000101</id>
     <title>Bietet Microsoft Trainings zu einem günstigen Preis oder kostenfrei an?</title>
     <description><![CDATA[Das Partner University ist eine Leistung für Unternehmen die im Microsoft Partner Network registriert sind und verfügbar für jede Programmstufe. Das Partner University bietet Registrierung und Zugriff zu günstigen oder kostenfreien Trainings (persönlich oder online). Es wird auch zur Erfüllung der Anforderungen an das Microsoft Action Pack oder Kompetenzen genutzt.]]></description>
@@ -1081,26 +1091,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text>Partner University </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000101]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000061</id>
-    <title>Wo sehe ich das Ablaufdatum unseres Microsoft Action Pack Abonnements? </title>
-    <description><![CDATA[Um das Ablaufdatum zu sehen melden Sie sich im Partner Membership Center an. 
-Wählen Sie den Menüpunkt Bestellungen und Vorteile. 
-Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN-Portal: Anmelden beim Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/?tpqid=100-000061]]></url>
-      </link>
-       <link>
-        <text>Kaufen oder Verlängern eines Microsoft Action Pack-Abonnements</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
-      </link>
-       <link>
-        <text>KB 4090552: Anzeigen des Ablaufdatums für MAPS oder Kompetenzen</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>Wie wird das Onboarding als Indirect Reseller durchgeführt?</title>
     <description><![CDATA[Über den nachfolgenden Link erfahren Sie, wie Sie sich für das Cloud Solution Provider-Programm registrieren.]]></description>
@@ -1218,6 +1209,29 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="Vereinbarungen, Bestellungen und Abonnementverwaltung" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000090</id>
+    <title>Wo lade ich die Windows 10 Software und den entsprechenden Produktschlüssel herunter?</title>
+    <description><![CDATA[Partner mit einer aktiven Microsoft Kompetenz oder einem Action Pack Abonnement erhalten Zugriff auf die Windows 10 Enterprise Software und Produktschlüssel für die firmeninterne Nutzung über das Partner Digitale Download-Portal. Software und die entsprechenden Produktschlüssel zum Entwickeln, Testen und Evaluieren erhalten Sie als Partner über die in den Programmleistungen enthaltenen Visual Studio Online Abonnements (Bestandteil sind auch die Pro und Home Editionen.) Zugriff haben nur die zugeordneten Personen, denen ein Visual Studio Online Abonnement zugewiesen wurde.
+Info: 
+- Windows 10 Enterprise Lizenzen für die firmeninterne Nutzung sind reine Upgrade-Lizenzen.
+- Das „Softwaredownload-Recht“ wird benötigt damit Software vom Digitalen Download-Portal herunter geladen werden kann und das „Schlüssel anzeigen-Recht“ wird benötigt um sich die entsprechenden Produktschlüssel anzeigen zu lassen.
+Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen bei Kompetenzpartnern die „Enterprise Abonnement“-Rechte und beim Action Pack Abonnement eine Rolle als „technischer Ansprechpartner“ zugewiesen werden.
+- Um einen In-place Upgrade von Windows 8.1 auf Windows 10 durchzuführen, muss der entsprechende Produktschlüssel für Windows 10 vom Digitalen Download-Portal genommen werden.
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Digitales Download-Portal für Partner</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online-Abonnements</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online download site</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000032</id>
     <title>Wie erhalte ich über das Microsoft Partner Network die Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3)?</title>
     <description><![CDATA[Verschaffen Sie sich einen Überblick über die Microsoft Partner Network-Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3).]]></description>
@@ -1272,10 +1286,6 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
       <link>
         <text>Visual Studio Online-Abonnements können neuen Benutzern nicht zugewiesen werden</text>
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Zuweisung von Visual Studio Online-Abonnement-Zugriff und –Rechte</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000048</id>
@@ -1373,28 +1383,5 @@ Dann klicken Sie Microsoft Action Pack Subscription.]]></description>
        <link>
         <text>Visual Studio 2015-Lizenz nicht erkannt</text>
         <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Wo lade ich die Windows 10 Software und den entsprechenden Produktschlüssel herunter?</title>
-    <description><![CDATA[Partner mit einer aktiven Microsoft Kompetenz oder einem Action Pack Abonnement erhalten Zugriff auf die Windows 10 Enterprise Software und Produktschlüssel für die firmeninterne Nutzung über das Partner Digitale Download-Portal. Software und die entsprechenden Produktschlüssel zum Entwickeln, Testen und Evaluieren erhalten Sie als Partner über die in den Programmleistungen enthaltenen Visual Studio Online Abonnements (Bestandteil sind auch die Pro und Home Editionen.) Zugriff haben nur die zugeordneten Personen, denen ein Visual Studio Online Abonnement zugewiesen wurde.
-Info: 
-- Windows 10 Enterprise Lizenzen für die firmeninterne Nutzung sind reine Upgrade-Lizenzen.
-- Das „Softwaredownload-Recht“ wird benötigt damit Software vom Digitalen Download-Portal herunter geladen werden kann und das „Schlüssel anzeigen-Recht“ wird benötigt um sich die entsprechenden Produktschlüssel anzeigen zu lassen.
-Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen bei Kompetenzpartnern die „Enterprise Abonnement“-Rechte und beim Action Pack Abonnement eine Rolle als „technischer Ansprechpartner“ zugewiesen werden.
-- Um einen In-place Upgrade von Windows 8.1 auf Windows 10 durchzuführen, muss der entsprechende Produktschlüssel für Windows 10 vom Digitalen Download-Portal genommen werden.
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Digitales Download-Portal für Partner</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online-Abonnements</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online download site</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group></groups>

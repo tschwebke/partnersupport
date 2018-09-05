@@ -93,7 +93,7 @@
         <text>Come si attivano le funzionalità per i partner</text>
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>200-000086</id>
     <title>Cosa devo fare per creare o annullare e un abbonamento?</title>
     <description><![CDATA[Per ottenere ulteriori informazioni, accedi ai collegamenti indicati di seguito.]]></description>
@@ -106,7 +106,7 @@
         <text>Centro per i partner: Creare, sospendere o annullare abbonamenti utente</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>Come si partecipa al programma Cloud Solution Provider?</title>
     <description><![CDATA[Leggere le seguenti informazioni sull'iscrizione]]></description>
@@ -249,7 +249,7 @@
         <text>Centro per i partner: passaggio dall'interfaccia di amministrazione partner al Centro per i partner </text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000101</id>
     <title>Come posso gestire le fatture CSP e la fatturazione per i clienti?</title>
     <description><![CDATA[Per informazioni sulla gestione della fatturazione, vedi le informazioni riportate di seguito. ]]></description>
@@ -332,10 +332,6 @@ Tu puoi usare la dashboard come fonte per dati chiave per aiutarti a gestire in 
       <link>
         <text>Impossibile assegnare sottoscrizioni Visual Studio Online a nuovi utenti</text>
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Assegna accesso e privilegi alle sottoscrizioni Visual Studio Online</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000048</id>
@@ -1106,7 +1102,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Aggiungere un nome di dominio personalizzato ad Azure Active Directory</text>
         <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>Cosa occorre fare per inserirsi come rivenditori indiretti?</title>
     <description><![CDATA[Accedere al collegamento seguente per informazioni sull'iscrizione al programma Cloud Solution Provider.]]></description>
@@ -1176,54 +1172,6 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
     </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question>
-    <id>300-000072</id>
-    <title>Dove posso trovare informazioni sugli aggiornamenti ai benefici di competenza?</title>
-    <description><![CDATA[È possibile trovare le ultime notizie sulle modifiche recenti e future apportate ai vantaggi e ad altri aspetti dell'iscrizione nella pagina Novità.]]></description>
-    <articlelinks>
-      <link>
-        <text>Centro per i partner: requisiti futuri delle competenze Microsoft per gli iscritti ai programmi Gold e Silver</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Vantaggi e requisiti principali</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Panoramica di Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>Come si assegnano a MAPS e partner con competenze l'accesso e i privilegi per la sottoscrizione di Visual Studio Online?</title>
-    <description><![CDATA[L'articolo che segue fornisce istruzioni dettagliate per l'assegnazione di accesso e privilegi per la sottoscrizione di Visual Studio Online a MAPS e partner con competenze.]]></description>
-    <articlelinks>
-      <link>
-        <text>Assegnare accesso e privilegi per la sottoscrizione di Visual Studio Online</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>Come si creano le richieste di assistenza professionale in loco utilizzando un ID accesso e un ID contratto?</title>
-    <description><![CDATA[L'articolo che segue spiega come creare richieste di assistenza professionale in loco utilizzando un ID accesso e un ID contratto.]]></description>
-    <articlelinks>
-      <link>
-        <text>Uso di un ID di accesso e un ID contratto per creare richieste di assistenza professionale in loco</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text>Supporto clienti</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>Dove posso scaricare e come posso attivare le licenze per dimostrazioni e formazione?</title>
-    <description><![CDATA[Viene fornito un solo codice per prodotto e l'utente può decidere se utilizzarlo a scopo di dimostrazione, formazione o uso interno. Non sono previste licenze diverse per ciascun tipo di benefit (dimostrazione, formazione o uso interno). Per le dimostrazioni o la formazione, se la licenza viene attivata e disattivata nell'arco di 30 giorni, non viene eseguita alcuna attivazione per il codice "Product Key" corrispondente.]]></description>
-    <articlelinks>
-      <link>
-        <text>Portale MPN: vantaggi del software e del cloud dei diritti di utilizzo interno - Per i partner che utilizzano ancora PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000100</id>
     <title>Come posso ottenere la qualifica per il supporto tecnico/di prodotto?</title>
     <description><![CDATA[Per informazioni sull'idoneità al supporto tecnico o di prodotto in base alla sottoscrizione, esamina i vantaggi e i requisiti di base, oltre al riepilogo dei vantaggi tecnici MPN.]]></description>
@@ -1250,6 +1198,15 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>Dove posso scaricare e come posso attivare le licenze per dimostrazioni e formazione?</title>
+    <description><![CDATA[Viene fornito un solo codice per prodotto e l'utente può decidere se utilizzarlo a scopo di dimostrazione, formazione o uso interno. Non sono previste licenze diverse per ciascun tipo di benefit (dimostrazione, formazione o uso interno). Per le dimostrazioni o la formazione, se la licenza viene attivata e disattivata nell'arco di 30 giorni, non viene eseguita alcuna attivazione per il codice "Product Key" corrispondente.]]></description>
+    <articlelinks>
+      <link>
+        <text>Portale MPN: vantaggi del software e del cloud dei diritti di utilizzo interno - Per i partner che utilizzano ancora PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000105</id>
     <title>Quali partner sono qualificati e come posso ottenere i diritti di utilizzo interno (IUR) per Microsoft Dynamics 365 for Unified Operations?</title>
     <description><![CDATA[Per essere idonei i partner devono soddisfare i criteri di prestazioni per la competenza Cloud Business Applications e attualmente disporre della competenza ERP. Leggi l'articolo di seguito con le domande frequenti e ulteriori informazioni sui diritti di utilizzo interno per questo prodotto. ]]></description>
@@ -1257,6 +1214,23 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
       <link>
         <text>Domande frequenti - Diritti di utilizzo interno (IUR) per Microsoft Dynamics 365 for Unified Operations</text>
         <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000014</id>
+    <title>Che cosa sono le ore di consulenza partner?</title>
+    <description><![CDATA[Le ore di consulenza per i partner sono la valuta utilizzata per accedere a determinati servizi tecnici di prevendita e di distribuzione offerti ai membri del Microsoft Partner Network. Utilizza le ore a tua disposizione per sviluppare il tuo bagaglio di competenze con corsi di formazione tecnici e per ottenere indicazioni personalizzate per aumentare la tua competitività e sviluppare e distribuire soluzioni ai clienti.]]></description>
+    <articlelinks>
+      <link>
+        <text>Supporto tecnico prevendita e servizi di distribuzione</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Vantaggi e requisiti principali</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>Non sai quante ore hai a disposizione? Guarda quante ore di consulenza hai a disposizione. </text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000108</id>
@@ -1283,23 +1257,6 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
       <link>
         <text>Offerte di supporto per i partner Microsoft</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>Che cosa sono le ore di consulenza partner?</title>
-    <description><![CDATA[Le ore di consulenza per i partner sono la valuta utilizzata per accedere a determinati servizi tecnici di prevendita e di distribuzione offerti ai membri del Microsoft Partner Network. Utilizza le ore a tua disposizione per sviluppare il tuo bagaglio di competenze con corsi di formazione tecnici e per ottenere indicazioni personalizzate per aumentare la tua competitività e sviluppare e distribuire soluzioni ai clienti.]]></description>
-    <articlelinks>
-      <link>
-        <text>Supporto tecnico prevendita e servizi di distribuzione</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>Vantaggi e requisiti principali</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>Non sai quante ore hai a disposizione? Guarda quante ore di consulenza hai a disposizione. </text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000101</id>
@@ -1387,5 +1344,35 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
        <link>
         <text>Centro per i partner: competenze</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000072</id>
+    <title>Dove posso trovare informazioni sugli aggiornamenti ai benefici di competenza?</title>
+    <description><![CDATA[È possibile trovare le ultime notizie sulle modifiche recenti e future apportate ai vantaggi e ad altri aspetti dell'iscrizione nella pagina Novità.]]></description>
+    <articlelinks>
+      <link>
+        <text>Centro per i partner: requisiti futuri delle competenze Microsoft per gli iscritti ai programmi Gold e Silver</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Vantaggi e requisiti principali</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Panoramica di Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>Come si creano le richieste di assistenza professionale in loco utilizzando un ID accesso e un ID contratto?</title>
+    <description><![CDATA[L'articolo che segue spiega come creare richieste di assistenza professionale in loco utilizzando un ID accesso e un ID contratto.]]></description>
+    <articlelinks>
+      <link>
+        <text>Uso di un ID di accesso e un ID contratto per creare richieste di assistenza professionale in loco</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text>Supporto clienti</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question></group></groups>

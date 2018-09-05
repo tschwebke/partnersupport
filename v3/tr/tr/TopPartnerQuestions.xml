@@ -133,15 +133,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>MAPS ve Uzmanlık iş ortakları için Visual Studio Çevrimiçi Abonelik erişimi ve ayrıcalıkları nasıl atanır?</title>
-    <description><![CDATA[Aşağıdaki makalede MAPS ve Uzmanlık iş ortakları için Visual Studio Çevrimiçi Abonelik erişimini ve ayrıcalıklarını atama hakkında adım adım talimatları bulabilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio Çevrimiçi Abonelik erişimini ve ayrıcalıklarını atama</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000104</id>
     <title>Erişim Kimliği'ni ve Sözleşme Kodu'nu kullanarak şirket içi uzman destek olayları nasıl oluşturulur?</title>
     <description><![CDATA[Erişim Kimliği'ni ve Sözleşme Kodu'nu kullanarak şirket içi uzman destek olaylarını oluşturma hakkında bilgi edinmek için aşağıdaki makaleye göz atın.]]></description>
@@ -212,17 +203,23 @@
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question></group><group title="Hesap Kurulumu ve Yönetimi" refid="AccountSetupManagement"><question>
-    <id>200-000085</id>
-    <title>Cloud Services Partner Dashboard nedir?</title>
-    <description><![CDATA[Bulut Hizmetleri Panosu bayilere ve distribütörlere, müşterilerinin Microsoft Office 365, Microsoft Intune ve Microsoft Dynamics CRM Online aboneliklerinin durumlarını takip etmelerine yardımcı olur.
-
-Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin aboneliklerini etkili biçimde yönetebilmek için önemli bir kaynak olarak kullanabilirsiniz. Bu veri ile talepleri, kurulumları ve yenilemeleri etkili ve proaktif biçimde hareket etmek için kullanabilirsiniz.]]></description>
+    <id>200-000068</id>
+    <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
+    <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Bulut Hizmetleri Panosu hakkında daha fazla bilgi edinin</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+        <text>Microsoft Office demo portalı</text>
+        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+       <link>
+        <text>Microsoft Office 365, Project Online ve Power BI demo tenantları</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+      </link>
+       <link>
+        <text>Microsoft Office 365 ile ilk yolculuk</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000086</id>
     <title>Abonelik nasıl oluşturulur veya iptal edilir?</title>
     <description><![CDATA[Daha fazla bilgi için lütfen aşağıdaki bağlantıları inceleyin]]></description>
@@ -236,15 +233,17 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>Müşterilerimi Office 365'e adapte olması için nasıl yönlendirebilirim?</title>
-    <description><![CDATA[Cloud SureStep, hem başlangıç seviyesindeki hem de ölçeklendirmeye hazır çevrimiçi hizmet işlerinin kârlılığını en üst düzeye çıkarmaya yardımcı olması için tasarlanmıştır.]]></description>
+    <id>200-000085</id>
+    <title>Cloud Services Partner Dashboard nedir?</title>
+    <description><![CDATA[Bulut Hizmetleri Panosu bayilere ve distribütörlere, müşterilerinin Microsoft Office 365, Microsoft Intune ve Microsoft Dynamics CRM Online aboneliklerinin durumlarını takip etmelerine yardımcı olur.
+
+Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin aboneliklerini etkili biçimde yönetebilmek için önemli bir kaynak olarak kullanabilirsiniz. Bu veri ile talepleri, kurulumları ve yenilemeleri etkili ve proaktif biçimde hareket etmek için kullanabilirsiniz.]]></description>
     <articlelinks>
       <link>
-        <text>Bulut SureStep'e göz gezdirin</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
+        <text>Microsoft Bulut Hizmetleri Panosu hakkında daha fazla bilgi edinin</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>Bulut Çözümü Sağlayıcısı programına nasıl katılırım?</title>
     <description><![CDATA[Kayıt için aşağıdaki bilgileri inceleyin]]></description>
@@ -284,17 +283,13 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>Bulut Çözümü Sağlayıcısı (CSP) programı hakkında nereden bilgi alabilirim ve en son bilgilerden haberdar olabilirim?</title>
-    <description><![CDATA[İş Ortağı Merkezi portalından CSP programıyla ilgili haberleri alın ve daha fazla bilgi edinin.]]></description>
+    <id>200-000066</id>
+    <title>Müşterilerimi Office 365'e adapte olması için nasıl yönlendirebilirim?</title>
+    <description><![CDATA[Cloud SureStep, hem başlangıç seviyesindeki hem de ölçeklendirmeye hazır çevrimiçi hizmet işlerinin kârlılığını en üst düzeye çıkarmaya yardımcı olması için tasarlanmıştır.]]></description>
     <articlelinks>
       <link>
-        <text>İş Ortağı Merkezi: CSP programı hakkında daha fazla bilgi edinin</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
-      </link>
-       <link>
-        <text>İş Ortağı Merkezi: CSP Duyuruları</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+        <text>Bulut SureStep'e göz gezdirin</text>
+        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000087</id>
@@ -388,6 +383,19 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>200-000083</id>
+    <title>Bulut Çözümü Sağlayıcısı (CSP) programı hakkında nereden bilgi alabilirim ve en son bilgilerden haberdar olabilirim?</title>
+    <description><![CDATA[İş Ortağı Merkezi portalından CSP programıyla ilgili haberleri alın ve daha fazla bilgi edinin.]]></description>
+    <articlelinks>
+      <link>
+        <text>İş Ortağı Merkezi: CSP programı hakkında daha fazla bilgi edinin</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+      </link>
+       <link>
+        <text>İş Ortağı Merkezi: CSP Duyuruları</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000026</id>
     <title>Microsoft iş ortağıyız. İş Ortağı özelliklerimizi nasıl aktive edebiliriz?</title>
     <description><![CDATA[Online hizmetler avantajlarına nasıl ulaşacağınızı ve iş ortakları özelliklerini nasıl aktive edeceğinizi bu kaynakları kullanarak öğrenebilirsiniz.]]></description>
@@ -401,23 +409,6 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000029</id>
-    <title>İmza Bulut Desteği destek çağrısı nasıl açabilirim?</title>
-    <description><![CDATA[İmza Bulut Desteği çağrısı nasıl açılır konularını da içeren İmza Bulut Desteği avantajlarına göz atmak için buradan başlayın.]]></description>
-    <articlelinks>
-      <link>
-        <text>İmza Bulut Desteği hakkında daha fazla bilgi edinin</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>İmza Bulut Desteği avantajlarına genel bakış</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>Signature Cloud Support for Microsoft Office 365 </text>
-        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000100</id>
     <title>İş Ortağı Merkezi'nde işlemlerin nasıl yapılacağı hakkında nereden bilgi edinebilirim?</title>
     <description><![CDATA[İş Ortağı Merkezi Panosu'nda kuruluşunuz ve müşterileriniz için görevleri yerine getirmeyle ilgili bilgi edinmek için İş Ortağı Merkezi Yardım Kitaplığı'nı veya geliştirici başvuru malzemelerini ziyaret edin.]]></description>
@@ -426,7 +417,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İş Ortağı Merkezi Yardım Kitaplığı   </text>
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000101</id>
     <title>CSP Faturalarını ve müşteri faturalama işlemlerini nasıl yönetirim?</title>
     <description><![CDATA[Faturalamanızı yönetme ile ilgili bilgi edinmek için aşağıdaki bilgileri inceleyin. ]]></description>
@@ -444,21 +435,21 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>Şirketim Office 365 demolarını nasıl oluşturabilir?</title>
-    <description><![CDATA[Microsoft Office demo portalı, Office ürünleri için yerel bir kurulum yapmadan demo ortamı oluşturup, demo rehberlerine ulaşmanıza olanak sunar. Microsoft Office demo ortamı, kişiselleştirilmiş Office 365 deneme tenantı  ve hazır demo içeriği ile oluşturulmuştur. Office 365 tenantınız oluşturulduktan sonra, Exchange, SharePoint, Lync, Outlook, Word, Excel, PowerPoint ve daha fazlasını içeren, daha etkili sunumlar yapabilmenizi sağlayacak demolar içerir.]]></description>
+    <id>200-000029</id>
+    <title>İmza Bulut Desteği destek çağrısı nasıl açabilirim?</title>
+    <description><![CDATA[İmza Bulut Desteği çağrısı nasıl açılır konularını da içeren İmza Bulut Desteği avantajlarına göz atmak için buradan başlayın.]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Office demo portalı</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
+        <text>İmza Bulut Desteği hakkında daha fazla bilgi edinin</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
       </link>
        <link>
-        <text>Microsoft Office 365, Project Online ve Power BI demo tenantları</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
+        <text>İmza Bulut Desteği avantajlarına genel bakış</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
       </link>
        <link>
-        <text>Microsoft Office 365 ile ilk yolculuk</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
+        <text>Signature Cloud Support for Microsoft Office 365 </text>
+        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
     </articlelinks></question></group><group title="Lisanslama, Satış ve Pazarlama" refid="LicensingSalesMarketing"><question>
     <id>1500-000009</id>
@@ -584,6 +575,15 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
     </articlelinks></question></group><group title="Programlar ve Üyelik" refid="ProgramsMembership"><question>
+    <id>100-000103</id>
+    <title>Uzmanlıklar ile ilgili sınav bilgilerine ve hazırlık dokümanlarına nereden ulaşabilirim?</title>
+    <description><![CDATA[Uzmanlık için sınav ve hazırlık için bilgilere ulaşmak için lütfen aşağıdaki Microsoft İş Ortağı öğrenme yolları sayfasını inceleyiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft iş ortağı öğrenme yolları</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000033</id>
     <title>Şirketimin üyeliğini nasıl yönetebilirim?</title>
     <description><![CDATA[İş Ortakları, İş Ortağı Üyelik Merkezine girerek sahip oldukları Microsoft İş Ortağı Ağı üyeliği ve ilişkili avantajlarını yönetebilirler. Bu makaleden İş Ortakları üyelik merkezine göz atabilirsiniz.]]></description>
@@ -614,19 +614,6 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>Microsoft İş Ortağı Ağı sözleşmesini nereden bulabilirim?</title>
-    <description><![CDATA[Microsoft İş Ortağı Ağı Anlaşmasını görüntülemek için, İş Ortakları Üyelik Merkezine giriş yapmanız gerekir. Giriş yaptıktan sonra Ek Programlara gidin ve Microsoft Online Hizmetler İş Ortağı Anlaşması altında “Durum” u seçin. Daha sonra adım 1, Anlaşmayı görmek için, Microsoft İş Ortağı Ağına kayıt olun. Veya Aşağıdaki çıktı alınabilecek versiyonu açabilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>İş Ortağı Üyeliği Merkezi</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
-      </link>
-       <link>
-        <text>Microsoft İş Ortağı Ağı anlaşmasının çıktı alınabilecek versiyonu</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000094</id>
     <title>Nasıl iş ortağı merkezi hesabı oluştururum?</title>
     <description><![CDATA[Bu makale, İş Ortağı Merkezi hesabının nasıl oluşturulacağını açıklamaktadır ve iş ortağı ağı üyelik bilgilerini İş Ortağı Üyelik Merkezi'nden İş Ortağı Merkezi'ne taşıyan iş ortakları için yazılmıştır. ]]></description>
@@ -642,6 +629,19 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
        <link>
         <text>İş Ortağı Merkezi: İş ortağınızın profilini güncelleştirme</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000060</id>
+    <title>Microsoft İş Ortağı Ağı sözleşmesini nereden bulabilirim?</title>
+    <description><![CDATA[Microsoft İş Ortağı Ağı Anlaşmasını görüntülemek için, İş Ortakları Üyelik Merkezine giriş yapmanız gerekir. Giriş yaptıktan sonra Ek Programlara gidin ve Microsoft Online Hizmetler İş Ortağı Anlaşması altında “Durum” u seçin. Daha sonra adım 1, Anlaşmayı görmek için, Microsoft İş Ortağı Ağına kayıt olun. Veya Aşağıdaki çıktı alınabilecek versiyonu açabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>İş Ortağı Üyeliği Merkezi</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/PartnerMembershipCenter.aspx?tpqid=100-000060]]></url>
+      </link>
+       <link>
+        <text>Microsoft İş Ortağı Ağı anlaşmasının çıktı alınabilecek versiyonu</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
@@ -795,19 +795,6 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000082</id>
-    <title>Uzmanlıklarımı yenilemek için hangi gereksinimleri karşılamalıyım?</title>
-    <description><![CDATA[İş ortakları, uzmanlık gereksinimleri listesini Partner Membership Center'dan inceleyebilir. Requirements ve Assets (Gereksinimler ve Varlıklar) seçeneğinin üzerine gelip Competency Summary (Uzmanlık Özeti) seçimini yapın. İş ortakları, Partner Portal'dan uzmanlık listesini ve bu uzmanlıklara yönelik gereksinimleri de görebilir]]></description>
-    <articlelinks>
-      <link>
-        <text>Uzmanlıklar</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text>KB 4089772: İş Ortağı Merkezi'nde eksik gereksinimlerinizi görmek için gerçekleştirmeniz gereken adımlar</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000095</id>
     <title>İş Ortağı Yönetim Merkezi'nden (PAC) İş Ortağı Merkezi'ne ne zaman geçebilirim? </title>
     <description><![CDATA[2018 ilkbaharından itibaren Office 365 İş Ortağı Yönetim Merkezi (PAC) aracı işlevi Microsoft İş Ortağı Merkezi'ne taşınacaktır. İş Ortağı Merkezi'ne geçiş için hazır olduğunuzda iletişim kutusu açılır penceresi ile karşılaşacaksınız. Geçiş gününde PAC'a erişmek için yapılan denemeler otomatik olarak yönlendirilecek ve iş ortakları İş Ortağı Merkezi Panosu'nda oturum açmış olacaktır. Otomatik yönlendirme gerçekleştiğinde, İş Ortakları artık İş Ortağı Yönetim Merkezi'ne erişemeyecektir.  Danışmanlar için not: Şu anda İş Ortağı Merkezi'nden müşterilere Ücretli ve Denemelik Teklifler gönderemezsiniz. Ücretli ve Denemelik Teklifler işlevi İş Ortağı Merkezi'nde etkinleştirilene kadar PAC'taki İşinizi Kurun işlevini kullanmaya devam edebilirsiniz.]]></description>
@@ -850,6 +837,19 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
       <link>
         <text>Partner Portalı: Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000082</id>
+    <title>Uzmanlıklarımı yenilemek için hangi gereksinimleri karşılamalıyım?</title>
+    <description><![CDATA[İş ortakları, uzmanlık gereksinimleri listesini Partner Membership Center'dan inceleyebilir. Requirements ve Assets (Gereksinimler ve Varlıklar) seçeneğinin üzerine gelip Competency Summary (Uzmanlık Özeti) seçimini yapın. İş ortakları, Partner Portal'dan uzmanlık listesini ve bu uzmanlıklara yönelik gereksinimleri de görebilir]]></description>
+    <articlelinks>
+      <link>
+        <text>Uzmanlıklar</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text>KB 4089772: İş Ortağı Merkezi'nde eksik gereksinimlerinizi görmek için gerçekleştirmeniz gereken adımlar</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000081</id>
@@ -951,19 +951,6 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İş Ortakları Üniversitesi</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000070</id>
-    <title>Organizasyonum Microsoft İş Ortağı Ağına kayıt olmadı. Şirketimi nasıl kayıt ettirebilirim?</title>
-    <description><![CDATA[Eğer bir Microsoft hesabınız varsa, Organizasyonunuzu Microsoft İş Ortağı Ağı sayfasından kayıt ettirerek başlayabilirsiniz. Eğer Microsoft hesabınız yoksa daha öncesinde bir tane oluşturmanız gerekecektir.]]></description>
-    <articlelinks>
-      <link>
-        <text>Organizasyonunuzu Microsoft İş Ortağı Ağına kaydettirin</text>
-        <url><![CDATA[https://partners.microsoft.com/partnerprogram/EnrollmentWelcome.aspx?tpqid=100-000070]]></url>
-      </link>
-       <link>
-        <text>Microsoft İş Ortağı Ağına göz gezdir</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000092</id>
     <title>Kuruluşumun iş hesabını, yeni İş Ortağı Merkezi hesabıma nasıl bağlarım?</title>
@@ -987,6 +974,19 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000070</id>
+    <title>Organizasyonum Microsoft İş Ortağı Ağına kayıt olmadı. Şirketimi nasıl kayıt ettirebilirim?</title>
+    <description><![CDATA[Eğer bir Microsoft hesabınız varsa, Organizasyonunuzu Microsoft İş Ortağı Ağı sayfasından kayıt ettirerek başlayabilirsiniz. Eğer Microsoft hesabınız yoksa daha öncesinde bir tane oluşturmanız gerekecektir.]]></description>
+    <articlelinks>
+      <link>
+        <text>Organizasyonunuzu Microsoft İş Ortağı Ağına kaydettirin</text>
+        <url><![CDATA[https://partners.microsoft.com/partnerprogram/EnrollmentWelcome.aspx?tpqid=100-000070]]></url>
+      </link>
+       <link>
+        <text>Microsoft İş Ortağı Ağına göz gezdir</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000087</id>
     <title>Belirli bir uzmanlık için gereksinimleri nereden bulabilirim?</title>
     <description><![CDATA[İş Ortakları Portalı uzmanlık sayfasını ziyaret edin ve seçtiğiniz uzmanlık için linki tıklayın. Her bir uzmanlık sayfası o uzmanlık için gerekli olan belirli gereksinimleri listeler.]]></description>
@@ -1003,16 +1003,7 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>İş Ortağı Merkezi: Uzmanlıklar</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000103</id>
-    <title>Uzmanlıklar ile ilgili sınav bilgilerine ve hazırlık dokümanlarına nereden ulaşabilirim?</title>
-    <description><![CDATA[Uzmanlık için sınav ve hazırlık için bilgilere ulaşmak için lütfen aşağıdaki Microsoft İş Ortağı öğrenme yolları sayfasını inceleyiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft iş ortağı öğrenme yolları</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>Dolaylı Kurumsal Bayi olarak nasıl katılırım?</title>
     <description><![CDATA[Bulut Çözümü sağlayıcısı programına nasıl kaydolacağınızı öğrenmek için aşağıdaki bağlantıya erişin.]]></description>
@@ -1021,7 +1012,16 @@ Panonuzu, sizi kayıtlı iş ortağı olarak tanımlamış müşterilerin abonel
         <text>Bulut Çözümü Sağlayıcısı programına kaydolun</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question></group><group title="Sözleşmeler, Siparişler ve Abonelik Yönetimi" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
+    </articlelinks></question></group><group title="Sözleşmeler, Siparişler ve Abonelik Yönetimi" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000030</id>
+    <title>Visual Studio Online teknik ID limitlerini nasıl yönetebilirim?</title>
+    <description><![CDATA[Yetkinlik sahibi olan iş ortaklarının Visual Studio Online abonelikleri için eşik arttırmalaı gerekmez. Bayi içi kullanım seti olan iş ortakları destek ile iletişime geçerek %360 oranında eşik arttırımı alabilirler. Bayi içi kullanım seti için eşik arttırımı konusunda detaylı bilgi için aşağıda sağlanan kaynakları inceleyiniz. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Visual Studio Online Aboneliklerini yeni kullanıcılara atayamıyorum</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>800-000039</id>
     <title>Microsoft Bayi İç Kullanım seti ile hangi yazılımları kullanma avantajına erişirim?</title>
     <description><![CDATA[Bayi paketi üyeliği olanlara genelde, Microsoft yazılımlarının son versiyonun, iç kullanım 10 lisansı gönderilir. Bu lisanslar kurum içi yazılım, online hizmetler ve Visual Studio Online üyeliğini kapsar. MAPS yeniden kaydından ayrı olarak O365 ve Dynamics için yenileme süreci gerekir. İş ortağı, MAPS Üyeliği'ni yeniledikten sonra bunlar otomatik olarak yenilenmez. Lisans avantajları hakkında daha detaylı bilgi için bu kaynakları referans alınız.]]></description>
@@ -1187,19 +1187,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text>Visual Studio 2015 lisansları tanınmıyor</text>
         <url><![CDATA[https://msdn.microsoft.com/en-us/library/dn950037.aspx?tpqid=800-000045]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>Visual Studio Online teknik ID limitlerini nasıl yönetebilirim?</title>
-    <description><![CDATA[Yetkinlik sahibi olan iş ortaklarının Visual Studio Online abonelikleri için eşik arttırmalaı gerekmez. Bayi içi kullanım seti olan iş ortakları destek ile iletişime geçerek %360 oranında eşik arttırımı alabilirler. Bayi içi kullanım seti için eşik arttırımı konusunda detaylı bilgi için aşağıda sağlanan kaynakları inceleyiniz. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio Online Aboneliklerini yeni kullanıcılara atayamıyorum</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Visual Studio Online aboneliğine giriş ve yetkiler atanması</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
     </articlelinks></question></group><group title="Teknik Destek (Ürünler, Platformlar ve Araçlar)" refid="TechnicalSupport"><question>
     <id>700-000002</id>
     <title>Kuruluşum veya bir müşterinin adına Office 365, Microsoft Azure veya Microsoft Dynamics 365 için nasıl Destek İstekleri oluştururum?</title>
@@ -1309,6 +1296,15 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="Teşvikler ve Ödemeler" refid="IncentivesPayouts"><question>
+    <id>400-000002</id>
+    <title>Microsoft Bulut Çözümleri satışı ve kurulumu için nasıl teşvik alabilirim?</title>
+    <description><![CDATA[Online Hizmetler teşviklerinizi almaya nasıl başlayacağınız konusundaki kaynaklara erişin ve ödeme bilgileri veya ödeme işleriniz konusunda ne yapmanız konusunda sorularınız varsa.  ]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Bulut Çözümleri'nin satışını yapma ve bu çözümleri dağıtmaya yönelik teşvikler</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000082</id>
     <title>İş Ortağı teşvikleri kazanabilmek için nasıl yetkin olabilirim?</title>
     <description><![CDATA[İş Ortağı teşvikleri uygunluğu programlara göre değişiklik gösterir. Bazı programlar Microsoft İş Ortağı Ağı uzmanlığı sahipliğine bakar. Bazıları iş ortağı performansına veya Microsoft kanal izin durumlarına göre verilir. Tüm İş ortakları tüm teşvikler için yetkin değildir. ]]></description>
@@ -1376,14 +1372,5 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text>Yeni İş Ortağı Teşvikler sayfasını görüntüleyin</text>
         <url><![CDATA[https://partner.microsoft.com/membership/partner-incentives?tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000002</id>
-    <title>Microsoft Bulut Çözümleri satışı ve kurulumu için nasıl teşvik alabilirim?</title>
-    <description><![CDATA[Online Hizmetler teşviklerinizi almaya nasıl başlayacağınız konusundaki kaynaklara erişin ve ödeme bilgileri veya ödeme işleriniz konusunda ne yapmanız konusunda sorularınız varsa.  ]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Bulut Çözümleri'nin satışını yapma ve bu çözümleri dağıtmaya yönelik teşvikler</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3082022/?tpqid=400-000002]]></url>
       </link>
     </articlelinks></question></group></groups>

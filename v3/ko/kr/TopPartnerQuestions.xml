@@ -143,10 +143,6 @@
         <text>Visual Studio Online 구독을 신규 사용자에게 지정할 수 없는 이슈</text>
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
       </link>
-       <link>
-        <text>Visual Studio Online 구독 액세스와 권환 지정하기</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
-      </link>
     </articlelinks></question><question>
     <id>800-000104</id>
     <title>IUR 라이선스는 어디서 다운로드할 수 있으며 라이선스를 활성화하려면 어떻게 해야 하나요?</title>
@@ -256,7 +252,7 @@
         <text>Microsoft Office 365의 초기 여정</text>
         <url><![CDATA[https://support.microsoft.com/kb/3061449?tpqid=200-000068]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>200-000086</id>
     <title>구독을 만들거나 취소하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[다음 링크에서 자세한 내용을 검토하세요.]]></description>
@@ -269,7 +265,7 @@
         <text>파트너 센터: 고객 구독 만들기, 일시 중단 또는 취소</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>클라우드 솔루션 공급자 프로그램에 가입하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[다음의 등록 관련 정보를 검토하세요.]]></description>
@@ -408,7 +404,7 @@
         <text>파트너 센터 도움말 라이브러리   </text>
         <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000101</id>
     <title>내 CSP 청구서와 고객 청구는 어떻게 관리하나요?</title>
     <description><![CDATA[아래 정보를 검토하여 대금 청구를 관리하는 방법을 알아보세요. ]]></description>
@@ -1142,7 +1138,7 @@
         <text>마이크로소프트 파트너 학습 과정 페이지</text>
         <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath/PathHome?tpqid=100-000103]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>간접 재판매인으로 온보딩하려면 어떻게 해야 하나요?</title>
     <description><![CDATA[아래 링크에 액세스하여 클라우드 솔루션 공급자 프로그램에 등록하는 방법을 알아보세요.]]></description>
@@ -1169,54 +1165,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
     </articlelinks></question></group><group title="혜택" refid="Benefits"><question>
-    <id>300-000072</id>
-    <title>역량 혜택 업데이트에 대 한 정보는 어디에서 찾을 수 있습니까?</title>
-    <description><![CDATA[멤버십의 혜택 및 기타 측면과 관련한 최근 변경 사항 및 추후 변경 사항에 대한 최신 뉴스는 새 소식 페이지에 나와 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>파트너 센터: Gold 및 Silver 멤버십에 적용될 예정인 Microsoft 역량 요구 사항</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>핵심 혜택 및 요구 사항</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network 개요</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000103</id>
-    <title>MAPS 및 역량 파트너를 대상으로 Visual Studio Online 구독 액세스 및 권한을 할당하려면 어떻게 해야 하나요?</title>
-    <description><![CDATA[아래 문서에서 MAPS 및 역량 파트너를 대상으로 Visual Studio Online 구독 액세스 및 권한을 할당하는 방법을 단계별 지침을 통해 확인할 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>Visual Studio Online 구독 액세스 및 권한 할당</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트를 만들려면 어떻게 해야 하나요?</title>
-    <description><![CDATA[아래 문서에서 액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트를 만드는 방법을 알아보세요.]]></description>
-    <articlelinks>
-      <link>
-        <text>액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트 만들기</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text>고객 지원</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>데모/교육 라이선스는 어디서 확인할 수 있으며 라이선스를 활성화하려면 어떻게 해야 하나요?</title>
-    <description><![CDATA[제품별로 키가 하나씩만 제공되며, 이를 데모, 교육 또는 내부 사용 중 어떤 유형에 사용할지는 본인이 직접 결정해야 합니다. 혜택 유형(데모, 교육 또는 내부 사용)별로 다른 라이선스가 마련되어 있지는 않습니다. 데모 또는 교육의 경우 30일 이내에만 활성화했다가 비활성화하면 해당 제품 키에 대한 활성화가 소멸되지 않습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN 포털: 내부 사용권 클라우드 및 소프트웨어 혜택 - PMC를 계속 사용 중인 파트너용</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000100</id>
     <title>기술/제품 지원 자격을 얻으려면 어떻게 해야 하나요?</title>
     <description><![CDATA[핵심 혜택 및 요구 사항과 MPN 기술 혜택 요약을 검토하여 사용 중인 구독에 따라 얻을 수 있는 기술/제품 지원 자격에 대해 자세히 확인하세요.]]></description>
@@ -1243,6 +1191,15 @@
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000098]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>데모/교육 라이선스는 어디서 확인할 수 있으며 라이선스를 활성화하려면 어떻게 해야 하나요?</title>
+    <description><![CDATA[제품별로 키가 하나씩만 제공되며, 이를 데모, 교육 또는 내부 사용 중 어떤 유형에 사용할지는 본인이 직접 결정해야 합니다. 혜택 유형(데모, 교육 또는 내부 사용)별로 다른 라이선스가 마련되어 있지는 않습니다. 데모 또는 교육의 경우 30일 이내에만 활성화했다가 비활성화하면 해당 제품 키에 대한 활성화가 소멸되지 않습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text>MPN 포털: 내부 사용권 클라우드 및 소프트웨어 혜택 - PMC를 계속 사용 중인 파트너용</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000105</id>
     <title>Microsoft Dynamics 365 for Unified Operations IUR(내부 사용권)의 획득 자격은 어떻게 되며 어디서 얻을 수 있나요?</title>
     <description><![CDATA[클라우드 비즈니스 응용 프로그램 역량에 대한 성능 기준을 충족하고 현재 ERP 역량을 보유한 파트너가 이러한 자격에 해당됩니다. 아래 문서에서 자주 묻는 질문을 확인하고 이 IUR에 대해 자세히 알아보세요. ]]></description>
@@ -1250,6 +1207,23 @@
       <link>
         <text>FAQ - Microsoft Dynamics 365 for Unified Operations IUR(내부 사용권)</text>
         <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000014</id>
+    <title>파트너 자문 시간이란 무엇입니까?</title>
+    <description><![CDATA[파트너 자문 시간은 Microsoft Partner Network 멤버에게 제공되는 특정 사전 판매와 배포 서비스에 액세스할 때 사용하는 서비스입니다. 파트너 자문 시간을 사용하여 기술 교육으로 기술을 축적하고 고객용 솔루션의 경쟁력을 확보하며 개발 및 배포하기 위한 맞춤형 안내를 받으십시오.]]></description>
+    <articlelinks>
+      <link>
+        <text>판매 전 기술 서비스 및 배포 서비스</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>핵심 혜택 및 요구 사항</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text>간이 얼마나 되는지 잘 모르시겠습니까? 사용 가능한 파트너 자문 시간을 확인하세요. </text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000108</id>
@@ -1276,23 +1250,6 @@
       <link>
         <text>Microsoft 파트너 지원 서비스</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000014</id>
-    <title>파트너 자문 시간이란 무엇입니까?</title>
-    <description><![CDATA[파트너 자문 시간은 Microsoft Partner Network 멤버에게 제공되는 특정 사전 판매와 배포 서비스에 액세스할 때 사용하는 서비스입니다. 파트너 자문 시간을 사용하여 기술 교육으로 기술을 축적하고 고객용 솔루션의 경쟁력을 확보하며 개발 및 배포하기 위한 맞춤형 안내를 받으십시오.]]></description>
-    <articlelinks>
-      <link>
-        <text>판매 전 기술 서비스 및 배포 서비스</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>핵심 혜택 및 요구 사항</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text>간이 얼마나 되는지 잘 모르시겠습니까? 사용 가능한 파트너 자문 시간을 확인하세요. </text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000101</id>
@@ -1381,5 +1338,35 @@
        <link>
         <text>파트너 센터: 역량</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000072</id>
+    <title>역량 혜택 업데이트에 대 한 정보는 어디에서 찾을 수 있습니까?</title>
+    <description><![CDATA[멤버십의 혜택 및 기타 측면과 관련한 최근 변경 사항 및 추후 변경 사항에 대한 최신 뉴스는 새 소식 페이지에 나와 있습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text>파트너 센터: Gold 및 Silver 멤버십에 적용될 예정인 Microsoft 역량 요구 사항</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>핵심 혜택 및 요구 사항</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network 개요</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=300-000072]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트를 만들려면 어떻게 해야 하나요?</title>
+    <description><![CDATA[아래 문서에서 액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트를 만드는 방법을 알아보세요.]]></description>
+    <articlelinks>
+      <link>
+        <text>액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트 만들기</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text>고객 지원</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question></group></groups>

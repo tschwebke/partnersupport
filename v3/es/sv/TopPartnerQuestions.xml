@@ -79,7 +79,7 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Signature Cloud Support para Microsoft Office 365 </text>
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>200-000086</id>
     <title>¿Cómo se crea o cancela una suscripción?</title>
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
@@ -92,7 +92,7 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Centro de partners: crear, suspender o cancelar las suscripciones de cliente</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title>¿Cómo puedo unirme al programa Proveedor de soluciones en la nube?</title>
     <description><![CDATA[Revise la siguiente información sobre la inscripción]]></description>
@@ -235,7 +235,7 @@ Usted puede utilizar el panel como fuente de datos para ayudarle a gestionar de 
         <text>Centro de partners: Trasladarse del Centro de administración de partners (PAC) al Centro de partners </text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000101</id>
     <title>¿Cómo se administran las facturas CSP y la facturación de cliente?</title>
     <description><![CDATA[Consulte la información abajo para ver cómo administrar la facturación. ]]></description>
@@ -353,10 +353,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       <link>
         <text>No es posible asignar Suscripciones Visual Studio Online a los nuevos usuarios</text>
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-       <link>
-        <text>Proporcione acceso a la suscripción Visual Studio Online y asigne privilegios</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2966345?tpqid=800-000030]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000048</id>
@@ -627,15 +623,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
     </articlelinks></question></group><group title="Prestaciones" refid="Benefits"><question>
-    <id>300-000103</id>
-    <title>¿Cómo se asigna acceso a una suscripción de Visual Studio Online y privilegios para  suscripción a MAP y socios con competencias?</title>
-    <description><![CDATA[En el artículo a continuación encontrará instrucciones paso a paso para asignar acceso a una suscripción a Visual Studio Online y privilegios para una suscripción a MAP y socios con competencias.]]></description>
-    <articlelinks>
-      <link>
-        <text>Asignar privilegios y acceso para la suscripción  a Visual Studio Online</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966345?tpqid=300-000103]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000108</id>
     <title>¿Dónde puedo encontrar planes de soporte técnico de pago para clientes o partners? </title>
     <description><![CDATA[En función  del producto o empresa, acceda a los enlaces siguientes.]]></description>
@@ -660,19 +647,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       <link>
         <text>Ofertas de soporte técnico para partners de Microsoft</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>¿Cómo se crean incidentes de soporte técnico locales mediante el uso de identificadores de contrato y acceso?</title>
-    <description><![CDATA[Vea el artículo a continuación para aprender a crear incidentes de soporte técnico locales mediante el uso de identificadores de contrato y acceso.]]></description>
-    <articlelinks>
-      <link>
-        <text>Uso de identificadores de contrato y acceso para crear incidentes de soporte técnico locales</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text>Atención al cliente</text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000028</id>
@@ -714,15 +688,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>¿Dónde se encuentran las licencias de demostración o entrenamiento y cómo se activan?</title>
-    <description><![CDATA[Obtiene solo una clave por producto y usted decide para qué usarla, ya sea para demostración, entrenamiento o uso interno. No hay licencias diferentes para cada tipo de beneficio (demostración, entrenamiento o uso interno). Para demostración o entrenamiento, siempre y cuando active y desactive la licencia dentro de un plazo de 30 días, no se graba ninguna activación para esa clave de producto.]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal MPN: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000099</id>
     <title>¿Cómo registrarse en Visual Studio si ya estaba registrado en MSDN?</title>
     <description><![CDATA[Vea cómo registrarse en Visual Studio al seguir los pasos que se describen en el artículo de Knowledge Base Mi registro de Visual Studio. (Note that the MPN RSC is responsible to support MPN members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
@@ -730,6 +695,15 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       <link>
         <text>Mi registro de Visual Studio</text>
         <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>¿Dónde se encuentran las licencias de demostración o entrenamiento y cómo se activan?</title>
+    <description><![CDATA[Obtiene solo una clave por producto y usted decide para qué usarla, ya sea para demostración, entrenamiento o uso interno. No hay licencias diferentes para cada tipo de beneficio (demostración, entrenamiento o uso interno). Para demostración o entrenamiento, siempre y cuando active y desactive la licencia dentro de un plazo de 30 días, no se graba ninguna activación para esa clave de producto.]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal MPN: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000072</id>
@@ -839,6 +813,19 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Herramienta de creación de logotipos para partners</text>
         <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>¿Cómo se crean incidentes de soporte técnico locales mediante el uso de identificadores de contrato y acceso?</title>
+    <description><![CDATA[Vea el artículo a continuación para aprender a crear incidentes de soporte técnico locales mediante el uso de identificadores de contrato y acceso.]]></description>
+    <articlelinks>
+      <link>
+        <text>Uso de identificadores de contrato y acceso para crear incidentes de soporte técnico locales</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text>Atención al cliente</text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
+      </link>
     </articlelinks></question></group><group title="Preventas técnicas, implementación y desarrollo de apps" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000114</id>
     <title>¿Qué beneficios de red de partner de Microsoft son necesarios para acceder a los recorridos técnicos?</title>
@@ -905,6 +892,23 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="Programas y pertenencia" refid="ProgramsMembership"><question>
+    <id>100-000101</id>
+    <title>¿Ofrece Microsoft formación sin o con bajo costo?</title>
+    <description><![CDATA[El Partner University (PLC) es un beneficio disponible para las organizaciones inscritas en la Red de Socios de Microsoft (MPN) de cualquier nivel. El Partner University proporciona el registro y el acceso a la formación en línea y presencial, de bajo coste y gratuita. También se utiliza para completar los requisitos de evaluación de Microsoft Action Pack y competencias.]]></description>
+    <articlelinks>
+      <link>
+        <text>Servicios de asesoría y preventa técnica - Technical Training</text>
+        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=100-000101]]></url>
+      </link>
+       <link>
+        <text>Rutas de aprendizaje</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000101]]></url>
+      </link>
+       <link>
+        <text>Partner University </text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000101]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000069</id>
     <title>Mi empresa no está inscrito en el Microsoft Partner Network. ¿Cómo doy de alta a mi empresa?</title>
     <description><![CDATA[Si usted tiene una cuenta de Microsoft, inicie sesión en la página de Microsoft Partner Network y vaya a “Dar de alta a mi organización” para comenzar. Si usted no tiene una cuenta de Microsoft, tendrá que crear una.]]></description>
@@ -1048,19 +1052,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000050</id>
-    <title>Mi empresa ha obtenido un MCP (Microsoft Certified Professionals) que no es reconocido para completar los requisitos de una competencia Silver o Gold ¿Qué puedo hacer? </title>
-    <description><![CDATA[Tras los últimos cambios, usted o su MCP pueden no haber sido reconocidos correctamente en el Centro de Participación de Partner a pesar de estar registrados correctamente y haber superado los exámenes. En esta situación reasigne por favor el MCP a través de la sección de “Manage Microsoft Certified Professionals” en el Centro de Participación de Partners. Este proceso debería resolver el problema. Si el problema continúa contacte por favor con su Centro Regional para Partners.]]></description>
-    <articlelinks>
-      <link>
-        <text>Solucionar problemas con los exámenes de MCP y certificaciones no abonadas correctamente</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>Verbinden und Abtrennen einer MCP-ID zu oder von einer Partnerorganisation</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000095</id>
     <title>¿Cuándo se hará el traslado del Centro de administración de partners (PAC) al Centro de partners? </title>
     <description><![CDATA[A partir de la primavera de 2018, la funcionalidad de la herramienta Centro de administración de partners (PAC) de Office 365 se trasladará al Centro de partners de Microsoft. Verá un cuadro de diálogo emergente cuando esté disponible la opción de trasladarse el Centro de partners. En el día de la transición, cada partner que intente acceder al PAC será redirigido automáticamente al panel del Centro de partners, y se iniciará su sesión. Cuando se produce el redireccionamiento, los partners ya no podrán acceder al Centro de administración de partners.  Nota para los asesores: actualmente, no se pueden enviar presupuestos de evaluación y de pago a los clientes a través del Centro de partners. Puede seguir usando la función Crear negocio de PAC hasta que la función Presupuestos de evaluación y de pago esté activada en el Centro de partners.]]></description>
@@ -1103,6 +1094,19 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       <link>
         <text>Portal MPN: Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000050</id>
+    <title>Mi empresa ha obtenido un MCP (Microsoft Certified Professionals) que no es reconocido para completar los requisitos de una competencia Silver o Gold ¿Qué puedo hacer? </title>
+    <description><![CDATA[Tras los últimos cambios, usted o su MCP pueden no haber sido reconocidos correctamente en el Centro de Participación de Partner a pesar de estar registrados correctamente y haber superado los exámenes. En esta situación reasigne por favor el MCP a través de la sección de “Manage Microsoft Certified Professionals” en el Centro de Participación de Partners. Este proceso debería resolver el problema. Si el problema continúa contacte por favor con su Centro Regional para Partners.]]></description>
+    <articlelinks>
+      <link>
+        <text>Solucionar problemas con los exámenes de MCP y certificaciones no abonadas correctamente</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text>Verbinden und Abtrennen einer MCP-ID zu oder von einer Partnerorganisation</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000090</id>
@@ -1204,6 +1208,19 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Introducción a Microsoft Partner Network</text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>100-000092</id>
+    <title>¿Cómo se vincula la cuenta profesional de mi organización a mi nueva cuenta de Centro de partners?</title>
+    <description><![CDATA[Si su empresa todavía no tiene una cuenta profesional, puede crear una de forma gratuita durante el proceso de inscripción. Si quiere usar una cuenta profesional existente, pero tiene problemas para iniciar sesión, consulte los siguientes artículos:]]></description>
+    <articlelinks>
+      <link>
+        <text>Centro de partners: su cuenta profesional y el Centro de partners</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+       <link>
+        <text>Agregar un nombre de dominio personalizado a Azure Active Directory</text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000102</id>
     <title>¿Cuáles son los primeros preguntas frecuentes sobre los caminos de aprendizaje?</title>
@@ -1220,19 +1237,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
        <link>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>100-000092</id>
-    <title>¿Cómo se vincula la cuenta profesional de mi organización a mi nueva cuenta de Centro de partners?</title>
-    <description><![CDATA[Si su empresa todavía no tiene una cuenta profesional, puede crear una de forma gratuita durante el proceso de inscripción. Si quiere usar una cuenta profesional existente, pero tiene problemas para iniciar sesión, consulte los siguientes artículos:]]></description>
-    <articlelinks>
-      <link>
-        <text>Centro de partners: su cuenta profesional y el Centro de partners</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
-      </link>
-       <link>
-        <text>Agregar un nombre de dominio personalizado a Azure Active Directory</text>
-        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/add-custom-domain?tpqid=100-000092]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000033</id>
@@ -1260,6 +1264,15 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Versión para impresión del contrato de Microsoft Partner Network</text>
         <url><![CDATA[https://partners.microsoft.com/PartnerProgram/AgreementPrintable.aspx?tpqid=100-000060]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>¿Cómo se configura una cuenta en el nuevo Centro de partners?</title>
+    <description><![CDATA[Acceda al vínculo siguiente para obtener más información.]]></description>
+    <articlelinks>
+      <link>
+        <text>FAQ de la cuenta del centro de partners</text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title>¿Cómo se renueva la pertenencia a MPN?</title>
@@ -1277,15 +1290,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Comprar o renovar una suscripción de Microsoft Action Pack</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>100-000099</id>
-    <title>¿Cómo se configura una cuenta en el nuevo Centro de partners?</title>
-    <description><![CDATA[Acceda al vínculo siguiente para obtener más información.]]></description>
-    <articlelinks>
-      <link>
-        <text>FAQ de la cuenta del centro de partners</text>
-        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
-      </link>
     </articlelinks></question><question>
     <id>100-000070</id>
     <title>Mi empresa está inscrito en el Microsoft Partner Network. ¿Cómo me asocio como individuo en el perfil de la empresa?</title>
@@ -1299,24 +1303,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Introducción a Microsoft Partner Network</text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000101</id>
-    <title>¿Ofrece Microsoft formación sin o con bajo costo?</title>
-    <description><![CDATA[El Partner University (PLC) es un beneficio disponible para las organizaciones inscritas en la Red de Socios de Microsoft (MPN) de cualquier nivel. El Partner University proporciona el registro y el acceso a la formación en línea y presencial, de bajo coste y gratuita. También se utiliza para completar los requisitos de evaluación de Microsoft Action Pack y competencias.]]></description>
-    <articlelinks>
-      <link>
-        <text>Servicios de asesoría y preventa técnica - Technical Training</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=100-000101]]></url>
-      </link>
-       <link>
-        <text>Rutas de aprendizaje</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000101]]></url>
-      </link>
-       <link>
-        <text>Partner University </text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000101]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>¿Cómo puedo entrar como Proveedor indirecto?</title>
     <description><![CDATA[Acceda al enlace siguiente para ver cómo puede inscribirse en el programa Proveedor de soluciones en la nube.]]></description>
