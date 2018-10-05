@@ -60,15 +60,6 @@
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000066</id>
-    <title>How can I encourage my customers to adopt Office 365?</title>
-    <description><![CDATA[Whether your online service business is just starting or ready to scale, Cloud SureStep is designed to help you maximize profitability.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: Cloud SureStep Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/SureStep?tpqid=200-000066]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000097</id>
     <title>How can I get help for questions related to the Partner Dashboard or Cloud Solution Partner (CSP) program, from the Regional Service Center (RSC)?</title>
     <description><![CDATA[The Regional Service Center (RSC) is available to provide assistance for Partner Dashboard or Cloud Solution Provider (CSP) program questions and issues.]]></description>
@@ -231,6 +222,19 @@ You can use the dashboard as a source for key data to help you efficiently manag
         <url><![CDATA[https://support.microsoft.com/help/4458106?tpqid=200-000102]]></url>
       </link>
     </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000036</id>
+    <title>How do I activate my Visual Studio subscription?</title>
+    <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 4013871: Microsoft Partner Network (MPN) Visual Studio Subscriptions</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4013871?tpqid=800-000036]]></url>
+      </link>
+       <link>
+        <text>Visual Studio Online subscriptions</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000092</id>
     <title>How do I activate my internal-use rights licenses?</title>
     <description><![CDATA[You can find step-by-step instructions for activating Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM Online internal-use rights licenses in the articles below.]]></description>
@@ -242,19 +246,6 @@ You can use the dashboard as a source for key data to help you efficiently manag
        <link>
         <text>KB 3013414: Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>What software benefits do you get with Microsoft Action Pack? </title>
-    <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. Renewal process is needed for O365 and Dynamics separately from re-enrollment of MAPS. They do not renew automatically once partner renewed their MAPS Membership. For details about license benefits, refer to the following resources:]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: Microsoft Action Pack overview</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>License Table for Microsoft Action Pack partners </text>
-        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000105</id>
@@ -347,20 +338,33 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Visual Studio Online download site</text>
         <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000036</id>
-    <title>How do I activate my Visual Studio subscription?</title>
-    <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
+    </articlelinks></question><question SortOrderOnHome="6">
+    <id>800-000039</id>
+    <title>What software benefits do you get with Microsoft Action Pack? </title>
+    <description><![CDATA[Action Pack subscribers generally receive 10 internal-use licenses for the latest Microsoft software. This includes licenses for on-premises software, online services, and a Visual Studio Online subscription. Renewal process is needed for O365 and Dynamics separately from re-enrollment of MAPS. They do not renew automatically once partner renewed their MAPS Membership. For details about license benefits, refer to the following resources:]]></description>
     <articlelinks>
       <link>
-        <text>KB 4013871: Microsoft Partner Network (MPN) Visual Studio Subscriptions</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4013871?tpqid=800-000036]]></url>
+        <text>Partner Portal: Microsoft Action Pack overview</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=800-000039]]></url>
       </link>
        <link>
-        <text>Visual Studio Online subscriptions</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
+        <text>License Table for Microsoft Action Pack partners </text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
       </link>
     </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
+    <id>300-000101</id>
+    <title>How do I submit a Technical/Professional Support Incident?</title>
+    <description><![CDATA[Review the MPN Technical Benefits Summary to validate your company is eligible for technical support.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2987884: MPN Technical Benefits Summary</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text>KB 3020636: Steps on how to create Support Incident</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000043</id>
     <title>How to activate Microsoft Azure internal-use rights licenses?</title>
     <description><![CDATA[Learn how to activate your Microsoft Azure internal-use rights licenses by following the steps outlined in the Knowledge Base article How-to activate Microsoft Azure internal-use rights licenses.]]></description>
@@ -522,23 +526,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>How do I qualify for the Signature Cloud Support benefit?</title>
-    <description><![CDATA[Review the Core benefits and requirements for information on the individual requirements for the Cloud Performance and Hybrid competencies.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: Signature Cloud Support Overview</text>
-        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>KB 2996739: Signature Cloud Support Benefit Overview</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2996739?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>KB 3020636: Steps on how to create Signature Cloud Support Incident</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000109</id>
     <title>Where can I find and how do I activate demonstration/training licenses?</title>
     <description><![CDATA[You get only one key per product and it’s your decision to choose what to use it for: demonstration, training or internal use. There are no different licenses for each type of benefits (demonstration, training or internal use). For demonstration or training, as long as you activate and deactivate it within 30 days, no activation is burnt against that product key.]]></description>
@@ -561,17 +548,21 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000101</id>
-    <title>How do I submit a Technical/Professional Support Incident?</title>
-    <description><![CDATA[Review the MPN Technical Benefits Summary to validate your company is eligible for technical support.]]></description>
+    <id>300-000028</id>
+    <title>How do I qualify for the Signature Cloud Support benefit?</title>
+    <description><![CDATA[Review the Core benefits and requirements for information on the individual requirements for the Cloud Performance and Hybrid competencies.]]></description>
     <articlelinks>
       <link>
-        <text>KB 2987884: MPN Technical Benefits Summary</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+        <text>Partner Portal: Signature Cloud Support Overview</text>
+        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
       </link>
        <link>
-        <text>KB 3020636: Steps on how to create Support Incident</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+        <text>KB 2996739: Signature Cloud Support Benefit Overview</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2996739?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>KB 3020636: Steps on how to create Signature Cloud Support Incident</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question></group><group title="Incentives and Payouts" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
