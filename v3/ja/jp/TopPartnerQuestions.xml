@@ -1,28 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="アカウントの設定と管理" refid="AccountSetupManagement"><question>
-    <id>200-000026</id>
-    <title>私たちはマイクロソフトのパートナーです。 パートナー機能を有効にするにはどうすればよいでしょう？</title>
-    <description><![CDATA[オンライン サービス特典にアクセスしてパートナー機能を有効にするには、こちらのリソースをご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>ソフトウェアとオンライン サービス特典のページ</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
-      </link>
-       <link>
-        <text>パートナー機能を有効にするにはどうすればよいですか</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000085</id>
-    <title>Cloud Services Partner Dashboard とは?</title>
-    <description><![CDATA[Microsoft Cloud Services Dashboard は、リセラーやディストリビューターが、Microsoft Office 365、Microsoft Intune、Microsoft Dynamics CRM Online の顧客のサブスクリプションのステータスを追跡するために役立ちます。
-ダッシュボードを主要なデータのソースとして使用すると、貴社を指名パートナーとして指定している顧客のサブスクリプションを効率的に管理できます。このデータを使用して、需要、導入、更新をより効果的かつ先見的に促進できます。 
-]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Cloud Services Dashboard について</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000083</id>
     <title>クラウド ソリューション プロバイダー (CSP) プログラムに関する最新情報の詳細はどこで確認できますか?</title>
     <description><![CDATA[パートナー ダッシュボード ポータルで CSP プログラムに関する最新情報の詳細をご確認ください。]]></description>
@@ -34,19 +10,6 @@
        <link>
         <text>パートナー ダッシュボード: CSP に関するお知らせ</text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000068</id>
-    <title>Office 365 のデモを実施したいのですが、どうすればできますか？</title>
-    <description><![CDATA[マイクロソフト Office Demo ポータルを活用することで、ローカルにソフトウェアをフル インストールするなどの作業をせずに、デモ環境をセットアップし、Office 製品のデモのためのガイド資料を入手することができます。マイクロソフト Office のデモ環境は、デモ用コンテンツを備えた Office 365 試用版テナントで構成されます。Office 365 テナントがセットアップされると、 Exchange、SharePoint、Skype、Outlook、Word、Excel、Powerpoint その他あらゆる Office 製品をカバーする効果的なデモを実施することができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト Office Demo ポータル</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>マイクロソフト Office 365, Project Online, および Power BI デモ テナント</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000029</id>
@@ -161,7 +124,7 @@
         <text>パートナー ダッシュボード: 組織の税金情報</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>200-000089</id>
     <title>CSP 関係を要求する方法</title>
     <description><![CDATA[顧客に代わって顧客のサービスやサブスクリプションを管理するには、顧客がそのサービスに対する管理者権限をお客様に付与する必要があります。次の記事で詳しい情報をお読みください。]]></description>
@@ -173,24 +136,6 @@
        <link>
         <text>パートナー ダッシュボード:  再販業者関係を削除する</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000091</id>
-    <title>プロモーションを使用する方法と利用可能なプロモーションはどこで確認できますか?</title>
-    <description><![CDATA[マイクロソフトでは、クラウド ソリューション プロバイダー (CSP) プログラムの対象パートナーの皆様が利用できるプロモーションと、特定の地域のパートナー様のみが利用できるプロモーションの 2 種類のプロモーションを用意しています。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード: プロモーションを使用して新しい顧客の関心を引く</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000096</id>
-    <title>参加できるグローバルなクラウド ソリューション パートナー (CSP) コミュニティはありますか?</title>
-    <description><![CDATA[あります。Yammer の CSP コミュニティに参加できます。]]></description>
-    <articlelinks>
-      <link>
-        <text>Yammer の クラウド コミュニティ</text>
-        <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000097</id>
@@ -250,42 +195,6 @@
         <url><![CDATA[https://support.microsoft.com/help/4458106?tpqid=200-000102]]></url>
       </link>
     </articlelinks></question></group><group title="インセンティブと支払い" refid="IncentivesPayouts"><question>
-    <id>400-000079</id>
-    <title>パートナー インセンティブに関する情報はどこで見ることができますか? </title>
-    <description><![CDATA[2015 年 7 月 1 日現在、すべてのパートナー インセンティブ プログラムに関する情報は、Microsoft Partner Network で見ることができます。インセンティブ プログラムの資格があるパートナーは、aka.ms/partnerincentives でプログラムで利用可能なすべての資料を参照できます。パートナーは、必要なコンピテンシーをまだ獲得していない場合でも、ほとんどのクラウド インセンティブの詳細も表示できます。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>インセンティブ支払いの概要</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000008</id>
-    <title>Microsoft パートナー インセンティブとは何ですか? </title>
-    <description><![CDATA[パートナー インセンティブは、パートナー エコシステムに対するマイクロソフトの投資の一環です。施設内、クラウド内、またはその中間のどこでビジネスを行っているかに関係なく、パートナー インセンティブは、パートナーの収益性と成長をサポートし、マイクロソフトのクラウド第一、モバイル第一戦略を促進するように設計されています。インセンティブには、エンタープライズ、中小企業、クラウド サービス、およびデバイス向けのプログラムが含まれています。]]></description>
-    <articlelinks>
-      <link>
-        <text>インセンティブ支払いの概要</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-1000101</id>
-    <title>Windows 8 アプリケーションの有効化プロセスを教えてください。</title>
-    <description><![CDATA[Windows 7 のリリース以降有効化プロセスを行っていない Microsoft パートナーによる Windows 8 アプリケーションの有効化プロセスは変更されました。]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2910569:Windows 8 アプリケーションの有効化に関する FAQ</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2910569?tpqid=400-1000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>パートナー インセンティブに関するサポートを受けるにはどうすればよいですか? </title>
-    <description><![CDATA[パートナー インセンティブ プログラムのサポートについては、パートナー インセンティブ ページの「サポート」セクションを参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー インセンティブのサポートを受ける </text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-1000102</id>
     <title>パートナー特典や各種プログラム要件に関するお問い合わせはについての連絡先情報はどこから入手できますか？　</title>
     <description><![CDATA[パートナー コールセンター内　マイクロソフト認定プログラム事務局までご連絡ください。　（自動音声メッセージで3番を選択ください。）]]></description>
@@ -310,6 +219,42 @@
        <link>
         <text>税金の詳細を更新する場所</text>
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title>パートナー インセンティブに関する情報はどこで見ることができますか? </title>
+    <description><![CDATA[2015 年 7 月 1 日現在、すべてのパートナー インセンティブ プログラムに関する情報は、Microsoft Partner Network で見ることができます。インセンティブ プログラムの資格があるパートナーは、aka.ms/partnerincentives でプログラムで利用可能なすべての資料を参照できます。パートナーは、必要なコンピテンシーをまだ獲得していない場合でも、ほとんどのクラウド インセンティブの詳細も表示できます。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>インセンティブ支払いの概要</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-1000101</id>
+    <title>Windows 8 アプリケーションの有効化プロセスを教えてください。</title>
+    <description><![CDATA[Windows 7 のリリース以降有効化プロセスを行っていない Microsoft パートナーによる Windows 8 アプリケーションの有効化プロセスは変更されました。]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2910569:Windows 8 アプリケーションの有効化に関する FAQ</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2910569?tpqid=400-1000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000008</id>
+    <title>Microsoft パートナー インセンティブとは何ですか? </title>
+    <description><![CDATA[パートナー インセンティブは、パートナー エコシステムに対するマイクロソフトの投資の一環です。施設内、クラウド内、またはその中間のどこでビジネスを行っているかに関係なく、パートナー インセンティブは、パートナーの収益性と成長をサポートし、マイクロソフトのクラウド第一、モバイル第一戦略を促進するように設計されています。インセンティブには、エンタープライズ、中小企業、クラウド サービス、およびデバイス向けのプログラムが含まれています。]]></description>
+    <articlelinks>
+      <link>
+        <text>インセンティブ支払いの概要</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000080</id>
+    <title>パートナー インセンティブに関するサポートを受けるにはどうすればよいですか? </title>
+    <description><![CDATA[パートナー インセンティブ プログラムのサポートについては、パートナー インセンティブ ページの「サポート」セクションを参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー インセンティブのサポートを受ける </text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
       </link>
     </articlelinks></question></group><group title="テクニカル サポート (製品、プラットフォーム、ツール)" refid="TechnicalSupport"><question>
     <id>700-000002</id>
@@ -433,6 +378,32 @@
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=1200-1000110]]></url>
       </link>
     </articlelinks></question></group><group title="プログラムとメンバーシップ" refid="ProgramsMembership"><question>
+    <id>100-000085</id>
+    <title>複数の MPN 登録を併合するにはどうすればよいですか?</title>
+    <description><![CDATA[取引を行う利点と機能へのアクセスに影響する可能性がある考慮事項については、以下の記事を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>複数の MPN 登録を統合するにはどうすればよいですか?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
+      </link>
+       <link>
+        <text>RSC から Microsoft Partner Network のサポートを得る方法</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000070</id>
+    <title>当社はマイクロソフト パートナー ネットワークに登録していません。どうすれば登録できますか？</title>
+    <description><![CDATA[マイクロソフト アカウントがある場合、マイクロソフトパートナーネットワークの会社登録のページにサインインします。マイクロソフト アカウントがない場合、まず、マイクロソフトアカウントを作成する必要があります。]]></description>
+    <articlelinks>
+      <link>
+        <text>マイクロソフト パートナー ネットワークに会社を登録</text>
+        <url><![CDATA[https://partners.microsoft.com/partnerprogram/EnrollmentWelcome.aspx?tpqid=100-000070]]></url>
+      </link>
+       <link>
+        <text>マイクロソフト パートナー ネットワークの概要</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000102</id>
     <title>ラーニング ・ パスについての質問トップは何ですか？</title>
     <description><![CDATA[あなたを助けることができるラーニング パス訓練や認定を取得します。ラーニング ・ パスはパスに関連する会社、または組織を強調表示します。学習パス FAQ トップのラーニング ・ パスについての質問への回答を提供します。]]></description>
@@ -448,41 +419,6 @@
        <link>
         <text>Partner University</text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000091</id>
-    <title>MPN の登録/更新に対して、どのような支払方法が受け入れられますか?</title>
-    <description><![CDATA[MPN の登録/更新で受け入れられる支払方法については、次の記事を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN 登録で受け入れられる支払方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966328?tpqid=100-000091]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>100-000092</id>
-    <title>組織の職場アカウントを新しいパートナー ダッシュボード アカウントとリンクする方法</title>
-    <description><![CDATA[会社が職場アカウントをまだお持ちでない場合は、登録処理中に無料で作成できます。既存のアカウントを使用したいもののサインインできない場合は、次の記事をご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード: 会社の職場アカウントとパートナー ダッシュボード</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000087</id>
-    <title>特定コンピテンシーの要件はどこで見つけることができますか？</title>
-    <description><![CDATA[パートナー ポータルのコンピテンシー ページにアクセスして、希望するコンピテンシーのリンクを選択してください。各コンピテンシー ページにはそのコンピテンシーの要件がリストされています。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal:コンピテンシー</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000087]]></url>
-      </link>
-       <link>
-        <text>コア特典と要件</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
-      </link>
-       <link>
-        <text>パートナー ダッシュボード: コンピテンシー</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000061</id>
@@ -506,61 +442,45 @@
         <text>パートナー メンバーシップ センターの概要</text>
         <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000094</id>
-    <title>パートナー ダッシュボード アカウントを作成する方法</title>
-    <description><![CDATA[この記事は、パートナー ダッシュボード アカウントを作成する方法について説明しています。パートナー メンバーシップ センターからパートナー ダッシュボードにパートナー ネットワーク メンバーシップ情報を移動しているパートナー様向けです。 ]]></description>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>100-000092</id>
+    <title>組織の職場アカウントを新しいパートナー ダッシュボード アカウントとリンクする方法</title>
+    <description><![CDATA[会社が職場アカウントをまだお持ちでない場合は、登録処理中に無料で作成できます。既存のアカウントを使用したいもののサインインできない場合は、次の記事をご確認ください。]]></description>
     <articlelinks>
       <link>
-        <text>パートナー ダッシュボード: パートナー ダッシュボード アカウントを作成する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000094]]></url>
-      </link>
-       <link>
-        <text>パートナー ダッシュボード: パートナー ダッシュボード アカウントを管理する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000094]]></url>
-      </link>
-       <link>
-        <text>パートナー ダッシュボード: パートナーのプロフィールを更新する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
+        <text>パートナー ダッシュボード: 会社の職場アカウントとパートナー ダッシュボード</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000084</id>
-    <title>コンピテンシーの更新費用とこれに関する情報はどこで確認できますか?</title>
-    <description><![CDATA[パートナーは、コンピテンシー ページに移動して、コンピテンシーを獲得するための最新の要件と料金を確認できます。コンピテンシーの最新の料金一覧については、以下の関連項目のリンクを参照してください。]]></description>
+    <id>100-000095</id>
+    <title>パートナー管理センター (PAC) からパートナー ダッシュボードに移行される時期 </title>
+    <description><![CDATA[2018 年春から、Office 365 パートナー管理センター (PAC) のツールの機能が Microsoft パートナー ダッシュボードに移行されます。パートナー ダッシュボードに移行できる時期になると、ポップアップ ダイアログ ボックスが表示されます。移行日にパートナー管理センター (PAC) にアクセスしようとすると、各パートナーの皆様は、パートナー ダッシュボードのダッシュボードに自動的にリダイレクトされてログインされます。自動リダイレクトが発生すると、パートナーの皆様はパートナー管理センター (PAC) に以後アクセスできなくなります。アドバイザーの皆様への注意項目: 現時点では、パートナー ダッシュボードから有料および試用版サービスの見積もりをお客様に送信できません。パートナー ダッシュボードで [Paid and Trial Quotes (有料および試用版の見積もり)] の機能が有効になるまで、パートナー管理センター (PAC) で [ビジネスを築く] の機能を引き続きご利用いただけます。]]></description>
     <articlelinks>
       <link>
-        <text>コンピテンシー partners</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
+        <text>パートナー ダッシュボード: パートナー管理センター (PAC) からパートナー ダッシュボードに移行する </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
       </link>
        <link>
-        <text>パートナー ダッシュボード: コンピテンシー</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
+        <text>パートナー ダッシュボード: パートナー管理センター (PAC) がパートナー ダッシュボードに移行する</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000018</id>
-    <title>パートナー ネットワークのウェブサイトへのサインイン問題はどのようにしてトラブルシューティングすることができますか？</title>
-    <description><![CDATA[Microsoft Partner Network のウェブサイトにサインインできない場合は次の提案に従ってください。]]></description>
+    <id>100-000096</id>
+    <title>デジタル指名パートナーとは</title>
+    <description><![CDATA[デジタル指名パートナーについては、以下の記事を参照してください。]]></description>
     <articlelinks>
       <link>
-        <text>Microsoft Partner Network のウェブサイトへのログイン問題のトラブルシューティング</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2913746?tpqid=100-000018]]></url>
+        <text>Partner Portal: デジタル指名パートナーとパートナーの関連付け</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000083</id>
-    <title>Action Pack の更新料金はいくらですか?</title>
-    <description><![CDATA[Action Pack の最新の料金一覧については、以下の関連項目のリンクを参照してください。]]></description>
+    <id>100-000098</id>
+    <title>クラウド プラットフォーム コンピテンシーの Azure 使用量の計算方法</title>
+    <description><![CDATA[TTM 使用量は、デジタル指名パートナー (DPOR) が関連付けられているサブスクリプションに対して計算されます。パートナーが複数のサブスクリプションを所有している場合、この情報だけでは不十分です。パートナーを、所有するサブスクリプションの DPOR として関連付ける必要があります。使用量は、DPOR が関連付けられた日からのみ計算されます。]]></description>
     <articlelinks>
       <link>
-        <text>マイクロソフト アクション パックの概要</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack サブスクリプションの購入または更新</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
-      </link>
-       <link>
-        <text>Action Pack を更新するにはどうすればよいですか?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
+        <text>Partner Portal: クラウド プラットフォーム</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000077</id>
@@ -589,17 +509,17 @@
         <url><![CDATA[https://docs.microsoft.com/ja-jp/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000003</id>
-    <title>基本特典とコンピテンシー特典の違いは何ですか？</title>
-    <description><![CDATA[最初のコンピテンシーを獲得すると、一連の基本特典とコンピテンシー特典を受け取る資格を獲得します。他のコンピテンシーを獲得すれば、追加のコンピテンシー固有特典を獲得します]]></description>
+    <id>100-000069</id>
+    <title>当社はマイクロソフト パートナー ネットワークに登録しています。　パートナーアカウントに社員を関連付けするには、どうすればよいでしょう？</title>
+    <description><![CDATA[既にマイクロソフト アカウントがある場合、パートナー メンバーシップ センターにサインインして、登録社員のページから関連付けを行います。マイクロソフト アカウントがない場合は事前にアカウントを作成する必要があります。]]></description>
     <articlelinks>
       <link>
-        <text>基本特典と要件</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000003]]></url>
+        <text>MPN ID に関連付ける方法</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
       </link>
        <link>
-        <text>Microsoft Partner Network の概要</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
+        <text>組織のマイクロソフト パートナーのネットワーク ID を Microsoft アカウントに関連付ける方法</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000082</id>
@@ -614,127 +534,23 @@
         <text>KB 4089772: 満たしていない要件をパートナー ダッシュボードで確認する手順</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000081</id>
-    <title>Microsoft Partner Network (MPN) の不明な点についてマイクロソフト認定プログラム事務局 (RSC) からサポートを得るにはどうすればよいですか?</title>
-    <description><![CDATA[この記事では、Microsoft Partner Network (MPN) の不明な点についてマイクロソフト認定プログラム事務局 (RSC) からサポートを得る方法について説明します。]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>新しいパートナー ダッシュボードでアカウントをどのように設定するのでしょうか? </title>
+    <description><![CDATA[以下のリンクにアクセスして詳細をご確認ください。]]></description>
     <articlelinks>
       <link>
-        <text>RSC から Microsoft Partner Network のサポートを得る方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000081]]></url>
+        <text>パートナー ダッシュボード アカウントに関する FAQ </text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
-       <link>
-        <text>マイクロソフト パートナー サポートとチャットする</text>
-        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000101</id>
-    <title>パートナー助言時間とは何ですか？</title>
-    <description><![CDATA[パートナー助言時間は、パートナーに提供される特定サービスへのアクセスに使用する通貨です。この時間を使用して、スキルを構築したりカスタマイズされたソリューション導入ガイダンスを受けたりすることができます。]]></description>
+    </articlelinks></question><question SortOrderOnHome="3">
+    <id>100-000100</id>
+    <title>インダイレクト リセラーになるにはどうすればよいですか?</title>
+    <description><![CDATA[クラウド ソリューション プロバイダー プログラムに登録する方法については、次のリンクにアクセスしてください。]]></description>
     <articlelinks>
       <link>
-        <text>テクニカル プリセールスおよび展開サービス - Technical Training</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=100-000101]]></url>
-      </link>
-       <link>
-        <text>マイクロソフト パートナーのラーニング パス</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000101]]></url>
-      </link>
-       <link>
-        <text>Partner University </text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000069</id>
-    <title>当社はマイクロソフト パートナー ネットワークに登録しています。　パートナーアカウントに社員を関連付けするには、どうすればよいでしょう？</title>
-    <description><![CDATA[既にマイクロソフト アカウントがある場合、パートナー メンバーシップ センターにサインインして、登録社員のページから関連付けを行います。マイクロソフト アカウントがない場合は事前にアカウントを作成する必要があります。]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN ID に関連付ける方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>組織のマイクロソフト パートナーのネットワーク ID を Microsoft アカウントに関連付ける方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000085</id>
-    <title>複数の MPN 登録を併合するにはどうすればよいですか?</title>
-    <description><![CDATA[取引を行う利点と機能へのアクセスに影響する可能性がある考慮事項については、以下の記事を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>複数の MPN 登録を統合するにはどうすればよいですか?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
-      </link>
-       <link>
-        <text>RSC から Microsoft Partner Network のサポートを得る方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000095</id>
-    <title>パートナー管理センター (PAC) からパートナー ダッシュボードに移行される時期 </title>
-    <description><![CDATA[2018 年春から、Office 365 パートナー管理センター (PAC) のツールの機能が Microsoft パートナー ダッシュボードに移行されます。パートナー ダッシュボードに移行できる時期になると、ポップアップ ダイアログ ボックスが表示されます。移行日にパートナー管理センター (PAC) にアクセスしようとすると、各パートナーの皆様は、パートナー ダッシュボードのダッシュボードに自動的にリダイレクトされてログインされます。自動リダイレクトが発生すると、パートナーの皆様はパートナー管理センター (PAC) に以後アクセスできなくなります。アドバイザーの皆様への注意項目: 現時点では、パートナー ダッシュボードから有料および試用版サービスの見積もりをお客様に送信できません。パートナー ダッシュボードで [Paid and Trial Quotes (有料および試用版の見積もり)] の機能が有効になるまで、パートナー管理センター (PAC) で [ビジネスを築く] の機能を引き続きご利用いただけます。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード: パートナー管理センター (PAC) からパートナー ダッシュボードに移行する </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
-      </link>
-       <link>
-        <text>パートナー ダッシュボード: パートナー管理センター (PAC) がパートナー ダッシュボードに移行する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000096</id>
-    <title>デジタル指名パートナーとは</title>
-    <description><![CDATA[デジタル指名パートナーについては、以下の記事を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: デジタル指名パートナーとパートナーの関連付け</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000097</id>
-    <title>Partner Membership Center にて銀行振込で支払う方法</title>
-    <description><![CDATA[Partner Membership Center の銀行振込のプロセスについては、以下の記事を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center での電信送金</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089048?tpqid=100-000097]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000098</id>
-    <title>クラウド プラットフォーム コンピテンシーの Azure 使用量の計算方法</title>
-    <description><![CDATA[TTM 使用量は、デジタル指名パートナー (DPOR) が関連付けられているサブスクリプションに対して計算されます。パートナーが複数のサブスクリプションを所有している場合、この情報だけでは不十分です。パートナーを、所有するサブスクリプションの DPOR として関連付ける必要があります。使用量は、DPOR が関連付けられた日からのみ計算されます。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: クラウド プラットフォーム</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000050</id>
-    <title>当社のマイクロソフト認定資格取得者 (MCP) が、Silver や Gold コンピテンシーの取得条件を満たすと認識されていないようです。どうすればよいでしょうか？</title>
-    <description><![CDATA[前回のプログラム変更以降、正しくパートナープロファイルに関連付けされており、必要な試験に合格していながら、パートナーメンバーシップセンター上でそれらが が正しく認識されない、といったケースが発生しています。　このような状況に見舞われた場合は、パートナーメンバーシップセンターの「マイクロソフト認定資格取得者 (MCP) の管理」のページで MCP を再度割り当てなおしてみてください。この回避策により、状況は改善するはずですが、それでも問題が改善されない場合は、最寄りのマイクロソフト認定プログラム事務局に連絡してサポートを受けるようにしてください。]]></description>
-    <articlelinks>
-      <link>
-        <text>MCP 試験や認定証が正しくクレジットされない問題を解決する</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>パートナーの組織への MCP ID のリンク付けまたは外し</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000086</id>
-    <title>試験はどのようにスケジュールすることができますか？</title>
-    <description><![CDATA[Microsoft 認定試験をスケジュールする、試験センターを見つける、試験を再度スケジュールする、または試験を確認するには、Pearson VUE ウェブサイトの Microsoft 認定ページにアクセスしてください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Pearson VUE</text>
-        <url><![CDATA[http://www.pearsonvue.com/microsoft/?tpqid=100-000086]]></url>
-      </link>
-       <link>
-        <text>Pearson Vue のテスト環境</text>
-        <url><![CDATA[http://www.pearsonvue.com/accommodations/?tpqid=100-000086]]></url>
+        <text>クラウド ソリューション プロバイダー プログラムに登録する</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000012</id>
@@ -754,62 +570,17 @@
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000079</id>
-    <title>社員登録の一括依頼を送信する方法</title>
-    <description><![CDATA[社員登録の一括依頼を送信する方法については次の記事を参照してください]]></description>
+    <id>100-000050</id>
+    <title>当社のマイクロソフト認定資格取得者 (MCP) が、Silver や Gold コンピテンシーの取得条件を満たすと認識されていないようです。どうすればよいでしょうか？</title>
+    <description><![CDATA[前回のプログラム変更以降、正しくパートナープロファイルに関連付けされており、必要な試験に合格していながら、パートナーメンバーシップセンター上でそれらが が正しく認識されない、といったケースが発生しています。　このような状況に見舞われた場合は、パートナーメンバーシップセンターの「マイクロソフト認定資格取得者 (MCP) の管理」のページで MCP を再度割り当てなおしてみてください。この回避策により、状況は改善するはずですが、それでも問題が改善されない場合は、最寄りのマイクロソフト認定プログラム事務局に連絡してサポートを受けるようにしてください。]]></description>
     <articlelinks>
       <link>
-        <text>グループに招待状を送信する方法</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017800?tpqid=100-000079]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>100-000099</id>
-    <title>新しいパートナー ダッシュボードでアカウントをどのように設定するのでしょうか? </title>
-    <description><![CDATA[以下のリンクにアクセスして詳細をご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード アカウントに関する FAQ </text>
-        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>マイクロソフトパートナーネットワーク契約書はどこで確認できますか?</title>
-    <description><![CDATA[マイクロソフトパートナーネットワーク契約書を表示するには、パートナーメンバーシップセンターにサインインする必要があります。サインインしたら、[追加プログラム] に移動し、[Microsoft オンラインサービスパートナー契約書] の下の [ステータス] を選択します。次に[手順 1 マイクロソフト パートナー ネットワークへの登録] を選択し契約書を表示します。または、以下より印刷可能バージョンを開くことができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal</text>
-        <url><![CDATA[https://partner.microsoft.com/?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
-    <id>100-000100</id>
-    <title>インダイレクト リセラーになるにはどうすればよいですか?</title>
-    <description><![CDATA[クラウド ソリューション プロバイダー プログラムに登録する方法については、次のリンクにアクセスしてください。]]></description>
-    <articlelinks>
-      <link>
-        <text>クラウド ソリューション プロバイダー プログラムに登録する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000070</id>
-    <title>当社はマイクロソフト パートナー ネットワークに登録していません。どうすれば登録できますか？</title>
-    <description><![CDATA[マイクロソフト アカウントがある場合、マイクロソフトパートナーネットワークの会社登録のページにサインインします。マイクロソフト アカウントがない場合、まず、マイクロソフトアカウントを作成する必要があります。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト パートナー ネットワークに会社を登録</text>
-        <url><![CDATA[https://partners.microsoft.com/partnerprogram/EnrollmentWelcome.aspx?tpqid=100-000070]]></url>
+        <text>MCP 試験や認定証が正しくクレジットされない問題を解決する</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
       </link>
        <link>
-        <text>マイクロソフト パートナー ネットワークの概要</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000089</id>
-    <title>エンタープライズ モビリティ オファーに必要なテクニカル アセスメントはどこで受講できますか？</title>
-    <description><![CDATA[エンタープライズ モビリティ オファーのテクニカル アセスメントは、パートナー ユニバーシティーで受講できます。　現在は次の言語で対応しています。: 英語、ドイツ語、スペイン語、フランス語。]]></description>
-    <articlelinks>
-      <link>
-        <text>Enterprise Mobility Management</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
+        <text>パートナーの組織への MCP ID のリンク付けまたは外し</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>100-0000100</id>
@@ -864,6 +635,15 @@
         <url><![CDATA[https://blogs.partner.microsoft.com/mpn/new-opportunities-partnering-microsoft-partner-network/?tpqid=100-0000103]]></url>
       </link>
     </articlelinks></question></group><group title="ライセンス、販売、マーケティング" refid="LicensingSalesMarketing"><question>
+    <id>1500-000009</id>
+    <title>パートナーがオンプレミス製品の新しいキーを受け取ることができるのはいつですか? </title>
+    <description><![CDATA[オンプレミス キーにはライセンス認証回数の上限があることに注意してください。パートナーは、新しいバージョンの製品がリリースされた場合にのみ新しいキーを受け取ることができます。それ以外の場合、既にオンプレミス キーを使用し、新しい年の再登録料金を支払っている場合でも、追加のライセンス認証はパートナーに提供されません。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Portal: パートナー ネットワーク ソフトウェア ライセンスの特典についてよく寄せられる質問 (FAQ)  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1500-000010</id>
     <title>付与されたライセンスをトレーニングの目的で使用できますか?</title>
     <description><![CDATA[顧客トレーニングのために付与されたライセンスを使用することは許可されていません。IUR は社員限定のトレーニングの目的で使用できますが、ライセンス認証が行われる事実を認識する必要があります。 ]]></description>
@@ -960,29 +740,7 @@
         <text>KB 4076425: パートナーのライセンスに関する質問 - クイック リファレンス ガイド</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1500-000009</id>
-    <title>パートナーがオンプレミス製品の新しいキーを受け取ることができるのはいつですか? </title>
-    <description><![CDATA[オンプレミス キーにはライセンス認証回数の上限があることに注意してください。パートナーは、新しいバージョンの製品がリリースされた場合にのみ新しいキーを受け取ることができます。それ以外の場合、既にオンプレミス キーを使用し、新しい年の再登録料金を支払っている場合でも、追加のライセンス認証はパートナーに提供されません。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: パートナー ネットワーク ソフトウェア ライセンスの特典についてよく寄せられる質問 (FAQ)  </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
-      </link>
-    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>マイクロソフト アクション パックで入手できるソフトウェア特典は、どのようなものですか？</title>
-    <description><![CDATA[通常、アクションパックご購入のパートナー様には、マイクロソフトの最新ソフトウェアの社内使用ライセンスが 10ライセンス 付与されます。　この社内使用ライセンスには、オンプレミス ソフトウェア、オンライン サービス、Visual Studio Online サブスクリプションのライセンスで構成されています。MAPS の更新とは別に、O365 と Dynamics の更新プロセスが必要です。パートナーが MAPS メンバーシップを更新しても、O365 と Dynamics は自動的に更新されません。 ライセンス特典の詳細については、以下の資料をご覧ください:]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト アクション パックの概要</text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>マイクロソフト アクション パック パートナーのライセンスの一覧</text>
-        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000032</id>
     <title>マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。</title>
     <description><![CDATA[マイクロソフト パートナー ネットワーク Office 365 (E3) 社内使用権の特典の概要を参照してください。]]></description>
@@ -996,39 +754,19 @@
         <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-1000113</id>
-    <title>「Office365試用版のデータが削除されます」との通知がきました。すでに製品版を有効化して利用していますが、製品版のサブスクリプションも削除されるのですか？</title>
-    <description><![CDATA[いいえ。　試用版で利用いただいていたサブスクリプションのみが削除されます。　製品版で利用いただいているサブスクリプションには影響がありません。　有効化の手順については、以下各種ウェブサイトをご覧ください。]]></description>
+    <id>800-1000111</id>
+    <title>パートナー特典や各種プログラム要件に関するお問い合わせについての連絡先情報はどこから入手できますか？　マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには？　</title>
+    <description><![CDATA[パートナー特典や各種プログラム要件に関するお問い合わせはパートナー コールセンター内　マイクロソフト認定プログラム事務局までご連絡ください。　（自動音声メッセージで3番を選択ください。）
+また、マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには、パートナーメンバーシップフォーラムをご活用ください。　プライベート投稿の機能やファイルの共有方法についてはコミュニティ内の投稿をご覧ください。 
+※　パートナーメンバーシップフォーラムをご覧になる場合は、パートナーアカウントに紐づくマイクロソフトアカウントでログインする必要があります。　]]></description>
     <articlelinks>
       <link>
-        <text>Office365 社内使用ライセンスの有効化ガイド</text>
-        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Membership/program/mpn-guide_02.aspx#tab?tpqid=800-1000113]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-1000112</id>
-    <title>Office365の試用版を利用していますが、試用期間の延長をすることはできますか？</title>
-    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
-Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
-※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
-※代理管理ではこの手続きを行うことができません。
-※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
-    <articlelinks>
-      <link>
-        <text>Office365管理センタ</text>
-        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN IUR (内部使用権) Online Services サブスクリプションがある場合、アドオン サブスクリプションを購入できますか?</title>
-    <description><![CDATA[いいえ、購入できません。アドオンを追加するには、利用可能な購入経路で基本サブスクリプションを 1 ライセンス以上購入する必要があります。例外: CRM OL および Dynamics 365 のアドオンの場合 (非運用環境のインスタンスやストレージなど)、こちらで依頼を送信して無料の基本サブスクリプションを取得できます。]]></description>
-    <articlelinks>
-      <link>
-        <text>ここで依頼を送信して無料の基本サブスクリプションを取得する</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+        <text>パートナー コールセンター </text>
+        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Support/call-center.aspx?tpqid=800-1000111]]></url>
       </link>
        <link>
-        <text>ソフトウェアおよびクラウド サービスの利点に関する製品使用ガイド</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+        <text>パートナー メンバーシップ フォーラムプライベート投稿について </text>
+        <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000092</id>
@@ -1067,21 +805,6 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-1000111</id>
-    <title>パートナー特典や各種プログラム要件に関するお問い合わせについての連絡先情報はどこから入手できますか？　マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには？　</title>
-    <description><![CDATA[パートナー特典や各種プログラム要件に関するお問い合わせはパートナー コールセンター内　マイクロソフト認定プログラム事務局までご連絡ください。　（自動音声メッセージで3番を選択ください。）
-また、マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには、パートナーメンバーシップフォーラムをご活用ください。　プライベート投稿の機能やファイルの共有方法についてはコミュニティ内の投稿をご覧ください。 
-※　パートナーメンバーシップフォーラムをご覧になる場合は、パートナーアカウントに紐づくマイクロソフトアカウントでログインする必要があります。　]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー コールセンター </text>
-        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Support/call-center.aspx?tpqid=800-1000111]]></url>
-      </link>
-       <link>
-        <text>パートナー メンバーシップ フォーラムプライベート投稿について </text>
-        <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000048</id>
     <title>マイクロソフト Azure 社内使用ライセンス (IUR) のクレジットは、どのように請求できますか？</title>
     <description><![CDATA[コンピテンシー、もしくはアクションパックご購入のパートナー様は、いずれもマイクロソフト Azure 月次クレジットにアクセスすることができます。この特典は、アクション パックの購読数や追加事業所キットの購入数に関係なく、会社単位で提供されます。社内の管理者のうち、誰か 1 人でも Azure 特典を請求されていた場合、同じ会社の別のユーザーはクレジットを請求することができません。
@@ -1096,6 +819,41 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
       </link>
     </articlelinks></question><question>
+    <id>800-1000113</id>
+    <title>「Office365試用版のデータが削除されます」との通知がきました。すでに製品版を有効化して利用していますが、製品版のサブスクリプションも削除されるのですか？</title>
+    <description><![CDATA[いいえ。　試用版で利用いただいていたサブスクリプションのみが削除されます。　製品版で利用いただいているサブスクリプションには影響がありません。　有効化の手順については、以下各種ウェブサイトをご覧ください。]]></description>
+    <articlelinks>
+      <link>
+        <text>Office365 社内使用ライセンスの有効化ガイド</text>
+        <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Membership/program/mpn-guide_02.aspx#tab?tpqid=800-1000113]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-1000112</id>
+    <title>Office365の試用版を利用していますが、試用期間の延長をすることはできますか？</title>
+    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
+Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
+※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
+※代理管理ではこの手続きを行うことができません。
+※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
+    <articlelinks>
+      <link>
+        <text>Office365管理センタ</text>
+        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000105</id>
+    <title>MPN IUR (内部使用権) Online Services サブスクリプションがある場合、アドオン サブスクリプションを購入できますか?</title>
+    <description><![CDATA[いいえ、購入できません。アドオンを追加するには、利用可能な購入経路で基本サブスクリプションを 1 ライセンス以上購入する必要があります。例外: CRM OL および Dynamics 365 のアドオンの場合 (非運用環境のインスタンスやストレージなど)、こちらで依頼を送信して無料の基本サブスクリプションを取得できます。]]></description>
+    <articlelinks>
+      <link>
+        <text>ここで依頼を送信して無料の基本サブスクリプションを取得する</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
+      </link>
+       <link>
+        <text>ソフトウェアおよびクラウド サービスの利点に関する製品使用ガイド</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000036</id>
     <title>Visual Studio Online サブスクリプションの有効化はどのように行いますか？</title>
     <description><![CDATA[Visual Studio Online は、開発やアプリケーションのテストを円滑に行うために必要な各種ツールやプラットフォーム、サービスなどを提供しています。　サブスクリプション有効化の方法については、以下の情報をご覧ください。]]></description>
@@ -1108,33 +866,143 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>Visual Studio Online ダウンロード サイト</text>
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>Visual Studio Online のテクニカル ID によるアクセス数の制限について教えてください。</title>
-    <description><![CDATA[コンピテンシーパートナー様へのTechnical IDの発行上限は撤廃されております。また、MAPSご購読のパートナー様向けにもTechnical IDの発行上限を増やしております。以下の資料をご覧いただき、Technical IDの発行方法についてご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text>新規ユーザーに Visual Studio Online サブスクリプションを割り当てできない</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000104</id>
-    <title>IUR ライセンスのダウンロード場所とライセンス認証方法を教えてください</title>
-    <description><![CDATA[IUR ライセンスをライセンス認証し、割り当てる方法については、以下の記事を参照してください]]></description>
-    <articlelinks>
-      <link>
-        <text>社内使用権 クラウドおよびソフトウェア特典(ページの一番下までスクロールすると、コンピテンシー パートナーのライセンス表が表示されます)</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>内部使用権 (IUR) の利点と IUR を使用する重要性</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network メンバーシップの特典を管理する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
-      </link>
     </articlelinks></question></group><group title="特典" refid="Benefits"><question>
+    <id>300-000105</id>
+    <title>Microsoft Dynamics 365 for Unified Operations の社内使用ライセンス (IUR) を取得できる対象ユーザーと取得できる場所</title>
+    <description><![CDATA[クラウド ビジネス アプリケーション コンピテンシーのパフォーマンス条件を満たし、現在 ERP コンピテンシーを持っているパートナーが対象です。この IUR についてよく寄せられる質問と詳細については、以下の記事を参照してください ]]></description>
+    <articlelinks>
+      <link>
+        <text>FAQ - Microsoft Dynamics 365 for Unified Operations の社内使用ライセンス (IUR)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000028</id>
+    <title>Signature Cloud Support の特典資格を取得する方法を教えてください。</title>
+    <description><![CDATA[クラウド パフォーマンスおよびハイブリッド コンピテンシーの要件に関する情報の基本特典と要件を確認してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>基本特典と要件</text>
+        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text>この特典の利用資格と詳細情報を確認するには</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000102</id>
+    <title>コンピテンシーを獲得するメリット</title>
+    <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>
+    <articlelinks>
+      <link>
+        <text>コンピテンシーの概要</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text>パートナー ダッシュボード: コンピテンシー</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000106</id>
+    <title>ユーザー アカウントを作成して権限を割り当てるための手順</title>
+    <description><![CDATA[パートナー ダッシュボードで、MPN 管理者、ビジネス プロファイル管理者、および紹介管理者の管理に役立つ 3 つの新しい役割をユーザーに割り当てることができます。]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー ダッシュボード: ユーザー アカウントの作成とアクセス許可の割り当て</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+      </link>
+       <link>
+        <text>パートナー ダッシュボード: パートナー ダッシュボード アカウントを管理する</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000099</id>
+    <title>MSDN に既に登録されている場合に Visual Studio を登録する方法</title>
+    <description><![CDATA[Visual Studio の登録方法については、サポート技術情報「My Visual Studio の登録」の手順を参照してください. (MPN RSC は、Visual Studio サブスクリプションの特典、サブスクリプションへのアクセス、Visual Studio ポータルの基本的な使用方法について理解されている MPN メンバーを対象にサポートしています)]]></description>
+    <articlelinks>
+      <link>
+        <text>My Visual Studio の登録</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000100</id>
+    <title>テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?</title>
+    <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>基本特典と要件</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text>Microsoft Partner Network の技術的特典の概要</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title>テクニカル/プロフェッショナル サポート インシデントを送信するにはどうすればよいですか?</title>
+    <description><![CDATA[テクニカル サポートを受ける資格を確認するには、「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>Microsoft Partner Network の技術的特典の概要</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text>サポート インシデントを作成する手順</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000098</id>
+    <title>Microsoft Referrals でアプリケーション認定を行うにはどうしますか？</title>
+    <description><![CDATA[マイクロソフト認定またはプログラムに参加すると、紹介に役立ちます。 ]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー ダッシュボード: マイクロソフトからの紹介でビジネスを成長させる</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法</title>
+    <description><![CDATA[アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法については、次の記事を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000004</id>
+    <title>コンピテンシー ロゴを取得するにはどうすれば良いのですか？</title>
+    <description><![CDATA[パートナー ロゴ ビルダーにアクセスし、Microsoft パートナー ステータスおよび達成したコンピテンシーの促進に使用できるカスタム ロゴを作成およびダウンロードします。]]></description>
+    <articlelinks>
+      <link>
+        <text>パートナー ロゴ ビルダー</text>
+        <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000109</id>
+    <title>デモ/トレーニング ライセンスの入手方法とライセンス認証方法を教えてください</title>
+    <description><![CDATA[製品ごとに入手できるキーは 1 つのみです。デモ、トレーニング、または社内使用のいずれかの用途を選択してください。特典の種類 (デモ、トレーニング、または社内使用) ごとに異なるライセンスはありません。特典として付与されているライセンスはトレーニングとしても利用可能です。デモまたはトレーニングの場合、ライセンス認証してから 30 日以内に非アクティブ化を行う場合、そのプロダクト キーに対してライセンス認証は実施されません。]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Portal: 社内使用権クラウドおよびソフトウェアの特典 - 現在も PMC のパートナーの場合</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-1000116</id>
+    <title>MPN特典で提供される各種クラウド特典（Office365/Azure/Intune/CRM Online）を有効化するには？　</title>
+    <description><![CDATA[l   以下、各種ウェブサイトをご覧ください。　]]></description>
+    <articlelinks>
+      <link>
+        <text>ソフトウェアおよびオンライン サービスの特典</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-1000116]]></url>
+      </link>
+       <link>
+        <text>オンライン サービス パートナー ダッシュ ボードの概要</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2985319?tpqid=300-1000116]]></url>
+      </link>
+       <link>
+        <text>クラウド社内使用ライセンス 設定ガイド</text>
+        <url><![CDATA[https://partner.microsoft.com/download/40197038?tpqid=300-1000116]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000108</id>
     <title>顧客向けまたはパートナー向け有償サポート プランはどこで利用できますか? </title>
     <description><![CDATA[製品固有かビジネスかに応じて、次のリンクにアクセスしてください。]]></description>
@@ -1159,167 +1027,5 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       <link>
         <text>マイクロソフト パートナー様向けサポート</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000100</id>
-    <title>テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?</title>
-    <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>基本特典と要件</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network の技術的特典の概要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000102</id>
-    <title>コンピテンシーを獲得するメリット</title>
-    <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>
-    <articlelinks>
-      <link>
-        <text>コンピテンシーの概要</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text>パートナー ダッシュボード: コンピテンシー</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000098</id>
-    <title>Microsoft Referrals でアプリケーション認定を行うにはどうしますか？</title>
-    <description><![CDATA[マイクロソフト認定またはプログラムに参加すると、紹介に役立ちます。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード: マイクロソフトからの紹介でビジネスを成長させる</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000106</id>
-    <title>ユーザー アカウントを作成して権限を割り当てるための手順</title>
-    <description><![CDATA[パートナー ダッシュボードで、MPN 管理者、ビジネス プロファイル管理者、および紹介管理者の管理に役立つ 3 つの新しい役割をユーザーに割り当てることができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード: ユーザー アカウントの作成とアクセス許可の割り当て</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
-      </link>
-       <link>
-        <text>パートナー ダッシュボード: パートナー ダッシュボード アカウントを管理する</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000101</id>
-    <title>テクニカル/プロフェッショナル サポート インシデントを送信するにはどうすればよいですか?</title>
-    <description><![CDATA[テクニカル サポートを受ける資格を確認するには、「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Partner Network の技術的特典の概要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
-      </link>
-       <link>
-        <text>サポート インシデントを作成する手順</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000072</id>
-    <title>能力特典更新情報はどこにありますか?</title>
-    <description><![CDATA[メンバーシップの特典および他の項目の最近の変更や今後の変更に関する最新ニュースは、「最新情報」ページで見ることができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ダッシュボード: ゴールド メンバーシップおよびシルバー メンバーシップに関する今後の Microsoft コンピテンシー要件</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>基本特典と要件</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000028</id>
-    <title>Signature Cloud Support の特典資格を取得する方法を教えてください。</title>
-    <description><![CDATA[クラウド パフォーマンスおよびハイブリッド コンピテンシーの要件に関する情報の基本特典と要件を確認してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>基本特典と要件</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text>この特典の利用資格と詳細情報を確認するには</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884/?tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000004</id>
-    <title>コンピテンシー ロゴを取得するにはどうすれば良いのですか？</title>
-    <description><![CDATA[パートナー ロゴ ビルダーにアクセスし、Microsoft パートナー ステータスおよび達成したコンピテンシーの促進に使用できるカスタム ロゴを作成およびダウンロードします。]]></description>
-    <articlelinks>
-      <link>
-        <text>パートナー ロゴ ビルダー</text>
-        <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-1000116</id>
-    <title>MPN特典で提供される各種クラウド特典（Office365/Azure/Intune/CRM Online）を有効化するには？　</title>
-    <description><![CDATA[l   以下、各種ウェブサイトをご覧ください。　]]></description>
-    <articlelinks>
-      <link>
-        <text>ソフトウェアおよびオンライン サービスの特典</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-1000116]]></url>
-      </link>
-       <link>
-        <text>オンライン サービス パートナー ダッシュ ボードの概要</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2985319?tpqid=300-1000116]]></url>
-      </link>
-       <link>
-        <text>クラウド社内使用ライセンス 設定ガイド</text>
-        <url><![CDATA[https://partner.microsoft.com/download/40197038?tpqid=300-1000116]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法</title>
-    <description><![CDATA[アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する方法については、次の記事を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text>アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000099</id>
-    <title>MSDN に既に登録されている場合に Visual Studio を登録する方法</title>
-    <description><![CDATA[Visual Studio の登録方法については、サポート技術情報「My Visual Studio の登録」の手順を参照してください. (MPN RSC は、Visual Studio サブスクリプションの特典、サブスクリプションへのアクセス、Visual Studio ポータルの基本的な使用方法について理解されている MPN メンバーを対象にサポートしています)]]></description>
-    <articlelinks>
-      <link>
-        <text>My Visual Studio の登録</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017803?tpqid=300-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>デモ/トレーニング ライセンスの入手方法とライセンス認証方法を教えてください</title>
-    <description><![CDATA[製品ごとに入手できるキーは 1 つのみです。デモ、トレーニング、または社内使用のいずれかの用途を選択してください。特典の種類 (デモ、トレーニング、または社内使用) ごとに異なるライセンスはありません。特典として付与されているライセンスはトレーニングとしても利用可能です。デモまたはトレーニングの場合、ライセンス認証してから 30 日以内に非アクティブ化を行う場合、そのプロダクト キーに対してライセンス認証は実施されません。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal: 社内使用権クラウドおよびソフトウェアの特典 - 現在も PMC のパートナーの場合</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>マイクロソフト Azure の社内使用ライセンス有効化の方法について教えてください。</title>
-    <description><![CDATA[以下、「マイクロソフト Azure 社内使用ライセンスのアクティブ化方法」の資料に記載されている手順に従って、マイクロソフト Azure 社内使用ライセンスを有効化することができます。]]></description>
-    <articlelinks>
-      <link>
-        <text>マイクロソフト Azure 社内使用ライセンスのアクティブ化の方法</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text>社内使用ライセンス (IUR) 特典でビジネスの一層の発展を</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000105</id>
-    <title>Microsoft Dynamics 365 for Unified Operations の社内使用ライセンス (IUR) を取得できる対象ユーザーと取得できる場所</title>
-    <description><![CDATA[クラウド ビジネス アプリケーション コンピテンシーのパフォーマンス条件を満たし、現在 ERP コンピテンシーを持っているパートナーが対象です。この IUR についてよく寄せられる質問と詳細については、以下の記事を参照してください ]]></description>
-    <articlelinks>
-      <link>
-        <text>FAQ - Microsoft Dynamics 365 for Unified Operations の社内使用ライセンス (IUR)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

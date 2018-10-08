@@ -1,17 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="协议、订单和订阅管理" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="6">
-    <id>800-000039</id>
-    <title>有微软行动宝盒，您会获得什么软件权益？   </title>
-    <description><![CDATA[行动宝盒订户通常受到最新微软软件的10个内部使用许可。这包括本地软件许可，线上服务，和Visual Studio Online订阅。O365 和 Dynamics 分别需要重新注册 MAPS 的续签过程。合作伙伴续签其 MAPS 成员资格后，他们不会自动续签。对于许可权益的详细资讯，请参考以下资源：    ]]></description>
-    <articlelinks>
-      <link>
-        <text>微软行动宝盒概览    </text>
-        <url><![CDATA[http://aka.ms/actionpack?tpqid=800-000039]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack 合作伙伴的许可证表 </text>
-        <url><![CDATA[https://assetsprod.microsoft.com/mpn/en-us/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=800-000039]]></url>
-      </link>
-    </articlelinks></question><question>
+﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="协议、订单和订阅管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000090</id>
     <title>在哪里可以下载Windows 10 的软件和密钥？</title>
     <description><![CDATA[拥有能力认证或行动宝盒的微软合作伙伴，可以从Partner Digital Distribution门户访问仅限内部使用的Windows 10 Enterprise 软件以及产品密钥。针对开发、测试以及评估的用途，合作伙伴可以通过被委派的权限来访问 Visual Studio Online订阅里的软件和密钥。（包含 Pro 和 Home版本）。被指派的最终用户访问Visual Studio Online订阅是有限的。
@@ -82,34 +69,6 @@
        <link>
         <text>微软行动宝盒内部使用权限许可表</text>
         <url><![CDATA[https://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000030</id>
-    <title>如何管理我的 Visual Studio Online 技术 ID 限额？</title>
-    <description><![CDATA[能力认证合作伙伴的Visual Studio Online订阅没有限额，因此也无需增加额度。行动宝盒合作伙伴可以将他们的 Visual Studio Online 额度增加到360%，但是需要联系客服专员。使用以下链接学习如何增加行动宝盒的额度至 360%。]]></description>
-    <articlelinks>
-      <link>
-        <text>无法为新用户分配 Visual Studio 订阅</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2954371/?tpqid=800-000030]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000104</id>
-    <title>我在哪里下载以及如何激活我的 IUR 许可证？</title>
-    <description><![CDATA[请参阅以下文章了解如何激活并分配你的 IUR 许可证]]></description>
-    <articlelinks>
-      <link>
-        <text>内部使用权利云和软件权益（向下滚动至页面的按钮以查看能力合作伙伴的许可证表格）
- 
-</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>我的内部使用权的权益是什么/为什么对于我来说使用它们很重要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=800-000104]]></url>
-      </link>
-       <link>
-        <text>管理你的 Microsoft 合作伙伴网络成员身份的好处</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=800-000104]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000105</id>
@@ -190,49 +149,6 @@
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="帐户设置和管理" refid="AccountSetupManagement"><question>
-    <id>200-000068</id>
-    <title>我公司如何创建 Office 365 演示？</title>
-    <description><![CDATA[Microsoft Office 演示门户网站允许您创建示范环境，以及访问Office 产品的示范指导材料且无需本地安装。Microsoft Office 演示环境包含一个私人的 Office 365 试用账户以及演示内容。一旦创建了您的 Office 365 账户，您可以演示所有 Office 产品，例如 Exchange、SharePoint、Lync、Outlook、Word、Excel、PowerPoint，等等。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>Microsoft Office 演示门户</text>
-        <url><![CDATA[https://demos.microsoft.com/login#/?tpqid=200-000068]]></url>
-      </link>
-       <link>
-        <text>Microsoft Office 365, Project Online, 以及Power BI 演示账户</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2990500?tpqid=200-000068]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000086</id>
-    <title>如何创建或取消订阅？</title>
-    <description><![CDATA[请查看以下链接了解更多信息]]></description>
-    <articlelinks>
-      <link>
-        <text>向现有订阅添加许可证或服务</text>
-        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：创建、暂停或取消客户订阅</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000092</id>
-    <title>如何加入云解决方案提供商计划？</title>
-    <description><![CDATA[查看有关注册的以下信息]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴仪表板：在云解决方案提供商计划中注册</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：申请在国内云（云德国）中销售</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/csp-national-clouds-overview?tpqid=200-000092]]></url>
-      </link>
-       <link>
-        <text>合作伙伴门户：开始使用</text>
-        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>200-000095</id>
     <title>开始使用合作伙伴的步骤是什么？</title>
     <description><![CDATA[请参阅下面的文章，了解有关合作伙伴仪表板网站的详细信息。]]></description>
@@ -271,7 +187,7 @@
         <text>合作伙伴仪表板：组织税务信息</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>200-000089</id>
     <title>如何请求 CSP 关系？</title>
     <description><![CDATA[若要代表客户管理其服务或订阅，客户必须向你授予该服务的管理员权限。请阅读以下文章中的详细信息：]]></description>
@@ -283,24 +199,6 @@
        <link>
         <text>合作伙伴仪表板：移除经销商关系</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000091</id>
-    <title>如何使用促销以及在哪里可以了解可用的促销？</title>
-    <description><![CDATA[Microsoft 提供两种类型的促销；向云解决方案提供商 (CSP) 计划中所有符合条件的合作伙伴提供的促销，以及仅向特定地理区域中的合作伙伴提供的促销。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴仪表板：使用促销吸引新客户</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/promotions?tpqid=200-000091]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000096</id>
-    <title>是否有我可以参与的全球云解决方案合作伙伴 (CSP) 社区？</title>
-    <description><![CDATA[是的，你可以参与 Yammer CSP 社区。]]></description>
-    <articlelinks>
-      <link>
-        <text>Yammmer 云社区</text>
-        <url><![CDATA[https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&tpqid=200-000096]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000097</id>
@@ -355,27 +253,17 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000026</id>
-    <title>我们是微软的合作伙伴，如何激活我们的合作伙伴功能？</title>
-    <description><![CDATA[使用这些资源学习如何访问您的在线服务权益以及激活合作伙伴功能：]]></description>
+    <id>200-000083</id>
+    <title>我在哪里可以找到有关云解决方案提供商 (CSP) 计划的信息并获取最新信息？</title>
+    <description><![CDATA[从合作伙伴仪表板门户获取最新动态并详细了解 CSP 计划。]]></description>
     <articlelinks>
       <link>
-        <text>软件以及在线服务权益页面</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=200-000026]]></url>
+        <text>合作伙伴仪表板：详细了解 CSP 计划</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
       </link>
        <link>
-        <text>如何激活你的合作伙伴功能</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024694?tpqid=200-000026]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000085</id>
-    <title>合作伙伴Online Service仪表板是什么？</title>
-    <description><![CDATA[合作伙伴Online Service仪表板可以帮助经销商和分销商追踪他们客户的Microsoft Office 365、Microsoft Intune和Microsoft Dynamics CRM Online订阅。 
-通过仪表板获得的关键数据可以有效地说明您管理客户的订阅，以此作为合作伙伴的记录。通过这些资料，您可以更有效地推动需求、部署以及更新。]]></description>
-    <articlelinks>
-      <link>
-        <text>了解更多有关合作伙伴 Online Services 仪表板</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4036921?tpqid=200-000085]]></url>
+        <text>合作伙伴仪表板：CSP 公告</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000029</id>
@@ -395,17 +283,34 @@
         <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>我在哪里可以找到有关云解决方案提供商 (CSP) 计划的信息并获取最新信息？</title>
-    <description><![CDATA[从合作伙伴仪表板门户获取最新动态并详细了解 CSP 计划。]]></description>
+    <id>200-000086</id>
+    <title>如何创建或取消订阅？</title>
+    <description><![CDATA[请查看以下链接了解更多信息]]></description>
     <articlelinks>
       <link>
-        <text>合作伙伴仪表板：详细了解 CSP 计划</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+        <text>向现有订阅添加许可证或服务</text>
+        <url><![CDATA[https://docs.microsoft.com/en-us/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
        <link>
-        <text>合作伙伴仪表板：CSP 公告</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+        <text>合作伙伴仪表板：创建、暂停或取消客户订阅</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000092</id>
+    <title>如何加入云解决方案提供商计划？</title>
+    <description><![CDATA[查看有关注册的以下信息]]></description>
+    <articlelinks>
+      <link>
+        <text>合作伙伴仪表板：在云解决方案提供商计划中注册</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
+      </link>
+       <link>
+        <text>合作伙伴仪表板：申请在国内云（云德国）中销售</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/csp-national-clouds-overview?tpqid=200-000092]]></url>
+      </link>
+       <link>
+        <text>合作伙伴门户：开始使用</text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>200-000102</id>
@@ -566,17 +471,17 @@
         <url><![CDATA[https://www.microsoftreadiness.com/?tpqid=1500-000001]]></url>
       </link>
     </articlelinks></question></group><group title="权益" refid="Benefits"><question>
-    <id>300-000106</id>
-    <title>创建用户帐户和分配权限的步骤是什么？</title>
-    <description><![CDATA[现在可以在合作伙伴仪表板向用户分配可帮助你管理业务的三个新角色：MPN 管理员、业务配置文件管理员和引荐管理员。]]></description>
+    <id>300-000101</id>
+    <title>我如何提交技术/专业支持事件？</title>
+    <description><![CDATA[查看 MPN 技术权益摘要，以确定你的公司是否有资格获得技术支持。]]></description>
     <articlelinks>
       <link>
-        <text>合作伙伴仪表板：创建用户帐户并分配权限</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+        <text>MPN 技术权益摘要</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
       </link>
        <link>
-        <text>合作伙伴仪表板：管理你的合作伙伴仪表板帐户</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+        <text>关于如何创建支持事件的步骤</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000004</id>
@@ -588,17 +493,13 @@
         <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000100</id>
-    <title>如何获得技术/产品支持资格？</title>
-    <description><![CDATA[查看核心权益和要求以及 MPN 技术权益摘要，了解有关基于你的订阅的技术/产品支持资格的信息。]]></description>
+    <id>300-000109</id>
+    <title>我在哪里可以找到演示/培训许可证以及如何激活？</title>
+    <description><![CDATA[每个产品只能获得一个密钥，并且由你决定选择其使用意图：演示、培训或内部使用。对于每种类型的权益（演示、培训或内部使用），没有不同的许可证。对于演示或培训，只要你激活并在 30 天内停用，激活就不会使用该产品密钥。]]></description>
     <articlelinks>
       <link>
-        <text>核心权益和要求</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
-      </link>
-       <link>
-        <text>MPN 技术权益摘要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+        <text>合作伙伴门户：内部使用权限的云和软件权益 - 适用于仍在 PMC 中的合作伙伴</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000014</id>
@@ -618,41 +519,6 @@
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>我在哪里可以找到演示/培训许可证以及如何激活？</title>
-    <description><![CDATA[每个产品只能获得一个密钥，并且由你决定选择其使用意图：演示、培训或内部使用。对于每种类型的权益（演示、培训或内部使用），没有不同的许可证。对于演示或培训，只要你激活并在 30 天内停用，激活就不会使用该产品密钥。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴门户：内部使用权限的云和软件权益 - 适用于仍在 PMC 中的合作伙伴</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000101</id>
-    <title>我如何提交技术/专业支持事件？</title>
-    <description><![CDATA[查看 MPN 技术权益摘要，以确定你的公司是否有资格获得技术支持。]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN 技术权益摘要</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
-      </link>
-       <link>
-        <text>关于如何创建支持事件的步骤</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000043</id>
-    <title>如何激活 Microsoft Azure 内部使用许可权限</title>
-    <description><![CDATA[通过“如何激活 Microsoft Azure 内部使用许可权限”这篇文章里的步骤，学习如何激活 Microsoft Azure 的内部使用许可权限]]></description>
-    <articlelinks>
-      <link>
-        <text>如何激活 Microsoft Azure 内部使用许可权限</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=300-000043]]></url>
-      </link>
-       <link>
-        <text> 云和软件权益的内部使用权限</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000043]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000102</id>
     <title>获得此资格的好处是什么？</title>
     <description><![CDATA[请查看以下链接了解更多信息]]></description>
@@ -664,19 +530,6 @@
        <link>
         <text>合作伙伴仪表板：能力</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000072</id>
-    <title>哪里可以找到有关能力权益更新的信息？</title>
-    <description><![CDATA[有关近期和即将发生的权益更改以及成员资格其他方面更改的最新新闻可在“新增内容”页面找到。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴仪表板：Microsoft 即将推出对金牌和银牌成员身份的能力要求</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/learn-about-competencies?tpqid=300-000072]]></url>
-      </link>
-       <link>
-        <text>核心权益和要求</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000072]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000104</id>
@@ -761,6 +614,32 @@
         <text>我的内部使用权的权益是什么/为什么对于我来说使用它们很重要</text>
         <url><![CDATA[https://support.microsoft.com/kb/2887467?tpqid=300-000099]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000106</id>
+    <title>创建用户帐户和分配权限的步骤是什么？</title>
+    <description><![CDATA[现在可以在合作伙伴仪表板向用户分配可帮助你管理业务的三个新角色：MPN 管理员、业务配置文件管理员和引荐管理员。]]></description>
+    <articlelinks>
+      <link>
+        <text>合作伙伴仪表板：创建用户帐户并分配权限</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+      </link>
+       <link>
+        <text>合作伙伴仪表板：管理你的合作伙伴仪表板帐户</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000100</id>
+    <title>如何获得技术/产品支持资格？</title>
+    <description><![CDATA[查看核心权益和要求以及 MPN 技术权益摘要，了解有关基于你的订阅的技术/产品支持资格的信息。]]></description>
+    <articlelinks>
+      <link>
+        <text>核心权益和要求</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text>MPN 技术权益摘要</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+      </link>
     </articlelinks></question></group><group title="激励和支出" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title>我应该如何获取对合作伙伴奖励的支持？</title>
@@ -806,41 +685,6 @@
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
     </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
-    <id>100-000077</id>
-    <title>可以在哪里找到如何成为 Surface 或 Surface 集线器 Microsoft 授权的设备经销商 (ADR) 的相关信息？</title>
-    <description><![CDATA[如果您有志成为 Surface 或 Surface Hub Microsoft 授权设备经销商，您应该与 Microsoft 授权设备分销商取得联系并注册接收授权设备经销商的更新。]]></description>
-    <articlelinks>
-      <link>
-        <text>联系 Microsoft Surface 授权的设备分销商</text>
-        <url><![CDATA[https://partner.microsoft.com/Solutions/find-an-authorized-device-distributor?tpqid=100-000077]]></url>
-      </link>
-       <link>
-        <text>注册接收成为 Microsoft Surface Hub ADR 或安装程序的更新</text>
-        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000078</id>
-    <title>如何从 MAPS 和资格费打印/下载最终发票？</title>
-    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
-    <articlelinks>
-      <link>
-        <text>如何打印最终发票</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
-      </link>
-       <link>
-        <text>KB 4089764：如何在合作伙伴仪表板获取发票</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000060</id>
-    <title>在哪里可以找到微软合作伙伴网络协议？</title>
-    <description><![CDATA[要浏览微软合作伙伴网络协议，您需要登录合作成员管理中心，当您登录后，在Microsoft Online Services Partner Agreement（微软合作伙伴在线服务协议 ）下面的Additional Programs（其他项目）选择Status（状态）。然后选择步骤1，Enrol in the Microsoft Partner Network（加入微软合作伙伴网络），浏览协议。或者，您可以打开以下的打印版：]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portal</text>
-        <url><![CDATA[https://partner.microsoft.com/?tpqid=100-000060]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000082</id>
     <title>我缺少哪些续订能力的要求？</title>
     <description><![CDATA[合作伙伴可以查看 Partner Membership Center 上的能力要求列表。将鼠标悬停在“要求和资产”上并选择“能力摘要”。合作伙伴还可以查看 合作伙伴门户上的能力列表及其要求]]></description>
@@ -852,146 +696,6 @@
        <link>
         <text>KB 4089772：关于如何在合作伙伴仪表板查看缺少的要求的步骤</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000081</id>
-    <title>如何从地区服务中心 (RSC) 获取与 Microsoft 合作伙伴网络 (MPN) 有关的问题的帮助？</title>
-    <description><![CDATA[本文后面部分介绍如何从地区服务中心 (RSC) 获取与 Microsoft 合作伙伴网络 (MPN) 有关的问题的帮助。]]></description>
-    <articlelinks>
-      <link>
-        <text>如何从 RSC 获取 Microsoft 合作伙伴网络帮助</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000081]]></url>
-      </link>
-       <link>
-        <text>与 Microsoft 合作伙伴支持聊天</text>
-        <url><![CDATA[https://partner.microsoft.com/support/startchat?product=partner&issue=ClassicRSC&tpqid=100-000081]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000087</id>
-    <title>我在哪里可以找到对具体能力的要求？</title>
-    <description><![CDATA[访问合作伙伴门户的能力网页并选择具体能力的链接。每个能力页面列出针对该能力的要求。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴门户：能力</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000087]]></url>
-      </link>
-       <link>
-        <text>核心权益和要求</text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=100-000087]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：能力</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000085</id>
-    <title>如何合并单独的 MPN 注册？</title>
-    <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
-    <articlelinks>
-      <link>
-        <text>如何合并单独的 MPN 注册</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
-      </link>
-       <link>
-        <text>如何从 RSC 获取 Microsoft 合作伙伴网络帮助</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000012</id>
-    <title>我如何续订我的 MPN 成员身份？</title>
-    <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>续订我的成员身份</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：访问你的合作伙伴仪表板仪表板</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000095</id>
-    <title>何时可以期望从合作伙伴管理中心 (PAC) 移至合作伙伴仪表板？ </title>
-    <description><![CDATA[从 2018 年春季开始，Office 365 合作伙伴管理中心 (PAC) 工具功能将移至 Microsoft 合作伙伴仪表板。可以转至合作伙伴仪表板时，你将会看到一个弹出对话框。转换当天，将自动重定向各个尝试访问 PAC 的合作伙伴并登录到合作伙伴仪表板面板。发生自动重定向时，合作伙伴将无法再访问合作伙伴管理中心。顾问须知：目前，你无法通过合作伙伴仪表板向客户发送付费版和试用版报价单。在合作伙伴仪表板启用“付费版和试用版报价单”功能前，你可以继续在 PAC 中使用“构建业务”功能。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴仪表板：从合作伙伴管理中心 (PAC) 移至合作伙伴仪表板 </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：合作伙伴管理中心将移至合作伙伴仪表板</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000096</id>
-    <title>什么是记录在案的数字合作伙伴？</title>
-    <description><![CDATA[从下文了解有关记录在案的数字合作伙伴的更多信息。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴门户：记录在案的数字合作伙伴和合作伙伴关联</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000097</id>
-    <title>如何在 Partner Membership Center 中电汇付款？</title>
-    <description><![CDATA[从下文了解有关在 Partner Membership Center 中电汇的流程。]]></description>
-    <articlelinks>
-      <link>
-        <text>在 Partner Membership Center 中电汇</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089048?tpqid=100-000097]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000098</id>
-    <title>如何通过我的 Azure 使用情况计算云平台的能力？</title>
-    <description><![CDATA[可通过 TTM 使用情况计算已连接 DPOR 的用户的订阅情况。如果合作伙伴拥有一些订阅，这是不够的。要获得已拥有的订阅，合作伙伴必须作为 DPOR 进行连接。仅从连接 DPOR 之日起计算使用情况。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴门户：云平台</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000086</id>
-    <title>我如何安排考试？</title>
-    <description><![CDATA[如需安排您的 Microsoft 认证考证、查找考试中心、重新安排您的考试或者确认您的考试，请访问 Pearson VUE 网站上的 Microsoft 认证页面。]]></description>
-    <articlelinks>
-      <link>
-        <text>Pearson VUE</text>
-        <url><![CDATA[http://www.pearsonvue.com/microsoft/?tpqid=100-000086]]></url>
-      </link>
-       <link>
-        <text>Pearson VUE 考试便利设施</text>
-        <url><![CDATA[http://www.pearsonvue.com/accommodations/?tpqid=100-000086]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000079</id>
-    <title>如何发送集体邀请？</title>
-    <description><![CDATA[请参阅以下文章，了解如何发送集体邀请]]></description>
-    <articlelinks>
-      <link>
-        <text>如何发送集体邀请</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017800?tpqid=100-000079]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000089</id>
-    <title>在哪里可以找到 Enterprise Mobility 所要求的技术评估？</title>
-    <description><![CDATA[Enterprise Mobility 的技术评估可以在合作伙伴学习中心找到，并提供以下语言：英语、德语、西班牙语和法语。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴仪表板：能力企业移动管理</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/enterprise-mobility-management-competency?tpqid=100-000089]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000091</id>
-    <title>MPN 注册/重新注册接受哪些付款方式？</title>
-    <description><![CDATA[请参阅下文中的 MPN 注册/重新注册接受的付款方式。]]></description>
-    <articlelinks>
-      <link>
-        <text>MPN 注册接受的付款方式</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966328?tpqid=100-000091]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000061</id>
@@ -1006,87 +710,18 @@
         <text>首次购买或续订 Microsoft Action Pack 订阅</text>
         <url><![CDATA[https://docs.microsoft.com/zh-cn/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>100-000092</id>
-    <title>如何将我所在组织的工作帐户链接到我的新合作伙伴仪表板帐户？</title>
-    <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
-    <articlelinks>
-      <link>
-        <text>你的工作帐户和合作伙伴仪表板</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
-      </link>
     </articlelinks></question><question>
-    <id>100-000101</id>
-    <title>Microsoft 是否提供低价或免费培训？</title>
-    <description><![CDATA[Partner University 是面向在 Microsoft 合作伙伴网络注册的各级组织的一项福利。通过 Partner University，您可以注册和访问低价或免费在线和现场培训。它还可用于完成 Microsoft Action Pack 和能力的评估要求。]]></description>
+    <id>100-000085</id>
+    <title>如何合并单独的 MPN 注册？</title>
+    <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
     <articlelinks>
       <link>
-        <text>售前技术和部署服务 - Technical Training</text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=100-000101]]></url>
+        <text>如何合并单独的 MPN 注册</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
       </link>
        <link>
-        <text>Microsoft 合作伙伴学习路径</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000101]]></url>
-      </link>
-       <link>
-        <text>Partner University </text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000069</id>
-    <title>我公司已经注册了微软合作伙伴网络。如何与个人进行关联？</title>
-    <description><![CDATA[如果您有微软账户，登录合作伙伴成员中心的个人关联页面并按要求填写所需信息。如果您没有微软账户，您需要先创建一个。]]></description>
-    <articlelinks>
-      <link>
-        <text>如何与 MPN ID 关联</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090740/?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>如何将您组织的微软合作伙伴 ID 与微软账户进行关联</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683/?tpqid=100-000069]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000050</id>
-    <title>我们公司有符合资质的微软认证专家（MCP）但是没有办法指派到银牌或金牌能力。我们需要做什么？</title>
-    <description><![CDATA[由于最近的能力更新，您本身或者贵公司的MCP没有办法显示在合作伙伴成员中心，尽管MCP已经关联了之前和现在的考试。鉴于这种情况，请您通过合作伙伴成员中心的“管理微软认证专家”选项重新关联此MCP，通常这样的操作将解决此问题。如果还是无法解决，请联络您的区域服务中心已获取更多的支持。]]></description>
-    <articlelinks>
-      <link>
-        <text>关于MCP考试和认证未被成功指派的问题解答</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>链接或取消MCP ID与合作伙伴组织的关联</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380/?tpqid=100-000050]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000003</id>
-    <title>核心权益和能力权益有什么区别？</title>
-    <description><![CDATA[您获得第一项能力后，即可享受一套核心权益。随着您获得更多能力，就会得到更多针对这些能力的权益。]]></description>
-    <articlelinks>
-      <link>
-        <text>核心权益和要求</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=100-000003]]></url>
-      </link>
-       <link>
-        <text>Microsoft Partner Network 概述</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000003]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000094</id>
-    <title>如何创建合作伙伴仪表板帐户？</title>
-    <description><![CDATA[本文介绍如何创建合作伙伴仪表板帐户，适用于要将其合作伙伴网络成员身份信息从 Partner Membership Center 移动到合作伙伴仪表板的合作伙伴。 ]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴仪表板：创建合作伙伴仪表板帐户</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000094]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：管理你的合作伙伴仪表板帐户</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000094]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：更新合作伙伴配置文件</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=100-000094]]></url>
+        <text>如何从 RSC 获取 Microsoft 合作伙伴网络帮助</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000102</id>
@@ -1106,6 +741,28 @@
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000050</id>
+    <title>我们公司有符合资质的微软认证专家（MCP）但是没有办法指派到银牌或金牌能力。我们需要做什么？</title>
+    <description><![CDATA[由于最近的能力更新，您本身或者贵公司的MCP没有办法显示在合作伙伴成员中心，尽管MCP已经关联了之前和现在的考试。鉴于这种情况，请您通过合作伙伴成员中心的“管理微软认证专家”选项重新关联此MCP，通常这样的操作将解决此问题。如果还是无法解决，请联络您的区域服务中心已获取更多的支持。]]></description>
+    <articlelinks>
+      <link>
+        <text>关于MCP考试和认证未被成功指派的问题解答</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text>链接或取消MCP ID与合作伙伴组织的关联</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380/?tpqid=100-000050]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>100-000092</id>
+    <title>如何将我所在组织的工作帐户链接到我的新合作伙伴仪表板帐户？</title>
+    <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
+    <articlelinks>
+      <link>
+        <text>你的工作帐户和合作伙伴仪表板</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000033</id>
     <title>我如何管理我所在公司的成员资格？</title>
     <description><![CDATA[合作伙伴可以访问 Partner Membership Center，以管理他们的 Microsoft 合作伙伴网络成员资格和相关的权益。 请参阅此文章，了解 Partner Membership Center 的概述。]]></description>
@@ -1117,28 +774,6 @@
        <link>
         <text>管理你的 Microsoft 合作伙伴网络成员身份的好处</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>100-000099</id>
-    <title>如何在新的合作伙伴仪表板中设置帐户？</title>
-    <description><![CDATA[请访问下面的链接，以了解更多信息。]]></description>
-    <articlelinks>
-      <link>
-        <text></text>
-        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000084</id>
-    <title>续订我的能力需要花费多少钱，我在哪里可以了解更多信息？</title>
-    <description><![CDATA[合作伙伴可以转到能力页面查看获取能力的最新要求和费用。查看下面有用的链接以获取能力的最新价目表]]></description>
-    <articlelinks>
-      <link>
-        <text>能力 partners</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000084]]></url>
-      </link>
-       <link>
-        <text>合作伙伴仪表板：能力</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=100-000084]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000070</id>
@@ -1153,6 +788,72 @@
         <text>微软合作伙伴网络概览</text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>100-000069</id>
+    <title>我公司已经注册了微软合作伙伴网络。如何与个人进行关联？</title>
+    <description><![CDATA[如果您有微软账户，登录合作伙伴成员中心的个人关联页面并按要求填写所需信息。如果您没有微软账户，您需要先创建一个。]]></description>
+    <articlelinks>
+      <link>
+        <text>如何与 MPN ID 关联</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090740/?tpqid=100-000069]]></url>
+      </link>
+       <link>
+        <text>如何将您组织的微软合作伙伴 ID 与微软账户进行关联</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683/?tpqid=100-000069]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000077</id>
+    <title>可以在哪里找到如何成为 Surface 或 Surface 集线器 Microsoft 授权的设备经销商 (ADR) 的相关信息？</title>
+    <description><![CDATA[如果您有志成为 Surface 或 Surface Hub Microsoft 授权设备经销商，您应该与 Microsoft 授权设备分销商取得联系并注册接收授权设备经销商的更新。]]></description>
+    <articlelinks>
+      <link>
+        <text>联系 Microsoft Surface 授权的设备分销商</text>
+        <url><![CDATA[https://partner.microsoft.com/Solutions/find-an-authorized-device-distributor?tpqid=100-000077]]></url>
+      </link>
+       <link>
+        <text>注册接收成为 Microsoft Surface Hub ADR 或安装程序的更新</text>
+        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000095</id>
+    <title>何时可以期望从合作伙伴管理中心 (PAC) 移至合作伙伴仪表板？ </title>
+    <description><![CDATA[从 2018 年春季开始，Office 365 合作伙伴管理中心 (PAC) 工具功能将移至 Microsoft 合作伙伴仪表板。可以转至合作伙伴仪表板时，你将会看到一个弹出对话框。转换当天，将自动重定向各个尝试访问 PAC 的合作伙伴并登录到合作伙伴仪表板面板。发生自动重定向时，合作伙伴将无法再访问合作伙伴管理中心。顾问须知：目前，你无法通过合作伙伴仪表板向客户发送付费版和试用版报价单。在合作伙伴仪表板启用“付费版和试用版报价单”功能前，你可以继续在 PAC 中使用“构建业务”功能。]]></description>
+    <articlelinks>
+      <link>
+        <text>合作伙伴仪表板：从合作伙伴管理中心 (PAC) 移至合作伙伴仪表板 </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
+      </link>
+       <link>
+        <text>合作伙伴仪表板：合作伙伴管理中心将移至合作伙伴仪表板</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title>如何在新的合作伙伴仪表板中设置帐户？</title>
+    <description><![CDATA[请访问下面的链接，以了解更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text></text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000096</id>
+    <title>什么是记录在案的数字合作伙伴？</title>
+    <description><![CDATA[从下文了解有关记录在案的数字合作伙伴的更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text>合作伙伴门户：记录在案的数字合作伙伴和合作伙伴关联</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000098</id>
+    <title>如何通过我的 Azure 使用情况计算云平台的能力？</title>
+    <description><![CDATA[可通过 TTM 使用情况计算已连接 DPOR 的用户的订阅情况。如果合作伙伴拥有一些订阅，这是不够的。要获得已拥有的订阅，合作伙伴必须作为 DPOR 进行连接。仅从连接 DPOR 之日起计算使用情况。]]></description>
+    <articlelinks>
+      <link>
+        <text>合作伙伴门户：云平台</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
     <title>如何以间接经销商的身份登录？</title>
@@ -1163,30 +864,34 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000018</id>
-    <title>我如何排除 Partner Network 网站的登录问题？</title>
-    <description><![CDATA[如果您无法登录到 Microsoft Partner Network 网站，请遵循以下建议。]]></description>
+    <id>100-000078</id>
+    <title>如何从 MAPS 和资格费打印/下载最终发票？</title>
+    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
     <articlelinks>
       <link>
-        <text>KB 2913746：排除 Microsoft Partner Network 网站登录问题</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2913746?tpqid=100-000018]]></url>
+        <text>如何打印最终发票</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text>KB 4089764：如何在合作伙伴仪表板获取发票</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000083</id>
-    <title>续订 Action Pack 需要花费多少钱？</title>
-    <description><![CDATA[查看下面有用的链接以获取 Action Pack 的最新价目表]]></description>
+    <id>100-000012</id>
+    <title>我如何续订我的 MPN 成员身份？</title>
+    <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
     <articlelinks>
       <link>
-        <text>微软行动宝盒概览    </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/action-pack?tpqid=100-000083]]></url>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
        <link>
-        <text>购买或续订 Microsoft Action Pack 订阅</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000083]]></url>
+        <text>续订我的成员身份</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
       </link>
        <link>
-        <text>如何续订你的 Action Pack？</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3009703?tpqid=100-000083]]></url>
+        <text>合作伙伴仪表板：访问你的合作伙伴仪表板仪表板</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>100-0000100</id>
