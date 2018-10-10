@@ -166,15 +166,6 @@
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
       </link>
     </articlelinks></question></group><group title="Лицензирование, продажи и маркетинг" refid="LicensingSalesMarketing"><question>
-    <id>1500-000009</id>
-    <title>Когда партнерам будет предоставлена возможность для получения новых ключей для локальных версий продуктов? </title>
-    <description><![CDATA[Обращаем внимание , что ключи для локальных версий продуктов имеют определенное разрешенное количество активаций. Партнерам будет предоставлена возможность для получения новых ключей только в случае выпуска новой версии продукта. Если новая версия продукта не будет выпущена, то партнеры не получат дополнительных возможностей для активации, даже несмотря на то, что они уже использовали все имеющиеся ключи и оплатили за повторную регистрацию на новый год. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Портал партнеров. Преимущества лицензирования программного обеспечения для Partner Network: вопросы и ответы  </text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1500-000008</id>
     <title>Где я могу узнать подробнее о лицензировании Майкрософт?</title>
     <description><![CDATA[Ответы на дополнительные вопросы о лицензировании см. в статье ниже.]]></description>
@@ -182,6 +173,15 @@
       <link>
         <text>KB 4076425: Вопросы о лицензировании для партнера – краткий справочник</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title>Когда партнерам будет предоставлена возможность для получения новых ключей для локальных версий продуктов? </title>
+    <description><![CDATA[Обращаем внимание , что ключи для локальных версий продуктов имеют определенное разрешенное количество активаций. Партнерам будет предоставлена возможность для получения новых ключей только в случае выпуска новой версии продукта. Если новая версия продукта не будет выпущена, то партнеры не получат дополнительных возможностей для активации, даже несмотря на то, что они уже использовали все имеющиеся ключи и оплатили за повторную регистрацию на новый год. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Портал партнеров. Преимущества лицензирования программного обеспечения для Partner Network: вопросы и ответы  </text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
     </articlelinks></question><question>
     <id>1500-000001</id>
@@ -272,21 +272,47 @@
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
     </articlelinks></question></group><group title="Настройка параметров учетной записи и управление ей" refid="AccountSetupManagement"><question>
-    <id>200-000101</id>
-    <title>Как управлять моими счетами CSP и выставлением счетов клиентам?</title>
-    <description><![CDATA[Ознакомьтесь с приведенной ниже информацией, чтобы узнать, как управлять выставлением счетов. ]]></description>
+    <id>200-000083</id>
+    <title>Где получить дополнительную информацию и быть в курсе самых последних обновлений по программе «Поставщик облачных решений» (CSP)?</title>
+    <description><![CDATA[Портал Центра партнеров позволяет оставаться в курсе последних обновлений и получать подробные сведения о программе CSP.]]></description>
     <articlelinks>
       <link>
-        <text>Панель партнеров. Выставление счетов</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
+        <text>Панель партнеров. Подробнее о программе CSP</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
       </link>
        <link>
-        <text>Панель партнеров. Использование файлов сверки </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
+        <text>Панель партнеров. Уведомления CSP</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000029</id>
+    <title>Каким образом можно создать инцидент на «Signature Cloud Support»?</title>
+    <description><![CDATA[Посмотрите обзор преимуществ по Signature Cloud Support, включая информацию как создать инцидент.]]></description>
+    <articlelinks>
+      <link>
+        <text>Дополнительные сведения о Signature Cloud Support</text>
+        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
       </link>
        <link>
-        <text>Панель партнеров. Переход из Центра администратора партнера в Панель партнеров </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
+        <text>Обзор преимуществ по Signature Cloud Support</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
+      </link>
+       <link>
+        <text>Signature Cloud Support для Microsoft Office 365 </text>
+        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000086</id>
+    <title>Как создать или отменить подписку?</title>
+    <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам]]></description>
+    <articlelinks>
+      <link>
+        <text>Добавить лицензию или службу к существующей подписке</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text>Панель партнеров. Создание, приостановка или отмена подписок пользователей</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000092</id>
@@ -296,10 +322,6 @@
       <link>
         <text>Панель партнеров. Зарегистрируйтесь в качестве участника программы «Поставщик облачных решений»</text>
         <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
-      </link>
-       <link>
-        <text>Панель партнеров. Подайте заявку на продажу в национальных облаках – облако для Германии</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/csp-national-clouds-overview?tpqid=200-000092]]></url>
       </link>
        <link>
         <text>Портал партнеров. Начало работы</text>
@@ -318,35 +340,9 @@
         <text>Панель партнеров. Добро пожаловать в Панель партнеров Майкрософт</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>200-000083</id>
-    <title>Где получить дополнительную информацию и быть в курсе самых последних обновлений по программе «Поставщик облачных решений» (CSP)?</title>
-    <description><![CDATA[Портал Центра партнеров позволяет оставаться в курсе последних обновлений и получать подробные сведения о программе CSP.]]></description>
-    <articlelinks>
-      <link>
-        <text>Панель партнеров. Подробнее о программе CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
-      </link>
        <link>
-        <text>Панель партнеров. Уведомления CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000087</id>
-    <title>Где я могу найти сведения о правилах выставления счетов, условиях оплаты и доступности счетов?</title>
-    <description><![CDATA[Для получения дополнительных сведений и подробностей о выставлении счетов см. следующие статьи:]]></description>
-    <articlelinks>
-      <link>
-        <text>Панель партнеров. Сведения о выставлении счетов</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Панель партнеров. Использование файлов сверки </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000087]]></url>
-      </link>
-       <link>
-        <text>Панель партнеров. Общие сценарии выставления счетов </text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/common-billing-scenarios?tpqid=200-000087]]></url>
+        <text>Библиотека справочной документации Центра партнеров</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/dashboard/?tpqid=200-000095]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000088</id>
@@ -356,6 +352,10 @@
       <link>
         <text>Панель партнеров. Налоговая информация организации</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
+      </link>
+       <link>
+        <text>Обновление профиля партнера</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=200-000088]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>200-000089</id>
@@ -397,43 +397,21 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
-    <id>200-000086</id>
-    <title>Как создать или отменить подписку?</title>
-    <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам]]></description>
+    <id>200-000101</id>
+    <title>Как управлять моими счетами CSP и выставлением счетов клиентам?</title>
+    <description><![CDATA[Ознакомьтесь с приведенной ниже информацией, чтобы узнать, как управлять выставлением счетов. ]]></description>
     <articlelinks>
       <link>
-        <text>Добавить лицензию или службу к существующей подписке</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+        <text>Панель партнеров. Выставление счетов</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
       </link>
        <link>
-        <text>Панель партнеров. Создание, приостановка или отмена подписок пользователей</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000029</id>
-    <title>Каким образом можно создать инцидент на «Signature Cloud Support»?</title>
-    <description><![CDATA[Посмотрите обзор преимуществ по Signature Cloud Support, включая информацию как создать инцидент.]]></description>
-    <articlelinks>
-      <link>
-        <text>Дополнительные сведения о Signature Cloud Support</text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
+        <text>Панель партнеров. Использование файлов сверки </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
        <link>
-        <text>Обзор преимуществ по Signature Cloud Support</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996739?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text>Signature Cloud Support для Microsoft Office 365 </text>
-        <url><![CDATA[https://support.microsoft.com/kb/2993570?tpqid=200-000029]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000100</id>
-    <title>Где можно найти сведения о выполнении задач в Центре партнеров?</title>
-    <description><![CDATA[Для получения дополнительных сведений о выполнении задач для вашей организации и клиентов в панели мониторинга Центра партнеров посетите библиотеку справочной документации или ознакомьтесь со справочными материалами разработчика.]]></description>
-    <articlelinks>
-      <link>
-        <text>Библиотека справочной документации Центра партнеров   </text>
-        <url><![CDATA[https://partnercenter.microsoft.com/en-us/partner/help?tpqid=200-000100]]></url>
+        <text>Панель партнеров. Переход из Центра администратора партнера в Панель партнеров </text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>200-000102</id>
@@ -445,6 +423,33 @@
         <url><![CDATA[https://support.microsoft.com/help/4458106?tpqid=200-000102]]></url>
       </link>
     </articlelinks></question></group><group title="Программа поощрений и выплаты" refid="IncentivesPayouts"><question>
+    <id>400-000079</id>
+    <title>Где найти дополнительные сведения о поощрениях для партнеров?</title>
+    <description><![CDATA[С 1 июля 2015 г. сведения обо всех программах поощрения для партнеров доступны в сети Microsoft Partner Network! Партнеры, имеющие право на участие в программе поощрения, смогут просмотреть соответствующие доступные материалы на странице aka.ms/partnerincentives. Кроме того, партнеры смогут просмотреть подробные сведения о большинстве поощрений в облаке, даже не владея соответствующим уровнем компетенции.]]></description>
+    <articlelinks>
+      <link>
+        <text>Разберитесь в своих поощрительных выплатах</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000008</id>
+    <title>Каковы поощрения для партнеров Майкрософт?</title>
+    <description><![CDATA[Поощрения для партнеров — один из аспектов вклада корпорации Майкрософт в развитие экосистемы своих партнеров. Независимо от того, в какой среде вы ведете бизнес — в локальной, облачной или гибридной, — поощрения для партнеров предназначены стимулировать вашу рентабельность и рост, а также способствовать развитию стратегии Майкрософт, ориентированной в первую очередь на облачные службы и мобильные устройства. Поощрения предусматривают программы для предприятий, малого и среднего бизнеса, облачных служб, а также устройств.]]></description>
+    <articlelinks>
+      <link>
+        <text>Разберитесь в своих поощрительных выплатах</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000080</id>
+    <title>Как получить поддержку в вопросе поощрения партнера?</title>
+    <description><![CDATA[Поддержку по программе поощрения для партнеров можно получить в разделе "Поддержка" на странице "Поощрения для партнеров".]]></description>
+    <articlelinks>
+      <link>
+        <text>Получить поддержку по программе поощрения для партнеров</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000083</id>
     <title>Как обновить мои банковские и налоговые сведения?</title>
     <description><![CDATA[Дополнительные данные о том, как обновить банковские и налоговые сведения, см. в следующих статьях]]></description>
@@ -461,34 +466,167 @@
         <text>Где обновить мои налоговые сведения</text>
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>Как получить поддержку в вопросе поощрения партнера?</title>
-    <description><![CDATA[Поддержку по программе поощрения для партнеров можно получить в разделе "Поддержка" на странице "Поощрения для партнеров".]]></description>
-    <articlelinks>
-      <link>
-        <text>Получить поддержку по программе поощрения для партнеров</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000008</id>
-    <title>Каковы поощрения для партнеров Майкрософт?</title>
-    <description><![CDATA[Поощрения для партнеров — один из аспектов вклада корпорации Майкрософт в развитие экосистемы своих партнеров. Независимо от того, в какой среде вы ведете бизнес — в локальной, облачной или гибридной, — поощрения для партнеров предназначены стимулировать вашу рентабельность и рост, а также способствовать развитию стратегии Майкрософт, ориентированной в первую очередь на облачные службы и мобильные устройства. Поощрения предусматривают программы для предприятий, малого и среднего бизнеса, облачных служб, а также устройств.]]></description>
-    <articlelinks>
-      <link>
-        <text>Разберитесь в своих поощрительных выплатах</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000079</id>
-    <title>Где найти дополнительные сведения о поощрениях для партнеров?</title>
-    <description><![CDATA[С 1 июля 2015 г. сведения обо всех программах поощрения для партнеров доступны в сети Microsoft Partner Network! Партнеры, имеющие право на участие в программе поощрения, смогут просмотреть соответствующие доступные материалы на странице aka.ms/partnerincentives. Кроме того, партнеры смогут просмотреть подробные сведения о большинстве поощрений в облаке, даже не владея соответствующим уровнем компетенции.]]></description>
-    <articlelinks>
-      <link>
-        <text>Разберитесь в своих поощрительных выплатах</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
-      </link>
     </articlelinks></question></group><group title="Программы и участие в них" refid="ProgramsMembership"><question>
+    <id>100-000012</id>
+    <title>Как возобновить членство в MPN?</title>
+    <description><![CDATA[Узнайте, когда и как выполняется продление, какие открываются возможности, и многое другое.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Membership Center</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
+      </link>
+       <link>
+        <text>Возобновление членства</text>
+        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
+      </link>
+       <link>
+        <text>Панель партнеров. Доступ к панели мониторинга Центра партнеров</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000069</id>
+    <title>Моя организация не участвует в программе Microsoft Partner Network. Как зарегистрировать свою компанию?</title>
+    <description><![CDATA[Если Вы зарегистрированы в Microsoft, войдите на страницу программы Microsoft Partner Network, чтобы начать регистрацию Вашей компании. Если у Вас нет учетной записи Microsoft, Вам будет необходимо создать её прежде чем Вы начнёте регистрировать компанию.]]></description>
+    <articlelinks>
+      <link>
+        <text>Как сопоставить идентификатор MPN</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
+      </link>
+       <link>
+        <text>Как связать учетную запись Майкрософт для вашей организации идентификатор сети партнеров корпорации Майкрософт</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000102</id>
+    <title>Каковы самые задаваемые вопросы о пути обучения?</title>
+    <description><![CDATA[Изучение путей может помочь вам получить подготовку или сертификацию. Пути обучения выделить контуры, которые имеют отношение к вашей компании или организации. FAQ пути обучения дает ответы на самые задаваемые вопросы о пути обучения.]]></description>
+    <articlelinks>
+      <link>
+        <text>Учебные материалы – список топ FAQ</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=100-000102]]></url>
+      </link>
+       <link>
+        <text>Схемы обучения для партнеров Майкрософт</text>
+        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+      </link>
+       <link>
+        <text>Partner University</text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000033</id>
+    <title>Как управлять членством компании?</title>
+    <description><![CDATA[У партнеров есть доступ к Центру партнерской программы для управления членством в Microsoft Partner Network и связанными с ним преимуществами. Просмотрите эту статью, чтобы ознакомиться с Центром партнерской программы.]]></description>
+    <articlelinks>
+      <link>
+        <text>KB 2984366. Общие сведения о Центре партнерской программы </text>
+        <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000050</id>
+    <title>Квалифицированные специалисты - Microsoft Certified Professionals (MCP) моей компании не отражаются как соответствующие требованиям для серебряной или золотой компетенции. Что я могу сделать? </title>
+    <description><![CDATA[После недавних изменений в программе, вы или Ваши специалисты MCP могут не отражаться Центре участников Партнерской программы (Partner Membership Center) при наличии необходимых экзаменов. В этой ситуации вам надо переназначить этих специалистов MCP через раздел “Управление Microsoft Certified Professionals” в Partner Membership Center. Это переназначение должно решить проблему с правильным отражением специалистов для компетенции. Если проблема не будет устранена, пожалуйста, обратитесь в ваш Региональный Сервисный Центр. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Устранение неполадок с MCP экзамены и проходят сертификацию не засчитывается правильно</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text>Связать или удалить связь идентификатор MCP или из партнерской организации</text>
+        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000070</id>
+    <title>Моя компания учавствует в программе Microsoft Partner Network. Как стать мне связанным полъзователем? И многое другое.</title>
+    <description><![CDATA[Если Вы уже зарегистрированы в Microsoft, войдите в Associate в качестве индивидуального пользовтеля на страницы Центра участников партнерской программы и заполните необходимые поля. Если у Вас нет учетной записи Microsoft, Вам будет необходимо её создать, прежде чем приступить к регистрации компании.]]></description>
+    <articlelinks>
+      <link>
+        <text>Associate as an individual </text>
+        <url><![CDATA[https://partners.microsoft.com/partnerprogram/OrganizationSearch.aspx?tpqid=100-000070]]></url>
+      </link>
+       <link>
+        <text>Обзор Microsoft Partner Network</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000061</id>
+    <title>Где мы можем увидеть дату окончания подписки   Microsoft Action Pack? </title>
+    <description><![CDATA[Для просмотра даты окончания подписки, зайдите в Центр Сообщества   Партнеров, в меню выберите опцию  Заказы и Преимущества затем нажмите Подписка Microsoft Action Pack.]]></description>
+    <articlelinks>
+      <link>
+        <text>Приобретение подписки на Microsoft Action Pack в первый раз или ее продление</text>
+        <url><![CDATA[https://docs.microsoft.com/ru-ru/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
+      </link>
+       <link>
+        <text>KB 4090552: Как посмотреть дату истечения срока действия подписки на MAPS или компетенцию</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000077</id>
+    <title>Где узнать, как стать авторизованным продавцом устройств Microsoft Surface Hub (ADR)?</title>
+    <description><![CDATA[Чтобы стать авторизованным продавцом устройств Microsoft Surface Hub, необходимо обратиться к авторизованному дистрибьютору Microsoft Surface и зарегистрироваться для получения обновлений по программе ADR.]]></description>
+    <articlelinks>
+      <link>
+        <text>Обратиться к авторизованному дистрибьютору Microsoft Surface</text>
+        <url><![CDATA[https://partner.microsoft.com/Solutions/find-an-authorized-device-distributor?tpqid=100-000077]]></url>
+      </link>
+       <link>
+        <text>Зарегистрироваться, чтобы получать обновления о получении статуса ADR или установщика Microsoft Surface Hub</text>
+        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000078</id>
+    <title>Как распечатать/скачать окончательную редакцию счета из MAPS и оплату за компетенцию?</title>
+    <description><![CDATA[В данной статье приведены сведения о том, как напечатать окончательные счета]]></description>
+    <articlelinks>
+      <link>
+        <text>Как напечатать окончательные счета</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text>Скачивание счета-фактуры для Action Pack</text>
+        <url><![CDATA[https://docs.microsoft.com/ru-ru/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000082</id>
+    <title>Соответствия каким требованиям мне не хватает для возобновления моих компетенций?</title>
+    <description><![CDATA[Партнеры могут просматривать список требований к компетенции в Центре поддержки участников Партнерской программы. Наведите указатель на раздел "Требования и ресурсы" и выберите "Сводка по компетенциям". Партнеры также могут просматривать список компетенций и требования к ним на портале MPN ]]></description>
+    <articlelinks>
+      <link>
+        <text>Компетенции</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text>KB 4089772: Последовательность действий, чтобы увидеть не выполненные требования в Центре партнеров</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000085</id>
+    <title>Как объединить отдельные регистрации MPN?</title>
+    <description><![CDATA[Прочитайте следующую статью, чтобы узнать о некоторых факторах, которые могут оказать влияние на ваш доступ к преимуществам и способность выполнять операции.]]></description>
+    <articlelinks>
+      <link>
+        <text>Как объединить отдельные регистрации MPN</text>
+        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
+      </link>
+       <link>
+        <text>Как получить справочные сведения о партнерской программе Microsoft Partner Network из РСЦ?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>100-000092</id>
+    <title>Как привязать рабочую учетную запись моей организации к учетной записи Центра партнеров?</title>
+    <description><![CDATA[Если у вашей компании еще нет рабочей учетной записи, то вы можете создать ее в ходе процесса регистрации. Если вы хотите использовать существующую рабочую учетную запись, но у вас проблемы с входом в нее, ознакомьтесь со следующими статьями:]]></description>
+    <articlelinks>
+      <link>
+        <text>Панель партнеров. Рабочая учетная запись вашей компании и Панель партнеров</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>100-000095</id>
     <title>Когда предполагается мой переход из Центра администратора партнера (PAC) в Панель партнеров? </title>
     <description><![CDATA[Начиная с весны 2018 года функциональные возможности средства «Центр администратора партнера Office 365» переносятся в Панель партнеров Майкрософт. Когда возможность для перехода в Панель партнеров будет доступна, вы увидите всплывающее диалоговое окно с контекстным меню. В день перехода каждый партнер, который попытается войти в Центр администратора партнера будет автоматически перенаправлен и зарегистрирован в панели мониторинга Центра партнеров. После завершения процедуры автоматического перенаправления, партнеры не будут иметь доступа к Центру администратора партнера.  Примечание для консультантов: отправка ценовых предложений по платным и пробным версиям клиентам через Панель партнеров в настоящее время невозможна. Вы можете продолжать использовать функции Построение бизнеса в Центре администратора партнера до тех пор, пока в Центре партнеров не будет включена функция Ценовые предложения по платным и пробным версиям.]]></description>
@@ -519,127 +657,6 @@
         <text>Портал партнеров. Cloud Platform</text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000033</id>
-    <title>Как управлять членством компании?</title>
-    <description><![CDATA[У партнеров есть доступ к Центру партнерской программы для управления членством в Microsoft Partner Network и связанными с ним преимуществами. Просмотрите эту статью, чтобы ознакомиться с Центром партнерской программы.]]></description>
-    <articlelinks>
-      <link>
-        <text>KB 2984366. Общие сведения о Центре партнерской программы </text>
-        <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
-      </link>
-       <link>
-        <text>Управление преимуществами от вашего членства в Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000070</id>
-    <title>Моя компания учавствует в программе Microsoft Partner Network. Как стать мне связанным полъзователем? И многое другое.</title>
-    <description><![CDATA[Если Вы уже зарегистрированы в Microsoft, войдите в Associate в качестве индивидуального пользовтеля на страницы Центра участников партнерской программы и заполните необходимые поля. Если у Вас нет учетной записи Microsoft, Вам будет необходимо её создать, прежде чем приступить к регистрации компании.]]></description>
-    <articlelinks>
-      <link>
-        <text>Associate as an individual </text>
-        <url><![CDATA[https://partners.microsoft.com/partnerprogram/OrganizationSearch.aspx?tpqid=100-000070]]></url>
-      </link>
-       <link>
-        <text>Обзор Microsoft Partner Network</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000069</id>
-    <title>Моя организация не участвует в программе Microsoft Partner Network. Как зарегистрировать свою компанию?</title>
-    <description><![CDATA[Если Вы зарегистрированы в Microsoft, войдите на страницу программы Microsoft Partner Network, чтобы начать регистрацию Вашей компании. Если у Вас нет учетной записи Microsoft, Вам будет необходимо создать её прежде чем Вы начнёте регистрировать компанию.]]></description>
-    <articlelinks>
-      <link>
-        <text>Как сопоставить идентификатор MPN</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090740?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text>Как связать учетную запись Майкрософт для вашей организации идентификатор сети партнеров корпорации Майкрософт</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000077</id>
-    <title>Где узнать, как стать авторизованным продавцом устройств Microsoft Surface Hub (ADR)?</title>
-    <description><![CDATA[Чтобы стать авторизованным продавцом устройств Microsoft Surface Hub, необходимо обратиться к авторизованному дистрибьютору Microsoft Surface и зарегистрироваться для получения обновлений по программе ADR.]]></description>
-    <articlelinks>
-      <link>
-        <text>Обратиться к авторизованному дистрибьютору Microsoft Surface</text>
-        <url><![CDATA[https://partner.microsoft.com/Solutions/find-an-authorized-device-distributor?tpqid=100-000077]]></url>
-      </link>
-       <link>
-        <text>Зарегистрироваться, чтобы получать обновления о получении статуса ADR или установщика Microsoft Surface Hub</text>
-        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000078</id>
-    <title>Как распечатать/скачать окончательную редакцию счета из MAPS и оплату за компетенцию?</title>
-    <description><![CDATA[В данной статье приведены сведения о том, как напечатать окончательные счета]]></description>
-    <articlelinks>
-      <link>
-        <text>Как напечатать окончательные счета</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
-      </link>
-       <link>
-        <text>Скачивание счета-фактуры для Action Pack</text>
-        <url><![CDATA[https://docs.microsoft.com/ru-ru/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000012</id>
-    <title>Как возобновить членство в MPN?</title>
-    <description><![CDATA[Узнайте, когда и как выполняется продление, какие открываются возможности, и многое другое.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Membership Center</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>Возобновление членства</text>
-        <url><![CDATA[https://partners.microsoft.com/PartnerProgram/?tpqid=100-000012]]></url>
-      </link>
-       <link>
-        <text>Панель партнеров. Доступ к панели мониторинга Центра партнеров</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/pcv/dashboard/overview?tpqid=100-000012]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000082</id>
-    <title>Соответствия каким требованиям мне не хватает для возобновления моих компетенций?</title>
-    <description><![CDATA[Партнеры могут просматривать список требований к компетенции в Центре поддержки участников Партнерской программы. Наведите указатель на раздел "Требования и ресурсы" и выберите "Сводка по компетенциям". Партнеры также могут просматривать список компетенций и требования к ним на портале MPN ]]></description>
-    <articlelinks>
-      <link>
-        <text>Компетенции</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text>KB 4089772: Последовательность действий, чтобы увидеть не выполненные требования в Центре партнеров</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000085</id>
-    <title>Как объединить отдельные регистрации MPN?</title>
-    <description><![CDATA[Прочитайте следующую статью, чтобы узнать о некоторых факторах, которые могут оказать влияние на ваш доступ к преимуществам и способность выполнять операции.]]></description>
-    <articlelinks>
-      <link>
-        <text>Как объединить отдельные регистрации MPN</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4024707?tpqid=100-000085]]></url>
-      </link>
-       <link>
-        <text>Как получить справочные сведения о партнерской программе Microsoft Partner Network из РСЦ?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000061</id>
-    <title>Где мы можем увидеть дату окончания подписки   Microsoft Action Pack? </title>
-    <description><![CDATA[Для просмотра даты окончания подписки, зайдите в Центр Сообщества   Партнеров, в меню выберите опцию  Заказы и Преимущества затем нажмите Подписка Microsoft Action Pack.]]></description>
-    <articlelinks>
-      <link>
-        <text>Приобретение подписки на Microsoft Action Pack в первый раз или ее продление</text>
-        <url><![CDATA[https://docs.microsoft.com/ru-ru/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
-      </link>
-       <link>
-        <text>KB 4090552: Как посмотреть дату истечения срока действия подписки на MAPS или компетенцию</text>
-        <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000099</id>
     <title>Как настроить параметры учетной записи в новом Центре партнеров?</title>
@@ -649,31 +666,13 @@
         <text>Вопросы и ответы по учетной записи Центра партнеров.</text>
         <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>100-000092</id>
-    <title>Как привязать рабочую учетную запись моей организации к учетной записи Центра партнеров?</title>
-    <description><![CDATA[Если у вашей компании еще нет рабочей учетной записи, то вы можете создать ее в ходе процесса регистрации. Если вы хотите использовать существующую рабочую учетную запись, но у вас проблемы с входом в нее, ознакомьтесь со следующими статьями:]]></description>
-    <articlelinks>
-      <link>
-        <text>Панель партнеров. Рабочая учетная запись вашей компании и Панель партнеров</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000102</id>
-    <title>Каковы самые задаваемые вопросы о пути обучения?</title>
-    <description><![CDATA[Изучение путей может помочь вам получить подготовку или сертификацию. Пути обучения выделить контуры, которые имеют отношение к вашей компании или организации. FAQ пути обучения дает ответы на самые задаваемые вопросы о пути обучения.]]></description>
-    <articlelinks>
-      <link>
-        <text>Учебные материалы – список топ FAQ</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=100-000102]]></url>
+       <link>
+        <text>Создание учетной записи Центра партнеров</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000099]]></url>
       </link>
        <link>
-        <text>Схемы обучения для партнеров Майкрософт</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
-      </link>
-       <link>
-        <text>Partner University</text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
+        <text>Управление учетной записью Центра партнеров</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000100</id>
@@ -683,19 +682,6 @@
       <link>
         <text>Зарегистрируйтесь в качестве участника программы «Поставщик облачных решений»</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000050</id>
-    <title>Квалифицированные специалисты - Microsoft Certified Professionals (MCP) моей компании не отражаются как соответствующие требованиям для серебряной или золотой компетенции. Что я могу сделать? </title>
-    <description><![CDATA[После недавних изменений в программе, вы или Ваши специалисты MCP могут не отражаться Центре участников Партнерской программы (Partner Membership Center) при наличии необходимых экзаменов. В этой ситуации вам надо переназначить этих специалистов MCP через раздел “Управление Microsoft Certified Professionals” в Partner Membership Center. Это переназначение должно решить проблему с правильным отражением специалистов для компетенции. Если проблема не будет устранена, пожалуйста, обратитесь в ваш Региональный Сервисный Центр. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Устранение неполадок с MCP экзамены и проходят сертификацию не засчитывается правильно</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966774?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text>Связать или удалить связь идентификатор MCP или из партнерской организации</text>
-        <url><![CDATA[https://support.microsoft.com/kb/2966380?tpqid=100-000050]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>100-0000100</id>
@@ -793,6 +779,15 @@
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
     </articlelinks></question></group><group title="Техническая предпродажная помощь, развертывание и разработка приложений" refid="TechnicalPresalesAppDev"><question>
+    <id>1400-000110</id>
+    <title>Где я могу ознакомиться с основными вопросами, задаваемыми партнерами во время этапов предпродажного консультирования и развертывания проектов клиентов в облачной и гибридной среде?</title>
+    <description><![CDATA[Ознакомьтесь с вопросами, наиболее часто задаваемыми партнерами на этапах предпродажного консультирования и развертывания проектов их клиентов, включая вопросы по поводу конкурентоспособного позиционирования, демонстраций, настройки параметров, технического лицензирования, миграции и развертывания, а также разработки приложений. ]]></description>
+    <articlelinks>
+      <link>
+        <text>Вопросы о продукте, чаще всего задаваемые партнерами</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1400-000112</id>
     <title>Что такое путешествие по стране технических знаний? Почему это важно для организации моего партнера?</title>
     <description><![CDATA[Путешествие по стране технических знаний поможет вам быстрее выстроить свои технические возможности и повысить уровни продаж, развертываний и разработки приложений. Начните свое путешествие по стране технических знаний с получения руководства от работающих с Майкрософт технических консультантов через рекомендованный подход, включающий интерактивные технические вебинары и персонализированные консультации с использованием виртуальной доски сообщений, обзоров архитектуры и демонстрации реальных сценариев. ]]></description>
@@ -836,15 +831,6 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1400-000110</id>
-    <title>Где я могу ознакомиться с основными вопросами, задаваемыми партнерами во время этапов предпродажного консультирования и развертывания проектов клиентов в облачной и гибридной среде?</title>
-    <description><![CDATA[Ознакомьтесь с вопросами, наиболее часто задаваемыми партнерами на этапах предпродажного консультирования и развертывания проектов их клиентов, включая вопросы по поводу конкурентоспособного позиционирования, демонстраций, настройки параметров, технического лицензирования, миграции и развертывания, а также разработки приложений. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Вопросы о продукте, чаще всего задаваемые партнерами</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000115</id>
     <title>Оказывает ли Майкрософт партнерам такие услуги как техническая помощь при проведении предпродаж, развертывании, миграции или разработке приложений?</title>
     <description><![CDATA[Да. Одним из преимуществ вашего членства в Microsoft Partner Network является получение доступа к специалистам технической поддержки для партнеров Майкрософт, которые откроют вам наилучшие пути получения практического опыта, предоставят выверенный рекомендованный подход (который называется «Путешествие по стране технических знаний») по обеспечению технических возможностей для выполнения этих сценариев.]]></description>
@@ -858,6 +844,30 @@
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="Управление соглашениями, заказами и подписками" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000090</id>
+    <title>Где я могу загрузить программное обеспечение и ключ продукта Windows 10?</title>
+    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
+
+Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
+
+Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
+
+Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
+]]></description>
+    <articlelinks>
+      <link>
+        <text>Портал Partner Digital Distribution Portal</text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Подписки Visual Studio Online</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text>Веб-сайт для загрузки Visual Studio Online</text>
+        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000048</id>
     <title>Каким образом я могу получить кредит(ы) для моих преимуществ для внутреннего использования по Microsoft Azure? </title>
     <description><![CDATA[у которых есть компетенция или подписка Microsoft Action Pack, имеют доступ к ежемесячному кредиту для подписки Microsoft Azure. Это преимущество предоставляется на организацию независимо от количества купленных подписок на Action Pack или дополнительных преимуществ (Additional Benefit Toolkits). Если один из администраторов в рамках одной и той же организации уже запросил кредит на преимущества по Azure, то другие администраторы из этой же организации не смогут претендовать на это преимущество. Прочитайте следующую статью, чтобы узнать больше о преимуществах Microsoft Azure для внутреннего использования.]]></description>
@@ -869,19 +879,6 @@
        <link>
         <text>Права на внутреннее использование облачных преимуществ и преимуществ программного обеспечения</text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000048]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Могу ли я приобрести подписку на надстройку в дополнение к моим правам на внутреннее использование подписки на онлайн-службы MPN?</title>
-    <description><![CDATA[Нет, это невозможно. Вам необходимо приобрести хотя бы 1 лицензию по основной подписке с доступными каналами приобретения для того, чтобы иметь возможность для добавления любой надстройки. Исключение: для надстроек CRM OL и Dynamics 365, таких как непроизводственные экземпляры и хранилище. Вы можете отсюда отправить запрос на получения бесплатной базовой подписки.]]></description>
-    <articlelinks>
-      <link>
-        <text>Отправить запрос для получения бесплатной базовой подписки отсюда</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Руководство по использованию продукта для получения преимуществ от применения программного обеспечения и облачных служб</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
     </articlelinks></question><question>
     <id>800-000036</id>
@@ -922,28 +919,21 @@
         <text>Microsoft Action Pack internal-use rights license table</text>
         <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
+       <link>
+        <text>Управление преимуществами членства в Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
+      </link>
     </articlelinks></question><question>
-    <id>800-000090</id>
-    <title>Где я могу загрузить программное обеспечение и ключ продукта Windows 10?</title>
-    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
-
-Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
-
-Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
-
-Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
-]]></description>
+    <id>800-000105</id>
+    <title>Могу ли я приобрести подписку на надстройку в дополнение к моим правам на внутреннее использование подписки на онлайн-службы MPN?</title>
+    <description><![CDATA[Нет, это невозможно. Вам необходимо приобрести хотя бы 1 лицензию по основной подписке с доступными каналами приобретения для того, чтобы иметь возможность для добавления любой надстройки. Исключение: для надстроек CRM OL и Dynamics 365, таких как непроизводственные экземпляры и хранилище. Вы можете отсюда отправить запрос на получения бесплатной базовой подписки.]]></description>
     <articlelinks>
       <link>
-        <text>Портал Partner Digital Distribution Portal</text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
+        <text>Отправить запрос для получения бесплатной базовой подписки отсюда</text>
+        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
       </link>
        <link>
-        <text>Подписки Visual Studio Online</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text>Веб-сайт для загрузки Visual Studio Online</text>
-        <url><![CDATA[https://msdn.microsoft.com/subscriptions?tpqid=800-000090]]></url>
+        <text>Руководство по использованию продукта для получения преимуществ от применения программного обеспечения и облачных служб</text>
+        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
     </articlelinks></question></group></groups>
