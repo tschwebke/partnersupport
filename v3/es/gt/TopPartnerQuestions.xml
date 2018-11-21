@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="Beneficios" refid="Benefits"><question>
     <id>300-000004</id>
-    <title>¿Qué tengo que hacer para obtener mi logotipo de competencia?</title>
-    <description><![CDATA[Vaya a Partner Logo Builder para crear y descargar logotipos personalizados que puede utilizar para promover que es partner de Microsoft y las competencias que ha logrado.]]></description>
+    <title>¿Cómo puedo crear mi logotipo de competencia?</title>
+    <description><![CDATA[Puedes crear tu logotipo de competencia fácilmente en los siguientes enlaces:]]></description>
     <articlelinks>
       <link>
         <text>Herramienta de creación de logotipos para partners</text>
@@ -880,28 +880,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
     </articlelinks></question></group><group title="Soporte técnico Pre-ventas, Implementación y Desarrollo de Apps" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000115</id>
-    <title>¿Ayuda Microsoft a los partners con servicios tecnicos de preventa, implementación, migración o tipos de escenario de desarollo de apps?</title>
-    <description><![CDATA[Sí. Como parte de sus beneficios de red de partner de Microsoft, recibirá acceso a consultores técnicos de partners de Microsoft que le ofrecerán los mejores consejos prácticos, además, los consultores le proporcionarán una ruta recomendada (denominada recorrido técnico) para obtener las mejores capacidades técnicas para estos escenarios.]]></description>
-    <articlelinks>
-      <link>
-        <text>Usar los beneficios de servicios técnicos de preventa e implementación</text>
-        <url><![CDATA[https://support.microsoft.com/help/3121537?tpqid=1400-000115]]></url>
-      </link>
-       <link>
-        <text>Productos y escenarios admitidos</text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000110</id>
-    <title>¿Dónde se encuentran las preguntas principales que hacen los partners durante las fases de preventa e implementación de los proyectos de cliente sobre la nube y soluciones híbridas?</title>
-    <description><![CDATA[Consulte las preguntas más frecuentes que hacen los partners durante las fases de preventas e implementación de sus proyectos de cliente, como por ejemplo, posición competitiva, demostraciones, configuración, licencias técnicas, migración e implementación, y desarrollo de aplicaciones. ]]></description>
-    <articlelinks>
-      <link>
-        <text>Preguntas principales de los partners sobre productos</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3182623?tpqid=1400-000110]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000112</id>
     <title>¿Qué es un camino técnico? ¿Por qué es importante en mi organización partner?</title>
     <description><![CDATA[Los caminos técnicos lo ayudan a desarrollar sus capacidades técnicas más rápidamente para acelerar las ventas, implementaciones y desarrollo de aplicaciones. Comience su camino técnico para recibir asistencia técnica de consultores técnicos para partners de Microsoft a través de una ruta recomendada de seminarios web técnicos interactivos y asesoramiento personalizado con documentos compartidos en pizarra, revisiones sobre arquitectura y simulación de escenarios del mundo real. ]]></description>
@@ -943,5 +921,18 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
        <link>
         <text>Comience su camino técnico</text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000115</id>
+    <title>¿Ayuda Microsoft a los partners con servicios tecnicos de preventa, implementación, migración o tipos de escenario de desarollo de apps?</title>
+    <description><![CDATA[Sí. Como parte de sus beneficios de red de partner de Microsoft, recibirá acceso a consultores técnicos de partners de Microsoft que le ofrecerán los mejores consejos prácticos, además, los consultores le proporcionarán una ruta recomendada (denominada recorrido técnico) para obtener las mejores capacidades técnicas para estos escenarios.]]></description>
+    <articlelinks>
+      <link>
+        <text>Usar los beneficios de servicios técnicos de preventa e implementación</text>
+        <url><![CDATA[https://support.microsoft.com/help/3121537?tpqid=1400-000115]]></url>
+      </link>
+       <link>
+        <text>Productos y escenarios admitidos</text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group></groups>
