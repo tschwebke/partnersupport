@@ -74,19 +74,6 @@
         <text>管理你的 Microsoft 合作伙伴网络成员身份权益</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>除 MPN IUR（内部使用权）联机服务订阅之外，我可以购买附加订阅吗？</title>
-    <description><![CDATA[不，这是不可能的，你将需要通过可用的购买渠道购买至少 1 个基本订阅许可证，才能添加任何附加内容。例外情况：对于 CRM OL 和 Dynamics 365 加载项（如非生产实例和存储），你可以在此处提交申请以获得免费的基本订阅]]></description>
-    <articlelinks>
-      <link>
-        <text>在此处提交申请以获得免费的基本订阅</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>软件和云服务权益的产品使用指南</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
     </articlelinks></question></group><group title="售前技术、部署和应用开发" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000112</id>
     <title>什么是技术之旅？为什么它对我的合作伙伴组织至关重要？</title>
@@ -477,7 +464,7 @@
         <text>不知道您有多少时间？查看您可用的合作伙伴咨询时间。</text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>获得此资格的好处是什么？</title>
     <description><![CDATA[请查看以下链接了解更多信息]]></description>
@@ -663,10 +650,6 @@
     <description><![CDATA[请参阅以下文章了解如何更新你的银行和税务信息]]></description>
     <articlelinks>
       <link>
-        <text>如何添加 Azure 激励的银行详细信息</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>如何提交 Azure 在线激励的税务和银行表单</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -715,7 +698,7 @@
       </link>
        <link>
         <text>微软合作伙伴学习途径</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>合作伙伴学院</text>
@@ -891,7 +874,7 @@
         <text>注册加入云解决方案提供商计划</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>如何创建我的业务配置文件？我可以创建多少个业务配置文件是否有限制？ </title>
     <description><![CDATA[可以为要与客户建立联系的每个国家/地区创建一个配置文件。最多可以为每个配置文件添加 5 个位置。只能在当前拥有实际位置的国家/地区创建业务配置文件。]]></description>
@@ -928,7 +911,7 @@
     <articlelinks>
       <link>
         <text>解决方案提供商搜索</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>

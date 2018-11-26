@@ -78,19 +78,6 @@
         <text>Microsoft 파트너 네트워크 멤버십 혜택 관리</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN IUR(내부 사용권) Online Services 구독에 더하여 추가 기능 구독을 구매할 수 있나요?</title>
-    <description><![CDATA[아니요. 그렇게 할 수 없습니다. 추가 기능을 추가하려면 사용 가능한 구매 채널을 통해 기본 구독 라이선스를 하나 이상 구매해야 합니다. 예외: 비프로덕션 인스턴스 및 저장소 같은 CRM OL 및 Dynamics 365 추가 기능의 경우 여기서 요청을 제출하여 무료 기본 구독을 얻을 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text>여기서 요청을 제출하여 무료 기본 구독 얻기</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>소프트웨어 및 클라우드 서비스 혜택에 대한 제품 사용 가이드</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
     </articlelinks></question></group><group title="계정 설정 및 관리" refid="AccountSetupManagement"><question>
     <id>200-000083</id>
     <title>클라우드 솔루션 공급자(CSP) 프로그램에 대한 내용을 확인하고 최신 정보를 받을 수 있는 위치는 어디인가요?</title>
@@ -480,10 +467,6 @@
     <description><![CDATA[아래 문서에서 은행 및 세금 정보를 업데이트하는 방법을 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text>Azure Incentives용 은행 세부 정보를 추가하는 방법</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>Azure Online Incentives용 세금 및 은행 정보 양식을 제출하는 방법</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -532,7 +515,7 @@
       </link>
        <link>
         <text>Microsoft 파트너 학습 과정</text>
-        <url><![CDATA[https://mspartnerlp.mspartner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -708,7 +691,7 @@
         <text>클라우드 솔루션 공급자 프로그램에 등록</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>비즈니스 프로필은 어떻게 만드나요? 만들 수 있는 비즈니스 프로필의 수에 제한이 있나요? </title>
     <description><![CDATA[고객과 교류하려는 국가별로 프로필을 하나씩 만들 수 있습니다. 그리고 프로필마다 위치를 최대 5개까지 추가할 수 있습니다. 현재 물리적 점유지가 있는 국가에서만 비즈니스 프로필을 만들 수 있습니다.]]></description>
@@ -745,7 +728,7 @@
     <articlelinks>
       <link>
         <text>솔루션 공급자 검색</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
@@ -794,7 +777,7 @@
         <text>간이 얼마나 되는지 잘 모르시겠습니까? 사용 가능한 파트너 자문 시간을 확인하세요. </text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>역량을 확보하면 어떤 혜택이 있나요?</title>
     <description><![CDATA[다음 링크에서 자세한 내용을 검토하세요.]]></description>

@@ -214,10 +214,6 @@
     <description><![CDATA[銀行と税金の情報を更新する方法にいては、以下の記事を参照してください]]></description>
     <articlelinks>
       <link>
-        <text>Azure インセンティブの銀行の詳細を追加するにはどうすればよいですか?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>Azure オンライン インセンティブ用の税金および銀行フォームの送信方法</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -387,7 +383,7 @@
       </link>
        <link>
         <text>マイクロソフト パートナーのラーニング パス</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -559,7 +555,7 @@
         <text>クラウド ソリューション プロバイダー プログラムに登録する</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>ビジネス プロファイルの作成方法を教えてください。ビジネス プロファイルを作成できる上限数はありますか。 </title>
     <description><![CDATA[お客様と関連付けを行うためのプロファイルは、国ごとに 1 つ作成できます。各プロファイルにつき、最大で 5 つの場所を追加できます。ビジネス プロファイルは、現在実際の住所がある国でのみ作成できます。]]></description>
@@ -596,7 +592,7 @@
     <articlelinks>
       <link>
         <text>ソリューション プロバイダー検索</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
@@ -798,19 +794,6 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN IUR (内部使用権) Online Services サブスクリプションがある場合、アドオン サブスクリプションを購入できますか?</title>
-    <description><![CDATA[いいえ、購入できません。アドオンを追加するには、利用可能な購入経路で基本サブスクリプションを 1 ライセンス以上購入する必要があります。例外: CRM OL および Dynamics 365 のアドオンの場合 (非運用環境のインスタンスやストレージなど)、こちらで依頼を送信して無料の基本サブスクリプションを取得できます。]]></description>
-    <articlelinks>
-      <link>
-        <text>ここで依頼を送信して無料の基本サブスクリプションを取得する</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>ソフトウェアおよびクラウド サービスの利点に関する製品使用ガイド</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-1000111</id>
     <title>パートナー特典や各種プログラム要件に関するお問い合わせについての連絡先情報はどこから入手できますか？　マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには？　</title>
     <description><![CDATA[パートナー特典や各種プログラム要件に関するお問い合わせはパートナー コールセンター内　マイクロソフト認定プログラム事務局までご連絡ください。　（自動音声メッセージで3番を選択ください。）
@@ -864,7 +847,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text>ロゴ ビルダーの概要</text>
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>コンピテンシーを獲得するメリット</title>
     <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>

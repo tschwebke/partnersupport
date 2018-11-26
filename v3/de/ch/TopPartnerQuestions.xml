@@ -31,10 +31,6 @@
     <description><![CDATA[In den nachfolgenden Artikeln erfahren Sie, wie Sie Ihre Bank- und Steuerdaten aktualisieren]]></description>
     <articlelinks>
       <link>
-        <text>Hinzufügen von Bankdetails für Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>Übermitteln von Steuer- und Bankformularen für Azure Online Incentives</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -280,7 +276,7 @@
         <text>Schritte zum Erstellen einer Supportanfrage</text>
         <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>Welche Vorteile bietet der Erwerb einer Kompetenz?</title>
     <description><![CDATA[Weitere Informationen erhalten Sie über die folgenden Links]]></description>
@@ -676,7 +672,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text>Verwalten Ihres Partner-Dashboard-Kontos</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>Wie erstelle ich ein Geschäftsprofil? Gibt es einen Grenzwert bezüglich der Anzahl von Geschäftsprofilen, die ich erstellen kann? </title>
     <description><![CDATA[Sie können ein Profil für jedes Land erstellen, in dem Sie Kontakt mit Kunden wünschen. Für jedes Profil können Sie bis zu fünf Standorte hinzufügen. Ein Geschäftsprofil können Sie nur in einem Land erstellen, in dem Sie aktuell über einen physischen Standort verfügen.]]></description>
@@ -722,7 +718,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
     <articlelinks>
       <link>
         <text>Suche nach Lösungsanbietern</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000102</id>
@@ -735,7 +731,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
       </link>
        <link>
         <text>Lernpfade für Microsoft-Partner</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -931,18 +927,5 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
        <link>
         <text>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Kann ich ein Add-On-Abonnement zusätzlich zu meinem MPN IUR (Internal Use Rights) Online Services-Abonnement erwerben?</title>
-    <description><![CDATA[Nein, das ist nicht möglich. Sie müssen mindestens 1 Lizenz eines Basisabonnements über die verfügbaren Einkaufswege erwerben, um Add-Ons hinzufügen zu können. Ausnahme: Für CRM OL- und Dynamics 365-Add-Ons – wie z. B. produktionsfremde Instanzen und Speicher – können Sie Ihre Anfrage hier einreichen, um ein kostenloses Basisabonnement zu erhalten.]]></description>
-    <articlelinks>
-      <link>
-        <text>Reichen Sie Ihre Anfrage hier ein, um ein kostenloses Basisabonnement zu erhalten</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Produktbenutzerhandbuch für Software- und Cloud Services-Vorteile</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
       </link>
     </articlelinks></question></group></groups>

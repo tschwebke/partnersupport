@@ -32,7 +32,7 @@
         <text>Ne kadar saatiniz olduğunundan emin değil misiniz? İş ortakları danışmanlık saatlerinizi görüntüleyin</text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>Uzmanlığa erişmenin avantajları nelerdir?</title>
     <description><![CDATA[Daha fazla bilgi için lütfen aşağıdaki bağlantıları inceleyin]]></description>
@@ -523,7 +523,7 @@
       </link>
        <link>
         <text>Microsoft iş ortağı öğrenme yolları</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>İş Ortakları Üniversitesi</text>
@@ -642,7 +642,7 @@
         <text>İş Ortağı Panosu: Şirketinizin iş hesabı ve İş Ortağı Panosu</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>İşletme profilimi nasıl oluştururum? Oluşturabileceğim işletme profili sayısına dair bir sınırlama var mı? </title>
     <description><![CDATA[Müşterilerle bağlantı kurmak istediğiniz her bir ülke için ayrı bir profil oluşturabilirsiniz. Her bir profil için 5 adede kadar farklı konum ekleyebilirsiniz. Yalnızca mevcut durumda fiziksel bir işletme konumu içeren ülkelerde işletme profili oluşturabilirsiniz.]]></description>
@@ -679,7 +679,7 @@
     <articlelinks>
       <link>
         <text>Çözüm Sağlayıcısı Arama</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
@@ -708,23 +708,6 @@
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=100-000095]]></url>
       </link>
     </articlelinks></question></group><group title="Sözleşmeler, Siparişler ve Abonelik Yönetimi" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000092</id>
-    <title>İç Kullanım hakları lisanslarımı nasıl aktive edebilirim?</title>
-    <description><![CDATA[Office 365, Kurumsal Mobilite Suite ve Microsoft Dynamics CRM Online iç kullanım hakları lisanslarını aktive edebilmek için adım adım kılavuza aşağıdaki makalelerden ulaşabilirsiniz.]]></description>
-    <articlelinks>
-      <link>
-        <text>Partner Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Microsoft Action Pack internal-use rights license table</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Manage your Microsoft Partner Network membership benefits</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000090</id>
     <title>Windows 10 yazılım ve ürün anahtarını nereden indirebilirim?</title>
     <description><![CDATA[Microsoft uzmanlığı veya Bayi Paketi aboneliği olan iş ortakları Windows 10 Kurumsal yazılım ve ürün anahtarına şirket içinde kullanmak amacıyla İş Ortağı Dijital Dağıtım Portalından erişebilirler. Geliştirmek, test etmek ve değerlendirmek amacıyla, iş ortakları Visual Studio Online üyeliği program avantajı kapsamında gelen yazılım ve anahtarlarını kullanabilirler. ( Bu Pro ve Ev sürümlerini içerir.) Sadece Visual Studio Online üyeliğine tanımlanmış son kullanıcılar içindir. 
@@ -773,19 +756,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>MPN Dahili Kullanım Hakları Çevrimiçi Hizmetler aboneliğimin üzerine bir eklenti aboneliği satın alabilir miyim?</title>
-    <description><![CDATA[Hayır, bunu yapamazsınız. Eklenti ekleyebilmek için mevcut satın alma kanalları aracılığıyla en az bir temel abonelik lisansı satın almanız gerekir. Özel durum: Üretim dışı örnekler ve depolama alanı gibi CRM OL ve Dynamics 365 Eklentileri için ücretsiz temel abonelik almak için talebinizi buradan gönderebilirsiniz]]></description>
-    <articlelinks>
-      <link>
-        <text>Ücretsiz temel abonelik almak için buradan talebinizi gönderin</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Yazılım ve Bulut Hizmetlerinin Avantajları için Ürün Kullanım Kılavuzu</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000032</id>
     <title>Microsoft İş Ortakları Ağı kapsamında Office 365 (E3) iç kullanım haklarına nasıl sahip olabilirim?</title>
     <description><![CDATA[Microsoft İş Ortağı Ağı Office 365 (E3) iç kullanım hakları avantajlarına göz atın.]]></description>
@@ -797,6 +767,23 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text>Office 365 (E3) dahili kullanım hakkı lisanslarının etkinleştirilmesi ve atanması</text>
         <url><![CDATA[http://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>İç Kullanım hakları lisanslarımı nasıl aktive edebilirim?</title>
+    <description><![CDATA[Office 365, Kurumsal Mobilite Suite ve Microsoft Dynamics CRM Online iç kullanım hakları lisanslarını aktive edebilmek için adım adım kılavuza aşağıdaki makalelerden ulaşabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text>Partner Portalı: Dahili Kullanım Hakları bulut ve yazılım avantajı - hala PMC'de olan iş ortakları için</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Microsoft Action Pack internal-use rights license table</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Manage your Microsoft Partner Network membership benefits</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group><group title="Teknik Destek (Ürünler, Platformlar ve Araçlar)" refid="TechnicalSupport"><question>
     <id>700-000001</id>
@@ -898,6 +885,19 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
     </articlelinks></question></group><group title="Teşvikler ve Ödemeler" refid="IncentivesPayouts"><question>
+    <id>400-000083</id>
+    <title>Banka ve Vergi bilgilerimi nasıl güncelleştirebilirim?</title>
+    <description><![CDATA[Banka ve vergi bilgilerinizi nasıl güncelleştirebileceğiniz konusunda bilgi edinmek için aşağıdaki makalelere göz atın]]></description>
+    <articlelinks>
+      <link>
+        <text>Azure Çevrimiçi Teşvikler için vergi ve banka formlarını gönderme</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
+      </link>
+       <link>
+        <text>Vergi Bilgilerimi Nereden Güncelleştirebilirim?</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000008</id>
     <title>Microsoft'un İş Ortağı teşvikleri nelerdir?</title>
     <description><![CDATA[İş Ortakları teşvikleri avantajlarından yararlanarak gelirlerinizi artırın. Eğer işiniz belirli stratejik aktiviteler ve çözüm alanlarına odaklandıysa, teşviklerden faydalanabilirsiniz.]]></description>
@@ -923,22 +923,5 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       <link>
         <text>İş ortağı teşvikleri için destek alın</text>
         <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000083</id>
-    <title>Banka ve Vergi bilgilerimi nasıl güncelleştirebilirim?</title>
-    <description><![CDATA[Banka ve vergi bilgilerinizi nasıl güncelleştirebileceğiniz konusunda bilgi edinmek için aşağıdaki makalelere göz atın]]></description>
-    <articlelinks>
-      <link>
-        <text>Azure Teşvikleri için banka bilgileri ekleme</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>Azure Çevrimiçi Teşvikler için vergi ve banka formlarını gönderme</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
-      </link>
-       <link>
-        <text>Vergi Bilgilerimi Nereden Güncelleştirebilirim?</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -282,19 +282,6 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Gestire i vantaggi dell'adesione al Microsoft Partner Network</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Posso acquistare una sottoscrizione per un componente aggiuntivo come integrazione alla sottoscrizione dei servizi online IUR (Internal Use Rights) MPN?</title>
-    <description><![CDATA[No, non è possibile. Per aggiungere qualsiasi componente aggiuntivo, è necessario acquistare almeno 1 licenza per una sottoscrizione di base tramite i canali di acquisto disponibili. Eccezione: per i componenti aggiuntivi di CRM OL e Dynamics 365,  ad esempio per istanze di archiviazione e non di produzione, puoi inviare una richiesta qui per ottenere una sottoscrizione di base gratuita]]></description>
-    <articlelinks>
-      <link>
-        <text>Invia qui la tua richiesta per ottenere una sottoscrizione di base gratuita</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Guida all'utilizzo dei vantaggi software e dei servizi cloud</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
     </articlelinks></question></group><group title="Incentivi e pagamento incentivi" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
     <title>Dove posso trovare ulteriori informazioni sugli incentivi per i partner?</title>
@@ -328,10 +315,6 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
     <description><![CDATA[Leggi gli articoli sottostanti per scoprire come aggiornare le informazioni bancarie e i dati fiscali]]></description>
     <articlelinks>
       <link>
-        <text>Come aggiungere i dati bancari per ricevere gli incentivi Azure</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>Come inviare moduli bancari e delle imposte per Azure Online Incentives</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -486,7 +469,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
       </link>
        <link>
         <text>Percorsi formativi per partner Microsoft</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -662,7 +645,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Iscrizione al programma Cloud Solution Provider</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>Come posso creare il mio profilo aziendale? C’è un limite nel numero di profili aziendali che posso creare? </title>
     <description><![CDATA[È possibile creare un profilo per ogni paese nel quale si desidera connettersi con i clienti. È possibile aggiungere fino a 5 posizioni per ciascun profilo. È possibile creare solo un profilo aziendale in un paese in cui si dispone di una posizione fisica oggi.]]></description>
@@ -699,7 +682,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
     <articlelinks>
       <link>
         <text>Ricerca provider di soluzioni</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
@@ -791,7 +774,7 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text>Non sai quante ore hai a disposizione? Guarda quante ore di consulenza hai a disposizione. </text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>Quali sono i vantaggi dell'acquisizione di una competenza?</title>
     <description><![CDATA[Per ottenere ulteriori informazioni, accedi ai collegamenti indicati di seguito.]]></description>

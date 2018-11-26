@@ -176,19 +176,6 @@
         <url><![CDATA[https://partner.microsoft.com/membership/msdn-subscriptions?tpqid=800-000036]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Can I purchase an Add-on subscription on top of my MPN IUR (Internal Use Rights) Online Services subscription?</title>
-    <description><![CDATA[No, this is not possible, you will need to purchase at least 1 license of a base subscription via the available purchasing channels to be able to add any Add-On. Exception: for CRM OL and Dynamics 365 Add-Ons – such as non-production instances and storage – you can submit your request here to get a free base subscription]]></description>
-    <articlelinks>
-      <link>
-        <text>Submit your request here to get a free base subscription</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Product Usage Guide to Software and Cloud Services Benefits</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000048</id>
     <title>How do I claim my Microsoft Azure internal-use rights (IUR) credit(s)? </title>
     <description><![CDATA[All partners enrolled in a competency or Microsoft Action Pack have access to a Microsoft Azure monthly credit. This benefit is provided per organization regardless of the number of Action Pack subscriptions or Additional Benefit Toolkits purchased. If one of the administrators within an organization has already claimed the Azure benefit, other users in the same organization will not be able to claim it. To learn more about claiming your Microsoft Azure IUR benefit, the article below.]]></description>
@@ -241,7 +228,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
     <id>300-000098</id>
     <title>How do I complete an application certification through Microsoft Referrals? </title>
-    <description><![CDATA[Participating in  Microsoft certifications or programs will help your referrals. ]]></description>
+    <description><![CDATA[Participating in Microsoft certifications or programs will help your referrals. ]]></description>
     <articlelinks>
       <link>
         <text>Partner Dashboard: Grow your business with referrals from Microsoft</text>
@@ -368,7 +355,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Not sure how many hours you have? View your available partner advisory hours</text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>What are the benefits in attaining a competency?</title>
     <description><![CDATA[Please review the following links for more information]]></description>
@@ -457,10 +444,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <description><![CDATA[See the articles below to learn how to update your banking and tax information]]></description>
     <articlelinks>
       <link>
-        <text>KB 3073470: How to add bank details for Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>KB 3090503: How to submit tax and bank forms for Azure Online Incentives</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -483,10 +466,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <description><![CDATA[Information on all Incentives and Payouts programs is available on the Microsoft Partner Network (MPN) Incentives and Payouts page. Partners who are eligible for an incentive program will see all available materials for that program from the Incentives and Payouts page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
     <articlelinks>
       <link>
-        <text>Partner Portal: Contact Incentives and Payouts Support (select Incentives and Payouts as Category)</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000079]]></url>
-      </link>
-       <link>
         <text>Partner Dashboard: Understand your incentive payouts</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
@@ -751,7 +730,7 @@ Partner program administrators are required to activate the tokens to avoid a la
       </link>
        <link>
         <text>Partner Portal: Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -814,7 +793,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>Enroll in the Cloud Solution Provider program</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>How do I create my business profile? Is there a limit on how many business profiles I can create? </title>
     <description><![CDATA[You can create a profile for each country you would like to connect with customers in. You can add up to 5 locations for each profile. You can only create a business profile in a country where you have a physical location today.]]></description>
@@ -851,7 +830,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     <articlelinks>
       <link>
         <text>Solution Provider Search</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>

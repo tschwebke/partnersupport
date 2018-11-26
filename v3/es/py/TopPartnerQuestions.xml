@@ -32,7 +32,7 @@
         <text>¿No está seguro cuántas horas tiene? Revise las horas de asesoría para socios disponibles. </text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000102</id>
     <title>¿Cuáles son los beneficios de obtener una competencia?</title>
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
@@ -329,49 +329,6 @@
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
       </link>
     </articlelinks></question></group><group title="Contratos, pedidos y administración de suscripciones" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000032</id>
-    <title>¿Cómo se ganan beneficios de derechos de uso interno para Office 365 (E3) a través de Microsoft Partner Network?</title>
-    <description><![CDATA[Obtenga una visión general de los beneficios de derechos de uso interno de Office 365 (E3) a través de Microsoft Partner Network.]]></description>
-    <articlelinks>
-      <link>
-        <text>¿Cómo se ganan beneficios de derechos de uso interno para Office 365 (E3) a través de Microsoft Partner Network?</text>
-        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text>Cómo activar y asignar licencias de derechos de uso interno de Office 365 (E3)</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>¿Cómo puedo activar mis licencias de uso interno ?</title>
-    <description><![CDATA[Puede encontrar una guía paso a paso para la activación de las licencias de uso interno de Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM en los artículos siguientes:]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal de Partners: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Tabla de licencias de derechos de uso interno de Microsoft Action Pack internal</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Administrar las ventajas de la suscripción a Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>¿Puedo comprar una suscripción de complemento además de mi suscripción al beneficio de derechos de uso interno (IUR) de MPN Online Services?</title>
-    <description><![CDATA[No, esta opción no está disponible. Para agregar un complemento, tendrá que comprar al menos una licencia de una suscripción base a través de los canales de compra disponibles. Excepción: para los complementos CRM OL y Dynamics 365, tales como las instancias y el almacenamiento fuera de producción, puede enviar su solicitud aquí para obtener una suscripción base gratuita.]]></description>
-    <articlelinks>
-      <link>
-        <text>Envíe su solicitud aquí para obtener una suscripción base gratuita</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Guía de uso de productos para los beneficios Software y Servicios en la nube</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000090</id>
     <title>¿Dónde puedo descargar Windows 10 y las claves?</title>
     <description><![CDATA[Partners con una competencia de Microsoft o una suscripción de Action Pack pueden acceder a Windows 10 Entreprise y a la clave para uso interno a través del Portal de Distribución Digital. Los Partners pueden acceder a la suscripción de Visual Studio Online para obtener software y claves con fines de desarrollo, test y evaluación. ( Éstas incluyen ediciones Pro y Home). El acceso está limitado a los usuarios asignados a la suscripción de Visual Studio Online. 
@@ -417,16 +374,42 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Suscripciones de Visual Studio de Microsoft Partner Network (MPN)</text>
         <url><![CDATA[https://support.microsoft.com/kb/4013871/?tpqid=800-000036]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title>¿Cómo se ganan beneficios de derechos de uso interno para Office 365 (E3) a través de Microsoft Partner Network?</title>
+    <description><![CDATA[Obtenga una visión general de los beneficios de derechos de uso interno de Office 365 (E3) a través de Microsoft Partner Network.]]></description>
+    <articlelinks>
+      <link>
+        <text>¿Cómo se ganan beneficios de derechos de uso interno para Office 365 (E3) a través de Microsoft Partner Network?</text>
+        <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text>Cómo activar y asignar licencias de derechos de uso interno de Office 365 (E3)</text>
+        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title>¿Cómo puedo activar mis licencias de uso interno ?</title>
+    <description><![CDATA[Puede encontrar una guía paso a paso para la activación de las licencias de uso interno de Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM en los artículos siguientes:]]></description>
+    <articlelinks>
+      <link>
+        <text>Portal de Partners: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Tabla de licencias de derechos de uso interno de Microsoft Action Pack internal</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text>Administrar las ventajas de la suscripción a Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
+      </link>
     </articlelinks></question></group><group title="Incentivos y pagos" refid="IncentivesPayouts"><question>
     <id>400-000083</id>
     <title>¿Cómo se actualiza la información bancaria y fiscal?</title>
     <description><![CDATA[Consulte los artículos abajo para ver cómo actualizar la información bancaria y fiscal.]]></description>
     <articlelinks>
       <link>
-        <text>Cómo agregar información bancaria para los incentivos de Azure</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>Cómo enviar formularios fiscales y bancarios para los incentivos de Azure Online</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -608,7 +591,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
        <link>
         <text>Microsoft partner learning paths</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Partner University</text>
@@ -784,7 +767,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Inscríbase en el programa Proveedor de soluciones en la nube</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>¿Cómo creo mi perfil empresarial? ¿Hay un límite en el número de perfiles empresariales que puedo crear? </title>
     <description><![CDATA[Puede crear un perfil por cada país o región en el que quiera conectarse con clientes, y puede agregar hasta 5 ubicaciones por perfil. Solo puede crear un perfil profesional en un país o región en el que tenga una ubicación física hoy mismo.]]></description>
@@ -821,7 +804,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <articlelinks>
       <link>
         <text>Solution Provider Search</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
