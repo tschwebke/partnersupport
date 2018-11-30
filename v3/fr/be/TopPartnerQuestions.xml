@@ -32,7 +32,7 @@
         <text>Vous souhaitez connaître le nombre d'heures de conseil à votre disposition ? Consultez vos heures de conseil pour partenaire disponibles.</text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>300-000102</id>
     <title>Quels sont les avantages liés à une compétence ?</title>
     <description><![CDATA[Consultez les liens suivants pour plus d’informations]]></description>
@@ -188,7 +188,7 @@
     <articlelinks>
       <link>
         <text>Tableau de bord du partenaire : En savoir plus sur le programme CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/csp-partner?tpqid=200-000083]]></url>
       </link>
        <link>
         <text>Tableau de bord du partenaire : Annonces CSP</text>
@@ -584,7 +584,7 @@ Si vous ne disposez pas d'un compte Microsoft, il vous faudra tout d’abord en 
         <text>L'association d'un compte Microsoft pour l'ID de réseau de votre organisation Microsoft Partner</text>
         <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000102</id>
     <title>Quels sont le haut aux questions concernant les chemins de l'apprentissage ?</title>
     <description><![CDATA[Parcours d'apprentissage peut vous aider à obtenir une formation ou certifié. Parcours d'apprentissage mettre en évidence les chemins qui sont pertinents pour votre entreprise ou organisation. La FAQ de chemins d'apprentissage fournit des réponses vers le haut aux questions concernant les chemins de l'apprentissage.]]></description>
@@ -601,7 +601,7 @@ Si vous ne disposez pas d'un compte Microsoft, il vous faudra tout d’abord en 
         <text>Université Partner </text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>100-000033</id>
     <title>Comment gérer l'adhésion de ma société ?</title>
     <description><![CDATA[Les partenaires peuvent accéder à la page Gestion du compte Partenaire pour gérer leur adhésion au réseau Microsoft Partner Network et les avantages qui y sont associés. Consultez cet article pour une présentation de la page Gestion du compte Partenaire.]]></description>
@@ -682,7 +682,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Télécharger votre facture Action Pack</text>
         <url><![CDATA[https://docs.microsoft.com/fr-fr/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000082</id>
     <title>Quelles sont mes conditions requises manquantes pour renouveler mes domaines d’expertise ?</title>
     <description><![CDATA[Les partenaires peuvent examiner la liste des conditions requises pour les domaines d’expertise sur Partner Membership Center. Passez le pointeur sur Conditions requises et actifs, puis sélectionnez Récapitulatif sur les domaines d’expertise. Les partenaires peuvent également consulter la liste des domaines d’expertise et les conditions requises correspondantes sur le Portail Partenaire.]]></description>
@@ -708,7 +708,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Comment obtenir de l’aide sur Microsoft Partner Network de la part du RSC</text>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>100-000092</id>
     <title>Comment lier le compte professionnel de mon organisation à mon nouveau compte Tableau de bord du partenaire ?</title>
     <description><![CDATA[Si votre société ne possède pas encore de compte professionnel, vous pouvez en créer un gratuitement pendant l’inscription. Si vous souhaitez utiliser un compte professionnel existant mais que vous rencontrez des problèmes de connexion, lisez les articles suivants :]]></description>
@@ -891,7 +891,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Dynamics Partner Source</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>700-000002</id>
     <title>Comment créer des demandes de support pour Office 365, Microsoft Azure ou Microsoft Dynamics 365 pour mon organisation ou pour le compte d’un client ?</title>
     <description><![CDATA[Les demandes de support produit peuvent être transmises à partir de chacun de ces portails.]]></description>
