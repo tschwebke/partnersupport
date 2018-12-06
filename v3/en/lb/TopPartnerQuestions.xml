@@ -100,7 +100,7 @@
     </articlelinks></question><question SortOrderOnHome="6">
     <id>200-000089</id>
     <title>How to request a CSP relationship?</title>
-    <description><![CDATA[To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service. Read more information in the following articles:]]></description>
+    <description><![CDATA[To manage a customers service or subscription on their behalf, the customer must grant you administrator permissions for that service. Read more information in the following articles:]]></description>
     <articlelinks>
       <link>
         <text>Partner Center: Request a reseller relationship</text>
@@ -338,7 +338,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text>Microsoft Partner Support Offerings</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000014</id>
     <title>What are partner advisory hours?</title>
     <description><![CDATA[Partner advisory hours are the currency used to access certain services offered to partners. Use your hours to build your skills and get customized guidance for deploying solutions.]]></description>
@@ -436,7 +436,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <articlelinks>
       <link>
         <text>Partner Portal: Get support for Incentives and Payouts </text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?issueid=400-0015&tpqid=400-000080]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000083</id>
@@ -576,9 +576,9 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text>MPN Benefit Package Usage Guide </text>
         <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
-    </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question SortOrderOnHome="9">
+    </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
     <id>100-000033</id>
-    <title>How do I manage my company's membership?</title>
+    <title>How do I manage my companys membership?</title>
     <description><![CDATA[Partners can access the Partner Membership Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Membership Center.]]></description>
     <articlelinks>
       <link>
@@ -621,7 +621,7 @@ Partner program administrators are required to activate the tokens to avoid a la
       </link>
     </articlelinks></question><question>
     <id>100-000092</id>
-    <title>How to link my organization’s work account to my new Partner Center account?</title>
+    <title>How to link my organizations work account to my new Partner Center account?</title>
     <description><![CDATA[If your company doesn’t already have work account, you can create one for free during the enrollment process. If you want to use an existing work account but you’re having trouble signing in, review the following articles:]]></description>
     <articlelinks>
       <link>
