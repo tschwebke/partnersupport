@@ -15,7 +15,7 @@
         <text>Prise en main de Logo Builder</text>
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000014</id>
     <title>Les heures de consultation Partenaire, qu'est-ce que c'est ?</title>
     <description><![CDATA[Les heures de service de conseil pour partenaire servent actuellement à accéder à certains services techniques d'avant-vente et de déploiement proposés aux membres du réseau Microsoft Partner Network. Utilisez vos heures pour élargir vos compétences avec une formation technique et obtenir des conseils sur mesure pour gagner des parts de marché, développer des solutions et les déployer chez vos clients.]]></description>
@@ -188,7 +188,7 @@
     <articlelinks>
       <link>
         <text>Tableau de bord du partenaire : En savoir plus sur le programme CSP</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/csp-partner?tpqid=200-000083]]></url>
       </link>
        <link>
         <text>Tableau de bord du partenaire : Annonces CSP</text>
@@ -405,19 +405,6 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
         <text>Gérer les avantages de votre adhésion à MicrosoftPartnerNetwork</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>Puis-je acheter un abonnement à des composants additionnels en plus de mon abonnement MPN IUR (droits d'utilisation interne) Online Services ?</title>
-    <description><![CDATA[Non, cela n'est pas possible. Vous devez acheter au moins 1 licence d'un abonnement de base via les canaux d'achat disponibles pour pouvoir ajouter un composant additionnel. Exception : pour les composants additionnels CRM OL et Dynamics 365 (comme le stockage et les instances hors production), vous pouvez envoyer votre demande ici pour obtenir un abonnement de base gratuit]]></description>
-    <articlelinks>
-      <link>
-        <text>Envoyer votre demande ici pour obtenir un abonnement de base gratuit</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>Guide d'utilisation du produit pour les avantages liés aux logiciels et aux services cloud</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
     </articlelinks></question></group><group title="Licences, ventes et marketing" refid="LicensingSalesMarketing"><question>
     <id>1500-000008</id>
     <title>Où puis-je trouver plus d’informations sur les licences Microsoft ?</title>
@@ -549,7 +536,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
     <articlelinks>
       <link>
         <text>Obtenir un support pour les primes pour les partenaires </text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?issueid=400-0015&tpqid=400-000080]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000083</id>
@@ -557,10 +544,6 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
     <description><![CDATA[Consultez les articles ci-dessous pour découvrir comment mettre à jour vos informations bancaires et fiscales]]></description>
     <articlelinks>
       <link>
-        <text>Comment ajouter des informations bancaires pour Azure Incentives</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>Comment envoyer des informations fiscales et bancaires pour Azure Online Incentives</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -601,7 +584,7 @@ Si vous ne disposez pas d'un compte Microsoft, il vous faudra tout d’abord en 
         <text>L'association d'un compte Microsoft pour l'ID de réseau de votre organisation Microsoft Partner</text>
         <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000102</id>
     <title>Quels sont le haut aux questions concernant les chemins de l'apprentissage ?</title>
     <description><![CDATA[Parcours d'apprentissage peut vous aider à obtenir une formation ou certifié. Parcours d'apprentissage mettre en évidence les chemins qui sont pertinents pour votre entreprise ou organisation. La FAQ de chemins d'apprentissage fournit des réponses vers le haut aux questions concernant les chemins de l'apprentissage.]]></description>
@@ -612,7 +595,7 @@ Si vous ne disposez pas d'un compte Microsoft, il vous faudra tout d’abord en 
       </link>
        <link>
         <text>Chemins de formation pour les partenaires Microsoft</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>Université Partner </text>
@@ -699,7 +682,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Télécharger votre facture Action Pack</text>
         <url><![CDATA[https://docs.microsoft.com/fr-fr/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000082</id>
     <title>Quelles sont mes conditions requises manquantes pour renouveler mes domaines d’expertise ?</title>
     <description><![CDATA[Les partenaires peuvent examiner la liste des conditions requises pour les domaines d’expertise sur Partner Membership Center. Passez le pointeur sur Conditions requises et actifs, puis sélectionnez Récapitulatif sur les domaines d’expertise. Les partenaires peuvent également consulter la liste des domaines d’expertise et les conditions requises correspondantes sur le Portail Partenaire.]]></description>
@@ -725,7 +708,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Comment obtenir de l’aide sur Microsoft Partner Network de la part du RSC</text>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>100-000092</id>
     <title>Comment lier le compte professionnel de mon organisation à mon nouveau compte Tableau de bord du partenaire ?</title>
     <description><![CDATA[Si votre société ne possède pas encore de compte professionnel, vous pouvez en créer un gratuitement pendant l’inscription. Si vous souhaitez utiliser un compte professionnel existant mais que vous rencontrez des problèmes de connexion, lisez les articles suivants :]]></description>
@@ -791,7 +774,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>S’inscrire au programme Fournisseur de solutions Cloud</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>Comment créer mon profil métier ? Existe-t-il une limite concernant le nombre de profils métier que je peux créer ? </title>
     <description><![CDATA[Vous pouvez créer un profil pour chaque pays que vous souhaitez lier à des clients. Vous pouvez ajouter un maximum de 5 emplacements par profil. Vous ne pouvez créer un profil métier que dans un pays où vous disposez actuellement d’un emplacement physique.]]></description>
@@ -828,7 +811,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
     <articlelinks>
       <link>
         <text>Solution Provider Search</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
@@ -908,7 +891,7 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
         <text>Dynamics Partner Source</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>700-000002</id>
     <title>Comment créer des demandes de support pour Office 365, Microsoft Azure ou Microsoft Dynamics 365 pour mon organisation ou pour le compte d’un client ?</title>
     <description><![CDATA[Les demandes de support produit peuvent être transmises à partir de chacun de ces portails.]]></description>

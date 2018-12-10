@@ -74,19 +74,6 @@
         <text>管理你的 Microsoft 合作伙伴网络成员身份权益</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000105</id>
-    <title>除 MPN IUR（内部使用权）联机服务订阅之外，我可以购买附加订阅吗？</title>
-    <description><![CDATA[不，这是不可能的，你将需要通过可用的购买渠道购买至少 1 个基本订阅许可证，才能添加任何附加内容。例外情况：对于 CRM OL 和 Dynamics 365 加载项（如非生产实例和存储），你可以在此处提交申请以获得免费的基本订阅]]></description>
-    <articlelinks>
-      <link>
-        <text>在此处提交申请以获得免费的基本订阅</text>
-        <url><![CDATA[https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=f4a1d0f2-6bed-4a89-86b2-b49b3469759a&lcid=1033&tpqid=800-000105]]></url>
-      </link>
-       <link>
-        <text>软件和云服务权益的产品使用指南</text>
-        <url><![CDATA[https://assets.microsoft.com/en-gb/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=800-000105]]></url>
-      </link>
     </articlelinks></question></group><group title="售前技术、部署和应用开发" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000112</id>
     <title>什么是技术之旅？为什么它对我的合作伙伴组织至关重要？</title>
@@ -150,7 +137,7 @@
     <articlelinks>
       <link>
         <text>合作伙伴仪表板：详细了解 CSP 计划</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/home?tpqid=200-000083]]></url>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/csp-partner?tpqid=200-000083]]></url>
       </link>
        <link>
         <text>合作伙伴仪表板：CSP 公告</text>
@@ -303,7 +290,7 @@
         <text>Dynamics PartnerSource</text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>700-000002</id>
     <title>如何为我的组织或代表客户创建 Office 365、Microsoft Azure 或 Microsoft Dynamics 365 的支持请求？</title>
     <description><![CDATA[可以从以下这些门户提交产品支持请求。]]></description>
@@ -460,7 +447,7 @@
         <text>Logo Builder 入门</text>
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000014</id>
     <title>合作伙伴咨询时间是什么？</title>
     <description><![CDATA[合作伙伴咨询时间是用于获得向 Microsoft 合作伙伴网络成员提供的某些售前技术和部署服务的货币。使用您的合作伙伴咨询时间可以帮助您通过技术培训提升各种技能，还可获得有关提高解决方案竞争力、开发解决方案以及为客户部署解决方案的专门指导。]]></description>
@@ -506,7 +493,7 @@
     <articlelinks>
       <link>
         <text>Microsoft Partner Network 披露指南 </text>
-        <url><![CDATA[http://aka.ms/mpnbenefits?tpqid=300-000028]]></url>
+        <url><![CDATA[https://partner.microsoft.com/zh-cn/membership/core-benefits?mpnbenefits&tpqid=300-000028]]></url>
       </link>
        <link>
         <text>验证你是否有资格获得此优惠并了解更多信息</text>
@@ -655,7 +642,7 @@
     <articlelinks>
       <link>
         <text>获取对合作伙伴奖励的支持</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?tpqid=400-000080]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?issueid=400-0015&tpqid=400-000080]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000083</id>
@@ -663,10 +650,6 @@
     <description><![CDATA[请参阅以下文章了解如何更新你的银行和税务信息]]></description>
     <articlelinks>
       <link>
-        <text>如何添加 Azure 激励的银行详细信息</text>
-        <url><![CDATA[https://support.microsoft.com/kb/3073470?tpqid=400-000083]]></url>
-      </link>
-       <link>
         <text>如何提交 Azure 在线激励的税务和银行表单</text>
         <url><![CDATA[https://support.microsoft.com/kb/3090503?tpqid=400-000083]]></url>
       </link>
@@ -704,7 +687,7 @@
         <text>如何将您组织的微软合作伙伴 ID 与微软账户进行关联</text>
         <url><![CDATA[https://support.microsoft.com/kb/3083683/?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000102</id>
     <title>有关学习途径的常见问题？</title>
     <description><![CDATA[学习途径可以帮您获取培训或者认证。学习途径标注了与您公司、组织相关的途径。学习途径 FAQ 解答了有关学习途径的常见问题。]]></description>
@@ -715,7 +698,7 @@
       </link>
        <link>
         <text>微软合作伙伴学习途径</text>
-        <url><![CDATA[https://mspartnerlp.partner.microsoft.com/LearningPath?tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text>合作伙伴学院</text>
@@ -799,7 +782,7 @@
         <text>KB 4089764：如何在合作伙伴仪表板获取发票</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000082</id>
     <title>我缺少哪些续订能力的要求？</title>
     <description><![CDATA[合作伙伴可以查看 Partner Membership Center 上的能力要求列表。将鼠标悬停在“要求和资产”上并选择“能力摘要”。合作伙伴还可以查看 合作伙伴门户上的能力列表及其要求]]></description>
@@ -825,7 +808,7 @@
         <text>如何从 RSC 获取 Microsoft 合作伙伴网络帮助</text>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>100-000092</id>
     <title>如何将我所在组织的工作帐户链接到我的新合作伙伴仪表板帐户？</title>
     <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
@@ -891,7 +874,7 @@
         <text>注册加入云解决方案提供商计划</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question>
     <id>100-0000100</id>
     <title>如何创建我的业务配置文件？我可以创建多少个业务配置文件是否有限制？ </title>
     <description><![CDATA[可以为要与客户建立联系的每个国家/地区创建一个配置文件。最多可以为每个配置文件添加 5 个位置。只能在当前拥有实际位置的国家/地区创建业务配置文件。]]></description>
@@ -928,7 +911,7 @@
     <articlelinks>
       <link>
         <text>解决方案提供商搜索</text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/home?tpqid=100-0000102]]></url>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
