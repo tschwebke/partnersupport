@@ -50,7 +50,7 @@
     <description><![CDATA[获取有关 Microsoft 合作伙伴网络 Office 365 (E3) 内部使用权益的概述。]]></description>
     <articlelinks>
       <link>
-        <text>KB 2996518： 如何通过 Microsoft 合作伙伴网络获得 Office 365 (E3) 内部使用权益</text>
+        <text>如何通过 Microsoft 合作伙伴网络获得 Office 365 (E3) 内部使用权益</text>
         <url><![CDATA[http://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
       </link>
        <link>
@@ -330,7 +330,7 @@
     <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: 合作伙伴许可问题 - 快速参考指南</text>
+        <text>合作伙伴许可问题 - 快速参考指南</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
     </articlelinks></question><question>
@@ -599,15 +599,6 @@
         <text>Microsoft 合作伙伴支持服务</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>我在哪里可以找到演示/培训许可证以及如何激活？</title>
-    <description><![CDATA[每个产品只能获得一个密钥，并且由你决定选择其使用意图：演示、培训或内部使用。对于每种类型的权益（演示、培训或内部使用），没有不同的许可证。对于演示或培训，只要你激活并在 30 天内停用，激活就不会使用该产品密钥。]]></description>
-    <articlelinks>
-      <link>
-        <text>合作伙伴门户：内部使用权限的云和软件权益 - 适用于仍在 PMC 中的合作伙伴</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>300-000111</id>
     <title>是否可以获得 Microsoft 提供的确认我的合作关系的认证信函?</title>
@@ -657,7 +648,7 @@
         <text>我在哪里更新我的税务详细信息</text>
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
+    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question SortOrderOnHome="8">
     <id>100-000012</id>
     <title>我如何续订我的 MPN 成员身份？</title>
     <description><![CDATA[了解如何确定应在何时续订您的成员资格、如何续订、该网络上的机遇和更多信息。]]></description>
@@ -687,13 +678,13 @@
         <text>如何将您组织的微软合作伙伴 ID 与微软账户进行关联</text>
         <url><![CDATA[https://support.microsoft.com/kb/3083683/?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question>
     <id>100-000102</id>
     <title>有关学习途径的常见问题？</title>
     <description><![CDATA[学习途径可以帮您获取培训或者认证。学习途径标注了与您公司、组织相关的途径。学习途径 FAQ 解答了有关学习途径的常见问题。]]></description>
     <articlelinks>
       <link>
-        <text>KB 2964426: 学习途径 —  常见问题列表</text>
+        <text>学习途径 —  常见问题列表</text>
         <url><![CDATA[http://support.microsoft.com/kb/2964426?tpqid=100-000102]]></url>
       </link>
        <link>
@@ -710,7 +701,7 @@
     <description><![CDATA[合作伙伴可以访问 Partner Membership Center，以管理他们的 Microsoft 合作伙伴网络成员资格和相关的权益。 请参阅此文章，了解 Partner Membership Center 的概述。]]></description>
     <articlelinks>
       <link>
-        <text>KB 2984366： Partner Membership Center 概述</text>
+        <text>Partner Membership Center 概述</text>
         <url><![CDATA[http://support.microsoft.com/kb/2984366?tpqid=100-000033]]></url>
       </link>
        <link>
@@ -749,7 +740,7 @@
     <description><![CDATA[查看有效期，请登录合作成员管理中心，选择目录下面的Orders and Benefits（订单和利益），然后点击Microsoft Action Pack Subscription（微软行动宝盒订阅）。]]></description>
     <articlelinks>
       <link>
-        <text>KB 4090552：如何查看 MAPS 或资格的到期日期</text>
+        <text>如何查看 MAPS 或资格的到期日期</text>
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
        <link>
@@ -779,7 +770,7 @@
         <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
        <link>
-        <text>KB 4089764：如何在合作伙伴仪表板获取发票</text>
+        <text>如何在合作伙伴仪表板获取发票</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
@@ -792,7 +783,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
       </link>
        <link>
-        <text>KB 4089772：关于如何在合作伙伴仪表板查看缺少的要求的步骤</text>
+        <text>关于如何在合作伙伴仪表板查看缺少的要求的步骤</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question><question>

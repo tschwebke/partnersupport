@@ -163,15 +163,6 @@
         <text>Ofertas de soporte técnico para partners de Microsoft</text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000109</id>
-    <title>¿Dónde se encuentran las licencias de demostración o entrenamiento y cómo se activan?</title>
-    <description><![CDATA[Obtiene solo una clave por producto y usted decide para qué usarla, ya sea para demostración, entrenamiento o uso interno. No hay licencias diferentes para cada tipo de beneficio (demostración, entrenamiento o uso interno). Para demostración o entrenamiento, siempre y cuando active y desactive la licencia dentro de un plazo de 30 días, no se graba ninguna activación para esa clave de producto.]]></description>
-    <articlelinks>
-      <link>
-        <text>Portal de Partners: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000109]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>300-000111</id>
     <title>¿Puedo obtener una carta certificada de Microsoft en que se confirme que somos partners?</title>
@@ -182,6 +173,19 @@
         <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
       </link>
     </articlelinks></question></group><group title="Configuración y administración de la cuenta" refid="AccountSetupManagement"><question>
+    <id>200-000092</id>
+    <title>¿Cómo puedo unirme al programa Proveedor de soluciones en la nube?</title>
+    <description><![CDATA[Revise la siguiente información sobre la inscripción]]></description>
+    <articlelinks>
+      <link>
+        <text>Panel de partner: inscríbase en el programa Proveedor de soluciones en la nube</text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
+      </link>
+       <link>
+        <text>Partner Portal: Get started</text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title>¿Cuáles son los pasos para comenzar a usar el Panel de partner?</title>
     <description><![CDATA[Lea el artículo abajo para obtener más información sobre el sitio web Panel de partner.]]></description>
@@ -315,20 +319,24 @@
         <text>Panel de partner: crear, suspender o cancelar las suscripciones de cliente</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>200-000092</id>
-    <title>¿Cómo puedo unirme al programa Proveedor de soluciones en la nube?</title>
-    <description><![CDATA[Revise la siguiente información sobre la inscripción]]></description>
+    </articlelinks></question></group><group title="Contratos, pedidos y administración de suscripciones" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000092</id>
+    <title>¿Cómo puedo activar mis licencias de uso interno ?</title>
+    <description><![CDATA[Puede encontrar una guía paso a paso para la activación de las licencias de uso interno de Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM en los artículos siguientes:]]></description>
     <articlelinks>
       <link>
-        <text>Panel de partner: inscríbase en el programa Proveedor de soluciones en la nube</text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
+        <text>Portal de Partners: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
       </link>
        <link>
-        <text>Partner Portal: Get started</text>
-        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
+        <text>Tabla de licencias de derechos de uso interno de Microsoft Action Pack internal</text>
+        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="Contratos, pedidos y administración de suscripciones" refid="AgreementsOrdersSubscriptions"><question>
+       <link>
+        <text>Administrar las ventajas de la suscripción a Microsoft Partner Network</text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>800-000090</id>
     <title>¿Dónde puedo descargar Windows 10 y las claves?</title>
     <description><![CDATA[Partners con una competencia de Microsoft o una suscripción de Action Pack pueden acceder a Windows 10 Entreprise y a la clave para uso interno a través del Portal de Distribución Digital. Los Partners pueden acceder a la suscripción de Visual Studio Online para obtener software y claves con fines de desarrollo, test y evaluación. ( Éstas incluyen ediciones Pro y Home). El acceso está limitado a los usuarios asignados a la suscripción de Visual Studio Online. 
@@ -387,24 +395,16 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Cómo activar y asignar licencias de derechos de uso interno de Office 365 (E3)</text>
         <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>800-000092</id>
-    <title>¿Cómo puedo activar mis licencias de uso interno ?</title>
-    <description><![CDATA[Puede encontrar una guía paso a paso para la activación de las licencias de uso interno de Office 365, Enterprise Mobility Suite y Microsoft Dynamics CRM en los artículos siguientes:]]></description>
+    </articlelinks></question></group><group title="Incentivos y pagos" refid="IncentivesPayouts"><question>
+    <id>400-000080</id>
+    <title>¿Cómo obtengo soporte para incentivos para partners?</title>
+    <description><![CDATA[En la página de incentivos para partners encontrará soporte para el programa de incentivos para partners en la sección de soporte.]]></description>
     <articlelinks>
       <link>
-        <text>Portal de Partners: Beneficio Derechos de uno interno para la nube y software; para partners que aún usan PMC</text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=800-000092]]></url>
+        <text>Obtener soporte para incentivos para partners</text>
+        <url><![CDATA[https://partner.microsoft.com/support/contact-support?issueid=400-0015&tpqid=400-000080]]></url>
       </link>
-       <link>
-        <text>Tabla de licencias de derechos de uso interno de Microsoft Action Pack internal</text>
-        <url><![CDATA[http://support.microsoft.com/kb/3013414?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text>Administrar las ventajas de la suscripción a Microsoft Partner Network</text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question></group><group title="Incentivos y pagos" refid="IncentivesPayouts"><question>
+    </articlelinks></question><question>
     <id>400-000083</id>
     <title>¿Cómo se actualiza la información bancaria y fiscal?</title>
     <description><![CDATA[Consulte los artículos abajo para ver cómo actualizar la información bancaria y fiscal.]]></description>
@@ -435,16 +435,24 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Comprender los pagos de incentivos</text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>400-000080</id>
-    <title>¿Cómo obtengo soporte para incentivos para partners?</title>
-    <description><![CDATA[En la página de incentivos para partners encontrará soporte para el programa de incentivos para partners en la sección de soporte.]]></description>
+    </articlelinks></question></group><group title="Licencias, ventas y marketing" refid="LicensingSalesMarketing"><question>
+    <id>1500-000003</id>
+    <title>¿Qué recursos hay disponibles si tengo preguntas sobre el contrato de productos y servicios de Microsoft (MPSA)?</title>
+    <description><![CDATA[El contrato de productos y servicios de Microsoft (MPSA) es un contrato de licencias transaccionales para organizaciones comerciales, gubernamentales y académicas con 250 o más usuarios o dispositivos. MPSA está optimizado para las organizaciones que quieren licencias para software de Microsoft local, servicios de nube, o ambas soluciones, según sea necesario, sin tener que comprometerse en el nivel de toda la organización y bajo un solo contrato que no vence. ]]></description>
     <articlelinks>
       <link>
-        <text>Obtener soporte para incentivos para partners</text>
-        <url><![CDATA[https://partner.microsoft.com/support/contact-support?issueid=400-0015&tpqid=400-000080]]></url>
+        <text>MPSA Academy en los portales de Readiness</text>
+        <url><![CDATA[https://www.microsoftreadiness.com/opsacademy/details/programs/ce53ec8a-c419-4f9c-8c95-814e994bc32f?tpqid=1500-000003]]></url>
       </link>
-    </articlelinks></question></group><group title="Licencias, ventas y marketing" refid="LicensingSalesMarketing"><question>
+       <link>
+        <text>Contrato de productos y servicios de Microsoft</text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/MPSA/default.aspx?tpqid=1500-000003]]></url>
+      </link>
+       <link>
+        <text>Panel de partner de licencias por volumen (se requiere inicio de sesión)</text>
+        <url><![CDATA[https://licensing.microsoft.com/?tpqid=1500-000003]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1500-000004</id>
     <title>¿Dónde puedo obtener ayuda con los programas, contratos, órdenes, facturas, listas de precios, límites de crédito, retenciones de crédito, problemas con el sitio VLSC y otros incentivos?</title>
     <description><![CDATA[Use Explore.ms para ponerse en contacto con un Centro de operaciones regional (ROC) a través de Call Logging Tool (CLT). Si necesita más ayuda o no está satisfecho con la respuesta recibida, responda el correo electrónico de confirmación enviado a través de CLT y escriba ESCALAR en el cuerpo del mensaje.]]></description>
@@ -495,7 +503,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Consulte el artículo siguiente para obtener más preguntas sobre las licencias.]]></description>
     <articlelinks>
       <link>
-        <text>KB 4076425: Preguntas sobre licencias de socios: guía de referencia rápida</text>
+        <text>Preguntas sobre licencias de socios: guía de referencia rápida</text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
     </articlelinks></question><question>
@@ -533,24 +541,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Prepárese para las licencias</text>
         <url><![CDATA[https://getlicensingready.com?tpqid=1500-000002]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1500-000003</id>
-    <title>¿Qué recursos hay disponibles si tengo preguntas sobre el contrato de productos y servicios de Microsoft (MPSA)?</title>
-    <description><![CDATA[El contrato de productos y servicios de Microsoft (MPSA) es un contrato de licencias transaccionales para organizaciones comerciales, gubernamentales y académicas con 250 o más usuarios o dispositivos. MPSA está optimizado para las organizaciones que quieren licencias para software de Microsoft local, servicios de nube, o ambas soluciones, según sea necesario, sin tener que comprometerse en el nivel de toda la organización y bajo un solo contrato que no vence. ]]></description>
-    <articlelinks>
-      <link>
-        <text>MPSA Academy en los portales de Readiness</text>
-        <url><![CDATA[https://www.microsoftreadiness.com/opsacademy/details/programs/ce53ec8a-c419-4f9c-8c95-814e994bc32f?tpqid=1500-000003]]></url>
-      </link>
-       <link>
-        <text>Contrato de productos y servicios de Microsoft</text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/MPSA/default.aspx?tpqid=1500-000003]]></url>
-      </link>
-       <link>
-        <text>Panel de partner de licencias por volumen (se requiere inicio de sesión)</text>
-        <url><![CDATA[https://licensing.microsoft.com/?tpqid=1500-000003]]></url>
-      </link>
-    </articlelinks></question></group><group title="Programas y Membresías" refid="ProgramsMembership"><question>
+    </articlelinks></question></group><group title="Programas y Membresías" refid="ProgramsMembership"><question SortOrderOnHome="8">
     <id>100-000012</id>
     <title>¿Cómo se renueva la pertenencia a MPN?</title>
     <description><![CDATA[Aprenda cómo determinar cuándo debe renovar su membresía, cómo renovarla, oportunidades en la red y más.]]></description>
@@ -580,7 +571,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text>Cómo asociar una cuenta de Microsoft al identificador de red de socios de Microsoft de su organización</text>
         <url><![CDATA[https://support.microsoft.com/kb/3083683?tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question>
     <id>100-000102</id>
     <title>¿Cuáles son los primeros preguntas frecuentes sobre los caminos de aprendizaje?</title>
     <description><![CDATA[Caminos de aprendizaje puede ayudarle entrenado o certificado. Caminos de aprendizaje destacan los caminos que son relevantes para su empresa u organización. El FAQ de caminos de aprendizaje proporciona respuestas a preguntas frecuentes sobre los caminos de aprendizaje la cima.]]></description>
@@ -646,7 +637,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
       </link>
        <link>
-        <text>KB 4090552: Cómo ver la fecha de expiración para su suscripción a Microsoft Action Pack o competencia</text>
+        <text>Cómo ver la fecha de expiración para su suscripción a Microsoft Action Pack o competencia</text>
         <url><![CDATA[https://support.microsoft.com/kb/4090552?tpqid=100-000061]]></url>
       </link>
     </articlelinks></question><question>
@@ -681,11 +672,11 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Los asociados pueden revisar la lista de requisitos de competencias en el Partner Membership Center. Mantenga el puntero del mouse sobre Requisitos y recursos y seleccione Resumen de competencias. Los asociados también pueden ver la lista de competencias y los requisitos correspondientes en el portal de MPN.]]></description>
     <articlelinks>
       <link>
-        <text>KB 4089772: Pasos para conocer los requisitos faltantes en el Panel de partner</text>
+        <text>Pasos para conocer los requisitos faltantes en el Panel de partner</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
        <link>
-        <text>KB 4089772: Pasos para conocer los requisitos faltantes en el Panel de partner</text>
+        <text>Pasos para conocer los requisitos faltantes en el Panel de partner</text>
         <url><![CDATA[https://support.microsoft.com/kb/4089772?tpqid=100-000082]]></url>
       </link>
     </articlelinks></question><question>
