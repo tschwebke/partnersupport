@@ -38,7 +38,33 @@
         <text><![CDATA[Wo aktiviere ich meine Steuerdetails?]]></text>
         <url><![CDATA[https://support.microsoft.com/kb/3011099?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="Kontoeinrichtung und ‑verwaltung" refid="AccountSetupManagement"><question SortOrderOnHome="6">
+    </articlelinks></question></group><group title="Kontoeinrichtung und ‑verwaltung" refid="AccountSetupManagement"><question>
+    <id>200-000086</id>
+    <title><![CDATA[Wie wird ein Abonnement erstellt bzw. gekündigt?]]></title>
+    <description><![CDATA[Weitere Informationen erhalten Sie über die folgenden Links]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Partner Center: Erstellen, Aussetzen oder Kündigen von Kundenabonnements]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>200-000088</id>
+    <title><![CDATA[Hinzufügen der USt-IdNr meines Unternehmens]]></title>
+    <description><![CDATA[Im nachfolgenden Artikel erfahren Sie, wie Sie Ihre USt-IdNr hinzufügen.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partner Center: Organisationssteuerinformationen]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Aktualisieren von Partnerprofilen]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=200-000088]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>200-000089</id>
     <title><![CDATA[Beantragen einer CSP-Beziehung]]></title>
     <description><![CDATA[Um den Service oder das Abonnement eines Kunden in seinem Namen zu verwalten, muss der Kunde Ihnen Administratorberechtigungen für diesen Service gewähren. Weitere Informationen finden Sie in den folgenden Artikeln:]]></description>
@@ -51,7 +77,7 @@
         <text><![CDATA[Partner Center:  Entfernen einer Vertriebspartnerschaft]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
+    </articlelinks></question><question>
     <id>200-000092</id>
     <title><![CDATA[Teilnehmen am Programm für Cloud-Lösungsanbieter]]></title>
     <description><![CDATA[Weitere Informationen zur Registrierung finden Sie in den nachfolgenden Artikeln]]></description>
@@ -64,7 +90,7 @@
         <text><![CDATA[MPN-Portal: Erste Schritte]]></text>
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question>
     <id>200-000095</id>
     <title><![CDATA[Welches sind die ersten Schritte im Partner Center?]]></title>
     <description><![CDATA[Lesen Sie den nachfolgenden Artikel, um weitere Informationen zur Partner Center-Website zu erhalten.]]></description>
@@ -107,7 +133,7 @@
         <text><![CDATA[Partner Center: Partner Center-API und SDK Early Adopter-Programm beitreten]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000101</id>
     <title><![CDATA[Wie verwalte ich meine CSP-Rechnungen und Kundenabrechnung?]]></title>
     <description><![CDATA[Anhand der nachfolgenden Informationen erfahren Sie, wie Sie die Abrechnung abwickeln. ]]></description>
@@ -120,7 +146,7 @@
         <text><![CDATA[Partner Center: Verwenden der Kontenabstimmungsdateien ]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000102</id>
     <title><![CDATA[Sie sind sich nicht sicher, wo Sie Support für Partner erhalten, oder benötigen Hilfe beim Navigieren auf der Supportwebsite?]]></title>
     <description><![CDATA[Lesen Sie den Artikel über den Leitfaden zur Kontaktaufnahme mit dem Support, um Informationen zu verfügbaren Dropdowns, empfohlenen Lösungen, Supportoptionen, Feedback usw. zu erhalten.]]></description>
@@ -128,6 +154,32 @@
       <link>
         <text><![CDATA[Erhalten von Support über die Kontaktaufnahme mit dem Support für Microsoft-Partner]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4458106?tpqid=200-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000102</id>
+    <title><![CDATA[Was sind die Top-Lernpfade gefragt?]]></title>
+    <description><![CDATA[Lernpfade können Sie ausgebildet oder zertifiziert. Lernpfade markieren die Wege, die für Ihre Firma oder Organisation relevant sind. Die Learning Paths FAQ bietet Antworten auf oben gestellte Fragen zu Lernpfade.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Learning Paths – Top-FAQ-Liste]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/2964426?tpqid=100-000102]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Lernpfade für Microsoft-Partner]]></text>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Partner University]]></text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="3">
+    <id>100-000103</id>
+    <title><![CDATA[How can I download or check the Microsoft Partner Network (MPN) agreement in Partner Center?]]></title>
+    <description><![CDATA[Access below article to learn more.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[How to download the Microsoft Partner Network (MPN) agreement - Partner Center]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4488914/?tpqid=100-000103]]></url>
       </link>
     </articlelinks></question><question>
     <id>200-000029</id>
@@ -158,32 +210,6 @@
        <link>
         <text><![CDATA[Partner Center: CSP-Ankündigungen]]></text>
         <url><![CDATA[https://partnercenter.microsoft.com/pcv/announcements?tpqid=200-000083]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
-    <id>200-000086</id>
-    <title><![CDATA[Wie wird ein Abonnement erstellt bzw. gekündigt?]]></title>
-    <description><![CDATA[Weitere Informationen erhalten Sie über die folgenden Links]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Partner Center: Erstellen, Aussetzen oder Kündigen von Kundenabonnements]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>200-000088</id>
-    <title><![CDATA[Hinzufügen der USt-IdNr meines Unternehmens]]></title>
-    <description><![CDATA[Im nachfolgenden Artikel erfahren Sie, wie Sie Ihre USt-IdNr hinzufügen.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Partner Center: Organisationssteuerinformationen]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/organization-tax-info?tpqid=200-000088]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Aktualisieren von Partnerprofilen]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=200-000088]]></url>
       </link>
     </articlelinks></question></group><group title="Leistungen" refid="Benefits"><question>
     <id>300-000099</id>
@@ -255,7 +281,7 @@
         <text><![CDATA[FAQ – Microsoft Dynamics 365 für Unified Operations Internal Use Rights (IUR)]]></text>
         <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>300-000106</id>
     <title><![CDATA[Welches sind die Schritte zum Erstellen eines Benutzerkontos und zum Zuweisen von Berechtigungen?]]></title>
     <description><![CDATA[Sie können nun Benutzer den folgenden drei neuen Rollen im Partner Center zuweisen, die Ihnen das Arbeiten erleichtern: MPN-Administrator, Geschäftsprofiladministrator und Empfehlungsadministrator.]]></description>
@@ -294,7 +320,20 @@
         <text><![CDATA[Dynamics 365-Supportpläne]]></text>
         <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question SortOrderOnHome="9">
+    <id>300-000110</id>
+    <title><![CDATA[How do I activate my support contracts?]]></title>
+    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[MPN Technical Benefits Summary]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000110]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>300-000111</id>
     <title><![CDATA[Kann ich von Microsoft eine schriftliche Bestätigung meiner Partnerschaft erhalten?]]></title>
     <description><![CDATA[Ja, über den nachfolgenden Link können Sie eine schriftliche Bestätigung bezüglich Ihrer Geschäftsbeziehung/Partnerschaft mit Microsoft generieren.]]></description>
@@ -304,6 +343,19 @@
         <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000112</id>
+    <title><![CDATA[Welche Optionen gibt es beim Kauf von zusätzlichem Support? ]]></title>
+    <description><![CDATA[Über die nachfolgenden Ressourcen erhalten Sie weitere Informationen. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Advanced Support für Microsoft-Partner]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Premier Support für Microsoft-Partner]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000113</id>
     <title><![CDATA[Welche Benefits bietet das Microsoft Action Pack-Abonnement?]]></title>
     <description><![CDATA[Über die nachfolgenden Ressourcen erhalten Sie weitere Informationen.]]></description>
@@ -337,7 +389,7 @@
         <text><![CDATA[Erste Schritte mit Logo Builder]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question><question>
     <id>300-000014</id>
     <title><![CDATA[Was sind Partner-Beratungsstunden?]]></title>
     <description><![CDATA[„Unsere Kunden waren mit Problemen konfrontiert, bei denen wir ihnen nicht helfen konnten. Seit [der Teilnahme am Training] Practice Accelerator kommen wir nicht mehr in solche Situationen. Wir sparen Zeit und unsere Kunden sind zufriedener“. − Soon Man Kwon, Senior Technical Consultant, TechData.]]></description>
@@ -376,37 +428,7 @@
         <text><![CDATA[Partner Center: Umsatzsteigerung mit Empfehlungen von Microsoft]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/referrals?tpqid=300-000098]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000112</id>
-    <title><![CDATA[Welche Optionen gibt es beim Kauf von zusätzlichem Support? ]]></title>
-    <description><![CDATA[Über die nachfolgenden Ressourcen erhalten Sie weitere Informationen. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Advanced Support für Microsoft-Partner]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Premier Support für Microsoft-Partner]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
-      </link>
     </articlelinks></question></group><group title="Lizenzierung, Verkauf und Marketing" refid="LicensingSalesMarketing"><question>
-    <id>1500-000002</id>
-    <title><![CDATA[Welche Ressourcen gibt es zum besseren Verständnis der Volumenlizenzierung?]]></title>
-    <description><![CDATA[Microsoft stellt Trainings und Ressourcen zur Volumenlizenzierung bereit, damit Sie auf Preise, Angebote, Verträge, Produktaktivierung und sonstige Tools zugreifen können.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[MPN-Portal: Trainings und Ressourcen für die Volumenlizenzierung]]></text>
-        <url><![CDATA[https://partner.microsoft.com/licensing/training-and-resources?tpqid=1500-000002]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Homepage für die Lizenzierung]]></text>
-        <url><![CDATA[https://www.microsoft.com/licensing?tpqid=1500-000002]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Vorbereiten auf die Lizenzierung]]></text>
-        <url><![CDATA[https://getlicensingready.com?tpqid=1500-000002]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1500-000003</id>
     <title><![CDATA[Welche Ressourcen gibt es zu Fragen im Zusammenhang mit dem Microsoft Produkt- und Servicevertrag (Microsoft Products and Services Agreement, MPSA)?]]></title>
     <description><![CDATA[Der Microsoft Produkt- und Servicevertrag (Microsoft Products and Services Agreement, MPSA) ist ein transaktionaler Lizenzvertrag für Organisationen mit mindestens 250 Nutzern/Geräten aus den Segmenten Unternehmenskunden (Commercial), öffentliche Verwaltung (Government) sowie Forschung und Lehre (Academic). MPSA eignet sich am besten für Organisationen, die Microsoft on-premises Software, Clouddienste oder beides nach Bedarf lizenzieren möchten, und zwar unter einem einzigen, unbefristeten Vertrag ohne unternehmensweite Standardisierung. ]]></description>
@@ -495,76 +517,24 @@
         <text><![CDATA[Microsoft Readiness]]></text>
         <url><![CDATA[https://www.microsoftreadiness.com/?tpqid=1500-000001]]></url>
       </link>
-    </articlelinks></question></group><group title="Programme und Mitgliedschaft" refid="ProgramsMembership"><question>
-    <id>100-000102</id>
-    <title><![CDATA[Was sind die Top-Lernpfade gefragt?]]></title>
-    <description><![CDATA[Lernpfade können Sie ausgebildet oder zertifiziert. Lernpfade markieren die Wege, die für Ihre Firma oder Organisation relevant sind. Die Learning Paths FAQ bietet Antworten auf oben gestellte Fragen zu Lernpfade.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Learning Paths – Top-FAQ-Liste]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/2964426?tpqid=100-000102]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Lernpfade für Microsoft-Partner]]></text>
-        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Partner University]]></text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
-      </link>
     </articlelinks></question><question>
-    <id>100-0000100</id>
-    <title><![CDATA[Wie erstelle ich ein Geschäftsprofil? Gibt es einen Grenzwert bezüglich der Anzahl von Geschäftsprofilen, die ich erstellen kann? ]]></title>
-    <description><![CDATA[Sie können ein Profil für jedes Land erstellen, in dem Sie Kontakt mit Kunden wünschen. Für jedes Profil können Sie bis zu fünf Standorte hinzufügen. Ein Geschäftsprofil können Sie nur in einem Land erstellen, in dem Sie aktuell über einen physischen Standort verfügen.]]></description>
+    <id>1500-000002</id>
+    <title><![CDATA[Welche Ressourcen gibt es zum besseren Verständnis der Volumenlizenzierung?]]></title>
+    <description><![CDATA[Microsoft stellt Trainings und Ressourcen zur Volumenlizenzierung bereit, damit Sie auf Preise, Angebote, Verträge, Produktaktivierung und sonstige Tools zugreifen können.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Herunterladbarer Leitfaden zu Empfehlungen]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/build-a-business-profile-guide.pdf?tpqid=100-0000100]]></url>
+        <text><![CDATA[MPN-Portal: Trainings und Ressourcen für die Volumenlizenzierung]]></text>
+        <url><![CDATA[https://partner.microsoft.com/licensing/training-and-resources?tpqid=1500-000002]]></url>
       </link>
        <link>
-        <text><![CDATA[Erstellen eines Geschäftsprofils]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-0000101</id>
-    <title><![CDATA[Wie erhalte ich Empfehlungen? Wie werden Empfehlungen erstellt?]]></title>
-    <description><![CDATA[Um Empfehlungen zu erhalten, müssen Sie sich im ersten Schritt beim Mitgliedschaftsportal registrieren und ein Geschäftsprofil erstellen. Diese Empfehlungen können von den Kunden direkt auf Websites wie etwa Microsoft.com bzw. anderen Websites von Microsoft für das digitale Marketing oder von internen Microsoft-Vertriebsteams wie etwa Inside Sales, CSS Presales, Retail Store usw. generiert werden. Kunden und Microsoft-Verkäufer können einen geeigneten Partner für ihre Anforderungen finden. Weitere Informationen zum Erstellen eines Geschäftsprofils finden Sie im herunterladbaren Leitfaden zu Empfehlungen sowie im Artikel „Erstellen eines Geschäftsprofils“. Best Practices für die Verwaltung von Profilen und die Umsatzsteigerung mithilfe von Empfehlungen finden Sie im Artikel „Reaktion auf Empfehlungen“.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Herunterladbarer Leitfaden zu Empfehlungen]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
+        <text><![CDATA[Homepage für die Lizenzierung]]></text>
+        <url><![CDATA[https://www.microsoft.com/licensing?tpqid=1500-000002]]></url>
       </link>
        <link>
-        <text><![CDATA[Erstellen eines Geschäftsprofils]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000101]]></url>
+        <text><![CDATA[Vorbereiten auf die Lizenzierung]]></text>
+        <url><![CDATA[https://getlicensingready.com?tpqid=1500-000002]]></url>
       </link>
-       <link>
-        <text><![CDATA[Reaktion auf Empfehlungen]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/responding-to-referrals?tpqid=100-0000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-0000102</id>
-    <title><![CDATA[Wie funktioniert die Kundensuche? ]]></title>
-    <description><![CDATA[Vom Kunden eingegebene Schlüsselwörter werden mit vom Partner deklarierten Geschäftsprofilen abgeglichen, wodurch eine kürzere Liste von Partnern erstellt wird. Kunden können mithilfe von Filtern die zur Verfügung stehenden Partner basierend auf dem Standort und der Unternehmensgröße eingrenzen. Die Kategorie „Best Match“ (Höchste Übereinstimmung) verwendet Kompetenzen und Eingaben von Microsoft-Mitarbeitern zur Auswahl von Partnern. Die Kategorie „Most Responsive“ (Beste Reaktion) verwendet Daten aus Antworten von Partnern beim Empfehlungsmanagement für die Auswahl von Partnern. Die Kategorie „Nearest to You“ (Nächstgelegen) berücksichtigt die Entfernung des Partners anhand des vom Kunden eingegebenen Standorts für die Auswahl von Partnern. Die Suchfunktion finden Sie auf der Seite zur Suche nach Lösungsanbietern.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Suche nach Lösungsanbietern]]></text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-0000103</id>
-    <title><![CDATA[Was sind Endorsements? Wie erhalte ich Endorsements?]]></title>
-    <description><![CDATA[Endorsements nutzen die Kenntnisse von Microsoft bezüglich der Partnererfahrung basierend auf bestehenden Projekten und Programmen. Endorsements werden mithilfe eines Tags im Partnerprofil implementiert.  Endorsement-Tags sind Übergangsmesswerte, wenn noch keine erweiterten Spezialisierungen verfügbar sind, um die Partner zu identifizieren, die am ehesten in der Lage sind, Services und Lösungen entsprechend den Kundenanforderungen anzubieten. Im 1. Quartal des Geschäftsjahres 2019 wird ein Prozess implementiert, um weitere Aktualisierungen an Endorsements vorzunehmen. Mithilfe dieses Prozesses können Sie vorhandene Endorsements auswerten und das Hinzufügen neuer Endorsements überwachen. Bis dahin werden keine Aktualisierungen an Endorsements vorgenommen. Weitere Informationen finden Sie auf der Partnermitgliedschafts-Website und im folgenden Artikel mit Details zu neuen Chancen für die Partnerschaft mit Microsoft.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Partnermitgliedschaft]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/whats-new?tpqid=100-0000103]]></url>
-      </link>
-       <link>
-        <text><![CDATA[New opportunities for partnering with Microsoft]]></text>
-        <url><![CDATA[https://blogs.partner.microsoft.com/mpn/new-opportunities-partnering-microsoft-partner-network/?tpqid=100-0000103]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question></group><group title="Programme und Mitgliedschaft" refid="ProgramsMembership"><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title><![CDATA[Wie verlängere ich meine MPN-Mitgliedschaft?]]></title>
     <description><![CDATA[Hier erfahren Sie, wann Sie Ihre Mitgliedschaft erneuern sollten, wie Sie dazu vorgehen, welche Chancen das Netzwerk für Sie bereithält u. v. a.]]></description>
@@ -666,7 +636,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Registrieren Sie sich, um aktuelle Informationen dazu zu erhalten, wie Sie Microsoft Surface Hub ADR oder Installer werden.]]></text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title><![CDATA[Wie kann ich die Endabrechnung für die MAPS- und Kompetenzgebühr ausdrucken oder herunterladen?]]></title>
     <description><![CDATA[Im nachfolgenden Artikel erhalten Sie Informationen zum Drucken von Schlussrechnungen]]></description>
@@ -679,7 +649,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Action Pack-Rechnung herunterladen]]></text>
         <url><![CDATA[https://docs.microsoft.com/de-de/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question SortOrderOnHome="10">
     <id>100-000082</id>
     <title><![CDATA[Welche Anforderungen zum Verlängern meiner Kompetenzen sind nicht erfüllt?]]></title>
     <description><![CDATA[Partner können die Liste der Kompetenzanforderungen im Partner Membership Center überprüfen. Zeigen Sie mit der Maus auf „Programmguthaben“, und wählen Sie „Kompetenzübersicht“ aus. Partner können auch im MPN-Portal die Liste der Kompetenzen und deren Anforderungen anzeigen]]></description>
@@ -705,7 +675,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Hilfe vom RSC zum Microsoft Partner Network]]></text>
         <url><![CDATA[https://support.microsoft.com/kb/3202548?tpqid=100-000085]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>100-000092</id>
     <title><![CDATA[Verknüpfen des Geschäftskontos meiner Organisation mit meinem neuen Partner Center-Konto]]></title>
     <description><![CDATA[Wenn Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie während des Registrierungsvorgangs ein kostenloses Geschäftskonto erstellen. Wenn Sie ein vorhandenes Geschäftskonto verwenden möchten, aber Probleme beim Anmelden haben, sollten Sie die folgenden Artikel lesen:]]></description>
@@ -762,7 +732,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Verwalten Ihres Partner-Dashboard-Kontos]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>100-000100</id>
     <title><![CDATA[Wie wird das Onboarding als Indirect Reseller durchgeführt?]]></title>
     <description><![CDATA[Über den nachfolgenden Link erfahren Sie, wie Sie sich für das Cloud Solution Provider-Programm registrieren.]]></description>
@@ -771,7 +741,68 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Registrieren für das Cloud Solution Provider-Programm]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question></group><group title="Technischer Support (Produkte, Plattformen und Tools)" refid="TechnicalSupport"><question SortOrderOnHome="5">
+    </articlelinks></question><question>
+    <id>100-0000100</id>
+    <title><![CDATA[Wie erstelle ich ein Geschäftsprofil? Gibt es einen Grenzwert bezüglich der Anzahl von Geschäftsprofilen, die ich erstellen kann? ]]></title>
+    <description><![CDATA[Sie können ein Profil für jedes Land erstellen, in dem Sie Kontakt mit Kunden wünschen. Für jedes Profil können Sie bis zu fünf Standorte hinzufügen. Ein Geschäftsprofil können Sie nur in einem Land erstellen, in dem Sie aktuell über einen physischen Standort verfügen.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Herunterladbarer Leitfaden zu Empfehlungen]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/build-a-business-profile-guide.pdf?tpqid=100-0000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Erstellen eines Geschäftsprofils]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-0000101</id>
+    <title><![CDATA[Wie erhalte ich Empfehlungen? Wie werden Empfehlungen erstellt?]]></title>
+    <description><![CDATA[Um Empfehlungen zu erhalten, müssen Sie sich im ersten Schritt beim Mitgliedschaftsportal registrieren und ein Geschäftsprofil erstellen. Diese Empfehlungen können von den Kunden direkt auf Websites wie etwa Microsoft.com bzw. anderen Websites von Microsoft für das digitale Marketing oder von internen Microsoft-Vertriebsteams wie etwa Inside Sales, CSS Presales, Retail Store usw. generiert werden. Kunden und Microsoft-Verkäufer können einen geeigneten Partner für ihre Anforderungen finden. Weitere Informationen zum Erstellen eines Geschäftsprofils finden Sie im herunterladbaren Leitfaden zu Empfehlungen sowie im Artikel „Erstellen eines Geschäftsprofils“. Best Practices für die Verwaltung von Profilen und die Umsatzsteigerung mithilfe von Empfehlungen finden Sie im Artikel „Reaktion auf Empfehlungen“.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Herunterladbarer Leitfaden zu Empfehlungen]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Erstellen eines Geschäftsprofils]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Reaktion auf Empfehlungen]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/responding-to-referrals?tpqid=100-0000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-0000102</id>
+    <title><![CDATA[Wie funktioniert die Kundensuche? ]]></title>
+    <description><![CDATA[Vom Kunden eingegebene Schlüsselwörter werden mit vom Partner deklarierten Geschäftsprofilen abgeglichen, wodurch eine kürzere Liste von Partnern erstellt wird. Kunden können mithilfe von Filtern die zur Verfügung stehenden Partner basierend auf dem Standort und der Unternehmensgröße eingrenzen. Die Kategorie „Best Match“ (Höchste Übereinstimmung) verwendet Kompetenzen und Eingaben von Microsoft-Mitarbeitern zur Auswahl von Partnern. Die Kategorie „Most Responsive“ (Beste Reaktion) verwendet Daten aus Antworten von Partnern beim Empfehlungsmanagement für die Auswahl von Partnern. Die Kategorie „Nearest to You“ (Nächstgelegen) berücksichtigt die Entfernung des Partners anhand des vom Kunden eingegebenen Standorts für die Auswahl von Partnern. Die Suchfunktion finden Sie auf der Seite zur Suche nach Lösungsanbietern.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Suche nach Lösungsanbietern]]></text>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-0000103</id>
+    <title><![CDATA[Was sind Endorsements? Wie erhalte ich Endorsements?]]></title>
+    <description><![CDATA[Endorsements nutzen die Kenntnisse von Microsoft bezüglich der Partnererfahrung basierend auf bestehenden Projekten und Programmen. Endorsements werden mithilfe eines Tags im Partnerprofil implementiert.  Endorsement-Tags sind Übergangsmesswerte, wenn noch keine erweiterten Spezialisierungen verfügbar sind, um die Partner zu identifizieren, die am ehesten in der Lage sind, Services und Lösungen entsprechend den Kundenanforderungen anzubieten. Im 1. Quartal des Geschäftsjahres 2019 wird ein Prozess implementiert, um weitere Aktualisierungen an Endorsements vorzunehmen. Mithilfe dieses Prozesses können Sie vorhandene Endorsements auswerten und das Hinzufügen neuer Endorsements überwachen. Bis dahin werden keine Aktualisierungen an Endorsements vorgenommen. Weitere Informationen finden Sie auf der Partnermitgliedschafts-Website und im folgenden Artikel mit Details zu neuen Chancen für die Partnerschaft mit Microsoft.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partnermitgliedschaft]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/whats-new?tpqid=100-0000103]]></url>
+      </link>
+       <link>
+        <text><![CDATA[New opportunities for partnering with Microsoft]]></text>
+        <url><![CDATA[https://blogs.partner.microsoft.com/mpn/new-opportunities-partnering-microsoft-partner-network/?tpqid=100-0000103]]></url>
+      </link>
+    </articlelinks></question></group><group title="Technischer Support (Produkte, Plattformen und Tools)" refid="TechnicalSupport"><question>
+    <id>700-000001</id>
+    <title><![CDATA[Wo finde ich Hilfe zu Problemen oder Fragen im Zusammenhang mit Dynamics-Produkten?]]></title>
+    <description><![CDATA[Geben Sie über PartnerSource eine Serviceanfrage ein. Hierzu können Sie den Abschnitt zu Preisen und Bestellungen der Website besuchen und „New Operations Request“ auswählen. Geben Sie im Rahmen der Anfrage eine IT-Nummer an, oder chatten Sie direkt mit einem unserer Mitarbeiter. Wenn Ihre Anfrage nicht zu Ihrer Zufriedenheit beantwortet wird, senden Sie uns eine E-Mail unter Angabe von „Dynamics Escalation“ und der IT-Nummer im Nachrichtentext.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Dynamics PartnerSource]]></text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>700-000002</id>
     <title><![CDATA[Wie erstelle ich Supportanfragen für Office 365, Microsoft Azure oder Microsoft Dynamics 365 für meine Organisation oder im Auftrag eines Kunden?]]></title>
     <description><![CDATA[Produktsupportanfragen können über jedes dieser Portale übermittelt werden.]]></description>
@@ -805,29 +836,7 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Office 365-Community]]></text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>700-000001</id>
-    <title><![CDATA[Wo finde ich Hilfe zu Problemen oder Fragen im Zusammenhang mit Dynamics-Produkten?]]></title>
-    <description><![CDATA[Geben Sie über PartnerSource eine Serviceanfrage ein. Hierzu können Sie den Abschnitt zu Preisen und Bestellungen der Website besuchen und „New Operations Request“ auswählen. Geben Sie im Rahmen der Anfrage eine IT-Nummer an, oder chatten Sie direkt mit einem unserer Mitarbeiter. Wenn Ihre Anfrage nicht zu Ihrer Zufriedenheit beantwortet wird, senden Sie uns eine E-Mail unter Angabe von „Dynamics Escalation“ und der IT-Nummer im Nachrichtentext.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Dynamics PartnerSource]]></text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
-      </link>
     </articlelinks></question></group><group title="Technischer Vorverkauf, Bereitstellung und Anwendungsentwicklung" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000112</id>
-    <title><![CDATA[Was ist ein technischer Erkundungstrip? Warum spielt dies für meine Partnerorganisation eine wichtige Rolle?]]></title>
-    <description><![CDATA[Mithilfe technischer Erkundungstrips können Sie Ihre technischen Kompetenzen schneller entwickeln, um den Umsatz, die Bereitstellungen und die Anwendungsentwicklung zu beschleunigen. Starten Sie Ihren technischen Erkundungstrip, um in Form von empfohlenen interaktiven Technikwebinaren und Einzelberatungsgesprächen mit virtuellen Whiteboards, Architekturanalysen und nachgestellten realistischen Szenarien technische Beratung von Microsoft Partner Technical Consultants zu erhalten. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Technischen Erkundungstrip starten]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Blog lesen]]></text>
-        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000113</id>
     <title><![CDATA[Wie interagiere ich während des technischen Erkundungstrips mit Microsoft Partner Technical Consultants?]]></title>
     <description><![CDATA[Weitere Informationen zu den Optionen für technisches Engagement]]></description>
@@ -870,7 +879,33 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <text><![CDATA[Unterstützte Produkte und Szenarien]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title><![CDATA[Was ist ein technischer Erkundungstrip? Warum spielt dies für meine Partnerorganisation eine wichtige Rolle?]]></title>
+    <description><![CDATA[Mithilfe technischer Erkundungstrips können Sie Ihre technischen Kompetenzen schneller entwickeln, um den Umsatz, die Bereitstellungen und die Anwendungsentwicklung zu beschleunigen. Starten Sie Ihren technischen Erkundungstrip, um in Form von empfohlenen interaktiven Technikwebinaren und Einzelberatungsgesprächen mit virtuellen Whiteboards, Architekturanalysen und nachgestellten realistischen Szenarien technische Beratung von Microsoft Partner Technical Consultants zu erhalten. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Technischen Erkundungstrip starten]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Blog lesen]]></text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
+      </link>
     </articlelinks></question></group><group title="Vereinbarungen, Bestellungen und Abonnementverwaltung" refid="AgreementsOrdersSubscriptions"><question>
+    <id>800-000032</id>
+    <title><![CDATA[Wie erhalte ich über das Microsoft Partner Network die Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3)?]]></title>
+    <description><![CDATA[Verschaffen Sie sich einen Überblick über die Microsoft Partner Network-Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3).]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Erhalten der Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3) über Microsoft Partner Network]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Wie man Office 365 (E3) Lizenzen für den internen Gebrauch aktiviert und zuordnet. ]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>800-000036</id>
     <title><![CDATA[Wie aktiviere ich mein Visual Studio Online-Abonnement?]]></title>
     <description><![CDATA[Mit einem Visual Studio Online-Abonnement erhalten Sie Zugriff auf die Tools, Plattformen und Leistungen, die Sie zum Testen und zur erfolgreichen Entwicklung Ihrer Applikation benötigen. Schauen Sie sich den unten angeführten Artikel an und folgen den angegebenen Schritten.]]></description>
@@ -935,18 +970,5 @@ Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen b
        <link>
         <text><![CDATA[Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>800-000032</id>
-    <title><![CDATA[Wie erhalte ich über das Microsoft Partner Network die Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3)?]]></title>
-    <description><![CDATA[Verschaffen Sie sich einen Überblick über die Microsoft Partner Network-Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3).]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Erhalten der Vorteilsleistungen der internen Nutzungsrechte für Office 365 (E3) über Microsoft Partner Network]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/2996518?tpqid=800-000032]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Wie man Office 365 (E3) Lizenzen für den internen Gebrauch aktiviert und zuordnet. ]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
     </articlelinks></question></group></groups>

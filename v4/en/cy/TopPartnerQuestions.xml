@@ -54,7 +54,7 @@
         <text><![CDATA[Update your partner profile]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/update-your-partner-profile?tpqid=200-000088]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>200-000089</id>
     <title><![CDATA[How to request a CSP relationship?]]></title>
     <description><![CDATA[To manage a customers service or subscription on their behalf, the customer must grant you administrator permissions for that service. Read more information in the following articles:]]></description>
@@ -136,7 +136,7 @@
         <text><![CDATA[Partner Center: Use the reconciliations files ]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="2">
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>200-000102</id>
     <title><![CDATA[Unsure where to get partner support or need help navigating the support experience?]]></title>
     <description><![CDATA[Review the experience in the Contact Support Guidance article to learn about the available drop downs, recommended solutions, support options, feedback and more.]]></description>
@@ -158,7 +158,7 @@
         <text><![CDATA[How to activate and assign Office 365 (E3) internal-use rights licenses]]></text>
         <url><![CDATA[https://support.microsoft.com/kb/3007588?tpqid=800-000032]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>800-000036</id>
     <title><![CDATA[How do I activate my Visual Studio subscription?]]></title>
     <description><![CDATA[With a Visual Studio subscription, you can get the tools, platforms, and services you need to successfully develop and test your applications. Review the article below to learn how to activate your subscription.]]></description>
@@ -226,6 +226,154 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits?tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
+    <id>300-000100</id>
+    <title><![CDATA[How do I qualify for Technical/Product Support?]]></title>
+    <description><![CDATA[Review the Core Benefits and Requirements and MPN Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partner Portal: Core Benefits and Requirement]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[MPN Technical Benefits Summary]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title><![CDATA[How do I submit a Technical/Professional Support Incident?]]></title>
+    <description><![CDATA[Review the MPN Technical Benefits Summary to validate your company is eligible for technical support.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[MPN Technical Benefits Summary]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Steps on how to create Support Incident]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000102</id>
+    <title><![CDATA[What are the benefits in attaining a competency?]]></title>
+    <description><![CDATA[Please review the following links for more information]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partner Portal: Competency Overview]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Partner Center: Competencies]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[How to create on-premises professional support incidents using an Access ID and a Contract ID?]]></title>
+    <description><![CDATA[See the article below to learn how to create on-premises professional support incidents using an Access ID and a Contract ID.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Using an Access ID and a Contract ID to create on-premises professional support incidents]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000105</id>
+    <title><![CDATA[Who qualifies and where can I get Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)?]]></title>
+    <description><![CDATA[Partners who meet performance criteria for Cloud Business Applications Competency and currently have ERP competency. Read the article below to see the frequent asked questions and to learn more about this IUR ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[FAQ - Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="6">
+    <id>300-000106</id>
+    <title><![CDATA[What are the steps to create a user account and assign permission?]]></title>
+    <description><![CDATA[You have the ability to assign users to three new roles in Partner Center that will help you manage your business, MPN admin, Business profile admin, and Referral admin.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partner Center: Create user accounts and assign permissions]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Partner Center: Manage your Partner Center account]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000107</id>
+    <title><![CDATA[Where can I find more information about paid support offerings available for Microsoft Partners?]]></title>
+    <description><![CDATA[For a comparison of Partners specific support plans, please access below link.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Partner Support Offerings]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000108</id>
+    <title><![CDATA[Where can I find Customer or Partner paid support plans?]]></title>
+    <description><![CDATA[Depending on the product specific or business, please access below links.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Business, IT and Developer Support]]></text>
+        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Azure Support Plans]]></text>
+        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Dynamics 365 Support Plans]]></text>
+        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="9">
+    <id>300-000110</id>
+    <title><![CDATA[How do I activate my support contracts?]]></title>
+    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[MPN Technical Benefits Summary]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000110]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>300-000111</id>
+    <title><![CDATA[Can I get a certified letter from Microsoft that confirms my partnership?]]></title>
+    <description><![CDATA[Yes, you can access below link to create a certified letter that denotes your relationship/partnership with Microsoft.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Logo Builder (Sign-in required)]]></text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000112</id>
+    <title><![CDATA[If I want to purchase additional support, what are my options?]]></title>
+    <description><![CDATA[Check below resources to learn more.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Advanced Support for Microsoft Partners]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Premier Support for Microsoft Partners]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>300-000113</id>
+    <title><![CDATA[What benefits do I get with Microsoft Action Pack subscription?]]></title>
+    <description><![CDATA[Check below resources to learn more.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Buy for the first time or renew a Microsoft Action Pack subscription]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Action Pack subscription program FAQ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[MPN Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000004</id>
     <title><![CDATA[How can I build my competency logo?]]></title>
     <description><![CDATA[You can easily build your competency logo by accessing below links:]]></description>
@@ -242,7 +390,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text><![CDATA[Get started with Logo Builder]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question><question>
     <id>300-000014</id>
     <title><![CDATA[What are partner advisory hours?]]></title>
     <description><![CDATA[Partner advisory hours are the currency used to access certain services offered to partners. Use your hours to build your skills and get customized guidance for deploying solutions.]]></description>
@@ -302,154 +450,6 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text><![CDATA[Visual Studio Support]]></text>
         <url><![CDATA[https://www.visualstudio.com/support/?tpqid=300-000099]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000100</id>
-    <title><![CDATA[How do I qualify for Technical/Product Support?]]></title>
-    <description><![CDATA[Review the Core Benefits and Requirements and MPN Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Partner Portal: Core Benefits and Requirement]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
-      </link>
-       <link>
-        <text><![CDATA[MPN Technical Benefits Summary]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000100]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000101</id>
-    <title><![CDATA[How do I submit a Technical/Professional Support Incident?]]></title>
-    <description><![CDATA[Review the MPN Technical Benefits Summary to validate your company is eligible for technical support.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[MPN Technical Benefits Summary]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000101]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Steps on how to create Support Incident]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000102</id>
-    <title><![CDATA[What are the benefits in attaining a competency?]]></title>
-    <description><![CDATA[Please review the following links for more information]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Partner Portal: Competency Overview]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=300-000102]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Partner Center: Competencies]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000104</id>
-    <title><![CDATA[How to create on-premises professional support incidents using an Access ID and a Contract ID?]]></title>
-    <description><![CDATA[See the article below to learn how to create on-premises professional support incidents using an Access ID and a Contract ID.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Using an Access ID and a Contract ID to create on-premises professional support incidents]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/3020636?tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000105</id>
-    <title><![CDATA[Who qualifies and where can I get Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)?]]></title>
-    <description><![CDATA[Partners who meet performance criteria for Cloud Business Applications Competency and currently have ERP competency. Read the article below to see the frequent asked questions and to learn more about this IUR ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[FAQ - Microsoft Dynamics 365 for Unified Operations Internal Use Rights (IUR)]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/4052881?tpqid=300-000105]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000106</id>
-    <title><![CDATA[What are the steps to create a user account and assign permission?]]></title>
-    <description><![CDATA[You have the ability to assign users to three new roles in Partner Center that will help you manage your business, MPN admin, Business profile admin, and Referral admin.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Partner Center: Create user accounts and assign permissions]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions?tpqid=300-000106]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Partner Center: Manage your Partner Center account]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=300-000106]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000107</id>
-    <title><![CDATA[Where can I find more information about paid support offerings available for Microsoft Partners?]]></title>
-    <description><![CDATA[For a comparison of Partners specific support plans, please access below link.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Microsoft Partner Support Offerings]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000108</id>
-    <title><![CDATA[Where can I find Customer or Partner paid support plans?]]></title>
-    <description><![CDATA[Depending on the product specific or business, please access below links.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Business, IT and Developer Support]]></text>
-        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Azure Support Plans]]></text>
-        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Dynamics 365 Support Plans]]></text>
-        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="10">
-    <id>300-000110</id>
-    <title><![CDATA[How do I activate my support contracts?]]></title>
-    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[MPN Technical Benefits Summary]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/2987884?tpqid=300-000110]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents ]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="4">
-    <id>300-000111</id>
-    <title><![CDATA[Can I get a certified letter from Microsoft that confirms my partnership?]]></title>
-    <description><![CDATA[Yes, you can access below link to create a certified letter that denotes your relationship/partnership with Microsoft.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Logo Builder (Sign-in required)]]></text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000112</id>
-    <title><![CDATA[If I want to purchase additional support, what are my options?]]></title>
-    <description><![CDATA[Check below resources to learn more.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Advanced Support for Microsoft Partners]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Premier Support for Microsoft Partners]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000113</id>
-    <title><![CDATA[What benefits do I get with Microsoft Action Pack subscription?]]></title>
-    <description><![CDATA[Check below resources to learn more.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Buy for the first time or renew a Microsoft Action Pack subscription]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Action Pack subscription program FAQ]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[MPN Benefit Package Usage Guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
-      </link>
     </articlelinks></question></group><group title="Incentives and Payouts" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
     <title><![CDATA[Where can I get support or find more information about Incentives and Payouts? ]]></title>
@@ -491,6 +491,43 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
     </articlelinks></question></group><group title="Licensing, Sales and Marketing" refid="LicensingSalesMarketing"><question>
+    <id>1500-000009</id>
+    <title><![CDATA[When are partners empowered to receive new keys for On-Premise products? ]]></title>
+    <description><![CDATA[Please note that the on-premises keys have a finite number of activations. Partners are empowered to receive new keys only if there has been launched a new version of the product. If not, partners will not receive additional activations even if they already consumed them and paid for a new year of re-enrollment. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partner Portal: Partner Network software licensing benefits FAQ  ]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title><![CDATA[Can I use my granted licenses for training purpose?]]></title>
+    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[MPN Benefit Package Usage Guide ]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title><![CDATA[Are my online tokens activated automatically once I renew my Action Pack subscription/competency?]]></title>
+    <description><![CDATA[When you renew a subscription or re-enroll in the Action Pack subscription/program with a competency, a new set of tokens will be issued based on the organization’s entitlement at the time of re-enrollment.
+Partner program administrators are required to activate the tokens to avoid a lapse in cloud services. These tokens are not activated automatically. They can be activated when you want to, but take into consideration the compliance perspective. After Action Pack/ Competency expires, you will not have a license for the particular benefit, even if the tokens are still active.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[MPN Benefit Package Usage Guide ]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1500-000001</id>
+    <title><![CDATA[Where can I find readiness and training necessary to manage my relationship with Microsoft?]]></title>
+    <description><![CDATA[The Microsoft Readiness portal is the best way to easily find operational readiness and training resources that will provide change and launch information for programs, policies, processes, and tools (includes Commercial, OEM, ADD, CFPP since CSP is on Partner Center)]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Readiness]]></text>
+        <url><![CDATA[https://www.microsoftreadiness.com/?tpqid=1500-000001]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1500-000002</id>
     <title><![CDATA[What resources are available to help me understand Volume Licensing?]]></title>
     <description><![CDATA[Microsoft provides Volume Licensing training and resources to help you access pricing, quotes, agreements, product activation, and other tools.]]></description>
@@ -560,70 +597,7 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
         <text><![CDATA[Partner licensing questions – quick reference guide]]></text>
         <url><![CDATA[https://support.microsoft.com/kb/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1500-000009</id>
-    <title><![CDATA[When are partners empowered to receive new keys for On-Premise products? ]]></title>
-    <description><![CDATA[Please note that the on-premises keys have a finite number of activations. Partners are empowered to receive new keys only if there has been launched a new version of the product. If not, partners will not receive additional activations even if they already consumed them and paid for a new year of re-enrollment. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Partner Portal: Partner Network software licensing benefits FAQ  ]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000010</id>
-    <title><![CDATA[Can I use my granted licenses for training purpose?]]></title>
-    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[MPN Benefit Package Usage Guide ]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000011</id>
-    <title><![CDATA[Are my online tokens activated automatically once I renew my Action Pack subscription/competency?]]></title>
-    <description><![CDATA[When you renew a subscription or re-enroll in the Action Pack subscription/program with a competency, a new set of tokens will be issued based on the organization’s entitlement at the time of re-enrollment.
-Partner program administrators are required to activate the tokens to avoid a lapse in cloud services. These tokens are not activated automatically. They can be activated when you want to, but take into consideration the compliance perspective. After Action Pack/ Competency expires, you will not have a license for the particular benefit, even if the tokens are still active.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[MPN Benefit Package Usage Guide ]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000001</id>
-    <title><![CDATA[Where can I find readiness and training necessary to manage my relationship with Microsoft?]]></title>
-    <description><![CDATA[The Microsoft Readiness portal is the best way to easily find operational readiness and training resources that will provide change and launch information for programs, policies, processes, and tools (includes Commercial, OEM, ADD, CFPP since CSP is on Partner Center)]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Microsoft Readiness]]></text>
-        <url><![CDATA[https://www.microsoftreadiness.com/?tpqid=1500-000001]]></url>
-      </link>
     </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
-    <id>100-0000101</id>
-    <title><![CDATA[How can I receive referrals? How are referrals created?]]></title>
-    <description><![CDATA[As the first step to getting referrals, you need to enroll in the membership portal and create a business profile. These referrals can be generated directly by the customers on sites such as Microsoft.com or other marketing digital properties within Microsoft, or any of Microsoft’s internal sales teams like Inside Sales, CSS Presales, Retail Store, etc. Customers and Microsoft sellers can find the right partner for their needs. More information on the creation of business profile can be found in the Referrals how-to downloadable guide as well as the Create a Business Profile article. Best practices for managing profiles and growing your business with referrals can be found in the Responding to Referrals article.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Referrals how-to downloadable guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Create a Business Profile]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000101]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Responding to Referrals]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/responding-to-referrals?tpqid=100-0000101]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-0000102</id>
-    <title><![CDATA[How does customer search work? ]]></title>
-    <description><![CDATA[Customer-entered keywords are matched with partner declared business profiles creating a shorter list of partners. Customers can use filters to narrow down their choices of partner based on location and customer size. Best Match category uses competencies and input from Microsoft individuals to surface partners. Most Responsive category uses data on partner responses in referral management experience to surface partners. Nearest to You category takes partner proximity from customer entered location into account to surface partners. The search function can be found on the Solution Provider Search page.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Solution Provider Search]]></text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-0000103</id>
     <title><![CDATA[What are endorsements? How can I get endorsed?]]></title>
     <description><![CDATA[Endorsements use Microsoft’s knowledge of partner expertise based on existing engagements & programs. Endorsements are implemented via a tag against the partner’s profile.  Endorsement tags are an interim measure used where advanced specializations are not yet available to identify the partners most able to provide services and solutions to meet customer need. A process is being put in place in FY19 Q1 timeframe to make any further updates to endorsements. This process will be used to evaluate existing endorsements and oversee addition of new endorsements. Until then, no updates will be made to endorsements. More information can be found on the Partner Membership site and the following article detailing new opportunities for partnering with Microsoft.]]></description>
@@ -636,7 +610,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[New opportunities for partnering with Microsoft]]></text>
         <url><![CDATA[https://blogs.partner.microsoft.com/mpn/new-opportunities-partnering-microsoft-partner-network/?tpqid=100-0000103]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title><![CDATA[How do I renew my MPN membership?]]></title>
     <description><![CDATA[Learn how to determine when you should renew your membership, how to renew, opportunities in the network, and more.]]></description>
@@ -744,7 +718,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Download your Action Pack invoice]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question SortOrderOnHome="10">
     <id>100-000082</id>
     <title><![CDATA[What are my missing requirements to renew my competencies?]]></title>
     <description><![CDATA[Partners can review the list of competency requirements on the Partner Membership Center. Hover over to Requirements and Assets and select Competency Summary. Partners can also view the list of competencies and its requirements on the Partner Portal.]]></description>
@@ -827,7 +801,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Manage your Partner Center account]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>100-000100</id>
     <title><![CDATA[How can I onboard as an Indirect Reseller?]]></title>
     <description><![CDATA[Access below link to learn how you can enroll in the Cloud Solution provider program. ]]></description>
@@ -853,6 +827,15 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Partner University]]></text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="3">
+    <id>100-000103</id>
+    <title><![CDATA[How can I download or check the Microsoft Partner Network (MPN) agreement in Partner Center?]]></title>
+    <description><![CDATA[Access below article to learn more.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[How to download the Microsoft Partner Network (MPN) agreement - Partner Center]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4488914/?tpqid=100-000103]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-0000100</id>
     <title><![CDATA[How do I create my business profile? Is there a limit on how many business profiles I can create? ]]></title>
@@ -866,7 +849,59 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Create a Business Profile]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000100]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>100-0000101</id>
+    <title><![CDATA[How can I receive referrals? How are referrals created?]]></title>
+    <description><![CDATA[As the first step to getting referrals, you need to enroll in the membership portal and create a business profile. These referrals can be generated directly by the customers on sites such as Microsoft.com or other marketing digital properties within Microsoft, or any of Microsoft’s internal sales teams like Inside Sales, CSS Presales, Retail Store, etc. Customers and Microsoft sellers can find the right partner for their needs. More information on the creation of business profile can be found in the Referrals how-to downloadable guide as well as the Create a Business Profile article. Best practices for managing profiles and growing your business with referrals can be found in the Responding to Referrals article.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Referrals how-to downloadable guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Create a Business Profile]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Responding to Referrals]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/responding-to-referrals?tpqid=100-0000101]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-0000102</id>
+    <title><![CDATA[How does customer search work? ]]></title>
+    <description><![CDATA[Customer-entered keywords are matched with partner declared business profiles creating a shorter list of partners. Customers can use filters to narrow down their choices of partner based on location and customer size. Best Match category uses competencies and input from Microsoft individuals to surface partners. Most Responsive category uses data on partner responses in referral management experience to surface partners. Nearest to You category takes partner proximity from customer entered location into account to surface partners. The search function can be found on the Solution Provider Search page.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Solution Provider Search]]></text>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
+      </link>
     </articlelinks></question></group><group title="Technical Presales, Deployment, App Development" refid="TechnicalPresalesAppDev"><question>
+    <id>1400-000115</id>
+    <title><![CDATA[Does Microsoft help partners with technical presales, deployment, migration, or app development types of scenarios?]]></title>
+    <description><![CDATA[Yes. As part of your Microsoft partner network benefits, you receive access to Microsoft Partner Technical Consultants that will provide you best practice guidance, and the consultants will provide you with a recommended path (called a technical journey) of how to best build your technical capabilities for these scenarios.  ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Using Technical Presales and Deployment Services benefits]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3121537?tpqid=1400-000115]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Supported products and scenarios]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title><![CDATA[What is a technical journey? Why is it important to my partner organization?]]></title>
+    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Start your technical journey]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Read blog]]></text>
+        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1400-000113</id>
     <title><![CDATA[How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?]]></title>
     <description><![CDATA[Learn more about technical engagement options]]></description>
@@ -896,50 +931,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Start your technical journey]]></text>
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1400-000115</id>
-    <title><![CDATA[Does Microsoft help partners with technical presales, deployment, migration, or app development types of scenarios?]]></title>
-    <description><![CDATA[Yes. As part of your Microsoft partner network benefits, you receive access to Microsoft Partner Technical Consultants that will provide you best practice guidance, and the consultants will provide you with a recommended path (called a technical journey) of how to best build your technical capabilities for these scenarios.  ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Using Technical Presales and Deployment Services benefits]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3121537?tpqid=1400-000115]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Supported products and scenarios]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000112</id>
-    <title><![CDATA[What is a technical journey? Why is it important to my partner organization?]]></title>
-    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Start your technical journey]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Read blog]]></text>
-        <url><![CDATA[https://www.microsoftpartnercommunity.com/t5/Partnership-101/How-do-I-build-my-technical-capabilities-faster/td-p/3076?tpqid=1400-000112]]></url>
-      </link>
-    </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="TechnicalSupport"><question SortOrderOnHome="5">
-    <id>700-000002</id>
-    <title><![CDATA[How do I create Support Requests for Office 365, Microsoft Azure, or Microsoft Dynamics 365, for either for my organization or on behalf of a customer?]]></title>
-    <description><![CDATA[Product support requests can be submitted from each of these portals.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Office 365 Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Azure Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000002]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Dynamics 365 Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="TechnicalSupport"><question>
     <id>700-000003</id>
     <title><![CDATA[Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?]]></title>
     <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
@@ -964,5 +956,22 @@ Partner program administrators are required to activate the tokens to avoid a la
       <link>
         <text><![CDATA[Dynamics PartnerSource]]></text>
         <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000002</id>
+    <title><![CDATA[How do I create Support Requests for Office 365, Microsoft Azure, or Microsoft Dynamics 365, for either for my organization or on behalf of a customer?]]></title>
+    <description><![CDATA[Product support requests can be submitted from each of these portals.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Office 365 Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Azure Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000002]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Dynamics 365 Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
     </articlelinks></question></group></groups>
