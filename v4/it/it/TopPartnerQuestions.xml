@@ -424,20 +424,23 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text><![CDATA[Guida all'uso dei pacchetti di vantaggi Microsoft Partner Network ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
-    </articlelinks></question></group><group title="Programmi e adesione" refid="ProgramsMembership"><question SortOrderOnHome="10">
-    <id>100-000082</id>
-    <title><![CDATA[Quali requisiti mi mancano per rinnovare le mie competenze?]]></title>
-    <description><![CDATA[I partner possono consultare l'elenco dei requisiti relativi alle competenze nel Partner Membership Center. Spostare il mouse su Requirements e Assets (Requisiti e risorse) e selezionare Competency Summary (Riepilogo competenze). I partner possono consultare l'elenco delle competenze e i requisiti relativi anche nel portale MPN.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000012</id>
+    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
+    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
+In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
+Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
+If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Competenze]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
        <link>
-        <text><![CDATA[Come visualizzare i requisiti mancanti nel Centro per i partner]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4089772?tpqid=100-000082]]></url>
+        <text><![CDATA[Frontline team]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Programmi e adesione" refid="ProgramsMembership"><question>
     <id>100-000085</id>
     <title><![CDATA[Come si uniscono più iscrizioni Microsoft Partner Network separate?]]></title>
     <description><![CDATA[Nell'articolo che segue sono riportate alcune considerazioni che potrebbero influire sull'accesso ai vantaggi e sulla capacità di effettuare le transazioni.]]></description>
@@ -702,24 +705,20 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text><![CDATA[Scaricare la fattura di Action Pack]]></text>
         <url><![CDATA[https://docs.microsoft.com/it-it/partner-center/mpn-get-action-pack#download-your-action-pack-invoice?tpqid=100-000078]]></url>
       </link>
-    </articlelinks></question></group><group title="Supporto tecnico (prodotti, piattaforme e strumenti)" refid="TechnicalSupport"><question>
-    <id>700-000003</id>
-    <title><![CDATA[Sono disponibili forum della community per Microsoft Azure, Microsoft Dynamics 365 o Office 365 che posso utilizzare per le domande relative ai prodotti tecnici?]]></title>
-    <description><![CDATA[Certo! Esistono vari forum della community in cui è possibile trovare risposta alle domande relative ai prodotti tecnici.]]></description>
+    </articlelinks></question><question SortOrderOnHome="10">
+    <id>100-000082</id>
+    <title><![CDATA[Quali requisiti mi mancano per rinnovare le mie competenze?]]></title>
+    <description><![CDATA[I partner possono consultare l'elenco dei requisiti relativi alle competenze nel Partner Membership Center. Spostare il mouse su Requirements e Assets (Requisiti e risorse) e selezionare Competency Summary (Riepilogo competenze). I partner possono consultare l'elenco delle competenze e i requisiti relativi anche nel portale MPN.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Community di Microsoft Azure]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
+        <text><![CDATA[Competenze]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
       </link>
        <link>
-        <text><![CDATA[Community di Microsoft Dynamics 365]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
+        <text><![CDATA[Come visualizzare i requisiti mancanti nel Centro per i partner]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4089772?tpqid=100-000082]]></url>
       </link>
-       <link>
-        <text><![CDATA[Community di Office 365]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Supporto tecnico (prodotti, piattaforme e strumenti)" refid="TechnicalSupport"><question>
     <id>700-000001</id>
     <title><![CDATA[Dove posso trovare assistenza per le domande o i problemi relativi ai prodotti Dynamics?]]></title>
     <description><![CDATA[Registrare una richiesta di assistenza tramite PartnerSource. A tale scopo, è possibile visitare la sezione Pricing and Ordering (Prezzi e orinazioni) del sito e selezione New Operations Request (Nuova richiesta operazioni). Specificare un numero IT nell'ambito della richiesta o utilizzare la chat per comunicare direttamente con un addetto. Se la richiesta non viene evasa in modo soddisfacente, inviare un'e-mail a Dynamics Escalation, includendo il numero IT nel corpo del messaggio.]]></description>
@@ -745,24 +744,24 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
         <text><![CDATA[Supporto per Microsoft Dynamics 365 (accesso obbligatorio)]]></text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question>
-    <id>300-000108</id>
-    <title><![CDATA[Dove è possibile trovare i piani di supporto a pagamento per clienti e partner? ]]></title>
-    <description><![CDATA[Accedere ai collegamenti seguenti, a seconda dell'azienda o del prodotto specifico.]]></description>
+    </articlelinks></question><question>
+    <id>700-000003</id>
+    <title><![CDATA[Sono disponibili forum della community per Microsoft Azure, Microsoft Dynamics 365 o Office 365 che posso utilizzare per le domande relative ai prodotti tecnici?]]></title>
+    <description><![CDATA[Certo! Esistono vari forum della community in cui è possibile trovare risposta alle domande relative ai prodotti tecnici.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Supporto per aziende, IT e sviluppatori]]></text>
-        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
+        <text><![CDATA[Community di Microsoft Azure]]></text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
       </link>
        <link>
-        <text><![CDATA[Piani di supporto Azure]]></text>
-        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+        <text><![CDATA[Community di Microsoft Dynamics 365]]></text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
       </link>
        <link>
-        <text><![CDATA[Piani di supporto Dynamics 365]]></text>
-        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+        <text><![CDATA[Community di Office 365]]></text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question></group><group title="Vantaggi" refid="Benefits"><question SortOrderOnHome="9">
     <id>300-000110</id>
     <title><![CDATA[How do I activate my support contracts?]]></title>
     <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
@@ -961,5 +960,31 @@ Nota: I Partner non possono usare un’esistente chiave prodotto di Windows 8.1 
       <link>
         <text><![CDATA[Offerte di supporto per i partner Microsoft]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000114</id>
+    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
+    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000108</id>
+    <title><![CDATA[Dove è possibile trovare i piani di supporto a pagamento per clienti e partner? ]]></title>
+    <description><![CDATA[Accedere ai collegamenti seguenti, a seconda dell'azienda o del prodotto specifico.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Supporto per aziende, IT e sviluppatori]]></text>
+        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Piani di supporto Azure]]></text>
+        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Piani di supporto Dynamics 365]]></text>
+        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
       </link>
     </articlelinks></question></group></groups>

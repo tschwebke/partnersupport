@@ -699,20 +699,23 @@
         <text><![CDATA[Microsoft Partner Network 特典パッケージ活用に関するガイド ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
       </link>
-    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000032</id>
-    <title><![CDATA[マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。]]></title>
-    <description><![CDATA[マイクロソフト パートナー ネットワーク Office 365 (E3) 社内使用権の特典の概要を参照してください。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000012</id>
+    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
+    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
+In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
+Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
+If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2996518?tpqid=800-000032]]></url>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
        <link>
-        <text><![CDATA[Office 365 (E3) 内部使用権ライセンスのライセンス認証と割り当てを行う方法]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3007588?tpqid=800-000032]]></url>
+        <text><![CDATA[Frontline team]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="7">
     <id>800-000036</id>
     <title><![CDATA[Visual Studio Online サブスクリプションの有効化はどのように行いますか？]]></title>
     <description><![CDATA[Visual Studio Online は、開発やアプリケーションのテストを円滑に行うために必要な各種ツールやプラットフォーム、サービスなどを提供しています。　サブスクリプション有効化の方法については、以下の情報をご覧ください。]]></description>
@@ -816,24 +819,20 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[Office365 社内使用ライセンスの有効化ガイド]]></text>
         <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Membership/program/mpn-guide_02.aspx#tab?tpqid=800-1000113]]></url>
       </link>
-    </articlelinks></question></group><group title="特典" refid="Benefits"><question SortOrderOnHome="5">
-    <id>300-000113</id>
-    <title><![CDATA[Microsoft Action Pack サブスクリプションで得られる特典は何ですか?]]></title>
-    <description><![CDATA[詳細については、以下のリソースをご確認ください。 ]]></description>
+    </articlelinks></question><question>
+    <id>800-000032</id>
+    <title><![CDATA[マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。]]></title>
+    <description><![CDATA[マイクロソフト パートナー ネットワーク Office 365 (E3) 社内使用権の特典の概要を参照してください。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Action Pack サブスクリプションの初めての購入、または更新]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+        <text><![CDATA[マイクロソフト パートナー ネットワークで Office 365 (E3) 社内使用特典について知る方法を教えてください。]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2996518?tpqid=800-000032]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Action Pack サブスクリプション プログラムのよく寄せられる質問]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
+        <text><![CDATA[Office 365 (E3) 内部使用権ライセンスのライセンス認証と割り当てを行う方法]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3007588?tpqid=800-000032]]></url>
       </link>
-       <link>
-        <text><![CDATA[Microsoft Partner Network 特典パッケージ活用に関するガイド]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="特典" refid="Benefits"><question>
     <id>300-1000116</id>
     <title><![CDATA[Microsoft Partner Network特典で提供される各種クラウド特典（Office365/Azure/Intune/CRM Online）を有効化するには？　]]></title>
     <description><![CDATA[l   以下、各種ウェブサイトをご覧ください。　]]></description>
@@ -1028,5 +1027,31 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[マイクロソフト パートナー向け Premier サポート]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000114</id>
+    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
+    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>300-000113</id>
+    <title><![CDATA[Microsoft Action Pack サブスクリプションで得られる特典は何ですか?]]></title>
+    <description><![CDATA[詳細については、以下のリソースをご確認ください。 ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Action Pack サブスクリプションの初めての購入、または更新]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Action Pack サブスクリプション プログラムのよく寄せられる質問]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Partner Network 特典パッケージ活用に関するガイド]]></text>
+        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
       </link>
     </articlelinks></question></group></groups>
