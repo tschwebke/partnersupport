@@ -430,20 +430,23 @@
         <text><![CDATA[Microsoft Partner Network 权益包使用指南 ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
-    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
-    <id>300-000104</id>
-    <title><![CDATA[如何使用访问 ID 和合同 ID 创建本地专业支持事件？]]></title>
-    <description><![CDATA[请参阅下文了解如何使用访问 ID 和合同 ID 创建本地专业支持事件。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000012</id>
+    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
+    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
+In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
+Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
+If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[使用访问 ID 和合同 ID 创建本地专业支持事件]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
        <link>
-        <text><![CDATA[客户支持]]></text>
-        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
+        <text><![CDATA[Frontline team]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
     <id>300-000105</id>
     <title><![CDATA[哪些人有资格获得 Microsoft Dynamics 365 for Unified Operations 内部使用权 (IUR)？可以在哪里获得？]]></title>
     <description><![CDATA[符合云企业应用程序能力的性能标准且目前拥有 ERP 能力的合作伙伴。请阅读下面的文章，以查看常见问题解答，并了解有关此 IUR 的更多信息。 ]]></description>
@@ -651,25 +654,29 @@
         <text><![CDATA[合作伙伴中心：能力]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000114</id>
+    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
+    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[如何使用访问 ID 和合同 ID 创建本地专业支持事件？]]></title>
+    <description><![CDATA[请参阅下文了解如何使用访问 ID 和合同 ID 创建本地专业支持事件。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[使用访问 ID 和合同 ID 创建本地专业支持事件]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[客户支持]]></text>
+        <url><![CDATA[https://msdn.microsoft.com/partner-center/customer-support?tpqid=300-000104]]></url>
+      </link>
     </articlelinks></question></group><group title="激励和支出" refid="IncentivesPayouts"><question>
-    <id>400-000008</id>
-    <title><![CDATA[Microsoft 合作伙伴奖励有哪些？]]></title>
-    <description><![CDATA[合作伙伴奖励是 Microsoft 在合作伙伴生态系统投资中的一方面。不管您是在本地、在云中还是介于两者之间经营业务，合作伙伴奖励旨在支持您的盈利能力和促进增长，以及推动 Microsoft 云优先、移动优先的战略。奖励包括企业项目、中小型企业、云服务和设备。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[了解你的激励支出]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000079</id>
-    <title><![CDATA[可以在何处找到有关合作伙伴奖励的详细信息？]]></title>
-    <description><![CDATA[自 2015 年 7 月 1 日起，所有合作伙伴奖励项目的信息都可以在 Microsoft Partner Network 上查看！符合奖励项目的合作伙伴将在 aka.ms/partnerincentives 上看到该项目的所有可用材料。即使还未达到要求的能力，合作伙伴也能看到有关大多数云奖励的详细信息。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[了解你的激励支出]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000080</id>
     <title><![CDATA[我应该如何获取对合作伙伴奖励的支持？]]></title>
     <description><![CDATA[您可以在“合作伙伴奖励”页面中的“支持”部分中找到合作伙伴奖励项目的支持。]]></description>
@@ -687,33 +694,25 @@
         <text><![CDATA[如何提交 Azure 在线激励的税务和银行表单]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3090503?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
-    <id>100-000077</id>
-    <title><![CDATA[可以在哪里找到如何成为 Surface 或 Surface 集线器 Microsoft 授权的设备经销商 (ADR) 的相关信息？]]></title>
-    <description><![CDATA[如果您有志成为 Surface 或 Surface Hub Microsoft 授权设备经销商，您应该与 Microsoft 授权设备分销商取得联系并注册接收授权设备经销商的更新。]]></description>
+    </articlelinks></question><question>
+    <id>400-000008</id>
+    <title><![CDATA[Microsoft 合作伙伴奖励有哪些？]]></title>
+    <description><![CDATA[合作伙伴奖励是 Microsoft 在合作伙伴生态系统投资中的一方面。不管您是在本地、在云中还是介于两者之间经营业务，合作伙伴奖励旨在支持您的盈利能力和促进增长，以及推动 Microsoft 云优先、移动优先的战略。奖励包括企业项目、中小型企业、云服务和设备。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[联系 Microsoft Surface 授权的设备分销商]]></text>
-        <url><![CDATA[https://partner.microsoft.com/Solutions/find-an-authorized-device-distributor?tpqid=100-000077]]></url>
-      </link>
-       <link>
-        <text><![CDATA[注册接收成为 Microsoft Surface Hub ADR 或安装程序的更新]]></text>
-        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
+        <text><![CDATA[了解你的激励支出]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000078</id>
-    <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
-    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
+    <id>400-000079</id>
+    <title><![CDATA[可以在何处找到有关合作伙伴奖励的详细信息？]]></title>
+    <description><![CDATA[自 2015 年 7 月 1 日起，所有合作伙伴奖励项目的信息都可以在 Microsoft Partner Network 上查看！符合奖励项目的合作伙伴将在 aka.ms/partnerincentives 上看到该项目的所有可用材料。即使还未达到要求的能力，合作伙伴也能看到有关大多数云奖励的详细信息。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[如何查找/下载最后的发票]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4017791?tpqid=100-000078]]></url>
+        <text><![CDATA[了解你的激励支出]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
-       <link>
-        <text><![CDATA[如何在合作伙伴中心获取发票]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="10">
+    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question SortOrderOnHome="10">
     <id>100-000082</id>
     <title><![CDATA[我缺少哪些续订能力的要求？]]></title>
     <description><![CDATA[合作伙伴可以查看 Partner Membership Center 上的能力要求列表。将鼠标悬停在“要求和资产”上并选择“能力摘要”。合作伙伴还可以查看 合作伙伴门户上的能力列表及其要求]]></description>
@@ -964,5 +963,31 @@
        <link>
         <text><![CDATA[微软合作伙伴网络概览]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/how-it-works?tpqid=100-000070]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000077</id>
+    <title><![CDATA[可以在哪里找到如何成为 Surface 或 Surface 集线器 Microsoft 授权的设备经销商 (ADR) 的相关信息？]]></title>
+    <description><![CDATA[如果您有志成为 Surface 或 Surface Hub Microsoft 授权设备经销商，您应该与 Microsoft 授权设备分销商取得联系并注册接收授权设备经销商的更新。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[联系 Microsoft Surface 授权的设备分销商]]></text>
+        <url><![CDATA[https://partner.microsoft.com/Solutions/find-an-authorized-device-distributor?tpqid=100-000077]]></url>
+      </link>
+       <link>
+        <text><![CDATA[注册接收成为 Microsoft Surface Hub ADR 或安装程序的更新]]></text>
+        <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000078</id>
+    <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
+    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[如何查找/下载最后的发票]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text><![CDATA[如何在合作伙伴中心获取发票]]></text>
+        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question></group></groups>

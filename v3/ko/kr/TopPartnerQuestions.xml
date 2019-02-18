@@ -434,16 +434,23 @@
         <text><![CDATA[Microsoft Partner Network 혜택 패키지 사용 가이드 ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
-    </articlelinks></question></group><group title="인센티브 및 지급액" refid="IncentivesPayouts"><question>
-    <id>400-000008</id>
-    <title><![CDATA[Microsoft 파트너 인센티브란 무엇입니까?]]></title>
-    <description><![CDATA[파트너 인센티브는 파트너 에코시스템에서 Microsoft 투자의 일면입니다. 귀사가 온-프레미스, 클라우드 또는 둘 사이의 어딘가에서 비즈니스를 하고 있는지 관계없이 파트너 인센티브는 귀사의 수익성과 성장을 지원할 뿐만 아니라 Microsoft의 클라우드 우선, 모바일 우선 전략을 추진하도록 마련되었습니다. 인센티브에는 대기업, 중소기업, 클라우드 서비스 및 장치를 위한 프로그램이 포함됩니다.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000012</id>
+    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
+    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
+In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
+Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
+If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[인센티브 지급액 이해]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text><![CDATA[Frontline team]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
+      </link>
+    </articlelinks></question></group><group title="인센티브 및 지급액" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
     <title><![CDATA[파트너 인센티브에 대한 자세한 정보는 어디에서 찾을 수 있습니까?]]></title>
     <description><![CDATA[2015년 7월 1일부터 이제 모든 파트너 인센티브 프로그램에 대한 정보가 Microsoft 파트너 네트워크에서 제공됩니다! 인센티브 프로그램의 자격을 갖춘 파트너는 aka.ms/partnerincentives에서 해당 프로그램에 대한 사용 가능한 모든 자료를 볼 수 있습니다. 또한 아직 필수 역량을 얻지 못한 경우에도 대부분의 클라우드 인센티브에 대한 세부 정보를 볼 수 있습니다.]]></description>
@@ -470,20 +477,16 @@
         <text><![CDATA[Azure Online Incentives용 세금 및 은행 정보 양식을 제출하는 방법]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3090503?tpqid=400-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="프로그램 및 멤버 자격" refid="ProgramsMembership"><question>
-    <id>100-000095</id>
-    <title><![CDATA[파트너 관리 센터(PAC)에서 파트너 센터로 언제 이전합니까? ]]></title>
-    <description><![CDATA[2018년 봄부터 Office 365 파트너 관리 센터(PAC) 도구 기능이 Microsoft 파트너 센터로 이전합니다. 파트너 센터로 이전할 준비가 되면 팝업 대화 상자가 표시됩니다. 이전 당일, PAC를 액세스하는 모든 파트너는 자동으로 파트너 센터 대시보드로 전환되어 로그인됩니다. 자동으로 전환될 경우 파트너는 파트너 관리 센터에 더 이상 액세스할 수 없습니다.  관리자 참고 사항: 현재 파트너 센터를 통해 유료 및 평가판 견적서를 고객에게 전송할 수 없습니다. 유료 및 평가판 견적서 기능이 파트너 센터에서 활성화될 때까지 PAC의 비즈니스 구축 기능을 계속 사용할 수 있습니다.]]></description>
+    </articlelinks></question><question>
+    <id>400-000008</id>
+    <title><![CDATA[Microsoft 파트너 인센티브란 무엇입니까?]]></title>
+    <description><![CDATA[파트너 인센티브는 파트너 에코시스템에서 Microsoft 투자의 일면입니다. 귀사가 온-프레미스, 클라우드 또는 둘 사이의 어딘가에서 비즈니스를 하고 있는지 관계없이 파트너 인센티브는 귀사의 수익성과 성장을 지원할 뿐만 아니라 Microsoft의 클라우드 우선, 모바일 우선 전략을 추진하도록 마련되었습니다. 인센티브에는 대기업, 중소기업, 클라우드 서비스 및 장치를 위한 프로그램이 포함됩니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[파트너 센터: 파트너 관리 센터(PAC)에서 파트너 센터로 이전 ]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
+        <text><![CDATA[인센티브 지급액 이해]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
-       <link>
-        <text><![CDATA[파트너 센터: 파트너 관리 센터가 파트너 센터로 이전]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="프로그램 및 멤버 자격" refid="ProgramsMembership"><question>
     <id>100-000096</id>
     <title><![CDATA[디지털 공식 파트너란 무엇인가요?]]></title>
     <description><![CDATA[아래 문서에서 디지털 공식 파트너에 대해 자세히 알아보세요.]]></description>
@@ -748,24 +751,20 @@
         <text><![CDATA[파트너 센터: 회사에서 사용하는 회사 계정 및 파트너 센터]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="혜택" refid="Benefits"><question>
-    <id>300-000108</id>
-    <title><![CDATA[고객 또는 파트너 유료 지원 플랜은 어디서 확인할 수 있나요? ]]></title>
-    <description><![CDATA[특정 제품 또는 비즈니스에 따라 아래 링크에 액세스하세요.]]></description>
+    </articlelinks></question><question>
+    <id>100-000095</id>
+    <title><![CDATA[파트너 관리 센터(PAC)에서 파트너 센터로 언제 이전합니까? ]]></title>
+    <description><![CDATA[2018년 봄부터 Office 365 파트너 관리 센터(PAC) 도구 기능이 Microsoft 파트너 센터로 이전합니다. 파트너 센터로 이전할 준비가 되면 팝업 대화 상자가 표시됩니다. 이전 당일, PAC를 액세스하는 모든 파트너는 자동으로 파트너 센터 대시보드로 전환되어 로그인됩니다. 자동으로 전환될 경우 파트너는 파트너 관리 센터에 더 이상 액세스할 수 없습니다.  관리자 참고 사항: 현재 파트너 센터를 통해 유료 및 평가판 견적서를 고객에게 전송할 수 없습니다. 유료 및 평가판 견적서 기능이 파트너 센터에서 활성화될 때까지 PAC의 비즈니스 구축 기능을 계속 사용할 수 있습니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[비즈니스, IT 및 개발자 지원]]></text>
-        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
+        <text><![CDATA[파트너 센터: 파트너 관리 센터(PAC)에서 파트너 센터로 이전 ]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
       </link>
        <link>
-        <text><![CDATA[Azure 지원 플랜]]></text>
-        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+        <text><![CDATA[파트너 센터: 파트너 관리 센터가 파트너 센터로 이전]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
       </link>
-       <link>
-        <text><![CDATA[Dynamics 365 지원 플랜]]></text>
-        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question></group><group title="혜택" refid="Benefits"><question SortOrderOnHome="9">
     <id>300-000110</id>
     <title><![CDATA[How do I activate my support contracts?]]></title>
     <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
@@ -965,5 +964,31 @@
       <link>
         <text><![CDATA[Microsoft 파트너 지원 서비스]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partnersupport?tpqid=300-000107]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000114</id>
+    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
+    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000108</id>
+    <title><![CDATA[고객 또는 파트너 유료 지원 플랜은 어디서 확인할 수 있나요? ]]></title>
+    <description><![CDATA[특정 제품 또는 비즈니스에 따라 아래 링크에 액세스하세요.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[비즈니스, IT 및 개발자 지원]]></text>
+        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Azure 지원 플랜]]></text>
+        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Dynamics 365 지원 플랜]]></text>
+        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
       </link>
     </articlelinks></question></group></groups>
