@@ -11,7 +11,7 @@
         <text><![CDATA[Office 365(E3) 내부 사용권 라이선스를 활성화하고 할당하는 방법]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3007588?tpqid=800-000032]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>800-000036</id>
     <title><![CDATA[Visual Studio Online 구독은 어떻게 인증할 수 있습니까?]]></title>
     <description><![CDATA[Visual Studio Online 구독을 통해 응용 프로그램을 개발하고 테스트하기 위해 필요한 툴과 플랫폼, 그리고 서비스를 이용할 수 있습니다. 다음 문서를 참조하시면 구독 활성화 방법을 확인하실 수 있습니다.]]></description>
@@ -239,7 +239,7 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Journey Blog]]></text>
+        <text><![CDATA[MPN 기술 여정 블로그]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
@@ -265,7 +265,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Journey Blog]]></text>
+        <text><![CDATA[MPN 기술 여정 블로그]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -434,20 +434,20 @@
         <text><![CDATA[Microsoft Partner Network 혜택 패키지 사용 가이드 ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>1500-000012</id>
-    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
-    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
-In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
-Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
-If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
+    <title><![CDATA[Office 365 구독의 시트를 갱신해야 하지만 시트를 추가할 수 있는 옵션만 있습니다. 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[갱신 기간에 생성된 토큰의 시트 수보다 파트너의 구독에 있는 시트 수가 많으면 시스템에 “갱신/연장” 옵션이 표시되지 않도록 설계되어 있습니다. 
+파트너가 시트 갱신/연장 옵션을 확인하려면 해당 신규 토큰보다 적거나 같은 시트 수에 도달하기 전까지 사용자에게서 라이선스/시트를 제거해야 합니다. 이 해결 방법은 수신한 신규 토큰을 활성화하기 전에 적용할 수 있습니다.
+시트를 갱신하지 않고 추가하도록 선택하면 12개월 미만의 혜택이 제공됩니다.
+파트너가 시트를 갱신하는 대신 실수로 추가한 경우 토큰이 활성화된 지 30일 이내에 Frontline 팀에 연락하여 도움을 요청해야 합니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <text><![CDATA[Microsoft 파트너 네트워크 혜택 패키지 사용 가이드]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
        <link>
-        <text><![CDATA[Frontline team]]></text>
+        <text><![CDATA[Frontline 팀]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
       </link>
     </articlelinks></question></group><group title="인센티브 및 지급액" refid="IncentivesPayouts"><question>
@@ -486,74 +486,58 @@ If by mistake partners added seats instead of renewing them, they must reach out
         <text><![CDATA[인센티브 지급액 이해]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="프로그램 및 멤버 자격" refid="ProgramsMembership"><question>
-    <id>100-000096</id>
-    <title><![CDATA[디지털 공식 파트너란 무엇인가요?]]></title>
-    <description><![CDATA[아래 문서에서 디지털 공식 파트너에 대해 자세히 알아보세요.]]></description>
+    </articlelinks></question><question>
+    <id>400-000084</id>
+    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <description><![CDATA[아래 문서에서 자세히 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[파트너 포털: 디지털 공식 파트너 및 파트너 연결]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
+        <text><![CDATA[납부 받은 경우에 보상 프로그램을 확인 하려면 어떻게 해야 합니까?]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4483767?tpqid=400-000084]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000098</id>
-    <title><![CDATA[Azure 사용량 과금은 클라우드 플랫폼 역량에 대해 어떻게 계산되나요?]]></title>
-    <description><![CDATA[TTM 사용량 과금은 DPOR이 연결된 구독에 대해 계산됩니다. 파트너가 일부 구독을 소유한 경우에는 이것으로 충분하지 않으며, 소유한 구독에 대해 파트너를 DPOR로 연결해야 합니다. 사용량 과금은 DPOR이 연결된 날짜부터만 계산됩니다.]]></description>
+    <id>400-000085</id>
+    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <description><![CDATA[아래 문서에서 자세히 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[파트너 포털: 클라우드 플랫폼]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>100-000099</id>
-    <title><![CDATA[새로운 파트너 센터에서 계정을 설정하려면 어떻게 해야 하나요?]]></title>
-    <description><![CDATA[아래 링크에 액세스하여 자세한 정보를 알아보세요.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[파트너 센터 계정 관련 FAQ]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
-      </link>
-       <link>
-        <text><![CDATA[파트너 센터 계정 만들기]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000099]]></url>
-      </link>
-       <link>
-        <text><![CDATA[파트너 센터 계정 관리]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
+        <text><![CDATA[프로그램 가이드]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2952918?tpqid=400-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000100</id>
-    <title><![CDATA[간접 재판매인으로 온보딩하려면 어떻게 해야 하나요?]]></title>
-    <description><![CDATA[아래 링크에 액세스하여 클라우드 솔루션 공급자 프로그램에 등록하는 방법을 알아보세요.]]></description>
+    <id>400-000086</id>
+    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
+    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[클라우드 솔루션 공급자 프로그램에 등록]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
+        <text><![CDATA[파트너 센터 마이그레이션 파트너 회원 센터]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490453?tpqid=400-000086]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000102</id>
-    <title><![CDATA[정상 학습 경로 대 한 질문은 무엇입니까?]]></title>
-    <description><![CDATA[경로 학습 하면 훈련 또는 인증. 학습 경로 귀하의 회사, 또는 조직에 관련 된 경로 강조 표시 합니다. 학습 경로 FAQ 가기 학습 경로 대 한 질문에 대 한 답변을 제공 합니다.]]></description>
+    <id>400-000087</id>
+    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
+    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[-최고 FAQ 목록 경로 학습]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2964426?tpqid=100-000102]]></url>
+        <text><![CDATA[파트너 센터 대시보드에 인센티브 프로그램 등록]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
       </link>
-       <link>
-        <text><![CDATA[Microsoft 파트너 학습 과정]]></text>
-        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
+    </articlelinks></question><question>
+    <id>400-000088</id>
+    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
+    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[파트너 센터 마이그레이션 파트너 회원 센터에 자주 묻는 질문]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
-       <link>
-        <text><![CDATA[Partner University]]></text>
-        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question></group><group title="프로그램 및 멤버 자격" refid="ProgramsMembership"><question SortOrderOnHome="3">
     <id>100-000103</id>
-    <title><![CDATA[How can I download or check the Microsoft Partner Network agreement in Partner Center?]]></title>
-    <description><![CDATA[Access below article to learn more.]]></description>
+    <title><![CDATA[파트너 센터에서 Microsoft 파트너 네트워크 계약을 다운로드하거나 확인하려면 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[아래 문서에서 자세히 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[How to download the Microsoft Partner Network agreement - Partner Center]]></text>
+        <text><![CDATA[Microsoft 파트너 네트워크 계약을 다운로드하는 방법 - 파트너 센터]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4488914/?tpqid=100-000103]]></url>
       </link>
     </articlelinks></question><question>
@@ -764,91 +748,83 @@ If by mistake partners added seats instead of renewing them, they must reach out
         <text><![CDATA[파트너 센터: 파트너 관리 센터가 파트너 센터로 이전]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
       </link>
-    </articlelinks></question></group><group title="혜택" refid="Benefits"><question SortOrderOnHome="9">
-    <id>300-000110</id>
-    <title><![CDATA[How do I activate my support contracts?]]></title>
-    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
+    </articlelinks></question><question>
+    <id>100-000096</id>
+    <title><![CDATA[디지털 공식 파트너란 무엇인가요?]]></title>
+    <description><![CDATA[아래 문서에서 디지털 공식 파트너에 대해 자세히 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Technical Benefits Summary]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents ]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="8">
-    <id>300-000111</id>
-    <title><![CDATA[파트너 관계를 확인해 주는 인증서를 Microsoft로부터 받을 수 있나요?]]></title>
-    <description><![CDATA[예. 아래 링크에 액세스하여 Microsoft와의 관계/파트너 관계를 나타내는 인증서를 만들 수 있습니다.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Logo Builder (로그인 필요)]]></text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+        <text><![CDATA[파트너 포털: 디지털 공식 파트너 및 파트너 연결]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000112</id>
-    <title><![CDATA[추가 지원을 구매하려는 경우 어떤 옵션이 있나요? ]]></title>
-    <description><![CDATA[아래 리소스를 확인하여 자세히 알아보세요. ]]></description>
+    <id>100-000098</id>
+    <title><![CDATA[Azure 사용량 과금은 클라우드 플랫폼 역량에 대해 어떻게 계산되나요?]]></title>
+    <description><![CDATA[TTM 사용량 과금은 DPOR이 연결된 구독에 대해 계산됩니다. 파트너가 일부 구독을 소유한 경우에는 이것으로 충분하지 않으며, 소유한 구독에 대해 파트너를 DPOR로 연결해야 합니다. 사용량 과금은 DPOR이 연결된 날짜부터만 계산됩니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft 파트너 고급 지원]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
+        <text><![CDATA[파트너 포털: 클라우드 플랫폼]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
-       <link>
-        <text><![CDATA[Microsoft 파트너 프리미어 지원]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="5">
-    <id>300-000113</id>
-    <title><![CDATA[Microsoft Action Pack 구독으로 얻게 되는 혜택은 무엇인가요?]]></title>
-    <description><![CDATA[아래 리소스를 확인하여 자세히 알아보세요. ]]></description>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000099</id>
+    <title><![CDATA[새로운 파트너 센터에서 계정을 설정하려면 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[아래 링크에 액세스하여 자세한 정보를 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[처음으로 Microsoft Action Pack 구매 또는 갱신]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+        <text><![CDATA[파트너 센터 계정 관련 FAQ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft 작업 팩 구독 프로그램 FAQ]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
+        <text><![CDATA[파트너 센터 계정 만들기]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000099]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network 혜택 패키지 사용 가이드]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
+        <text><![CDATA[파트너 센터 계정 관리]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000004</id>
-    <title><![CDATA[역량 로고를 만들려면 어떻게 해야 합니까?]]></title>
-    <description><![CDATA[아래 링크에 액세스하면 역량 로고를 손쉽게 만들 수 있습니다.]]></description>
+    <id>100-000100</id>
+    <title><![CDATA[간접 재판매인으로 온보딩하려면 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[아래 링크에 액세스하여 클라우드 솔루션 공급자 프로그램에 등록하는 방법을 알아보세요.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[파트너 로고 작성 프로그램]]></text>
-        <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Logo Builder (로그인 필요)]]></text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
-      </link>
-       <link>
-        <text><![CDATA[로고 작성 프로그램 시작하기]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
+        <text><![CDATA[클라우드 솔루션 공급자 프로그램에 등록]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
       </link>
     </articlelinks></question><question>
+    <id>100-000102</id>
+    <title><![CDATA[정상 학습 경로 대 한 질문은 무엇입니까?]]></title>
+    <description><![CDATA[경로 학습 하면 훈련 또는 인증. 학습 경로 귀하의 회사, 또는 조직에 관련 된 경로 강조 표시 합니다. 학습 경로 FAQ 가기 학습 경로 대 한 질문에 대 한 답변을 제공 합니다.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[-최고 FAQ 목록 경로 학습]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2964426?tpqid=100-000102]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 파트너 학습 과정]]></text>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Partner University]]></text>
+        <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
+      </link>
+    </articlelinks></question></group><group title="혜택" refid="Benefits"><question>
     <id>300-000014</id>
     <title><![CDATA[파트너 자문 시간이란 무엇입니까?]]></title>
     <description><![CDATA[파트너 자문 시간은 Microsoft Partner Network 멤버에게 제공되는 특정 사전 판매와 배포 서비스에 액세스할 때 사용하는 서비스입니다. 파트너 자문 시간을 사용하여 기술 교육으로 기술을 축적하고 고객용 솔루션의 경쟁력을 확보하며 개발 및 배포하기 위한 맞춤형 안내를 받으십시오.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[판매 전 기술 서비스 및 배포 서비스]]></text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
         <text><![CDATA[핵심 혜택 및 요구 사항]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
       </link>
        <link>
         <text><![CDATA[간이 얼마나 되는지 잘 모르시겠습니까? 사용 가능한 파트너 자문 시간을 확인하세요. ]]></text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 파트너 네트워크 기술 혜택 요약]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000028</id>
@@ -921,6 +897,10 @@ If by mistake partners added seats instead of renewing them, they must reach out
         <text><![CDATA[파트너 센터: 역량]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
       </link>
+       <link>
+        <text><![CDATA[License Table for Competency Partners]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000102]]></url>
+      </link>
     </articlelinks></question><question>
     <id>300-000104</id>
     <title><![CDATA[액세스 ID 및 계약 ID를 사용하여 온-프레미스 전문가 지원 인시던트를 만들려면 어떻게 해야 하나요?]]></title>
@@ -967,12 +947,20 @@ If by mistake partners added seats instead of renewing them, they must reach out
       </link>
     </articlelinks></question><question>
     <id>300-000114</id>
-    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
-    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <title><![CDATA[파트너가 IUR 혜택 프로그램의 일환으로 추가 기능을 구매할 수 있나요?]]></title>
+    <description><![CDATA[MPN에서는 현재 IUR SKU에 대해 고유한 추가 기능을 판매하지 않습니다.  MPN 프로그램을 통해 제공되는 IUR에는 파트너는 IUR을 수익 창출을 위해 사용할 수 없다는 라이선스 정책이 적용됩니다. 파트너는 MPN 프로그램 외부에서 이러한 추가 기능을 직접 구매해 볼 수 있으며, 구매가 가능한 경우 해당 MPN IUR의 사용 규칙을 준수하는 한 MPN과 관련해서는 아무런 문제가 없습니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000108</id>
@@ -990,5 +978,74 @@ If by mistake partners added seats instead of renewing them, they must reach out
        <link>
         <text><![CDATA[Dynamics 365 지원 플랜]]></text>
         <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="9">
+    <id>300-000110</id>
+    <title><![CDATA[지원 계약을 활성화하려면 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[먼저, 혜택 자격을 확인한 후 계약이 활성화되어 있는지 온라인에서 확인하고 필요에 따라 활성화를 요청합니다.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft 파트너 네트워크 기술 혜택 요약]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 파트너 네트워크 지원 계약 활성화 - (공백) 시간 또는 인시던트]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>300-000111</id>
+    <title><![CDATA[파트너 관계를 확인해 주는 인증서를 Microsoft로부터 받을 수 있나요?]]></title>
+    <description><![CDATA[예. 아래 링크에 액세스하여 Microsoft와의 관계/파트너 관계를 나타내는 인증서를 만들 수 있습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Logo Builder (로그인 필요)]]></text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000112</id>
+    <title><![CDATA[추가 지원을 구매하려는 경우 어떤 옵션이 있나요? ]]></title>
+    <description><![CDATA[아래 리소스를 확인하여 자세히 알아보세요. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft 파트너 고급 지원]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 파트너 프리미어 지원]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>300-000113</id>
+    <title><![CDATA[Microsoft Action Pack 구독으로 얻게 되는 혜택은 무엇인가요?]]></title>
+    <description><![CDATA[아래 리소스를 확인하여 자세히 알아보세요. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[처음으로 Microsoft Action Pack 구매 또는 갱신]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 작업 팩 구독 프로그램 FAQ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Action Pack 파트너용 라이선스 표]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000004</id>
+    <title><![CDATA[역량 로고를 만들려면 어떻게 해야 합니까?]]></title>
+    <description><![CDATA[아래 링크에 액세스하면 역량 로고를 손쉽게 만들 수 있습니다.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[파트너 로고 작성 프로그램]]></text>
+        <url><![CDATA[https://partner.microsoft.com/marketing/branding?tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Logo Builder (로그인 필요)]]></text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
+      </link>
+       <link>
+        <text><![CDATA[로고 작성 프로그램 시작하기]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
     </articlelinks></question></group></groups>

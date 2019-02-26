@@ -11,7 +11,7 @@
         <text><![CDATA[如何激活并分配 Office 365 (E3) 内部使用权许可证]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3007588?tpqid=800-000032]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question>
     <id>800-000036</id>
     <title><![CDATA[如何激活Visual Studio订阅?]]></title>
     <description><![CDATA[有了Visual Studio订阅，您可以获得您所需的工具，平台，和服务以成功开发和测试您的应用。查看以下文章学习如何启动您的订阅。 ]]></description>
@@ -97,7 +97,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Journey Blog]]></text>
+        <text><![CDATA[MPN 技术之旅博客]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -127,7 +127,7 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Journey Blog]]></text>
+        <text><![CDATA[MPN 技术之旅博客]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question></group><group title="帐户设置和管理" refid="AccountSetupManagement"><question>
@@ -430,20 +430,20 @@
         <text><![CDATA[Microsoft Partner Network 权益包使用指南 ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>1500-000012</id>
-    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
-    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
-In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
-Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
-If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
+    <title><![CDATA[我需要续订我的 Office 365 订阅席位，但我只能选择添加席位；我该怎么办？]]></title>
+    <description><![CDATA[根据设计，如果合作伙伴的订阅席位数比在续订窗口生成的令牌席位数多，则系统将不会显示“续订/延期”选项。 
+为了让合作伙伴看到席位续订/延期的选项，他们必须从用户移除许可证/席位，直到它们的数量等于或少于新令牌的席位数。在激活收到的新令牌之前，此解决方法适用。
+选择添加席位而不是续订，系统将为他们提供少于 12 个月的权益。
+如果合作伙伴错误地添加了席位而不是续订，他们必须在激活令牌后的 30 天内联系一线团队以寻求帮助。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <text><![CDATA[Microsoft 合作伙伴网络权益包使用指南]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
        <link>
-        <text><![CDATA[Frontline team]]></text>
+        <text><![CDATA[一线团队]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
       </link>
     </articlelinks></question></group><group title="权益" refid="Benefits"><question>
@@ -496,15 +496,15 @@ If by mistake partners added seats instead of renewing them, they must reach out
       </link>
     </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000110</id>
-    <title><![CDATA[How do I activate my support contracts?]]></title>
-    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
+    <title><![CDATA[如何激活我的支持合同？]]></title>
+    <description><![CDATA[首先查看你的权益权利，然后联机查看你的合同是否已激活，并根据需要请求激活。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Technical Benefits Summary]]></text>
+        <text><![CDATA[Microsoft 合作伙伴网络技术权益摘要]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents ]]></text>
+        <text><![CDATA[Microsoft 合作伙伴网络支持合同激活 -（空白）小时或事件]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="8">
@@ -543,8 +543,8 @@ If by mistake partners added seats instead of renewing them, they must reach out
         <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network 权益包使用指南]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
+        <text><![CDATA[Microsoft Action Pack 合作伙伴的许可证表]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000004</id>
@@ -569,16 +569,16 @@ If by mistake partners added seats instead of renewing them, they must reach out
     <description><![CDATA[合作伙伴咨询时间是用于获得向 Microsoft Partner Network 成员提供的某些售前技术和部署服务的货币。使用您的合作伙伴咨询时间可以帮助您通过技术培训提升各种技能，还可获得有关提高解决方案竞争力、开发解决方案以及为客户部署解决方案的专门指导。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[售前技术和部署服务]]></text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
         <text><![CDATA[核心权益和要求]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
       </link>
        <link>
         <text><![CDATA[不知道您有多少时间？查看您可用的合作伙伴咨询时间。]]></text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 合作伙伴网络技术权益摘要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000028</id>
@@ -654,14 +654,26 @@ If by mistake partners added seats instead of renewing them, they must reach out
         <text><![CDATA[合作伙伴中心：能力]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
       </link>
+       <link>
+        <text><![CDATA[License Table for Competency Partners]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000102]]></url>
+      </link>
     </articlelinks></question><question>
     <id>300-000114</id>
-    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
-    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <title><![CDATA[合作伙伴是否可以购买附加内容作为 IUR 权益计划的一部分？]]></title>
+    <description><![CDATA[在 MPN 中，我们目前不出售任何 IUR SKU 的任何独特的附加产品。通过 MPN 计划提供的 IUR 受许可证策略的约束，该策略保持合作伙伴不得将 IUR 用于创收目的。合作伙伴可以尝试在 MPN 计划之外自己购买此类附加内容，如果可行，只要他们遵守 MPN IUR 的使用规则，从 MPN 角度来看就没有问题。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000104</id>
@@ -712,64 +724,52 @@ If by mistake partners added seats instead of renewing them, they must reach out
         <text><![CDATA[了解你的激励支出]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question SortOrderOnHome="10">
-    <id>100-000082</id>
-    <title><![CDATA[我缺少哪些续订能力的要求？]]></title>
-    <description><![CDATA[合作伙伴可以查看 Partner Membership Center 上的能力要求列表。将鼠标悬停在“要求和资产”上并选择“能力摘要”。合作伙伴还可以查看 合作伙伴门户上的能力列表及其要求]]></description>
+    </articlelinks></question><question>
+    <id>400-000084</id>
+    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[能力]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text><![CDATA[关于如何在合作伙伴中心查看缺少的要求的步骤]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4089772?tpqid=100-000082]]></url>
+        <text><![CDATA[如何识别是我收到的付款的激励计划？]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4483767?tpqid=400-000084]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000085</id>
-    <title><![CDATA[如何合并单独的 Microsoft Partner Network 注册？]]></title>
-    <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
+    <id>400-000085</id>
+    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[如何合并单独的 Microsoft Partner Network 注册]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4024707?tpqid=100-000085]]></url>
-      </link>
-       <link>
-        <text><![CDATA[如何从 RSC 获取 Microsoft Partner Network 帮助]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3202548?tpqid=100-000085]]></url>
+        <text><![CDATA[计划指南]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2952918?tpqid=400-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000092</id>
-    <title><![CDATA[如何将我所在组织的工作帐户链接到我的新合作伙伴中心帐户？]]></title>
-    <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
+    <id>400-000086</id>
+    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
+    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[你的工作帐户和合作伙伴中心]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+        <text><![CDATA[合作伙伴中心迁移到合作伙伴成员中心]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490453?tpqid=400-000086]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000095</id>
-    <title><![CDATA[何时可以期望从合作伙伴管理中心 (PAC) 移至合作伙伴中心？ ]]></title>
-    <description><![CDATA[从 2018 年春季开始，Office 365 合作伙伴管理中心 (PAC) 工具功能将移至 Microsoft 合作伙伴中心。可以转至合作伙伴中心时，你将会看到一个弹出对话框。转换当天，将自动重定向各个尝试访问 PAC 的合作伙伴并登录到合作伙伴中心面板。发生自动重定向时，合作伙伴将无法再访问合作伙伴管理中心。顾问须知：目前，你无法通过合作伙伴中心向客户发送付费版和试用版报价单。在合作伙伴中心启用“付费版和试用版报价单”功能前，你可以继续在 PAC 中使用“构建业务”功能。]]></description>
+    <id>400-000087</id>
+    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
+    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[合作伙伴中心：从合作伙伴管理中心 (PAC) 移至合作伙伴中心 ]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
-      </link>
-       <link>
-        <text><![CDATA[合作伙伴中心：合作伙伴管理中心将移至合作伙伴中心]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
+        <text><![CDATA[在仪表板中的合作伙伴中心激励程序的注册]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
       </link>
     </articlelinks></question><question>
-    <id>100-000096</id>
-    <title><![CDATA[什么是记录在案的数字合作伙伴？]]></title>
-    <description><![CDATA[从下文了解有关记录在案的数字合作伙伴的更多信息。]]></description>
+    <id>400-000088</id>
+    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
+    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[合作伙伴门户：记录在案的数字合作伙伴和合作伙伴关联]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
+        <text><![CDATA[在合作伙伴成员中心合作伙伴中心迁移到软件常见问题]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
     <id>100-000098</id>
     <title><![CDATA[如何通过我的 Azure 使用情况计算云平台的能力？]]></title>
     <description><![CDATA[可通过 TTM 使用情况计算已连接 DPOR 的用户的订阅情况。如果合作伙伴拥有一些订阅，这是不够的。要获得已拥有的订阅，合作伙伴必须作为 DPOR 进行连接。仅从连接 DPOR 之日起计算使用情况。]]></description>
@@ -823,11 +823,11 @@ If by mistake partners added seats instead of renewing them, they must reach out
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000103</id>
-    <title><![CDATA[How can I download or check the Microsoft Partner Network agreement in Partner Center?]]></title>
-    <description><![CDATA[Access below article to learn more.]]></description>
+    <title><![CDATA[如何在合作伙伴中心下载或查看 Microsoft 合作伙伴网络协议？]]></title>
+    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[How to download the Microsoft Partner Network (MPN) agreement - Partner Center]]></text>
+        <text><![CDATA[如何下载 Microsoft 合作伙伴网络协议 - 合作伙伴中心]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4488914/?tpqid=100-000103]]></url>
       </link>
     </articlelinks></question><question>
@@ -988,6 +988,63 @@ If by mistake partners added seats instead of renewing them, they must reach out
       </link>
        <link>
         <text><![CDATA[如何在合作伙伴中心获取发票]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
+        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="10">
+    <id>100-000082</id>
+    <title><![CDATA[我缺少哪些续订能力的要求？]]></title>
+    <description><![CDATA[合作伙伴可以查看 Partner Membership Center 上的能力要求列表。将鼠标悬停在“要求和资产”上并选择“能力摘要”。合作伙伴还可以查看 合作伙伴门户上的能力列表及其要求]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[能力]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text><![CDATA[关于如何在合作伙伴中心查看缺少的要求的步骤]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4089772?tpqid=100-000082]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000085</id>
+    <title><![CDATA[如何合并单独的 Microsoft Partner Network 注册？]]></title>
+    <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[如何合并单独的 Microsoft Partner Network 注册]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4024707?tpqid=100-000085]]></url>
+      </link>
+       <link>
+        <text><![CDATA[如何从 RSC 获取 Microsoft Partner Network 帮助]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3202548?tpqid=100-000085]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000092</id>
+    <title><![CDATA[如何将我所在组织的工作帐户链接到我的新合作伙伴中心帐户？]]></title>
+    <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[你的工作帐户和合作伙伴中心]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000095</id>
+    <title><![CDATA[何时可以期望从合作伙伴管理中心 (PAC) 移至合作伙伴中心？ ]]></title>
+    <description><![CDATA[从 2018 年春季开始，Office 365 合作伙伴管理中心 (PAC) 工具功能将移至 Microsoft 合作伙伴中心。可以转至合作伙伴中心时，你将会看到一个弹出对话框。转换当天，将自动重定向各个尝试访问 PAC 的合作伙伴并登录到合作伙伴中心面板。发生自动重定向时，合作伙伴将无法再访问合作伙伴管理中心。顾问须知：目前，你无法通过合作伙伴中心向客户发送付费版和试用版报价单。在合作伙伴中心启用“付费版和试用版报价单”功能前，你可以继续在 PAC 中使用“构建业务”功能。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[合作伙伴中心：从合作伙伴管理中心 (PAC) 移至合作伙伴中心 ]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=100-000095]]></url>
+      </link>
+       <link>
+        <text><![CDATA[合作伙伴中心：合作伙伴管理中心将移至合作伙伴中心]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/pac-to-pc-overview?tpqid=100-000095]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000096</id>
+    <title><![CDATA[什么是记录在案的数字合作伙伴？]]></title>
+    <description><![CDATA[从下文了解有关记录在案的数字合作伙伴的更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[合作伙伴门户：记录在案的数字合作伙伴和合作伙伴关联]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
       </link>
     </articlelinks></question></group></groups>

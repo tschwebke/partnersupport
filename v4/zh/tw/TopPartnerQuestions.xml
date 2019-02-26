@@ -21,16 +21,16 @@
     <description><![CDATA[合作夥伴諮詢時數是一種貨幣，用來存取提供給合作夥伴的某些產品。使用您的時數來打造技巧，並且獲得部署解決方案的自訂指導。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[技術預售和部署服務]]></text>
-        <url><![CDATA[http://aka.ms/advisoryhours?tpqid=300-000014]]></url>
-      </link>
-       <link>
         <text><![CDATA[核心權益和需求]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
       </link>
        <link>
         <text><![CDATA[不確定您擁有多少時數嗎? 請檢視您的可用夥伴諮詢時數。 ]]></text>
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft 合作夥伴網路技術權益摘要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000028</id>
@@ -102,6 +102,10 @@
         <text><![CDATA[合作夥伴中心：專長認證]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
       </link>
+       <link>
+        <text><![CDATA[License Table for Competency Partners]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000102]]></url>
+      </link>
     </articlelinks></question><question>
     <id>300-000104</id>
     <title><![CDATA[如何使用存取識別碼與合約識別碼建立內部部署專業支援事件？]]></title>
@@ -165,15 +169,15 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000110</id>
-    <title><![CDATA[How do I activate my support contracts?]]></title>
-    <description><![CDATA[First check your benefit entitlement and then check online to see if your contract is activated and request activation if required.]]></description>
+    <title><![CDATA[如何啟用支援合約？]]></title>
+    <description><![CDATA[先查看您的權益內容，接著在線上檢查您的合約是否已啟用；如有必要，請洽詢相關人員予以啟用。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Technical Benefits Summary]]></text>
+        <text><![CDATA[Microsoft 合作夥伴網路技術權益摘要]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Support contract activation - (Blank) Hours or Incidents ]]></text>
+        <text><![CDATA[Microsoft 合作夥伴網路支援合約啟用 - (空白) 依時數或依事件]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="8">
@@ -212,19 +216,27 @@
         <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network 權益套件使用手冊]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/mpn-maps-product-usage-guide.pdf?tpqid=300-000113]]></url>
+        <text><![CDATA[Microsoft Action Pack 合作夥伴授權表]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000114</id>
-    <title><![CDATA[Can partners purchase add-ons as being part of the IUR benefit program?]]></title>
-    <description><![CDATA[In Microsoft Partner Network, we do not offer on sale any unique add-ons for any of the IUR SKUs at this time.  The IUR offered through the MPN program is subject to the license policy which sustains that partner is not allowed to use the IUR for revenue generating purposes. Partner can try purchasing such add-ons on their own, outside of MPN program, and if it works there is no problem from MPN perspective as long as they adhere to the usage rules of their MPN IUR.]]></description>
+    <title><![CDATA[合作夥伴可根據 IUR 優惠方案購買附加元件嗎？]]></title>
+    <description><![CDATA[MPN 目前不為任何 IUR SKU 提供任何專用附加元件。透過 MPN 方案提供的 IUR 受授權政策規範，合作夥伴不得將 IUR 用於獲利用途。合作夥伴可嘗試不透過 MPN 方案自行購買這類附加元件。如果成功，只要合作夥伴遵守 MPN IUR 使用規範，對 MPN 而言就沒有任何問題。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000114]]></url>
+        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="合約、訂單和訂閱管理" refid="AgreementsOrdersSubscriptions"><question SortOrderOnHome="7">
+       <link>
+        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
+      </link>
+    </articlelinks></question></group><group title="合約、訂單和訂閱管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000036</id>
     <title><![CDATA[如何激活我的 Visual Studio Online 订阅?]]></title>
     <description><![CDATA[有了 Visual Studio Online 订阅, 您可以获得您所需工具，平台，和服务以成功开发和测试您的应用程序. 查看以下文章学习如何激活您的订阅.]]></description>
@@ -327,7 +339,7 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Journey Blog]]></text>
+        <text><![CDATA[MPN 技術之旅部落格]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
@@ -353,7 +365,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Journey Blog]]></text>
+        <text><![CDATA[MPN 技術之旅部落格]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -660,16 +672,16 @@
         <text><![CDATA[合作夥伴授權問題 – 快速參考手冊 (機器翻譯)]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4076425?tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>1500-000012</id>
-    <title><![CDATA[I need to renew my seats for Office 365 subscription however I have just the option to add seats; what should I do?]]></title>
-    <description><![CDATA[As per design, the system will not display the “renew/ extend” option if partners have more seats on their subscription than the seats number of the token generated at the renewal window. 
-In order for partners to see the option to renew/extend the seats they must remove the licenses/seats from users until they reach out to the same number of seats or less, than their new token has. This workaround is applicable before activating the new token received.
-Choosing to add seats and not renew them the system will provide them less than 12 months of benefits.
-If by mistake partners added seats instead of renewing them, they must reach out to Frontline team asking for help within 30 days since the token was activated.]]></description>
+    <title><![CDATA[我需要更新 Office 365 訂閱席位數，但我只能使用新增席位的選項，怎麼辦？]]></title>
+    <description><![CDATA[根據系統設計，如果合作夥伴的訂閱席位多於續約視窗產生的權杖席位，系統就不會顯示「續約/延展」選項。 
+合作夥伴必須移除使用者的授權/席位，使其等於或少於新權杖的席位，畫面才會顯示續約/延展席位的選項。啟用收到的新權杖之前，都適用此因應措施。
+凡選擇新增席位而非續約，系統就會提供不超過 12 個月的優惠方案。
+如果合作夥伴不小心選擇了新增席位而非續約席位，請務必在權杖啟用後 30 天內聯絡 Frontline 團隊尋求協助。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <text><![CDATA[Microsoft 合作夥伴網路優惠套件使用指南]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
       </link>
        <link>
@@ -726,7 +738,7 @@ If by mistake partners added seats instead of renewing them, they must reach out
       </link>
        <link>
         <text><![CDATA[如何在合作夥伴中心取得您的發票 (機器翻譯)]]></text>
-        <url><![CDATA[https://support.microsoft.com/kb/4089764?tpqid=100-000078]]></url>
+        <url><![CDATA[https://support.microsoft.com/kb/4017791?tpqid=100-000078]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="10">
     <id>100-000082</id>
@@ -839,11 +851,11 @@ If by mistake partners added seats instead of renewing them, they must reach out
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000103</id>
-    <title><![CDATA[How can I download or check the Microsoft Partner Network agreement in Partner Center?]]></title>
-    <description><![CDATA[Access below article to learn more.]]></description>
+    <title><![CDATA[如何在合作夥伴中心下載或查看 Microsoft 合作夥伴網路協議？]]></title>
+    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[How to download the Microsoft Partner Network agreement - Partner Center]]></text>
+        <text><![CDATA[如何下載 Microsoft 合作夥伴網路協議 - 合作夥伴中心]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4488914/?tpqid=100-000103]]></url>
       </link>
     </articlelinks></question><question>
@@ -989,5 +1001,50 @@ If by mistake partners added seats instead of renewing them, they must reach out
       <link>
         <text><![CDATA[了解您的獎勵支出]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/understand-incentive-payouts?tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000084</id>
+    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[如何找出我收到的付款是針對哪一個獎勵程式？]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4483767?tpqid=400-000084]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000085</id>
+    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[夥伴獎勵程式輔助線]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2952918?tpqid=400-000085]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000086</id>
+    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
+    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[夥伴中心遷移的夥伴成員資格中心]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490453?tpqid=400-000086]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000087</id>
+    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
+    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[在夥伴中心儀表板的獎勵程式的註冊]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000088</id>
+    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
+    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[在夥伴中心移轉的夥伴成員資格中心常見問題]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
     </articlelinks></question></group></groups>
