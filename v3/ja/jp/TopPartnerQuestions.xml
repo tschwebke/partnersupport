@@ -209,15 +209,6 @@
         <url><![CDATA[https://support.microsoft.com/help/2952918?tpqid=400-000085]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000086</id>
-    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[パートナー ・ センターの移行にパートナー メンバーシップ センター]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4490453?tpqid=400-000086]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000087</id>
     <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
     <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
@@ -232,27 +223,28 @@
     <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[パートナー ・ センターの移行にパートナー メンバーシップ センターによく寄せられる質問]]></text>
+        <text><![CDATA[FAQ - PMC to PC Migration leading to Incentive Enrolment]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
-    </articlelinks></question></group><group title="テクニカル サポート (製品、プラットフォーム、ツール)" refid="TechnicalSupport"><question>
-    <id>700-000003</id>
-    <title><![CDATA[製品に関する技術的な質問に役立つ Microsoft Azure、Microsoft Dynamics 365、または Office 365 のコミュニティ フォーラムはありますか?]]></title>
-    <description><![CDATA[あります! 製品に関する技術的な質問に回答するためのコミュニティ フォーラムが複数あります。]]></description>
+    </articlelinks></question><question>
+    <id>400-000089</id>
+    <title><![CDATA[Where can I learn more about OSA Claim?]]></title>
+    <description><![CDATA[Below document provides information on the claim launch summary; functionality and important resources on how to successfully submit a claim.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Azure コミュニティ]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Dynamics 365 コミュニティ]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Office 365 コミュニティ]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
+        <text><![CDATA[OSA 要求モデルとプロセス]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
       </link>
     </articlelinks></question><question>
+    <id>400-000090</id>
+    <title><![CDATA[Where can I access to the commonly asked questions to the OSA Claim Process?]]></title>
+    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to OSA Claim. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[OSA の要求によく寄せられる質問]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4491739?tpqid=400-000090]]></url>
+      </link>
+    </articlelinks></question></group><group title="テクニカル サポート (製品、プラットフォーム、ツール)" refid="TechnicalSupport"><question>
     <id>700-000001</id>
     <title><![CDATA[Dynamics 製品に関する問題や質問に対するサポートはどこで受けられますか?]]></title>
     <description><![CDATA[パートナー ソース経由でサービスリクエストを作成してください。これはサイトの「Pricing and Ordering」セクションにアクセスし、[New Operations Request] を選択することで実行できます。リクエストの中で IT 番号を引用するか、エージェントと直接チャットしてください。リクエストが納得のいく形で解決しない場合は、本文に IT 番号を記載しDynamics まで電子メールにてエスカレーションしてください。]]></description>
@@ -278,20 +270,24 @@
         <text><![CDATA[Microsoft Dynamics 365 サポート (サインインする必要があります)]]></text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
       </link>
-    </articlelinks></question></group><group title="テクニカル プリセールス、展開、アプリ開発" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000112</id>
-    <title><![CDATA[テクニカル ジャーニーとは? パートナー企業にとってテクニカル ジャーニーが重要な理由とは?]]></title>
-    <description><![CDATA[テクニカル ジャーニーは、技術能力をより早く構築することで販売、展開およびアプリ開発を加速化する助けとなります。インタラクティブな技術ウェビナーの推奨パスを通じてマイクロソフト パートナー テクニカル コンサルタントの技術的なガイダンスや、仮想ホワイトボーディング、アーキテクチャ レビュー、実際のシナリオのシャドウ処理に関するパーソナライズされたコンサルテーションを得るために、テクニカル ジャーニーを始めましょう。 ]]></description>
+    </articlelinks></question><question>
+    <id>700-000003</id>
+    <title><![CDATA[製品に関する技術的な質問に役立つ Microsoft Azure、Microsoft Dynamics 365、または Office 365 のコミュニティ フォーラムはありますか?]]></title>
+    <description><![CDATA[あります! 製品に関する技術的な質問に回答するためのコミュニティ フォーラムが複数あります。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[テクニカル ジャーニーを始めましょう。]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+        <text><![CDATA[Microsoft Azure コミュニティ]]></text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN Technical Journey ブログ]]></text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
+        <text><![CDATA[Microsoft Dynamics 365 コミュニティ]]></text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text><![CDATA[Office 365 コミュニティ]]></text>
+        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
+      </link>
+    </articlelinks></question></group><group title="テクニカル プリセールス、展開、アプリ開発" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000113</id>
     <title><![CDATA[テクニカル ジャーニー全体を通じてマイクロソフト パートナー テクニカル コンサルタントとどのように関わればいいでしょうか?]]></title>
     <description><![CDATA[テクニカル エンゲージメント オプションの詳細]]></description>
@@ -334,6 +330,19 @@
         <text><![CDATA[サポートされている製品とシナリオ]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title><![CDATA[テクニカル ジャーニーとは? パートナー企業にとってテクニカル ジャーニーが重要な理由とは?]]></title>
+    <description><![CDATA[テクニカル ジャーニーは、技術能力をより早く構築することで販売、展開およびアプリ開発を加速化する助けとなります。インタラクティブな技術ウェビナーの推奨パスを通じてマイクロソフト パートナー テクニカル コンサルタントの技術的なガイダンスや、仮想ホワイトボーディング、アーキテクチャ レビュー、実際のシナリオのシャドウ処理に関するパーソナライズされたコンサルテーションを得るために、テクニカル ジャーニーを始めましょう。 ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[テクニカル ジャーニーを始めましょう。]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[MPN Technical Journey ブログ]]></text>
+        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
+      </link>
     </articlelinks></question></group><group title="トレーニング" refid="Training"><question>
     <id>1200-1000110</id>
     <title><![CDATA[パートナー特典で提供されるVisual Studio Online特典を管理するには？　]]></title>
@@ -348,19 +357,6 @@
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=1200-1000110]]></url>
       </link>
     </articlelinks></question></group><group title="プログラムとメンバーシップ" refid="ProgramsMembership"><question>
-    <id>100-000061</id>
-    <title><![CDATA[MAPSの有効期限は、どこで確認できますか？]]></title>
-    <description><![CDATA[有効期限を確認するには、パートナー メンバーシップ センターにサインインします。メニュー オプションの「ご注文とライセンスキー」を選びます。そして Microsoft Action Pack サブスクリプションをクリックします。パートナーセンターでも有効期限を確認することができます。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[MAPS またはコンピテンシーの有効期限を確認する方法]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4090552?tpqid=100-000061]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Action Pack サブスクリプションを初めて購入する、または更新する]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000069</id>
     <title><![CDATA[当社はマイクロソフト パートナー ネットワークに登録しています。　パートナーアカウントに社員を関連付けするには、どうすればよいでしょう？]]></title>
     <description><![CDATA[既にマイクロソフト アカウントがある場合、パートナー メンバーシップ センターにサインインして、登録社員のページから関連付けを行います。マイクロソフト アカウントがない場合は事前にアカウントを作成する必要があります。]]></description>
@@ -478,7 +474,7 @@
         <text><![CDATA[Partner Portal: クラウド プラットフォーム]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="1">
+    </articlelinks></question><question>
     <id>100-000099</id>
     <title><![CDATA[新しいパートナー センターでアカウントをどのように設定するのでしょうか? ]]></title>
     <description><![CDATA[以下のリンクにアクセスして詳細をご確認ください。]]></description>
@@ -621,25 +617,38 @@
         <text><![CDATA[パートナーの組織への MCP ID のリンク付けまたは外し]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2966380?tpqid=100-000050]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>100-000061</id>
+    <title><![CDATA[MAPSの有効期限は、どこで確認できますか？]]></title>
+    <description><![CDATA[有効期限を確認するには、パートナー メンバーシップ センターにサインインします。メニュー オプションの「ご注文とライセンスキー」を選びます。そして Microsoft Action Pack サブスクリプションをクリックします。パートナーセンターでも有効期限を確認することができます。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[MAPS またはコンピテンシーの有効期限を確認する方法]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4090552?tpqid=100-000061]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Action Pack サブスクリプションを初めて購入する、または更新する]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000061]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>100-000104</id>
+    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
+    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.
+Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new Partner Center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Partner Center Help]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/partner-center-help?tpqid=100-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Partner Centerのアカウントに関する FAQ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4340639?tpqid=100-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[パートナー センター アカウントを作成する]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center?tpqid=100-000104]]></url>
+      </link>
     </articlelinks></question></group><group title="ライセンス、販売、マーケティング" refid="LicensingSalesMarketing"><question>
-    <id>1500-000006</id>
-    <title><![CDATA[自宅使用プログラムについて]]></title>
-    <description><![CDATA[自宅使用プログラムとは、Office アプリケーションの有効なソフトウェア アシュアランス契約を保有するマイクロソフトのボリューム ライセンス顧客に対して提供されるソフトウェア アシュアランス特典です。職場で契約対象のライセンスを使用する従業員は、雇用期間中にこれらの Office アプリケーションを購入し、個人用デバイスで使用できます。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[自宅使用プログラム]]></text>
-        <url><![CDATA[https://www.microsofthup.com/hupuk/hup.aspx?tpqid=1500-000006]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000007</id>
-    <title><![CDATA[Dynamics パートナーです。ソリューション プロバイダー契約 (SPA) 経由で取引を行いたいのですが、登録方法を教えてください。]]></title>
-    <description><![CDATA[まず、以下のパートナー ソース リンクから興味分野をご登録ください。処理が開始された時点でさらなるサポートが必要な場合は、現地の Regional Operational Center (ROC) に電子メールにてお問い合わせください。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Dynamics PartnerSource]]></text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1500-000008</id>
     <title><![CDATA[マイクロソフトのライセンスの詳細情報]]></title>
     <description><![CDATA[ライセンスのその他の質問については、以下の記事を参照してください。]]></description>
@@ -665,22 +674,6 @@
       <link>
         <text><![CDATA[Microsoft Partner Network 特典パッケージ活用に関するガイド ]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="7">
-    <id>1500-000012</id>
-    <title><![CDATA[Office 365 サブスクリプションのシートを更新する必要があるのですが、シートを追加するオプションしか表示されません。どうすればよいですか。]]></title>
-    <description><![CDATA[システムの設計として、更新期間に生成されたトークンのシート数よりもサブスクリプションのシート数が多い場合、"更新/延長" オプションは表示されません。 
-シートを更新/延長するオプションを表示するには、新しいトークンのシート数以下になるまでユーザーからライセンス/シートを削除する必要があります。この回避策は、受け取った新しいトークンをアクティブにする前に適用できます。
-シートを追加し、シートを更新しないことを選択すると、それらのシートに提供される特典は 12 か月未満になります。
-シートを更新するのではなく誤ってシートを追加した場合は、トークンがアクティブ化されてから 30 日以内に Frontline チームに連絡する必要があります。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Microsoft Partner Network の特典パッケージの使用ガイド]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000012]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Frontline チーム]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?tpqid=1500-000012]]></url>
       </link>
     </articlelinks></question><question>
     <id>1500-000011</id>
@@ -743,20 +736,25 @@
         <text><![CDATA[Microsoft Operations (MSOps) サービス要求を送信および管理する]]></text>
         <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
       </link>
-    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-1000112</id>
-    <title><![CDATA[Office365の試用版を利用していますが、試用期間の延長をすることはできますか？]]></title>
-    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
-Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
-※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
-※代理管理ではこの手続きを行うことができません。
-※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000006</id>
+    <title><![CDATA[自宅使用プログラムについて]]></title>
+    <description><![CDATA[自宅使用プログラムとは、Office アプリケーションの有効なソフトウェア アシュアランス契約を保有するマイクロソフトのボリューム ライセンス顧客に対して提供されるソフトウェア アシュアランス特典です。職場で契約対象のライセンスを使用する従業員は、雇用期間中にこれらの Office アプリケーションを購入し、個人用デバイスで使用できます。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Office365管理センタ]]></text>
-        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
+        <text><![CDATA[自宅使用プログラム]]></text>
+        <url><![CDATA[https://www.microsofthup.com/hupuk/hup.aspx?tpqid=1500-000006]]></url>
       </link>
     </articlelinks></question><question>
+    <id>1500-000007</id>
+    <title><![CDATA[Dynamics パートナーです。ソリューション プロバイダー契約 (SPA) 経由で取引を行いたいのですが、登録方法を教えてください。]]></title>
+    <description><![CDATA[まず、以下のパートナー ソース リンクから興味分野をご登録ください。処理が開始された時点でさらなるサポートが必要な場合は、現地の Regional Operational Center (ROC) に電子メールにてお問い合わせください。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Dynamics PartnerSource]]></text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
+      </link>
+    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-1000113</id>
     <title><![CDATA[「Office365試用版のデータが削除されます」との通知がきました。すでに製品版を有効化して利用していますが、製品版のサブスクリプションも削除されるのですか？]]></title>
     <description><![CDATA[いいえ。　試用版で利用いただいていたサブスクリプションのみが削除されます。　製品版で利用いただいているサブスクリプションには影響がありません。　有効化の手順については、以下各種ウェブサイトをご覧ください。]]></description>
@@ -860,20 +858,20 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[パートナー メンバーシップ フォーラムプライベート投稿について ]]></text>
         <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
       </link>
-    </articlelinks></question></group><group title="特典" refid="Benefits"><question>
-    <id>300-000100</id>
-    <title><![CDATA[テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?]]></title>
-    <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
+    </articlelinks></question><question>
+    <id>800-1000112</id>
+    <title><![CDATA[Office365の試用版を利用していますが、試用期間の延長をすることはできますか？]]></title>
+    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
+Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
+※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
+※代理管理ではこの手続きを行うことができません。
+※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[基本特典と要件]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+        <text><![CDATA[Office365管理センタ]]></text>
+        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
       </link>
-       <link>
-        <text><![CDATA[Microsoft Partner Network の技術的特典の概要]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000100]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="特典" refid="Benefits"><question>
     <id>300-000101</id>
     <title><![CDATA[テクニカル/プロフェッショナル サポート インシデントを送信するにはどうすればよいですか?]]></title>
     <description><![CDATA[テクニカル サポートを受ける資格を確認するには、「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
@@ -900,7 +898,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://docs.microsoft.com/partner-center/competencies?tpqid=300-000102]]></url>
       </link>
        <link>
-        <text><![CDATA[License Table for Competency Partners]]></text>
+        <text><![CDATA[コンピテンシー パートナーのライセンスの一覧(英語のみ)]]></text>
         <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000102]]></url>
       </link>
     </articlelinks></question><question>
@@ -1012,23 +1010,6 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
-    <id>300-000113</id>
-    <title><![CDATA[Microsoft Action Pack サブスクリプションで得られる特典は何ですか?]]></title>
-    <description><![CDATA[詳細については、以下のリソースをご確認ください。 ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[Microsoft Action Pack サブスクリプションの初めての購入、または更新]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Action Pack サブスクリプション プログラムのよく寄せられる質問]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Action Pack パートナーのためのライセンス一覧]]></text>
-        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
-      </link>
     </articlelinks></question><question>
     <id>300-000014</id>
     <title><![CDATA[What are partner advisory hours?]]></title>
@@ -1045,6 +1026,23 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[Microsoft Partner Network の技術的特典の概要]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000014]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>300-000113</id>
+    <title><![CDATA[Microsoft Action Pack サブスクリプションで得られる特典は何ですか?]]></title>
+    <description><![CDATA[詳細については、以下のリソースをご確認ください。 ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Action Pack サブスクリプションの初めての購入、または更新]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Action Pack サブスクリプション プログラムのよく寄せられる質問]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2932638?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Action Pack パートナーのためのライセンス一覧]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-1000116</id>
@@ -1094,6 +1092,65 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000115</id>
+    <title><![CDATA[When will Microsoft Office Professional 2019 become available for Microsoft Action Pack (MAPS)?]]></title>
+    <description><![CDATA[This benefit is already available for Standard MAPS.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Please check the MAPS License table]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000116</id>
+    <title><![CDATA[Why do I have only 5 E3 subscriptions instead of what I had before renewing Microsoft Action Pack?]]></title>
+    <description><![CDATA[An Action Pack Subscription will always receive 5 E3 licenses when a renewal process is completed. To check the number of licenses/ seats received please take a look at the license table found on the link below. 
+In case the number received is not the same with the one you are entitled to, please reach out to Frontline team.  For competencies renewal partners are entitled to receive a set of Core benefits for the Silver or Gold level and an incremental set of benefits based on each competency attained.  ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[IURs License Table]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Frontline チーム]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=300-000116]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000117</id>
+    <title><![CDATA[Why am I experiencing IUR issues with Office 2016 activation?]]></title>
+    <description><![CDATA[Office 2016 is not available as an IUR anymore. It has been replaced by Office 2019. Once the token has reached his activation limit it can no longer be extended.    These products have finite number of installations, activations, or seats. A product key will stop working when all installations and activations have been consumed.  Additional activations for these product keys will not be granted.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[社内使用権 クラウドおよびソフトウェア特典]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000117]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000118</id>
+    <title><![CDATA[Why have I lost all Microsoft Partner benefits after renewal?]]></title>
+    <description><![CDATA[Due to various scenarios, please reach out to the Frontline support team to assist.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Frontline チーム]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=300-000118]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000119</id>
+    <title><![CDATA[When will Server 2019 become available to download in our Microsoft Partner Network benefits?]]></title>
+    <description><![CDATA[Please check the License table. You can find there all Server 2019 benefits available.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[IURs License Table]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000119]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000120</id>
+    <title><![CDATA[Can I upgrade the IURs from EMS E3 to E5?]]></title>
+    <description><![CDATA[IUR is a static benefit. It cannot be used to upgrade from E3 to E5.  In order to receive an E5 you must attain a competency. Please check the License table for competencies and see what is the competency that can offer this benefit.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[コンピテンシー パートナーのライセンスの一覧(英語のみ)]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000120]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000098</id>
     <title><![CDATA[Microsoft Referrals でアプリケーション認定を行うにはどうしますか？]]></title>
     <description><![CDATA[マイクロソフト認定またはプログラムに参加すると、紹介に役立ちます。 ]]></description>
@@ -1110,5 +1167,51 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       <link>
         <text><![CDATA[My Visual Studio の登録]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4017803?tpqid=300-000099]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000100</id>
+    <title><![CDATA[テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?]]></title>
+    <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[基本特典と要件]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Microsoft Partner Network の技術的特典の概要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000100]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="7">
+    <id>300-000121</id>
+    <title><![CDATA[I'm only seeing options to add seats when renewing my Office 365 subscription, what do I do?]]></title>
+    <description><![CDATA[システムの設計として、更新期間に生成されたトークンのシート数よりもサブスクリプションのシート数が多い場合、"更新/延長" オプションは表示されません。 
+シートを更新/延長するオプションを表示するには、新しいトークンのシート数以下になるまでユーザーからライセンス/シートを削除する必要があります。この回避策は、受け取った新しいトークンをアクティブにする前に適用できます。
+シートを追加し、シートを更新しないことを選択すると、それらのシートに提供される特典は 12 か月未満になります。
+シートを更新するのではなく誤ってシートを追加した場合は、トークンがアクティブ化されてから 30 日以内に Frontline チームに連絡する必要があります。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[Microsoft Partner Network の特典パッケージの使用ガイド]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000121]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Frontline チーム]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=300-000121]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000122</id>
+    <title><![CDATA[What software benefits do I get?]]></title>
+    <description><![CDATA[詳細については、以下のリンクを参照してください]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[マイクロソフト アクション パック パートナーのライセンスの一覧(英語のみ) ]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000122]]></url>
+      </link>
+       <link>
+        <text><![CDATA[コンピテンシー パートナーのライセンスの一覧(英語のみ) ]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000122]]></url>
+      </link>
+       <link>
+        <text><![CDATA[製品使用ガイドからソフトウェアおよびクラウド サービスの特典まで]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000122]]></url>
       </link>
     </articlelinks></question></group></groups>
