@@ -130,7 +130,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>300-000106</id>
-    <title><![CDATA[Quelles sont les étapes à suivre pour créer un compte d’utilisateur et attribuer des autorisations ?]]></title>
+    <title><![CDATA[Quelles sont les étapes à suivre pour créer un compte d’utilisateur et attribuer des autorisations dans l’Espace partenaires ?]]></title>
     <description><![CDATA[Vous pouvez à présent attribuer trois nouveaux rôles aux utilisateurs dans l’Espace partenaires afin de gérer votre activité, l’administration Microsoft Partner Network, l’administration des profils métier et l’administration des recommandations.]]></description>
     <articlelinks>
       <link>
@@ -222,37 +222,38 @@
     </articlelinks></question><question>
     <id>300-000114</id>
     <title><![CDATA[Les partenaires peuvent-ils acheter des modules complémentaires dans le cadre du programme de bénéfices IUR ?]]></title>
-    <description><![CDATA[Dans MPN, nous ne vendons actuellement aucun module complémentaire unique pour les SKU IUR.  Le droit IUR proposé dans le cadre du programme MPN est soumis à la politique de licence qui stipule qu’un partenaire n’est pas autorisé à utiliser l’IUR pour en tirer des profits. Le partenaire peut essayer d’acheter des modules complémentaires de ce type de son propre gré en dehors du programme MPN. Si ces modules fonctionnent, ils ne posent aucun problème du point de vue MPN sous réserve du respect des règles d’utilisation de l’IUR MPN.]]></description>
+    <description><![CDATA[Dans Microsoft Partner Network, nous ne vendons actuellement aucun module complémentaire unique pour les SKU IUR.  Le droit IUR proposé dans le cadre du programme MPN est soumis à la politique de licence qui stipule qu’un partenaire n’est pas autorisé à utiliser l’IUR pour en tirer des profits. Le partenaire peut essayer d’acheter des modules complémentaires de ce type de son propre gré en dehors du programme MPN. Si ces modules fonctionnent, ils ne posent aucun problème du point de vue MPN sous réserve du respect des règles d’utilisation de l’IUR MPN.
+Si le partenaire souhaite acheter un module complémentaire par le biais du modèle de ventes directes, d’un fournisseur indirect CSP ou d’un contrat de licences en volume, il devra peut-être acheter un poste du SKU de base avant de pouvoir acheter le module complémentaire. En effet, certains modules complémentaires doivent être achetés par le biais du même canal de vente que le SKU de base.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <text><![CDATA[Acheter un module complémentaire par le biais du modèle de ventes directes]]></text>
         <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <text><![CDATA[Acheter un module complémentaire par le biais d’un fournisseur indirect CSP]]></text>
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <text><![CDATA[Comparer les programmes de licences en volume Microsoft]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000115</id>
-    <title><![CDATA[When will Microsoft Office Professional 2019 become available for Microsoft Action Pack (MAPS)?]]></title>
-    <description><![CDATA[This benefit is already available for Standard MAPS.]]></description>
+    <title><![CDATA[Quand Microsoft Office Professionnel 2019 sera-t-il disponible pour Microsoft Action Pack (MAPS) ?]]></title>
+    <description><![CDATA[Cet avantage est déjà disponible pour Standard MAPS.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Please check the MAPS License table]]></text>
+        <text><![CDATA[Consultez le tableau des licences MAPS]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000116</id>
-    <title><![CDATA[Why do I have only 5 E3 subscriptions instead of what I had before renewing Microsoft Action Pack?]]></title>
-    <description><![CDATA[An Action Pack Subscription will always receive 5 E3 licenses when a renewal process is completed. To check the number of licenses/ seats received please take a look at the license table found on the link below. 
-In case the number received is not the same with the one you are entitled to, please reach out to Frontline team.  For competencies renewal partners are entitled to receive a set of Core benefits for the Silver or Gold level and an incremental set of benefits based on each competency attained.  ]]></description>
+    <title><![CDATA[Je n’ai plus que 5 abonnements E3 après avoir renouvelé Microsoft Action Pack. Pourquoi ?]]></title>
+    <description><![CDATA[Un abonnement Action Pack reçoit toujours 5 licences E3 lorsqu’une procédure de renouvellement est terminée. Pour vérifier le nombre de licences/postes reçus, consultez le tableau des licences accessible par le biais du lien ci-dessous. 
+Si le nombre reçu diffère de celui dont vous pouvez bénéficier, contactez l’équipe Frontline.  En ce qui concerne le renouvellement des compétences, les partenaires sont autorisés à recevoir un ensemble d’avantages Core pour le niveau Silver ou Gold, ainsi qu’un ensemble d’avantages en fonction de chaque compétence obtenue.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[Tableau des licences IUR]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
       </link>
        <link>
@@ -261,8 +262,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000117</id>
-    <title><![CDATA[Why am I experiencing IUR issues with Office 2016 activation?]]></title>
-    <description><![CDATA[Office 2016 is not available as an IUR anymore. It has been replaced by Office 2019. Once the token has reached his activation limit it can no longer be extended.    These products have finite number of installations, activations, or seats. A product key will stop working when all installations and activations have been consumed.  Additional activations for these product keys will not be granted.]]></description>
+    <title><![CDATA[Je rencontre des problèmes IUR liés à l’activation d’Office 2016. Pourquoi ?]]></title>
+    <description><![CDATA[Office 2016 n’est plus disponible en tant qu’IUR. Il a été remplacé par Office 2019. Dès qu’il aura atteint la limite d’activation, le jeton ne pourra plus être étendu.    Ces produits sont assortis d’un nombre limité d’installations, d’activations ou de postes. Une clé de produit cesse de fonctionner lorsque toutes les installations et les activations ont été utilisées.  Des activations supplémentaires pour ces clés de produit ne seront pas octroyées.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Avantage logiciels et Cloud lié aux licences à usage interne]]></text>
@@ -270,8 +271,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000118</id>
-    <title><![CDATA[Why have I lost all Microsoft Partner benefits after renewal?]]></title>
-    <description><![CDATA[Due to various scenarios, please reach out to the Frontline support team to assist.]]></description>
+    <title><![CDATA[J’ai perdu tous les avantages Partenaire Microsoft à la suite du renouvellement. Pourquoi ?]]></title>
+    <description><![CDATA[Étant donné la diversité des causes possibles, contactez l’équipe de support Frontline pour obtenir de l’aide.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Équipe Frontline]]></text>
@@ -279,17 +280,17 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000119</id>
-    <title><![CDATA[When will Server 2019 become available to download in our Microsoft Partner Network benefits?]]></title>
-    <description><![CDATA[Please check the License table. You can find there all Server 2019 benefits available.]]></description>
+    <title><![CDATA[Quand Server 2019 sera-t-il disponible au téléchargement dans les avantages Microsoft Partner Network ?]]></title>
+    <description><![CDATA[Consultez le tableau des licences. Vous y trouverez l’ensemble des avantages disponibles pour Server 2019.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[Tableau des licences IUR]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000119]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000120</id>
-    <title><![CDATA[Can I upgrade the IURs from EMS E3 to E5?]]></title>
-    <description><![CDATA[IUR is a static benefit. It cannot be used to upgrade from E3 to E5.  In order to receive an E5 you must attain a competency. Please check the License table for competencies and see what is the competency that can offer this benefit.]]></description>
+    <title><![CDATA[Puis-je effectuer une mise à niveau des IUR d’EMS E3 vers E5 ?]]></title>
+    <description><![CDATA[IUR est un avantage statique. Il ne peut dès lors pas être utilisé pour effectuer une mise à niveau de E3 vers E5.  Pour bénéficier de E5, vous devez obtenir une compétence. Consultez le tableau des licences pour connaître les compétences disponibles et la compétence liée à cet avantage.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Tableau des licences pour les partenaires de compétence]]></text>
@@ -297,7 +298,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>300-000121</id>
-    <title><![CDATA[I am only seeing options to add seats when renewing my Office 365 subscription, what do I do?]]></title>
+    <title><![CDATA[Je ne vois que des options d’ajout de postes lors du renouvellement de mon abonnement Office 365. Que faire ?]]></title>
     <description><![CDATA[Par nature, le système n’affiche pas l’option « renouveler/étendre » si le nombre de postes dont dispose le partenaire dans le cadre de son abonnement est supérieur à celui du jeton généré dans la fenêtre de renouvellement. 
 Pour que l’option de renouvellement/extension de postes s’affiche, le partenaire doit supprimer les licences/postes des utilisateurs jusqu’à atteindre le même nombre de postes que celui de son jeton ou un nombre inférieur. Cette solution de contournement doit être appliquée avant d’activer le nouveau jeton reçu.
 En cas d’ajout de postes sans les renouveler, le système propose moins de 12 mois d’avantages.
@@ -313,7 +314,7 @@ Si un partenaire ajoute des postes par inadvertance au lieu de les renouveler, i
       </link>
     </articlelinks></question><question>
     <id>300-000122</id>
-    <title><![CDATA[What software benefits do I get?]]></title>
+    <title><![CDATA[Quels sont les avantages logiciels dont je bénéficie ?]]></title>
     <description><![CDATA[Consultez les liens suivants pour plus d’informations]]></description>
     <articlelinks>
       <link>
@@ -696,7 +697,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>400-000084</id>
-    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <title><![CDATA[J’ai reçu une remise. À quel programme de primes incitatives et/ou période s’applique-t-elle ?]]></title>
     <description><![CDATA[Accédez à l’article ci-dessous pour en savoir plus.]]></description>
     <articlelinks>
       <link>
@@ -705,7 +706,7 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>400-000085</id>
-    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <title><![CDATA[Quels sont les programmes de primes incitatives de Microsoft ?]]></title>
     <description><![CDATA[Accédez à l’article ci-dessous pour en savoir plus.]]></description>
     <articlelinks>
       <link>
@@ -714,8 +715,8 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>400-000089</id>
-    <title><![CDATA[Where can I learn more about OSA Claim?]]></title>
-    <description><![CDATA[Below document provides information on the claim launch summary; functionality and important resources on how to successfully submit a claim.]]></description>
+    <title><![CDATA[Où puis-je trouver plus d’informations sur la revendication OSA ?]]></title>
+    <description><![CDATA[Le document ci-dessous fournit des informations sur le lancement de revendication, des fonctionnalités et des ressources importantes sur l’envoi d’une revendication.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Processus et le modèle de demande d’OSA]]></text>
@@ -723,8 +724,8 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>400-000090</id>
-    <title><![CDATA[Where can I access to the commonly asked questions to the OSA Claim Process?]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to OSA Claim. ]]></description>
+    <title><![CDATA[Où puis-je consulter les questions fréquentes relatives à la procédure de revendication OSA ?]]></title>
+    <description><![CDATA[Le document ci-dessous aborde toutes les questions fréquentes et les réponses relatives à la revendication OSA. ]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Forum aux questions sur la demande d’OSA]]></text>
@@ -732,8 +733,8 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>400-000087</id>
-    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
-    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
+    <title><![CDATA[Comment s’inscrire à des programmes de primes incitatives dans l’Espace partenaires ?]]></title>
+    <description><![CDATA[Ce document détaille la procédure de gestion des utilisateurs, ainsi que de l’inscription à des programmes de primes incitatives dans l’Espace partenaires.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Inscription des programmes d’Incentives dans le tableau de bord centre de partenaires]]></text>
@@ -741,11 +742,11 @@ Note : Les partenaires ne peuvent pas utiliser les clés de leurs Windows 8 ou 8
       </link>
     </articlelinks></question><question>
     <id>400-000088</id>
-    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <title><![CDATA[Quelles sont les questions fréquentes relatives à la migration vers l’Espace partenaires ?]]></title>
+    <description><![CDATA[Le document ci-dessous aborde toutes les questions fréquentes et les réponses relatives à la migration de PMC vers l’Espace partenaires.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[FAQ - PMC to PC Migration leading to Incentive Enrolment]]></text>
+        <text><![CDATA[FAQ - Migration de PMC vers PC entraînant une inscription à des primes incitatives]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
     </articlelinks></question></group><group title="Programmes et abonnement" refid="ProgramsMembership"><question>
@@ -1016,12 +1017,12 @@ Si vous ne disposez pas d'un compte Microsoft, veuillez en créer un.
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000104</id>
-    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.
-Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new Partner Center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <title><![CDATA[Comment migrer de Partner Membership Center vers l’Espace partenaires ?]]></title>
+    <description><![CDATA[L’article ci-dessous fournit des informations sur la procédure de migration de PMC vers PC, du contexte supplémentaire sur Microsoft Partner Network et du support.
+Avant de démarrer la procédure, veillez à ce qu’elle sera effectuée par l’administrateur Global Admin qui a identifié le client Azure Active Directory (AAD) à associer au nouveau portail de l’Espace partenaires. De plus, le siège social du pays doit correspondre au pays du client AAD et l’abonnement/compétences Partner Network ne doivent pas avoir un état expiré. Si des ABTK ont déjà été achetés sur le compte, vous devez les renouveler/racheter avant la migration.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Partner Center Help]]></text>
+        <text><![CDATA[Aide de l’Espace partenaires]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partner-center-help?tpqid=100-000104]]></url>
       </link>
        <link>
@@ -1073,7 +1074,7 @@ Before starting the process please make sure that the process will be completed 
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[Blog sur les parcours techniques de MPN]]></text>
+        <text><![CDATA[Blog sur les parcours techniques de Microsoft Partner Network]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
@@ -1099,7 +1100,7 @@ Before starting the process please make sure that the process will be completed 
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Blog sur les parcours techniques de MPN]]></text>
+        <text><![CDATA[Blog sur les parcours techniques de Microsoft Partner Network]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>

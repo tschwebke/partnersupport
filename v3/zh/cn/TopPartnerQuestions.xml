@@ -101,7 +101,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN 技术之旅博客]]></text>
+        <text><![CDATA[Microsoft Partner Network 技术之旅博客]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -131,7 +131,7 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN 技术之旅博客]]></text>
+        <text><![CDATA[Microsoft Partner Network 技术之旅博客]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question></group><group title="帐户设置和管理" refid="AccountSetupManagement"><question>
@@ -458,7 +458,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>300-000106</id>
-    <title><![CDATA[创建用户帐户和分配权限的步骤是什么？]]></title>
+    <title><![CDATA[在合作伙伴中心，创建用户帐户和分配权限的步骤是什么？]]></title>
     <description><![CDATA[现在可以在合作伙伴中心向用户分配可帮助你管理业务的三个新角色：Microsoft Partner Network 管理员、业务配置文件管理员和引荐管理员。]]></description>
     <articlelinks>
       <link>
@@ -501,11 +501,11 @@
     <description><![CDATA[首先查看你的权益权利，然后联机查看你的合同是否已激活，并根据需要请求激活。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft 合作伙伴网络技术权益摘要]]></text>
+        <text><![CDATA[Microsoft Partner Network 技术权益摘要]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft 合作伙伴网络支持合同激活 -（空白）小时或事件]]></text>
+        <text><![CDATA[Microsoft Partner Network 支持合同激活 -（空白）小时或事件]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="8">
@@ -578,7 +578,7 @@
         <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft 合作伙伴网络技术权益摘要]]></text>
+        <text><![CDATA[Microsoft Partner Network 技术权益摘要]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000014]]></url>
       </link>
     </articlelinks></question><question>
@@ -662,37 +662,38 @@
     </articlelinks></question><question>
     <id>300-000114</id>
     <title><![CDATA[合作伙伴是否可以购买附加内容作为 IUR 权益计划的一部分？]]></title>
-    <description><![CDATA[在 MPN 中，我们目前不出售任何 IUR SKU 的任何独特的附加产品。通过 MPN 计划提供的 IUR 受许可证策略的约束，该策略保持合作伙伴不得将 IUR 用于创收目的。合作伙伴可以尝试在 MPN 计划之外自己购买此类附加内容，如果可行，只要他们遵守 MPN IUR 的使用规则，从 MPN 角度来看就没有问题。]]></description>
+    <description><![CDATA[在 Microsoft Partner Network 中，我们目前不出售任何 IUR SKU 的任何独特的附加产品。通过 MPN 计划提供的 IUR 受许可证策略的约束，该策略保持合作伙伴不得将 IUR 用于创收目的。合作伙伴可以尝试在 MPN 计划之外自己购买此类附加内容，如果可行，只要他们遵守 MPN IUR 的使用规则，从 MPN 角度来看就没有问题。
+如果合作伙伴希望通过直接销售模式、CSP 间接提供商或批量许可协议购买附加产品，他们可能需要购买基本 SKU 的一个座席，才能购买附加产品。这背后的原因是一些附加产品必须通过与基本 SKU 相同的销售渠道购买。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <text><![CDATA[通过直接销售模式购买附加产品]]></text>
         <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <text><![CDATA[通过 CSP 间接提供商购买附加产品]]></text>
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <text><![CDATA[比较 Microsoft 批量许可计划]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000115</id>
-    <title><![CDATA[When will Microsoft Office Professional 2019 become available for Microsoft Action Pack (MAPS)?]]></title>
-    <description><![CDATA[This benefit is already available for Standard MAPS.]]></description>
+    <title><![CDATA[Microsoft Office Professional 2019 何时可用于 Microsoft Action Pack (MAPS)？]]></title>
+    <description><![CDATA[标准 MAPS 已提供此权益。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Please check the MAPS License table]]></text>
+        <text><![CDATA[请检查 MAPS 许可证表]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000116</id>
-    <title><![CDATA[Why do I have only 5 E3 subscriptions instead of what I had before renewing Microsoft Action Pack?]]></title>
-    <description><![CDATA[An Action Pack Subscription will always receive 5 E3 licenses when a renewal process is completed. To check the number of licenses/ seats received please take a look at the license table found on the link below. 
-In case the number received is not the same with the one you are entitled to, please reach out to Frontline team.  For competencies renewal partners are entitled to receive a set of Core benefits for the Silver or Gold level and an incremental set of benefits based on each competency attained.  ]]></description>
+    <title><![CDATA[为什么我仅有 5 个 E3 订阅，而不是续订 Microsoft Action Pack 之前所拥有的那几个订阅？]]></title>
+    <description><![CDATA[完成续订过程后，一个 Action Pack 订阅将始终收到 5 个 E3 许可证。若要查看收到的许可证/座席数量，请单击下面的链接，查看许可证表。 
+如果您收到的数量与您有权享有的数量不一致，请联系前线团队。关于资格，续订的合作伙伴有权获得一组白银级或黄金级核心权益，以及基于所获得的每项资格的一组增量权益。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[IUR 许可证表]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
       </link>
        <link>
@@ -701,8 +702,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000117</id>
-    <title><![CDATA[Why am I experiencing IUR issues with Office 2016 activation?]]></title>
-    <description><![CDATA[Office 2016 is not available as an IUR anymore. It has been replaced by Office 2019. Once the token has reached his activation limit it can no longer be extended.    These products have finite number of installations, activations, or seats. A product key will stop working when all installations and activations have been consumed.  Additional activations for these product keys will not be granted.]]></description>
+    <title><![CDATA[为什么在激活 Office 2016 时会遇到 IUR 问题？]]></title>
+    <description><![CDATA[Office 2016 不再作为 IUR 提供。它已被 Office 2019 取代。标记一旦达到激活限制，将不能再被扩展。这些产品的安装、激活或座席数量有限。当完成所有安装和激活后，产品密钥将停止工作。将不授予使用这些产品密钥进行其它激活的权利。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[云和软件权益的内部使用权限]]></text>
@@ -710,8 +711,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000118</id>
-    <title><![CDATA[Why have I lost all Microsoft Partner benefits after renewal?]]></title>
-    <description><![CDATA[Due to various scenarios, please reach out to the Frontline support team to assist.]]></description>
+    <title><![CDATA[为什么我在续订后，失去了所有 Microsoft 合作伙伴权益？]]></title>
+    <description><![CDATA[由于情况多样，请联系前线支持团队进行协助。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[一线团队]]></text>
@@ -719,17 +720,17 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000119</id>
-    <title><![CDATA[When will Server 2019 become available to download in our Microsoft Partner Network benefits?]]></title>
-    <description><![CDATA[Please check the License table. You can find there all Server 2019 benefits available.]]></description>
+    <title><![CDATA[何时可以在 Microsoft 合作伙伴网络权益中下载 Server 2019？]]></title>
+    <description><![CDATA[请检查许可证表。您可以在那里找到所有可用的 Server 2019 权益。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[IUR 许可证表]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000119]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000120</id>
-    <title><![CDATA[Can I upgrade the IURs from EMS E3 to E5?]]></title>
-    <description><![CDATA[IUR is a static benefit. It cannot be used to upgrade from E3 to E5.  In order to receive an E5 you must attain a competency. Please check the License table for competencies and see what is the competency that can offer this benefit.]]></description>
+    <title><![CDATA[我可以将 IUR 从 EMS E3 升级至 E5 吗？]]></title>
+    <description><![CDATA[IUR 是一种静态权益。它不能用于将 E3 升级至 E5。若要获得 E5，您必须具备相应的资格。请在许可证表中查看各种资格，并查看可提供此项权益的资格是什么。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[面向能力合作伙伴的许可证表]]></text>
@@ -737,14 +738,14 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>300-000121</id>
-    <title><![CDATA[I am only seeing options to add seats when renewing my Office 365 subscription, what do I do?]]></title>
+    <title><![CDATA[在续订 Office 365 订阅时，仅看到添加座席的选项，我该怎么做？]]></title>
     <description><![CDATA[根据设计，如果合作伙伴的订阅席位数比在续订窗口生成的令牌席位数多，则系统将不会显示“续订/延期”选项。 
 为了让合作伙伴看到席位续订/延期的选项，他们必须从用户移除许可证/席位，直到它们的数量等于或少于新令牌的席位数。在激活收到的新令牌之前，此解决方法适用。
 选择添加席位而不是续订，系统将为他们提供少于 12 个月的权益。
 如果合作伙伴错误地添加了席位而不是续订，他们必须在激活令牌后的 30 天内联系一线团队以寻求帮助。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft 合作伙伴网络权益包使用指南]]></text>
+        <text><![CDATA[Microsoft Partner Network 权益包使用指南]]></text>
         <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=300-000121]]></url>
       </link>
        <link>
@@ -753,7 +754,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000122</id>
-    <title><![CDATA[What software benefits do I get?]]></title>
+    <title><![CDATA[我能获得哪些软件权益？]]></title>
     <description><![CDATA[请查看以下链接了解更多信息]]></description>
     <articlelinks>
       <link>
@@ -806,7 +807,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>400-000084</id>
-    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <title><![CDATA[我收到了返利，它属于哪个激励计划和/或时段？]]></title>
     <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
     <articlelinks>
       <link>
@@ -815,7 +816,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>400-000085</id>
-    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <title><![CDATA[Microsoft 的激励计划是什么？]]></title>
     <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
     <articlelinks>
       <link>
@@ -824,8 +825,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>400-000089</id>
-    <title><![CDATA[Where can I learn more about OSA Claim?]]></title>
-    <description><![CDATA[Below document provides information on the claim launch summary; functionality and important resources on how to successfully submit a claim.]]></description>
+    <title><![CDATA[何处可了解有关 OSA 索赔的更多信息？]]></title>
+    <description><![CDATA[下面的文档包含了有关索赔发起摘要、功能和如何成功提交索赔的重要资源的信息。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[OSA 索赔模型和过程]]></text>
@@ -833,8 +834,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>400-000090</id>
-    <title><![CDATA[Where can I access to the commonly asked questions to the OSA Claim Process?]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to OSA Claim. ]]></description>
+    <title><![CDATA[何处可找到 OSA 索赔流程的常见问题？]]></title>
+    <description><![CDATA[下面的文档涵盖了与 OSA 索赔相关的所有常见问答。 ]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[在 OSA 索赔的常见问题]]></text>
@@ -842,8 +843,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>400-000087</id>
-    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
-    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
+    <title><![CDATA[如何在作伙伴中心报名参加激励计划？]]></title>
+    <description><![CDATA[此文档对如何进行用户管理以及如何在合作伙伴中心报名参加激励计划进行了详细的分步解释。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[在仪表板中的合作伙伴中心激励程序的注册]]></text>
@@ -851,11 +852,11 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>400-000088</id>
-    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <title><![CDATA[迁移至合作伙伴中心的常见问题是什么？]]></title>
+    <description><![CDATA[下面的文档涵盖了与从 PMC 迁移至合作伙伴中心相关的所有常见问答。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[FAQ - PMC to PC Migration leading to Incentive Enrolment]]></text>
+        <text><![CDATA[常见问题解答 - PMC 到合作伙伴中心的迁移导致了激励性报名参加]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
     </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
@@ -1090,11 +1091,11 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000103</id>
-    <title><![CDATA[如何在合作伙伴中心下载或查看 Microsoft 合作伙伴网络协议？]]></title>
+    <title><![CDATA[如何在合作伙伴中心下载或查看 Microsoft Partner Network 协议？]]></title>
     <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[如何下载 Microsoft 合作伙伴网络协议 - 合作伙伴中心]]></text>
+        <text><![CDATA[如何下载 Microsoft Partner Network 协议 - 合作伙伴中心]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4488914/?tpqid=100-000103]]></url>
       </link>
     </articlelinks></question><question>
@@ -1112,12 +1113,12 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000104</id>
-    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.
-Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new Partner Center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <title><![CDATA[如何从合作伙伴成员中心迁移至合作伙伴中心？]]></title>
+    <description><![CDATA[下面的文章为您提供了有关从 PMC 迁移至合作伙伴中心的步骤的信息；还提供了有关 Microsoft 合作伙伴网络和支持的附加上下文。
+在开始此流程之前，请确保将由全局管理员完成此流程，他标识了将与新合作伙伴中心门户相关联的 Azure Active Directory (AAD) 租户。另外，请注意国家/地区 HQ 必须与 AAD 租户国家/地区匹配，且合作伙伴网络成员资格/资格未处于过期状态。如果帐户上已经购买了 ABTK，您应该在迁移之前续订/重新购买。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Partner Center Help]]></text>
+        <text><![CDATA[合作伙伴中心帮助]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partner-center-help?tpqid=100-000104]]></url>
       </link>
        <link>

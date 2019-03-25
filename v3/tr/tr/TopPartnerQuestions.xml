@@ -130,7 +130,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>300-000106</id>
-    <title><![CDATA[Kullanıcı hesabı oluşturup izin atamak için izlenecek adımlar nelerdir?]]></title>
+    <title><![CDATA[İş Ortağı Merkezi'nde kullanıcı hesabı oluşturup izin atamak için izlenecek adımlar nelerdir?]]></title>
     <description><![CDATA[Artık İş Ortağı Merkezi'nde işletmenizi, Microsoft Partner Network yöneticinizi, İşletme profili yöneticinizi ve referans yöneticinizi yönetmede size yardım etmesi için kullanıcıları üç yeni role atayabilirsiniz.]]></description>
     <articlelinks>
       <link>
@@ -222,37 +222,38 @@
     </articlelinks></question><question>
     <id>300-000114</id>
     <title><![CDATA[İş ortakları, IUR avantaj programının bir parçası olarak eklenti satın alabilir mi?]]></title>
-    <description><![CDATA[MPN'de şu anda hiçbir IUR SKU için benzersiz eklenti satışı yapmıyoruz.  MPN programı üzerinden sunulan IUR, iş ortağının IUR'yi gelir getiren amaçlarla kullanmasını engelleyen lisans ilkesine tabidir. İş ortağı, MPN programı dışında bu eklentileri kendi satın alabilir ve bu durum MPN IUR kullanım kurallarına uygun olduğu sürece MPN açısından herhangi bir sorun oluşturmaz.]]></description>
+    <description><![CDATA[Microsoft Partner Network'de şu anda hiçbir IUR SKU için benzersiz eklenti satışı yapmıyoruz.  MPN programı üzerinden sunulan IUR, iş ortağının IUR'yi gelir getiren amaçlarla kullanmasını engelleyen lisans ilkesine tabidir. İş ortağı, MPN programı dışında bu eklentileri kendi satın alabilir ve bu durum MPN IUR kullanım kurallarına uygun olduğu sürece MPN açısından herhangi bir sorun oluşturmaz.
+İş ortaklarının Doğrudan satış modeli, bir CSP Dolaylı Sağlayıcısı aracılığıyla veya toplu lisanslama sözleşmesiyle eklenti satın almak istemesi durumunda eklentiyi satın almadan önce bir temel SKU lisansı satın almaları gerekebilir. Bu durum bazı eklentilerin temel SKU'yla aynı satış kanalı üzerinden satın alınması gerektiği içindir.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <text><![CDATA[Doğrudan satış modeliyle eklenti satın alma]]></text>
         <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <text><![CDATA[Bir CSP Dolaylı Sağlayıcısı aracılığıyla eklenti satın alma]]></text>
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <text><![CDATA[Microsoft Toplu Lisanslama programlarının karşılaştırması]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000115</id>
-    <title><![CDATA[When will Microsoft Office Professional 2019 become available for Microsoft Action Pack (MAPS)?]]></title>
-    <description><![CDATA[This benefit is already available for Standard MAPS.]]></description>
+    <title><![CDATA[Microsoft Office Professional 2019, Microsoft Eylem Paketi (MAPS) için ne zaman kullanıma sunulacak?]]></title>
+    <description><![CDATA[Bu avantaj Standart MAPS için zaten kullanıma sunuldu.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Please check the MAPS License table]]></text>
+        <text><![CDATA[Lütfen MAPS Lisans tablosunu kontrol edin]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000116</id>
-    <title><![CDATA[Why do I have only 5 E3 subscriptions instead of what I had before renewing Microsoft Action Pack?]]></title>
-    <description><![CDATA[An Action Pack Subscription will always receive 5 E3 licenses when a renewal process is completed. To check the number of licenses/ seats received please take a look at the license table found on the link below. 
-In case the number received is not the same with the one you are entitled to, please reach out to Frontline team.  For competencies renewal partners are entitled to receive a set of Core benefits for the Silver or Gold level and an incremental set of benefits based on each competency attained.  ]]></description>
+    <title><![CDATA[Microsoft Eylem Paketi'ni yenilemeden önceki abonelik sayım yerine neden yalnızca 5 adet E3 aboneliğim var?]]></title>
+    <description><![CDATA[Yenileme işlemi tamamlandığında Eylem Paketi Aboneliği her zaman 5 adet E3 lisansı alır. Alınan lisansların sayısını kontrol etmek için lütfen aşağıdaki bağlantıda bulunan lisans tablosuna göz atın. 
+Aldığınız lisans sayısı ile hak kazandığınız sayı aynı değilse lütfen Ön destek ekibimizle iletişime geçin.  Uzmanlıkların yenilenmesinde iş ortakları Silver veya Gold düzey için bir Temel avantajlar seti alır ve edinilen her uzmanlıkla birlikte avantaj setlerinin sayısı artar.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[IUR'lerin Lisans Tablosu]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
       </link>
        <link>
@@ -261,8 +262,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000117</id>
-    <title><![CDATA[Why am I experiencing IUR issues with Office 2016 activation?]]></title>
-    <description><![CDATA[Office 2016 is not available as an IUR anymore. It has been replaced by Office 2019. Once the token has reached his activation limit it can no longer be extended.    These products have finite number of installations, activations, or seats. A product key will stop working when all installations and activations have been consumed.  Additional activations for these product keys will not be granted.]]></description>
+    <title><![CDATA[Office 2016 etkinleştirme işleminde neden IUR sorunları yaşıyorum?]]></title>
+    <description><![CDATA[Office 2016 artık IUR olarak kullanılamıyor. Office 2019 ile değiştirildi. Belirteç etkinleştirme limitine ulaştığında lisans uzatılamaz.    Bu ürünlerin yükleme, etkinleştirme veya lisans sayısı sınırlıdır. Tüm yüklemeler ve etkinleştirmeler kullanıldığında ürün anahtarı çalışmayı durdurur.  Bu ürün anahtarları için ek etkinleştirme sağlanmayacaktır.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[İç Kullanım Hakları bulut ve yazılım avantajları]]></text>
@@ -270,8 +271,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000118</id>
-    <title><![CDATA[Why have I lost all Microsoft Partner benefits after renewal?]]></title>
-    <description><![CDATA[Due to various scenarios, please reach out to the Frontline support team to assist.]]></description>
+    <title><![CDATA[Yenilemeden sonra neden tüm Microsoft İş Ortağı avantajlarımı kaybettim?]]></title>
+    <description><![CDATA[Bunun çeşitli nedenleri olabilir. Destek için lütfen Ön destek ekibimizle iletişime geçin.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Ön destek ekibi]]></text>
@@ -279,17 +280,17 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000119</id>
-    <title><![CDATA[When will Server 2019 become available to download in our Microsoft Partner Network benefits?]]></title>
-    <description><![CDATA[Please check the License table. You can find there all Server 2019 benefits available.]]></description>
+    <title><![CDATA[Server 2019, Microsoft İş Ortağı Ağı avantajlarımızdan ne zaman indirilebilecek?]]></title>
+    <description><![CDATA[Lütfen Lisans tablosunu kontrol edin. Mevcut tüm Server 2019 avantajlarını orada bulabilirsiniz.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[IUR'lerin Lisans Tablosu]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000119]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000120</id>
-    <title><![CDATA[Can I upgrade the IURs from EMS E3 to E5?]]></title>
-    <description><![CDATA[IUR is a static benefit. It cannot be used to upgrade from E3 to E5.  In order to receive an E5 you must attain a competency. Please check the License table for competencies and see what is the competency that can offer this benefit.]]></description>
+    <title><![CDATA[IUR'leri EMS E3'ten E5'e yükseltebilir miyim?]]></title>
+    <description><![CDATA[IUR, değiştiremeyeceğiniz bir avantajdır. E3'ten E5'e yükseltmek için kullanılamaz.  E5'i almak için bir uzmanlık edinmeniz gerekir. Uzmanlıklar için lütfen Lisans tablosunu kontrol edin ve size bu avantajı hangi uzmanlığın sunabileceğine göz atın.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Uzmanlık İş Ortakları için lisans tablosu]]></text>
@@ -297,7 +298,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>300-000121</id>
-    <title><![CDATA[I am only seeing options to add seats when renewing my Office 365 subscription, what do I do?]]></title>
+    <title><![CDATA[Office 365 aboneliğimi yenilerken yalnızca lisans ekleme seçeneğini görüyorum, ne yapmalıyım?]]></title>
     <description><![CDATA[İş ortaklarının aboneliklerinde, yenileme aralığında oluşturulan belirtecin lisans sayısından daha fazla lisans varsa sistem, tasarımı gereği "yenile/uzat" seçeneğini görüntülemez. 
 Lisansları yenile/uzat seçeneğinin görüntülemesi için iş ortaklarının, yeni belirteçleriyle aynı sayıda veya bundan daha az sayıda lisansa ulaşana kadar kullanıcıların lisanslarını kaldırmaları gerekir. Bu geçici çözüm, alınan yeni belirteci etkinleştirmeden önce kullanılabilir.
 Yeni lisanslar eklemeyi ve bu lisansları yenilememeyi tercih ederseniz, sistem bu lisanslara avantajları 12 aydan daha kısa süreyle sunar.
@@ -313,7 +314,7 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
       </link>
     </articlelinks></question><question>
     <id>300-000122</id>
-    <title><![CDATA[What software benefits do I get?]]></title>
+    <title><![CDATA[Hangi yazılım avantajlarını edinirim?]]></title>
     <description><![CDATA[Daha fazla bilgi için lütfen aşağıdaki bağlantıları inceleyin]]></description>
     <articlelinks>
       <link>
@@ -782,11 +783,11 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <url><![CDATA[https://support.microsoft.com/help/4340639/?tpqid=100-000099]]></url>
       </link>
        <link>
-        <text><![CDATA[Create a Partner Center account]]></text>
+        <text><![CDATA[İş Ortağı Merkezi hesabı oluşturma]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-create-a-partner-center-account?tpqid=100-000099]]></url>
       </link>
        <link>
-        <text><![CDATA[Manage your Partner Center account]]></text>
+        <text><![CDATA[Manage your partner center account]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/partner-center-account-setup?tpqid=100-000099]]></url>
       </link>
     </articlelinks></question><question>
@@ -839,12 +840,12 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000104</id>
-    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.
-Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new Partner Center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <title><![CDATA[Partner Membership Center'dan İş Ortağı Merkezi'ne nasıl geçiş yaparım?]]></title>
+    <description><![CDATA[Aşağıdaki makale PMC'den PC'ye Geçiş adımları hakkında bilgi, Microsoft İş Ortağı Ağı hakkında ek bağlam ve destek sağlayacaktır.
+İşleme başlamadan önce lütfen işlemin yeni iş ortağı merkezi portalıyla ilişkilendirilecek Azure Active Directory (AAD) kiracısını tanımlayan Genel Yönetici tarafından tamamlanacağından emin olun. Ayrıca lütfen ülke genel merkezinin AAD kiracı ülkesiyle eşleşmesi ve İş Ortağı Ağı üyeliğinin/uzmanlıklarının süresinin DOLMAMIŞ olması gerektiğini unutmayın. ABTK'ler hesapta zaten satın alınmışsa geçiş yapmadan önce bunları yenilemeniz/yeniden satın almanız gerekir.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Partner Center Help]]></text>
+        <text><![CDATA[İş Ortağı Merkezi Yardımı]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partner-center-help?tpqid=100-000104]]></url>
       </link>
        <link>
@@ -852,7 +853,7 @@ Before starting the process please make sure that the process will be completed 
         <url><![CDATA[https://support.microsoft.com/help/4340639?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[Create a Partner Center account]]></text>
+        <text><![CDATA[İş Ortağı Merkezi hesabı oluşturma]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center?tpqid=100-000104]]></url>
       </link>
     </articlelinks></question><question>
@@ -1012,7 +1013,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN Teknik Yolculuğu Blogu]]></text>
+        <text><![CDATA[Microsoft Partner Network Teknik Yolculuğu Blogu]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
@@ -1038,7 +1039,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN Teknik Yolculuğu Blogu]]></text>
+        <text><![CDATA[Microsoft Partner Network Teknik Yolculuğu Blogu]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -1087,7 +1088,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       </link>
     </articlelinks></question><question>
     <id>400-000084</id>
-    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <title><![CDATA[Bir indirim aldım, bu indirim hangi teşvik programına ve/veya dönemine aittir?]]></title>
     <description><![CDATA[Daha fazla bilgi edinmek için aşağıdaki makaleye göz atın.]]></description>
     <articlelinks>
       <link>
@@ -1096,7 +1097,7 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       </link>
     </articlelinks></question><question>
     <id>400-000085</id>
-    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <title><![CDATA[Microsoft Teşvik Programları nelerdir?]]></title>
     <description><![CDATA[Daha fazla bilgi edinmek için aşağıdaki makaleye göz atın.]]></description>
     <articlelinks>
       <link>
@@ -1105,8 +1106,8 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       </link>
     </articlelinks></question><question>
     <id>400-000089</id>
-    <title><![CDATA[Where can I learn more about OSA Claim?]]></title>
-    <description><![CDATA[Below document provides information on the claim launch summary; functionality and important resources on how to successfully submit a claim.]]></description>
+    <title><![CDATA[OSA talebi hakkında nereden daha fazla bilgi edinebilirim?]]></title>
+    <description><![CDATA[Aşağıdaki belge talep başlatma özeti, bir talebin nasıl başarıyla gönderileceğiyle ilgili işlevsellik ve önemli kaynaklar hakkında bilgi sağlayacaktır.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[OSA talep modeli ve işlem]]></text>
@@ -1114,8 +1115,8 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       </link>
     </articlelinks></question><question>
     <id>400-000090</id>
-    <title><![CDATA[Where can I access to the commonly asked questions to the OSA Claim Process?]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to OSA Claim. ]]></description>
+    <title><![CDATA[OSA Talep İşlemiyle ilgili sık sorulan sorulara nereden erişebilirim?]]></title>
+    <description><![CDATA[Aşağıdaki belge OSA Talebiyle ilgili tüm sık sorulan soruları ve yanıtları içermektedir. ]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[OSA talep hakkında sık sorulan sorular]]></text>
@@ -1123,20 +1124,20 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       </link>
     </articlelinks></question><question>
     <id>400-000087</id>
-    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
-    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
+    <title><![CDATA[İş Ortağı Merkezi'nde teşvik programlarına nasıl kaydolurum?]]></title>
+    <description><![CDATA[Bu belge kullanıcı yönetiminin nasıl gerçekleştirileceğinin yanı sıra İş Ortağı Merkezi'ndeki teşvik programlarına nasıl kaydolacağınızla ilgili adım adım bilgiler sunmaktadır.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Partner Center panosunda özendirme programlarının kayıt]]></text>
+        <text><![CDATA[Partner center panosunda özendirme programlarının kayıt]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000088</id>
-    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <title><![CDATA[İş Ortağı Merkezi'ne geçişle ilgili sık sorulan sorular nelerdir?]]></title>
+    <description><![CDATA[Aşağıdaki belge PMC'den PC'ye Geçiş ile ilgili tüm sık sorulan soruları ve yanıtları içermektedir.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[FAQ - PMC to PC Migration leading to Incentive Enrolment]]></text>
+        <text><![CDATA[SSS - PMC'den PC'ye Geçişin Teşvik Kaydını sağlaması]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
     </articlelinks></question><question>

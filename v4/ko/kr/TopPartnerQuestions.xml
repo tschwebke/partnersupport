@@ -239,7 +239,7 @@
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN 기술 여정 블로그]]></text>
+        <text><![CDATA[Microsoft Partner Network 기술 여정 블로그]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
@@ -265,7 +265,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[MPN 기술 여정 블로그]]></text>
+        <text><![CDATA[Microsoft Partner Network 기술 여정 블로그]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -472,7 +472,7 @@
       </link>
     </articlelinks></question><question>
     <id>400-000084</id>
-    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <title><![CDATA[리베이트를 받았는데 어떤 인센티브 프로그램 및/또는 기간에 속하나요?]]></title>
     <description><![CDATA[아래 문서에서 자세히 알아보세요.]]></description>
     <articlelinks>
       <link>
@@ -481,7 +481,7 @@
       </link>
     </articlelinks></question><question>
     <id>400-000085</id>
-    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <title><![CDATA[Microsoft 인센티브 프로그램이란 무엇인가요?]]></title>
     <description><![CDATA[아래 문서에서 자세히 알아보세요.]]></description>
     <articlelinks>
       <link>
@@ -490,8 +490,8 @@
       </link>
     </articlelinks></question><question>
     <id>400-000087</id>
-    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
-    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
+    <title><![CDATA[파트너 센터에 인센티브 프로그램을 등록하려면 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[이 문서에는 파트너 센터에서 인센티브 프로그램을 등록하는 방법과 함께 사용자 관리가 수행되는 방식에 대한 단계별 세부 정보도 나와 있습니다.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[파트너 센터 대시보드에 인센티브 프로그램 등록]]></text>
@@ -499,17 +499,17 @@
       </link>
     </articlelinks></question><question>
     <id>400-000088</id>
-    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <title><![CDATA[파트너 센터 마이그레이션과 관련하여 자주 제기되는 질문에는 어떤 것들이 있나요?]]></title>
+    <description><![CDATA[아래 문서에서는 PMC-PC 마이그레이션과 관련하여 자주 제기되는 모든 질문과 그에 대한 답변을 설명합니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[FAQ - PMC to PC Migration leading to Incentive Enrolment]]></text>
+        <text><![CDATA[FAQ - 인센티브 등록으로 이어지는 PMC-PC 마이그레이션]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
     </articlelinks></question><question>
     <id>400-000089</id>
-    <title><![CDATA[Where can I learn more about OSA Claim?]]></title>
-    <description><![CDATA[Below document provides information on the claim launch summary; functionality and important resources on how to successfully submit a claim.]]></description>
+    <title><![CDATA[OSA Claim에 대한 자세한 정보는 어디서 확인할 수 있나요?]]></title>
+    <description><![CDATA[아래 문서에서는 클레임 시작 요약 및 기능 관련 정보 그리고 클레임을 올바르게 제출하는 방법에 대한 중요한 리소스를 제공합니다.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[OSA 클레임 모델 및 프로세스]]></text>
@@ -517,8 +517,8 @@
       </link>
     </articlelinks></question><question>
     <id>400-000090</id>
-    <title><![CDATA[Where can I access to the commonly asked questions to the OSA Claim Process?]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to OSA Claim. ]]></description>
+    <title><![CDATA[OSA Claim 프로세스에 대해 자주 제기되는 질문은 어디서 확인할 수 있나요?]]></title>
+    <description><![CDATA[아래 문서에서는 OSA Claim과 관련하여 자주 제기되는 모든 질문과 그에 대한 답변을 설명합니다. ]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[OSA 클레임에 대 한 자주 묻는 질문]]></text>
@@ -804,12 +804,12 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000104</id>
-    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.
-Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new Partner Center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <title><![CDATA[Partner Membership Center에서 파트너 센터로 마이그레이션하려면 어떻게 해야 하나요?]]></title>
+    <description><![CDATA[아래 문서에는 PMC-PC 마이그레이션 단계에 관한 정보와 Microsoft 파트너 네트워크 및 지원에 대한 추가 컨텍스트가 나와 있습니다.
+프로세스를 시작하기 전에 새 파트너 센터 포털과 연결될 AAD(Azure Active Directory) 테넌트를 식별한 전역 관리자가 프로세스를 완료하도록 하시기 바랍니다. 또한 국가 HQ가 AAD 테넌트 국가와 일치하는지 여부와 파트너 네트워크 멤버 자격/역량이 만료된 상태가 아닌지도 확인하세요. 계정에 이미 구매한 ABTK가 있는 경우 마이그레이션하기 전에 이를 갱신하거나 재구매해야 합니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Partner Center Help]]></text>
+        <text><![CDATA[파트너 센터 도움말]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partner-center-help?tpqid=100-000104]]></url>
       </link>
        <link>
@@ -919,7 +919,7 @@ Before starting the process please make sure that the process will be completed 
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>300-000106</id>
-    <title><![CDATA[사용자 계정을 만들고 권한을 할당하려면 어떤 단계를 수행해야 하나요?]]></title>
+    <title><![CDATA[파트너 센터에서 사용자 계정을 만들고 사용 권한을 할당하려면 어떤 단계를 수행해야 하나요?]]></title>
     <description><![CDATA[이제 파트너 센터에서 세 가지 새로운 역할에 사용자를 할당하여 업무, Microsoft Partner Network 관리자, 비즈니스 프로필 관리자 및 추천 관리자를 쉽게 관리할 수 있습니다.]]></description>
     <articlelinks>
       <link>
@@ -942,18 +942,19 @@ Before starting the process please make sure that the process will be completed 
     </articlelinks></question><question>
     <id>300-000114</id>
     <title><![CDATA[파트너가 IUR 혜택 프로그램의 일환으로 추가 기능을 구매할 수 있나요?]]></title>
-    <description><![CDATA[MPN에서는 현재 IUR SKU에 대해 고유한 추가 기능을 판매하지 않습니다.  MPN 프로그램을 통해 제공되는 IUR에는 파트너는 IUR을 수익 창출을 위해 사용할 수 없다는 라이선스 정책이 적용됩니다. 파트너는 MPN 프로그램 외부에서 이러한 추가 기능을 직접 구매해 볼 수 있으며, 구매가 가능한 경우 해당 MPN IUR의 사용 규칙을 준수하는 한 MPN과 관련해서는 아무런 문제가 없습니다.]]></description>
+    <description><![CDATA[Microsoft Partner Network 에서는 현재 IUR SKU에 대해 고유한 추가 기능을 판매하지 않습니다.  MPN 프로그램을 통해 제공되는 IUR에는 파트너는 IUR을 수익 창출을 위해 사용할 수 없다는 라이선스 정책이 적용됩니다. 파트너는 MPN 프로그램 외부에서 이러한 추가 기능을 직접 구매해 볼 수 있으며, 구매가 가능한 경우 해당 MPN IUR의 사용 규칙을 준수하는 한 MPN과 관련해서는 아무런 문제가 없습니다.
+직접 판매 모델, CSP 간접 공급자 또는 볼륨 라이선싱 계약을 통해 추가 기능을 구매하려는 파트너는 기본 SKU 시트 하나를 먼저 구매해야 추가 기능을 구매할 수 있습니다. 그 이유는 일부 추가 기능의 경우 기본 SKU와 동일한 판매 채널을 통해 구매해야 하기 때문입니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <text><![CDATA[직접 판매 모델을 통해 추가 기능 구매]]></text>
         <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <text><![CDATA[CSP 간접 공급자를 통해 추가 기능 구매]]></text>
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <text><![CDATA[Microsoft 볼륨 라이선싱 프로그램 비교]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
@@ -1010,21 +1011,21 @@ Before starting the process please make sure that the process will be completed 
       </link>
     </articlelinks></question><question>
     <id>300-000115</id>
-    <title><![CDATA[When will Microsoft Office Professional 2019 become available for Microsoft Action Pack (MAPS)?]]></title>
-    <description><![CDATA[This benefit is already available for Standard MAPS.]]></description>
+    <title><![CDATA[Microsoft Office Professional 2019는 언제 Microsoft Action Pack(MAPS)에서 사용할 수 있나요?]]></title>
+    <description><![CDATA[이 혜택은 이미 표준 MAPS에서 사용할 수 있습니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Please check the MAPS License table]]></text>
+        <text><![CDATA[MAPS 라이선스 표를 참조하세요.]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000116</id>
-    <title><![CDATA[Why do I have only 5 E3 subscriptions instead of what I had before renewing Microsoft Action Pack?]]></title>
-    <description><![CDATA[An Action Pack Subscription will always receive 5 E3 licenses when a renewal process is completed. To check the number of licenses/ seats received please take a look at the license table found on the link below. 
-In case the number received is not the same with the one you are entitled to, please reach out to Frontline team.  For competencies renewal partners are entitled to receive a set of Core benefits for the Silver or Gold level and an incremental set of benefits based on each competency attained.  ]]></description>
+    <title><![CDATA[Microsoft Action Pack을 갱신하기 전에 보유하고 있던 항목 대신 E3 구독 5개만 있으면 되는 이유는 무엇인가요?]]></title>
+    <description><![CDATA[갱신 프로세스가 완료되면 Action Pack 구독에는 항상 E3 라이선스 5개가 제공됩니다. 수령하는 라이선스/시트 수를 확인하려면 아래 링크를 통해 확인할 수 있는 라이선스 표를 참조하세요. 
+수령한 수가 이용 자격이 있는 수와 같지 않은 경우 Frontline 팀에 문의하세요.  역량의 경우 갱신 파트너는 각 확보한 역량에 따라 실버 또는 골드 수준의 코어 혜택과 증분 혜택을 받을 수 있습니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[IUR 라이선스 표]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
       </link>
        <link>
@@ -1033,8 +1034,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000117</id>
-    <title><![CDATA[Why am I experiencing IUR issues with Office 2016 activation?]]></title>
-    <description><![CDATA[Office 2016 is not available as an IUR anymore. It has been replaced by Office 2019. Once the token has reached his activation limit it can no longer be extended.    These products have finite number of installations, activations, or seats. A product key will stop working when all installations and activations have been consumed.  Additional activations for these product keys will not be granted.]]></description>
+    <title><![CDATA[Office 2016 정품 인증 시 IUR 문제가 발생하는 이유는 무엇인가요?]]></title>
+    <description><![CDATA[Office 2016은 더 이상 IUR로 사용할 수 없으며, Office 2019로 대체되었습니다. 토큰이 이 정품 인증 한도에 도달했으면 더 이상 확장할 수 없습니다.    이러한 제품은 설치, 정품 인증 또는 시트 수가 한정되어 있습니다. 설치 및 정품 인증을 모두 사용하면 제품 키의 작동이 중지됩니다.  이러한 제품에 대해서는 정품 인증이 추가로 부여되지 않습니다.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[IUR(Internal Use Right) 클라우드와 소프트웨어 혜택]]></text>
@@ -1042,8 +1043,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000118</id>
-    <title><![CDATA[Why have I lost all Microsoft Partner benefits after renewal?]]></title>
-    <description><![CDATA[Due to various scenarios, please reach out to the Frontline support team to assist.]]></description>
+    <title><![CDATA[갱신 후 Microsoft 파트너 혜택이 모두 손실된 이유는 무엇인가요?]]></title>
+    <description><![CDATA[시나리오가 다양하기 때문에 Frontline 팀에 직접 문의하여 도움을 요청하세요.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Frontline 팀]]></text>
@@ -1051,17 +1052,17 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000119</id>
-    <title><![CDATA[When will Server 2019 become available to download in our Microsoft Partner Network benefits?]]></title>
-    <description><![CDATA[Please check the License table. You can find there all Server 2019 benefits available.]]></description>
+    <title><![CDATA[Server 2019는 언제 Microsoft 파트너 네트워크 혜택에서 다운로드할 수 있게 되나요?]]></title>
+    <description><![CDATA[라이선스 표를 참조하세요. 여기서 모든 Server 2019 혜택을 확인할 수 있습니다.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[IUR 라이선스 표]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000119]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000120</id>
-    <title><![CDATA[Can I upgrade the IURs from EMS E3 to E5?]]></title>
-    <description><![CDATA[IUR is a static benefit. It cannot be used to upgrade from E3 to E5.  In order to receive an E5 you must attain a competency. Please check the License table for competencies and see what is the competency that can offer this benefit.]]></description>
+    <title><![CDATA[IUR을 EMS E3에서 E5로 업그레이드할 수 있나요?]]></title>
+    <description><![CDATA[IUR은 정적 혜택으로, E3에서 E5로 업그레이드할 수 없습니다.  E5를 수령하려면 역량을 확보해야 합니다. 라이선스 표에서 역량을 참조하고 이 혜택이 제공되는 역량은 어떤 것인지 확인하세요.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[역량 파트너를 위한 라이선스 표]]></text>
@@ -1120,7 +1121,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>300-000121</id>
-    <title><![CDATA[I am only seeing options to add seats when renewing my Office 365 subscription, what do I do?]]></title>
+    <title><![CDATA[Office 365 구독을 갱신할 때 시트 추가 옵션만 표시되는데 어떻게 해야 하나요?]]></title>
     <description><![CDATA[갱신 기간에 생성된 토큰의 시트 수보다 파트너의 구독에 있는 시트 수가 많으면 시스템에 “갱신/연장” 옵션이 표시되지 않도록 설계되어 있습니다. 
 파트너가 시트 갱신/연장 옵션을 확인하려면 해당 신규 토큰보다 적거나 같은 시트 수에 도달하기 전까지 사용자에게서 라이선스/시트를 제거해야 합니다. 이 해결 방법은 수신한 신규 토큰을 활성화하기 전에 적용할 수 있습니다.
 시트를 갱신하지 않고 추가하도록 선택하면 12개월 미만의 혜택이 제공됩니다.
@@ -1136,7 +1137,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000122</id>
-    <title><![CDATA[What software benefits do I get?]]></title>
+    <title><![CDATA[어떤 소프트웨어 혜택을 받게 되나요?]]></title>
     <description><![CDATA[다음 링크에서 자세한 내용을 검토하세요.]]></description>
     <articlelinks>
       <link>
