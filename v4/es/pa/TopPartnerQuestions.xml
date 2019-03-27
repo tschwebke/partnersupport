@@ -130,7 +130,7 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>300-000106</id>
-    <title><![CDATA[¿Cuáles son los pasos para crear una cuenta y asignar permisos?]]></title>
+    <title><![CDATA[¿Cuáles son los pasos para crear una cuenta y asignar permisos en el Portal de CSP?]]></title>
     <description><![CDATA[Ahora tiene la capacidad de asignar usuarios a tres nuevos roles en el Portal de CSP que le ayudarán a administrar su empresa: administrador de Microsoft Partner Network, administrador de perfil de negocio y administrador de referencias.]]></description>
     <articlelinks>
       <link>
@@ -222,37 +222,38 @@
     </articlelinks></question><question>
     <id>300-000114</id>
     <title><![CDATA[¿Los partners pueden comprar complementos al formar parte del programa del beneficio IUR?]]></title>
-    <description><![CDATA[En MPN, no ofrecemos a la venta complementos únicos para ninguna SKU de IUR en estos momentos.  IUR se ofrece a través del programa MPN y está sujeto a la directiva de licencia en la que se indica que el partner no puede usar IUR para la generación de ingresos. Los partners pueden intentar comprar estos complementos por su cuenta, fuera del programa MPN. Si funcionan, no hay problema desde el punto de vista de MPN, siempre y cuando se cumplan las reglas de uso de su IUR de MPN.]]></description>
+    <description><![CDATA[En Microsoft Partner Network, no ofrecemos a la venta complementos únicos para ninguna SKU de IUR en estos momentos.  IUR se ofrece a través del programa MPN y está sujeto a la directiva de licencia en la que se indica que el partner no puede usar IUR para la generación de ingresos. Los partners pueden intentar comprar estos complementos por su cuenta, fuera del programa MPN. Si funcionan, no hay problema desde el punto de vista de MPN, siempre y cuando se cumplan las reglas de uso de su IUR de MPN.
+En los casos en los que los partners quieran comprar complementos a través del modelo de venta directa, un proveedor indirecto de CSP o un contrato de licencias por volumen, es posible que tengan que comprar un puesto de la SKU base antes de poder comprar el complemento. El motivo es que algunos complementos deben comprarse a través del mismo canal de venta que la SKU base.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Purchase an add-on through the Direct sales model]]></text>
+        <text><![CDATA[Comprar un complemento a través de un modelo de venta directa]]></text>
         <url><![CDATA[https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on?view=o365-worldwide&tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Purchase an add-on through a CSP Indirect Provider]]></text>
+        <text><![CDATA[Comprar un complemento a través de un proveedor indirecto de CSP]]></text>
         <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/find-a-provider?tpqid=300-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Compare Microsoft Volume Licensing programs]]></text>
+        <text><![CDATA[Comparar los programas de licencias por volumen de Microsoft]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/learn-more/document-library?tpqid=300-000114]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000115</id>
-    <title><![CDATA[When will Microsoft Office Professional 2019 become available for Microsoft Action Pack (MAPS)?]]></title>
-    <description><![CDATA[This benefit is already available for Standard MAPS.]]></description>
+    <title><![CDATA[¿Cuándo estará disponible Microsoft Office Profesional 2019 para Microsoft Action Pack (MAPS)?]]></title>
+    <description><![CDATA[Este beneficio ya está disponible para los MAPS estándar.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Please check the MAPS License table]]></text>
+        <text><![CDATA[Consulte la tabla de licencias de MAPS.]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000116</id>
-    <title><![CDATA[Why do I have only 5 E3 subscriptions instead of what I had before renewing Microsoft Action Pack?]]></title>
-    <description><![CDATA[An Action Pack Subscription will always receive 5 E3 licenses when a renewal process is completed. To check the number of licenses/ seats received please take a look at the license table found on the link below. 
-In case the number received is not the same with the one you are entitled to, please reach out to Frontline team.  For competencies renewal partners are entitled to receive a set of Core benefits for the Silver or Gold level and an incremental set of benefits based on each competency attained.  ]]></description>
+    <title><![CDATA[¿Por qué solo tengo 5 suscripciones a E3 en lugar de lo que tenía antes de renovar Microsoft Action Pack?]]></title>
+    <description><![CDATA[Una suscripción a Action Pack siempre recibirá 5 licencias E3 tras la finalización del proceso de renovación. Para comprobar el número de licencias o puestos recibidos, consulte la tabla de licencias disponible en el vínculo abajo. 
+Si el número recibido no es igual que el número al que tiene derecho, póngase en contacto con el equipo de primera línea.  Para la renovación de competencias, los partners tienen derecho a recibir un conjunto de beneficios principales para el nivel Silver o Gold, así como un conjunto incremental de beneficios que se basa en cada competencia adquirida.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[Tabla de licencias de IUR]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
       </link>
        <link>
@@ -261,8 +262,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000117</id>
-    <title><![CDATA[Why am I experiencing IUR issues with Office 2016 activation?]]></title>
-    <description><![CDATA[Office 2016 is not available as an IUR anymore. It has been replaced by Office 2019. Once the token has reached his activation limit it can no longer be extended.    These products have finite number of installations, activations, or seats. A product key will stop working when all installations and activations have been consumed.  Additional activations for these product keys will not be granted.]]></description>
+    <title><![CDATA[¿Por qué tengo problemas de IUR con la activación de Office 2016?]]></title>
+    <description><![CDATA[Office 2016 ya no está disponible como IUR. Se reemplazó por Office 2019. Cuando el token haya alcanzado su límite de activación, ya no se puede extender.    Estos productos tienen un número limitado de instalaciones, activaciones o puestos. Una clave de producto dejará de funcionar cuando se hayan consumido toda las instalaciones y activaciones.  No se concederán activaciones adicionales para estas claves de producto.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Beneficio de la nube y de software de derechos de uso interno]]></text>
@@ -270,8 +271,8 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000118</id>
-    <title><![CDATA[Why have I lost all Microsoft Partner benefits after renewal?]]></title>
-    <description><![CDATA[Due to various scenarios, please reach out to the Frontline support team to assist.]]></description>
+    <title><![CDATA[¿Por qué he perdido todos los beneficios de Microsoft Partner después de la renovación?]]></title>
+    <description><![CDATA[Debido a los distintos escenarios, póngase en contacto con el equipo de soporte técnico de primera línea para obtener ayuda.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Equipo de primera línea]]></text>
@@ -279,17 +280,17 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000119</id>
-    <title><![CDATA[When will Server 2019 become available to download in our Microsoft Partner Network benefits?]]></title>
-    <description><![CDATA[Please check the License table. You can find there all Server 2019 benefits available.]]></description>
+    <title><![CDATA[¿Cuándo estará disponible Server 2019 para descargar en nuestros beneficios de Microsoft Partner Network?]]></title>
+    <description><![CDATA[Consulte la tabla de licencias. En ella encontrará todos los beneficios de Server 2019 disponibles.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[IURs License Table]]></text>
+        <text><![CDATA[Tabla de licencias de IUR]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000119]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000120</id>
-    <title><![CDATA[Can I upgrade the IURs from EMS E3 to E5?]]></title>
-    <description><![CDATA[IUR is a static benefit. It cannot be used to upgrade from E3 to E5.  In order to receive an E5 you must attain a competency. Please check the License table for competencies and see what is the competency that can offer this benefit.]]></description>
+    <title><![CDATA[¿Puedo actualizar los IUR de EMS E3 a E5?]]></title>
+    <description><![CDATA[IUR es un beneficio estático. No se puede usar para actualizar de E3 a E5.  Para recibir E5, debe adquirir una competencia. Consulte la tabla de licencias para conocer las competencias y ver qué competencia puede ofrecer este beneficio.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Tabla de licencias para los socios con una competencia]]></text>
@@ -297,7 +298,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question SortOrderOnHome="7">
     <id>300-000121</id>
-    <title><![CDATA[I am only seeing options to add seats when renewing my Office 365 subscription, what do I do?]]></title>
+    <title><![CDATA[Al renovar mi suscripción a Office 365, solo veo la opción para agregar asientos. ¿Qué debo hacer?]]></title>
     <description><![CDATA[Por diseño, el sistema no muestra la opción de renovación o ampliación si los partners tienen más puestos en su suscripción que el número de puestos del token generado en la ventana de renovación.Para que los partners vean la opción de renovación o ampliación de sus puestos, deben quitar licencias o puestos de los usuarios hasta alcanzar el mismo número de puestos o menos que el número que contiene el token. Esta solución alternativa se aplica antes de activar el nuevo token recibido.Al elegir la opción de agregar puestos y no renovarlos, el sistema proporcionará menos de 12 meses de beneficios.Si, por error, los partners agregaron puestos en lugar de renovarlos, deben ponerse en contacto con el equipo de primera línea y solicitar ayuda dentro de un plazo de 30 días desde la activación del token.]]></description>
     <articlelinks>
       <link>
@@ -310,7 +311,7 @@ In case the number received is not the same with the one you are entitled to, pl
       </link>
     </articlelinks></question><question>
     <id>300-000122</id>
-    <title><![CDATA[What software benefits do I get?]]></title>
+    <title><![CDATA[¿Qué beneficios de software obtengo?]]></title>
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
     <articlelinks>
       <link>
@@ -361,7 +362,7 @@ In case the number received is not the same with the one you are entitled to, pl
         <url><![CDATA[https://docs.microsoft.com/partner-center/join-a-partner-program?tpqid=200-000095]]></url>
       </link>
        <link>
-        <text><![CDATA[Portal de CSP: le damos la bienvenida a Microsoft Partner Center]]></text>
+        <text><![CDATA[Portal de CSP: le damos la bienvenida a Microsoft partner center]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/index?tpqid=200-000095]]></url>
       </link>
        <link>
@@ -391,7 +392,7 @@ In case the number received is not the same with the one you are entitled to, pl
     <description><![CDATA[Obtenga información de referencia, instrucciones y ejemplos de código para todas sus necesidades de desarrollo de la API de Portal de CSP desde estos recursos.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Portal de CSP: únase al programa Partner Center API and SDK Early Adopter Program]]></text>
+        <text><![CDATA[Portal de CSP: únase al programa partner center API and SDK Early Adopter Program]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/develop/early-adopter-program?tpqid=200-000099]]></url>
       </link>
     </articlelinks></question><question>
@@ -586,7 +587,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>400-000084</id>
-    <title><![CDATA[I received a rebate, which incentive program and/or period does it belong to?]]></title>
+    <title><![CDATA[Recibí una devolución. ¿A qué programa de incentivos o período pertenece?]]></title>
     <description><![CDATA[Consulta el artículo siguiente para obtener más información.]]></description>
     <articlelinks>
       <link>
@@ -595,7 +596,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>400-000085</id>
-    <title><![CDATA[What are the Microsoft Incentives Programs?]]></title>
+    <title><![CDATA[¿Cuáles son los programas de incentivos de Microsoft?]]></title>
     <description><![CDATA[Consulta el artículo siguiente para obtener más información.]]></description>
     <articlelinks>
       <link>
@@ -604,8 +605,8 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>400-000089</id>
-    <title><![CDATA[Where can I learn more about OSA Claim?]]></title>
-    <description><![CDATA[Below document provides information on the claim launch summary; functionality and important resources on how to successfully submit a claim.]]></description>
+    <title><![CDATA[¿Dónde puedo obtener más información sobre una reclamación OSA?]]></title>
+    <description><![CDATA[En el documento siguiente se proporciona información sobre el resumen de lanzamiento de reclamación, la funcionalidad y recursos importantes sobre cómo presentar una reclamación correctamente.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Proceso y el modelo de solicitud de OSA]]></text>
@@ -613,8 +614,8 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>400-000090</id>
-    <title><![CDATA[Where can I access to the commonly asked questions to the OSA Claim Process?]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to OSA Claim. ]]></description>
+    <title><![CDATA[¿Dónde puedo consultar las preguntas más frecuentes sobre el proceso de reclamación OSA?]]></title>
+    <description><![CDATA[En el documento siguiente se incluyen todas las preguntas más frecuentes y las respuestas correspondientes en relación con las reclamaciones OSA. ]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Preguntas frecuentes sobre crédito de OSA]]></text>
@@ -622,8 +623,8 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>400-000087</id>
-    <title><![CDATA[How do I enrol incentives programs to Partner Center?]]></title>
-    <description><![CDATA[This is document with step by step details on how user management is done alongside with how incentives programs can be enrolled on Partner Center.]]></description>
+    <title><![CDATA[¿Cómo se inscriben programas de incentivos en el Portal de CSP?]]></title>
+    <description><![CDATA[Se trata de un documento con detalles paso a paso sobre cómo realizar la administración de usuarios, así como la manera en que los programas de incentivos se pueden inscribir en el Portal de CSP.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[Inscripción de programas de incentivos en el tablero de mandos del Portal de CSP]]></text>
@@ -631,11 +632,11 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question>
     <id>400-000088</id>
-    <title><![CDATA[What are the commonly asked questions on migration to Partner Center? ]]></title>
-    <description><![CDATA[Below document covers all the commonly asked questions and answers in regards to PMC to PC Migration.]]></description>
+    <title><![CDATA[¿Cuáles son las preguntas más frecuentes sobre la migración al Portal de CSP?]]></title>
+    <description><![CDATA[En el documento siguiente se incluyen todas las preguntas más frecuentes y las respuestas correspondientes en relación con la migración de Partner Membership Center al Portal de CSP.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[FAQ - PMC to PC Migration leading to Incentive Enrolment]]></text>
+        <text><![CDATA[P+F: migración de PMC a Portal de CSP que lleva a la inscripción de incentivo]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
       </link>
     </articlelinks></question></group><group title="Licencias, ventas y marketing" refid="LicensingSalesMarketing"><question>
@@ -1006,20 +1007,20 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000104</id>
-    <title><![CDATA[How do I migrate from Partner Membership Center to Partner Center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on MPN and support.
-Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new Partner Center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <title><![CDATA[¿Cómo se hace la migración desde el Partner Membership Center al Portal de CSP?]]></title>
+    <description><![CDATA[En el artículo siguiente se proporciona información sobre los pasos de migración de Partner Membership Center al Centro de partners, así como contexto adicional sobre Microsoft Partner Network y soporte técnico.
+Antes de iniciar el proceso, asegúrese de que este lo complete el administrador global que identificó el inquilino de Azure Active Directory (AAD) que se asociará al nuevo portal de Portal de CSP. Además, tenga en cuenta que la sede del país o región debe coincidir con el país o región del inquilino de AAD y que la suscripción o las competencias de Partner Network NO se hayan expirado. Si ya hay ABTK adquiridas en la cuenta, debe renovarlas o volver a comprarlas antes de realizar la migración.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Partner Center Help]]></text>
+        <text><![CDATA[Ayuda del Portal de CSP]]></text>
         <url><![CDATA[https://partner.microsoft.com/support/partner-center-help?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[Cuenta de Partner Center FAQs]]></text>
+        <text><![CDATA[Cuenta de partner center FAQs]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4340639?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[Crear una cuenta del Centro de partners]]></text>
+        <text><![CDATA[Crear una cuenta del Portal de CSP]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center?tpqid=100-000104]]></url>
       </link>
     </articlelinks></question><question>
@@ -1093,7 +1094,7 @@ Before starting the process please make sure that the process will be completed 
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[Blog MPN Technical Journey]]></text>
+        <text><![CDATA[Blog Microsoft Partner Network Technical Journey]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
@@ -1123,7 +1124,7 @@ Before starting the process please make sure that the process will be completed 
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
-        <text><![CDATA[Blog MPN Technical Journey]]></text>
+        <text><![CDATA[Blog Microsoft Partner Network Technical Journey]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
     </articlelinks></question><question>
