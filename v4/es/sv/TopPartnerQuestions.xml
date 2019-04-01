@@ -128,7 +128,7 @@
         <text><![CDATA[P+F: Microsoft Dynamics 365 para el beneficio Derechos de uno interno (IUR) de operaciones unificadas]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4052881?tpqid=300-000105]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>300-000106</id>
     <title><![CDATA[¿Cuáles son los pasos para crear una cuenta y asignar permisos en el Portal de CSP?]]></title>
     <description><![CDATA[Ahora tiene la capacidad de asignar usuarios a tres nuevos roles en el Portal de CSP que le ayudarán a administrar su empresa: administrador de Microsoft Partner Network, administrador de perfil de negocio y administrador de referencias.]]></description>
@@ -188,6 +188,10 @@
       <link>
         <text><![CDATA[Logo Builder (se requiere inicio de sesión)]]></text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Cómo crear una carta de certificación con logotipo Builder]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000112</id>
@@ -408,7 +412,7 @@ Si el número recibido no es igual que el número al que tiene derecho, póngase
         <text><![CDATA[Portal de CSP: use archivos de reconciliaciones ]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000102</id>
     <title><![CDATA[¿No está seguro dónde obtener soporte técnico para partners o necesita ayuda en la navegación por la experiencia de soporte técnico?]]></title>
     <description><![CDATA[Revise la experiencia en el artículo sobre asistencia de Obtener ayuda para obtener información sobre los menús desplegables disponibles, las soluciones recomendadas, las opciones de soporte técnico, los comentarios y mucho más.]]></description>
@@ -788,7 +792,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Partner University]]></text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>100-000103</id>
     <title><![CDATA[¿Cómo puedo descargar o consultar el contrato de Microsoft Partner Network en el Portal de CSP?]]></title>
     <description><![CDATA[Consulta el artículo siguiente para obtener más información.]]></description>
@@ -879,7 +883,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Administrar los beneficios de la suscripción a Microsoft Partner Network]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000050</id>
     <title><![CDATA[Mi empresa ha obtenido un MCP (Microsoft Certified Professionals) que no es reconocido para completar los requisitos de una competencia Silver o Gold ¿Qué puedo hacer? ]]></title>
     <description><![CDATA[Tras los últimos cambios, usted o su MCP pueden no haber sido reconocidos correctamente en el Centro de Participación de Partner a pesar de estar registrados correctamente y haber superado los exámenes. En esta situación reasigne por favor el MCP a través de la sección de “Manage Microsoft Certified Professionals” en el Centro de Participación de Partners. Este proceso debería resolver el problema. Si el problema continúa contacte por favor con su Centro Regional para Partners.]]></description>
@@ -905,7 +909,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Cómo ver la fecha de expiración para su suscripción a Microsoft Action Pack o competencia]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4090552?tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>100-000069</id>
     <title><![CDATA[Mi empresa no está inscrito en el Microsoft Partner Network. ¿Cómo doy de alta a mi empresa?]]></title>
     <description><![CDATA[Si usted tiene una cuenta de Microsoft, inicie sesión en la página de Microsoft Partner Network y vaya a “Dar de alta a mi organización” para comenzar. Si usted no tiene una cuenta de Microsoft, tendrá que crear una.]]></description>
@@ -944,7 +948,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Registrarse para recibir actualizaciones para convertirse en un instalador o ADR de Microsoft Surface Hub]]></text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000078</id>
     <title><![CDATA[¿Cómo se imprime o descarga la factura final por los cargos de sucripción a MAP y por competencias?]]></title>
     <description><![CDATA[Consulte el artículo abajo para ver cómo se imprimen las facturas finales.]]></description>

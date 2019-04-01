@@ -124,7 +124,7 @@
         <text><![CDATA[Perguntas frequentes ‒ IUR (Direitos de Uso Interno) do Microsoft Dynamics 365 para Operações Unificadas]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4052881?tpqid=300-000105]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>300-000106</id>
     <title><![CDATA[Quais são as etapas para criar uma conta de usuário e atribuir permissões no partner center?]]></title>
     <description><![CDATA[Agora, você tem a capacidade de atribuir aos usuários três novas funções no partner center que ajudarão a gerenciar seus negócios: administrador do Microsoft Partner Network, administrador do perfil de negócios e administrador de indicações.]]></description>
@@ -184,6 +184,10 @@
       <link>
         <text><![CDATA[Logo Builder (é necessário entrar)]]></text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Como criar uma letra de certificação utilizando o construtor de logótipo]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000112</id>
@@ -411,7 +415,7 @@ Se, por engano, os parceiros adicionarem estações em vez de renová-los, eles 
         <text><![CDATA[Partner center: Transferência do PAC (Partner Admin Center) para o partner center]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/moving-from-pac-to-pc?tpqid=200-000101]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000102</id>
     <title><![CDATA[Não sabe onde obter suporte para parceiros ou precisa de ajuda para navegar na experiência de suporte?]]></title>
     <description><![CDATA[Examine a experiência no artigo Diretrizes para Entrar em Contato com o Suporte para saber sobre listas suspensas disponíveis, soluções recomendadas, opções de suporte, comentários e muito mais.]]></description>
@@ -806,7 +810,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
       </link>
        <link>
-        <text><![CDATA[지원되는 제품 및 시나리오]]></text>
+        <text><![CDATA[Produtos e cenários com suporte]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
       </link>
     </articlelinks></question></group><group title="Programas e Associações" refid="ProgramsMembership"><question>
@@ -891,7 +895,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Gerenciar seus benefícios de associação ao Microsoft Partner Network]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000050</id>
     <title><![CDATA[A minha Organização tem Microsoft Certified Professionals (MCP) que não são reconhecidos como qualificáveis para cumprir os requisitos de determinada Competência Silver ou Gold. O que devo fazer?]]></title>
     <description><![CDATA[Após as recentes alterações no programa de Parceiros, você ou os seus MCPs podem não estar a ser reconhecidos corretamente na sua Central de Participação, apesar estarem corretamente associados à Organização e terem passado nos Exames requeridos. Neste caso, deverá reatribuir os MCPs em “Gerenciar Microsoft Certified Professionals”. Este modo de contornar esse problema resolverá essa situação. Se o problema persistir, aconselhamos que contacte o Centro Regional de Suporte. ]]></description>
@@ -917,7 +921,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Como ver sua data de expiração para MAPS ou Competência]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4090552?tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="4">
     <id>100-000069</id>
     <title><![CDATA[A minha empresa não está inscrita no Microsoft Partner Network. Como posso proceder ao registo da minha empresa?]]></title>
     <description><![CDATA[Se já é detentor de uma Microsoft Account, inicie uma sessão na página “Inscreva a sua  Organização no Microsoft Partner Network” e complete todos os passos necessários. Caso ainda não tenha criado uma Microsoft Account, terá que proceder primeiro a esse passo.]]></description>
@@ -956,7 +960,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Inscreva-se para receber atualizações sobre como tornar-se um ADR ou instalador de Surface Hub da Microsoft]]></text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000078</id>
     <title><![CDATA[Como imprimir/baixar a fatura final do MAPS e a taxa de Competência?]]></title>
     <description><![CDATA[Consulte o artigo abaixo para aprender a imprimir faturas finais]]></description>
@@ -1096,7 +1100,7 @@ Antes de iniciar o processo, verifique se ele será concluído pelo Administrado
         <text><![CDATA[Partner University]]></text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>100-000103</id>
     <title><![CDATA[Como baixar o contrato ou verificar o Contrato do Microsoft Partner Network no partner center?]]></title>
     <description><![CDATA[Acesse o artigo abaixo para saber mais.]]></description>
