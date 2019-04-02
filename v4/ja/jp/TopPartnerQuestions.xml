@@ -136,7 +136,7 @@
         <text><![CDATA[パートナー センター: 調整ファイルを使う]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="4">
+    </articlelinks></question><question>
     <id>200-000102</id>
     <title><![CDATA[パートナー サポートを受ける方法が不明な場合や、サポート エクスペリエンスの手順についてサポートが必要な場合。]]></title>
     <description><![CDATA[「Contact Support Guidance (サポート ガイダンスへのお問い合わせ)」の操作方法を確認し、利用できるドロップ ダウン、推奨ソリューション、サポート オプション、フィードバックなどを確認してください。]]></description>
@@ -356,7 +356,7 @@
         <text><![CDATA[Visual Studio Online サブスクリプションを新しいユーザーに割り当てることができません。 ]]></text>
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=1200-1000110]]></url>
       </link>
-    </articlelinks></question></group><group title="プログラムとメンバーシップ" refid="ProgramsMembership"><question>
+    </articlelinks></question></group><group title="プログラムとメンバーシップ" refid="ProgramsMembership"><question SortOrderOnHome="4">
     <id>100-000069</id>
     <title><![CDATA[当社はマイクロソフト パートナー ネットワークに登録しています。　パートナーアカウントに社員を関連付けするには、どうすればよいでしょう？]]></title>
     <description><![CDATA[既にマイクロソフト アカウントがある場合、パートナー メンバーシップ センターにサインインして、登録社員のページから関連付けを行います。マイクロソフト アカウントがない場合は事前にアカウントを作成する必要があります。]]></description>
@@ -395,7 +395,7 @@
         <text><![CDATA[サインアップして Microsoft Surface Hub ADR またはインストーラーになる方法に関する最新情報を取得する]]></text>
         <url><![CDATA[http://www.microsoft.com/microsoft-surface-hub/surfacepartners?tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000078</id>
     <title><![CDATA[MAPS およびコンピテンシー年会費から最終的な請求書を印刷/ダウンロードする方法]]></title>
     <description><![CDATA[最終的な請求書を印刷する方法については次の記事を参照してください]]></description>
@@ -517,7 +517,7 @@
         <text><![CDATA[Partner University]]></text>
         <url><![CDATA[https://partneruniversity.microsoft.com/?tpqid=100-000102]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question><question>
     <id>100-000103</id>
     <title><![CDATA[パートナー センターで Microsoft Partner Network 契約をダウンロードする方法を教えてください。]]></title>
     <description><![CDATA[以下の記事にアクセスして詳細をご確認ください。]]></description>
@@ -604,7 +604,7 @@
         <text><![CDATA[パートナー メンバーシップ センターの概要]]></text>
         <url><![CDATA[http://support.microsoft.com/help/2984366?tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question><question SortOrderOnHome="3">
     <id>100-000050</id>
     <title><![CDATA[当社のマイクロソフト認定資格取得者 (MCP) が、Silver や Gold コンピテンシーの取得条件を満たすと認識されていないようです。どうすればよいでしょうか？]]></title>
     <description><![CDATA[前回のプログラム変更以降、正しくパートナープロファイルに関連付けされており、必要な試験に合格していながら、パートナーメンバーシップセンター上でそれらが が正しく認識されない、といったケースが発生しています。　このような状況に見舞われた場合は、パートナーメンバーシップセンターの「マイクロソフト認定資格取得者 (MCP) の管理」のページで MCP を再度割り当てなおしてみてください。この回避策により、状況は改善するはずですが、それでも問題が改善されない場合は、最寄りのマイクロソフト認定プログラム事務局に連絡してサポートを受けるようにしてください。]]></description>
@@ -919,7 +919,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[FAQ - Microsoft Dynamics 365 for Unified Operations の社内使用ライセンス (IUR)]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4052881?tpqid=300-000105]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question>
     <id>300-000106</id>
     <title><![CDATA[パートナー センターでユーザー アカウントを作成して権限を割り当てるための手順]]></title>
     <description><![CDATA[パートナー センターで、Microsoft Partner Network 管理者、ビジネス プロファイル管理者、および紹介管理者の管理に役立つ 3 つの新しい役割をユーザーに割り当てることができます。]]></description>
@@ -979,6 +979,10 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       <link>
         <text><![CDATA[Logo Builder (サインインが必要)]]></text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ロゴのビルダーを使用して証明するレターを作成する方法]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000112</id>
