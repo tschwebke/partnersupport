@@ -263,20 +263,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
       </link>
     </articlelinks></question><question>
     <id>300-000099</id>
-    <title><![CDATA[How to register to Visual Studio if I was already registered on MSDN?]]></title>
+    <title><![CDATA[How to register for the My Visual Studio web site, if I already registered for MSDN?]]></title>
     <description><![CDATA[Learn how to register on Visual Studio by following the steps outlined in the Knowledge Base article My Visual Studio Registration (Note that the Microsoft Partner Network RSC is responsible to support Partner Network members in understanding their Visual Studio subscription benefits, access to the subscription, and basic use of the Visual Studio portal.)]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[My Visual Studio Registration]]></text>
+        <text><![CDATA[<b>Solution:</b> My Visual Studio Registration]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4017803?tpqid=300-000099]]></url>
       </link>
        <link>
-        <text><![CDATA[Visual Studio FAQs]]></text>
-        <url><![CDATA[https://www.visualstudio.com/my/myvsfaq?tpqid=300-000099]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Visual Studio Support]]></text>
-        <url><![CDATA[https://www.visualstudio.com/support/?tpqid=300-000099]]></url>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0077&tpqid=300-000099]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000100</id>
@@ -284,12 +280,16 @@ Note: Partners cannot use either existing Windows 8.1 or Windows 10 product keys
     <description><![CDATA[Review the Core Benefits and Requirements and Microsoft Partner Network Technical Benefits Summary for information on Technical/Product Support eligibility based on your subscription.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft partner website: Core Benefits and Requirement]]></text>
+        <text><![CDATA[<b>Solution:</b> Microsoft Partner Network Technical Benefits Summary]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Additional information:</b> Microsoft partner website: Core Benefits and Requirement]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Technical Benefits Summary]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000100]]></url>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0035&tpqid=300-000100]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000102</id>
@@ -407,12 +407,16 @@ If by mistake partners added seats instead of renewing them, they must reach out
     <description><![CDATA[Yes, you can access below link to create a certified letter that denotes your relationship/partnership with Microsoft.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Logo Builder (Sign-in required)]]></text>
+        <text><![CDATA[<b>Solution:</b> Logo Builder (Sign-in required)]]></text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
       </link>
        <link>
-        <text><![CDATA[How to create a Certification Letter using Logo Builder]]></text>
+        <text><![CDATA[<b>Additional information:</b> How to create a Certification Letter using Logo Builder]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000111]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0026&tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000113</id>
@@ -558,7 +562,7 @@ In case the number received is not the same with the one you are entitled to, pl
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Partner Network Support contract activation and Access ID in Partner Center]]></text>
+        <text><![CDATA[<b>Additional Information:</b> Microsoft Partner Network Support contract activation and Access ID in Partner Center]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
       </link>
     </articlelinks></question><question>
@@ -753,7 +757,7 @@ In case the number received is not the same with the one you are entitled to, pl
     <articlelinks>
       <link>
         <text><![CDATA[<b>Solution:</b> Microsoft Partner Network Benefit Package Usage Guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/en-us/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
        <link>
         <text><![CDATA[Click here to Get Support]]></text>
@@ -842,11 +846,15 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
     <id>100-000098</id>
     <title><![CDATA[How is my Azure consumption calculated for Cloud Platform Competency?]]></title>
-    <description><![CDATA[TTM consumption is calculated for the subscriptions who have DPOR attached. In case a partner owns some subscriptions, this is not enough. Partner has to be attached as DPOR for the owned subscriptions. The consumption will be calculated only from the date DPOR is attached.]]></description>
+    <description><![CDATA[TTM consumption is calculated for the subscriptions who have DPOR or Azure transacting partner attached. In case a partner owns some subscriptions, this is not enough. Partner has to be attached as DPOR or Azure transacting partner for the owned subscriptions. The consumption will be calculated only from the date DPOR, CSP tier 1, or CSP tier 2 is attached. Also, revenue attribution is excluded for Trial Offers & MPN Benefits.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Solution:</b> Microsoft partner website: Cloud Platform]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/cloud-platform-competency?tpqid=100-000098]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0064&tpqid=100-000098]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-000099</id>
@@ -946,8 +954,7 @@ Partner program administrators are required to activate the tokens to avoid a la
     </articlelinks></question><question SortOrderOnHome="1">
     <id>100-000104</id>
     <title><![CDATA[How do I migrate from Partner Membership Center to partner center?]]></title>
-    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on Microsoft Partner Network and support.
-Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new partner center portal. Also please note that the country HQ must match the AAD tenant country and that the MPN membership/competencies are NOT in an expired state. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating.]]></description>
+    <description><![CDATA[Below article provides you with information on the PMC to PC Migration steps; additional context on Microsoft Partner Network and support. Before starting the process please make sure that the process will be completed by the Global Admin who identified the Azure Active Directory (AAD) tenant that will be associated with the new partner center portal. Also please note that the MPN membership/competencies are NOT in an expired state – only active enrollments (MAPS/Silver/Gold competencies/possible ABTKs) will be migrated, together with all your benefits, in Partner Center. In case there are ABTKs already purchased on the account, you should renew/re-purchase them before migrating. Existing locations in PMC will also get transitioned over in Partner Center.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Solution:</b> Guide to migrating from PMC to Partner Center]]></text>
@@ -1065,7 +1072,7 @@ Before starting the process please make sure that the process will be completed 
     <description><![CDATA[If you already have a Microsoft account, sign in to the Associate as an individual page on the Partner Membership Center and fill in the required fields. If you do not have a Microsoft account, you will need to create one before you get started.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> How to associate a user to your organization's Microsoft Partner Network ID in Partner Center]]></text>
+        <text><![CDATA[<b>Solution:</b> How to associate a user to your organizations Microsoft Partner Network ID in Partner Center]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4499949?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -1257,46 +1264,94 @@ Before starting the process please make sure that the process will be completed 
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
     </articlelinks></question><question>
-    <id>700-000001</id>
-    <title><![CDATA[Where can I get assistance with an issue or questions about Dynamics products?]]></title>
-    <description><![CDATA[Please log a service request via Partner Source. This can be done by visiting the Pricing and Ordering section of the site and selecting New Operations Request. Please quote an IT number as part of the request or chat directly with an agent via chat. If your request is not fully resolved please email Dynamics Escalation including IT number in the email body.]]></description>
+    <id>700-000004</id>
+    <title><![CDATA[How do I create a Microsoft Azure support request on behalf of a customer?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Dynamics PartnerSource]]></text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/?tpqid=700-000001]]></url>
+        <text><![CDATA[<b>Solution:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000004]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
       </link>
     </articlelinks></question><question>
-    <id>700-000002</id>
-    <title><![CDATA[How do I create Support Requests for Office 365, Microsoft Azure, or Microsoft Dynamics 365, for either for my organization or on behalf of a customer?]]></title>
-    <description><![CDATA[Product support requests can be submitted from each of these portals.]]></description>
+    <id>700-000005</id>
+    <title><![CDATA[How do I create a Microsoft Azure support request for my organization?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Office 365 Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+        <text><![CDATA[<b>Solution:</b> Microsoft Azure Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Azure Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000002]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Microsoft Dynamics 365 Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000002]]></url>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
       </link>
     </articlelinks></question><question>
-    <id>700-000003</id>
-    <title><![CDATA[Are there community forums available for Microsoft Azure, Microsoft Dynamics 365, or Office 365 that can be utilized for technical product related questions?]]></title>
-    <description><![CDATA[Yes! There are multiple community forums available for answering technical product related questions.]]></description>
+    <id>700-000006</id>
+    <title><![CDATA[How do I create an Office 365 support request on behalf of a customer?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Microsoft Azure Community]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000003]]></url>
+        <text><![CDATA[<b>Solution:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
       </link>
        <link>
-        <text><![CDATA[Microsoft Dynamics 365 Community]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000003]]></url>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000007</id>
+    <title><![CDATA[How do I create an Office 365 support request for my organization?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Office 365 Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000007]]></url>
       </link>
        <link>
-        <text><![CDATA[Office 365 Community]]></text>
-        <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000003]]></url>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000007]]></url>
       </link>
-    </articlelinks></question></group></groups>
+    </articlelinks></question><question>
+    <id>700-000008</id>
+    <title><![CDATA[How do I create a Microsoft Dynamics 365 support request on behalf of a customer?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000008]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0013&tpqid=700-000008]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000009</id>
+    <title><![CDATA[How do I create a Microsoft Dynamics 365 support request for my organization?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Microsoft Dynamics 365 Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000009]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0013&tpqid=700-000009]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000010</id>
+    <title><![CDATA[How do I submit an on-prem request if I'm still in Partner Membership Center (PMC)?]]></title>
+    <description><![CDATA[If your organization is in PMC or use an MSA sign-in, should use Chat or Phone for Partner Frontline Support and Technical Presales and Deployment Services. Microsoft Partner online submission requires a Partner Center AAD Sign-in.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Microsoft Partner online ticket submission has moved]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4476513?tpqid=700-000010]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to Get Support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=700-000010]]></url>
+      </link>
+    </articlelinks></question>#REF!#REF!#REF!</group></groups>
