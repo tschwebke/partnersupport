@@ -228,7 +228,7 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/billing?tpqid=200-000101]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> 合作伙伴中心：使用对帐文件 ]]></text>
+        <text><![CDATA[<b>其他信息:</b> 合作伙伴中心：使用对帐文件]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/use-the-reconciliation-files?tpqid=200-000101]]></url>
       </link>
        <link>
@@ -292,7 +292,7 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-new-subscription?tpqid=200-000086]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> 向现有订阅添加许可证或服务]]></text>
+        <text><![CDATA[<b>其他信息:</b> 合作伙伴中心: 向现有订阅添加许可证或服务]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/add-licenses-or-services-to-an-existing-subscription?tpqid=200-000086]]></url>
       </link>
        <link>
@@ -331,7 +331,7 @@
       </link>
        <link>
         <text><![CDATA[单击此处获取支持]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0035&tpqid=300-000101]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000104</id>
@@ -534,8 +534,16 @@
     <description><![CDATA[家用许可计划是为 Microsoft 批量许可客户提供的软件保障权益，为客户的 Office 应用程序提供主动软件保障范围。在工作中使用所涵盖的许可的员工有资格购买这些 Office 应用程序，以便在受雇期间在个人设备上使用这些应用程序。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[家用许可计划]]></text>
-        <url><![CDATA[https://www.microsofthup.com/hupuk/hup.aspx?tpqid=1500-000006]]></url>
+        <text><![CDATA[<b>解决方案:</b> 软件保障的权益]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b>  Empower your employees at home with Office 365]]></text>
+        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处获取支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
       </link>
     </articlelinks></question><question>
     <id>1500-000007</id>
@@ -754,7 +762,7 @@
         <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000004]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> Logo Builder （需要登录）]]></text>
+        <text><![CDATA[<b>其他信息:</b> Logo Builder （需要登录)]]></text>
         <url><![CDATA[https://logobuilder.partner.microsoft.com/?tpqid=300-000004]]></url>
       </link>
        <link>
@@ -1037,7 +1045,7 @@
       </link>
     </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
     <id>100-000077</id>
-    <title><![CDATA[可以在哪里找到如何成为 Surface 或 Surface 集线器 Microsoft 授权的设备经销商 (ADR) 的相关信息？]]></title>
+    <title><![CDATA[Where can I find information on becoming an Authorized Surface Reseller?]]></title>
     <description><![CDATA[如果您有志成为 Surface 或 Surface Hub Microsoft 授权设备经销商，您应该与 Microsoft 授权设备分销商取得联系并注册接收授权设备经销商的更新。]]></description>
     <articlelinks>
       <link>
@@ -1220,6 +1228,10 @@
         <text><![CDATA[<b>其他信息:</b> 推介操作方法可下载指南]]></text>
         <url><![CDATA[https://assets.microsoft.com/build-a-business-profile-guide.pdf?tpqid=100-0000100]]></url>
       </link>
+       <link>
+        <text><![CDATA[单击此处获取支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0010&tpqid=100-0000100]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-0000101</id>
     <title><![CDATA[如何才能收到推介？如何创建推介？]]></title>
@@ -1233,6 +1245,10 @@
         <text><![CDATA[<b>其他信息:</b> 推介操作方法可下载指南]]></text>
         <url><![CDATA[https://assets.microsoft.com/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
       </link>
+       <link>
+        <text><![CDATA[单击此处获取支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0010&tpqid=100-0000101]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-0000102</id>
     <title><![CDATA[客户搜索如何运作？ ]]></title>
@@ -1241,6 +1257,10 @@
       <link>
         <text><![CDATA[<b>解决方案:</b> 解决方案提供商搜索]]></text>
         <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处获取支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0036&tpqid=100-0000102]]></url>
       </link>
     </articlelinks></question><question>
     <id>100-0000103</id>
@@ -1255,6 +1275,10 @@
         <text><![CDATA[<b>其他信息:</b> 与 Microsoft 合作的新机会]]></text>
         <url><![CDATA[https://blogs.partner.microsoft.com/mpn/new-opportunities-partnering-microsoft-partner-network/?tpqid=100-0000103]]></url>
       </link>
+       <link>
+        <text><![CDATA[单击此处获取支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-0000103]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="2">
     <id>100-000012</id>
     <title><![CDATA[我如何续订我的 Microsoft Partner Network 成员身份？]]></title>
@@ -1265,7 +1289,7 @@
         <url><![CDATA[https://support.microsoft.com/help/4500026?tpqid=100-000012]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> 续订你的 MPN 产品/服务]]></text>
+        <text><![CDATA[<b>其他信息:</b> 续订你的 Microsoft Partner Network 产品/服务]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/renew-mpn-offers?tpqid=100-000012]]></url>
       </link>
        <link>
