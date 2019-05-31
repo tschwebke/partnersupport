@@ -159,16 +159,16 @@
     <description><![CDATA[В зависимости от конкретного продукта или вида деятельности перейдите по ссылкам ниже.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Техническая поддержка для бизнеса, ИТ и разработчиков]]></text>
+        <text><![CDATA[<b>Решение:</b> Техническая поддержка для бизнеса, ИТ и разработчиков]]></text>
         <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
       </link>
        <link>
-        <text><![CDATA[Планы по технической поддержке по Azure]]></text>
+        <text><![CDATA[<b>Дополнительная информация:</b> Планы по технической поддержке по Azure]]></text>
         <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
       </link>
        <link>
-        <text><![CDATA[Планы по технической поддержке по Dynamics 365]]></text>
-        <url><![CDATA[https://dynamics.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000110</id>
@@ -176,12 +176,16 @@
     <description><![CDATA[Прежде всего проверьте наличие у вас права на льготы, затем проверьте в Интернете, активирован ли ваш контракт, и, в случае необходимости, отправьте запрос на активацию.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> Обзор технических преимуществ программы Microsoft Partner Network]]></text>
+        <text><![CDATA[<b>Решение:</b> Активация контракта на техническую поддержку партнеров по программе Microsoft Partner Network и идентификатора доступа в Центр партнеров]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Дополнительная информация:</b> Обзор технических преимуществ программы Microsoft Partner Network]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Активация контракта на техническую поддержку партнеров по программе Microsoft Partner Network и идентификатора доступа в Центр партнеров]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="8">
     <id>300-000111</id>
@@ -853,6 +857,10 @@
         <text><![CDATA[<b>Решение:</b> Портал партнеров. Партнер со статусом Digital Partner of Record и Partner Association]]></text>
         <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
       </link>
+       <link>
+        <text><![CDATA[Нажмите здесь для получения поддержки]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0030&tpqid=100-000096]]></url>
+      </link>
     </articlelinks></question><question>
     <id>100-000098</id>
     <title><![CDATA[Как рассчитывается мое использование Azure для компетенции Cloud Platform?]]></title>
@@ -1073,7 +1081,7 @@
       </link>
        <link>
         <text><![CDATA[Нажмите здесь для получения поддержки]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000061]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0079&tpqid=100-000061]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="4">
     <id>100-000069</id>
@@ -1081,11 +1089,7 @@
     <description><![CDATA[Если Вы зарегистрированы в Microsoft, войдите на страницу программы Microsoft Partner Network, чтобы начать регистрацию Вашей компании. Если у Вас нет учетной записи Microsoft, Вам будет необходимо создать её прежде чем Вы начнёте регистрировать компанию.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> Как связать пользователя с иидентификатором программы Microsoft Partner Network вашей организации в Центре партнеров]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499949?tpqid=100-000069]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Как связать учетную запись Майкрософт для вашей организации идентификатор сети партнеров корпорации Майкрософт]]></text>
+        <text><![CDATA[<b>Решение:</b> Как связать учетную запись Майкрософт для вашей организации идентификатор сети партнеров корпорации Майкрософт]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3083683?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -1253,7 +1257,7 @@
         <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=1400-000114]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Блог «Путешествия по стране технических знаний для участников программы Microsoft Partner Network»]]></text>
+        <text><![CDATA[<b>Дополнительная информация:</b> Начните свое путешествие по технической стране]]></text>
         <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
       </link>
        <link>
