@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page - Partner Virtual Assistant</title>
+    <link rel="stylesheet" type="text/css" href="https://assets.onestore.ms/cdnfiles/external/webcore/4.14.0/stylesheets/WebCore.4.14.0.ltr.light.fixed.min.css">
+
+    <link href="css.css?v=XrM_i-qL7ntkoyZchCNCLeeyZEN21k6m7X1mfUibzPs1" rel="stylesheet"/>
+
+    <script src="modernizr.js?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+    
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="Partner VA-v1.html">Partner Virtual Assistant v1</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="Partner VA-v1.html">Home</a></li>
+                    <!--li><a href="About.html">About</a></!--li>
+                    <li><a href="Contact.html">Contact</a></li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+            <body>
+                    <img src="AI-2.PNG" style="width: 100%; height: 250px; object-fit:cover" />
+                    <div class="jumbotron">
+                        <h1>Partner Virtual Assistant</h1>
+                        <p class="lead">This is the Partner Virtual Assistant using Microsoft Dynamics AI for Customer Service.</p>
+                    </div>
+                    <body>
+                    <div id='iframe_container' frameborder="1" style="width: 100%; height: 600pt" align="top"></div>
+
+                    <script src="https://code.jquery.com/jquery-3.1.1.js" type="text/javascript"></script>
+                    <script src="https://az725175.vo.msecnd.net/scripts/jsll-4.0.0.js" type="text/javascript"></script>
+                    <script type="text/javascript" src="https://cdn.support.services.microsoft.com/support-web-sdk/v2/rc/support.sdk.all.js"></script>                
+
+                    <script>
+                            var appConfig = {
+                                partnerId: "partner",
+                                appId: "upebot"
+                            };
+                    
+                            // initialize the web sdk
+                            var initPromise = window.MsSupportSdk.init(appConfig);
+                            // Setup config the web sdk
+                            var config = {
+                                "environment": MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION,
+                                "locale": "en-us",
+                                "areaId": "PartnerCenter",
+                                "preview": true,
+                                "content": {
+                                    "flowExtensionOption": {
+                                        "type": "default",
+                                        "showImmediately": false
+                                    }
+                                },
+                                "theme": {
+                                    "type": "light"
+                                },
+                                "uiInfo": {
+                                    "type": 1,
+                                    "containerSelector": "#iframe_container"
+                                }
+                            };
+                            window.MsSupportSdk.ui.virtualAgent.render(config);
+                        </script>
+                    </body>
+                    
+</body>
+<hr />
+        <footer>
+            <p>&copy; 2019 - Digit Customer Support - Partner Virtual Assistant on Dynamics 365</p>
+        </footer>
+    </div>
+
+    <!--script-- src="jquery.js?v=2u0aRenDpYxArEyILB59ETSCA2cfQkSMlxb6jbMBqf81"></!--script-->
+
+    <script src="bootstrap.js?v=lescQEuG5u4jd-GcVDBcbpUOSyTDIg0Kk9zHDX55GCw1"></script>
+
+    
+</body>
+</html>
+
