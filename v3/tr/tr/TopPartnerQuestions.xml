@@ -169,10 +169,10 @@
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000110</id>
     <title><![CDATA[Destek sözleşmelerimi nasıl etkinleştiririm?]]></title>
-    <description><![CDATA[Öncelikle avantaj destek hakkınızı kontrol edin ve ardından sözleşmenizin etkin olup olmadığını çevrimiçi olarak kontrol edin ve gerekirse etkinleştirilmesini isteyin.]]></description>
+    <description><![CDATA[Öncelikle avantaj destek hakkınızı kontrol edin ve ardından sözleşmenizin etkin olup olmadığını çevrimiçi olarak kontrol edin ve gerekirse etkinleştirilmesini isteyin. Access ID and Contract ID are required to activate your contract.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi'nde Microsoft İş Ortağı Ağı Destek sözleşmesinin etkinleştirilmesi ve Erişim Kimliği]]></text>
@@ -186,7 +186,7 @@
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000111</id>
     <title><![CDATA[Microsoft'tan iş ortaklığımı doğrulayan bir onaylı bir mektup edinebilir miyim?]]></title>
     <description><![CDATA[Evet, Microsoft'la ilişkinizi/iş ortaklığınızı gösteren onaylı bir mektup oluşturmak için aşağıdaki bağlantıyı kullanabilirsiniz.]]></description>
@@ -392,24 +392,20 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000123]]></url>
       </link>
-    </articlelinks></question></group><group title="Hesap Kurulumu ve Yönetimi" refid="AccountSetupManagement"><question>
-    <id>200-000089</id>
-    <title><![CDATA[Nasıl CSP ilişkisi isterim?]]></title>
-    <description><![CDATA[Müşterinin hizmetini veya aboneliğini onun adına yönetebilmek için müşterinin size ilgili hizmet için yönetici izinlerini vermesi gerekir. Aşağıdaki makalelerden daha fazla bilgi edinebilirsiniz:]]></description>
+    </articlelinks></question><question>
+    <id>300-000127</id>
+    <title><![CDATA[If I have renewed my enrollment before migrating to Partner Center (PC), and Cloud Internal User Rights (IUR) subscription will be expired on Anniversary Date (AD), how can I extend my Cloud IUR subscription to AD +30?]]></title>
+    <description><![CDATA[Please contact Partner Support to extend Cloud IUR subscription to AD +30. However this can be a case by case basis.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi: Satıcı ilişkisi isteyin]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi:  Satıcı ilişkisini kaldırın]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+        <text><![CDATA[<b>Çözüm:</b> Ön destek ekibi]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Hesap Kurulumu ve Yönetimi" refid="AccountSetupManagement"><question>
     <id>200-000092</id>
     <title><![CDATA[Bulut Çözümü Sağlayıcısı programına nasıl katılırım?]]></title>
     <description><![CDATA[Kayıt için aşağıdaki bilgileri inceleyin]]></description>
@@ -571,20 +567,24 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0055&tpqid=200-000088]]></url>
       </link>
-    </articlelinks></question></group><group title="Lisanslama, Satış ve Pazarlama" refid="LicensingSalesMarketing"><question>
-    <id>1500-000009</id>
-    <title><![CDATA[İş ortaklarının, Şirket İçi ürünlere yönelik yeni anahtarlar almalarına ne zaman yetki verilir? ]]></title>
-    <description><![CDATA[Şirket içi anahtarları belirli sayıda etkinleştirme için kullanabileceğinizi lütfen unutmayın. Yalnızca ürünün yeni bir sürümü kullanıma sunulduysa iş ortaklarının yeni anahtarlar almalarına yetki verilir. Aksi takdirde, iş ortakları daha önce anahtarları kullanmış ve yeni yıl için yeniden kayıt ödemesi yapmış olsalar bile ek etkinleştirme almayacaklardır. ]]></description>
+    </articlelinks></question><question>
+    <id>200-000089</id>
+    <title><![CDATA[Nasıl CSP ilişkisi isterim?]]></title>
+    <description><![CDATA[Müşterinin hizmetini veya aboneliğini onun adına yönetebilmek için müşterinin size ilgili hizmet için yönetici izinlerini vermesi gerekir. Aşağıdaki makalelerden daha fazla bilgi edinebilirsiniz:]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> Partner Portalı: İş Ortağı Ağı yazılımı lisanslama avantajları SSS  ]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi: Satıcı ilişkisi isteyin]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi:  Satıcı ilişkisini kaldırın]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Lisanslama, Satış ve Pazarlama" refid="LicensingSalesMarketing"><question>
     <id>1500-000010</id>
     <title><![CDATA[Bana verilen lisansları eğitim amaçlı olarak kullanabilir miyim?]]></title>
     <description><![CDATA[Size verilen lisansları müşteri eğitimi için kullanamazsınız. IUR'ler yalnızca şirket çalışanlarının eğitimi için kullanılabilir. Ayrıca etkinleştirme haklarınızdan birinin kullanılacağını lütfen unutmayın. ]]></description>
@@ -693,24 +693,20 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1500-0039&tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Programlar ve Üyelik" refid="ProgramsMembership"><question>
-    <id>100-000033</id>
-    <title><![CDATA[Şirketimin üyeliğini nasıl yönetebilirim?]]></title>
-    <description><![CDATA[İş Ortakları, İş Ortağı Üyelik Merkezine girerek sahip oldukları Microsoft İş Ortağı Ağı üyeliği ve ilişkili avantajlarını yönetebilirler. Bu makaleden İş Ortakları üyelik merkezine göz atabilirsiniz.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title><![CDATA[İş ortaklarının, Şirket İçi ürünlere yönelik yeni anahtarlar almalarına ne zaman yetki verilir? ]]></title>
+    <description><![CDATA[Şirket içi anahtarları belirli sayıda etkinleştirme için kullanabileceğinizi lütfen unutmayın. Yalnızca ürünün yeni bir sürümü kullanıma sunulduysa iş ortaklarının yeni anahtarlar almalarına yetki verilir. Aksi takdirde, iş ortakları daha önce anahtarları kullanmış ve yeni yıl için yeniden kayıt ödemesi yapmış olsalar bile ek etkinleştirme almayacaklardır. ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Üyeliği Merkezine genel bakış]]></text>
-        <url><![CDATA[http://support.microsoft.com/help/2984366?tpqid=100-000033]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi'ne Genel Bakış]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000033]]></url>
+        <text><![CDATA[<b>Çözüm:</b> Partner Portalı: İş Ortağı Ağı yazılımı lisanslama avantajları SSS  ]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question></group><group title="Programlar ve Üyelik" refid="ProgramsMembership"><question SortOrderOnHome="6">
     <id>100-000050</id>
     <title><![CDATA[Şirketim Silver ve Gold uzmanlık için gereksinimleri yerine getirdiği halde Microsoft Certified Professional (MCP)'ler tanınmamakta. Bu durumda ne yapabilirim?]]></title>
     <description><![CDATA[Nitelikli Microsoft Sertifikalı Profesyonelleriniz (MCP) uzmanlık gereksinimlerinde tanınmazsa, MCP kimliklerini kuruluşunuza bağlamak için aşağıdaki çözümü kullanın.]]></description>
@@ -744,13 +740,13 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0079&tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000069</id>
     <title><![CDATA[Şirketim Microsoft İş Ortağı ağına kayıt oldu. Bu profil bireysel hesabımı nasıl ilişkilendirebilirim?]]></title>
     <description><![CDATA[Microsoft hesabınız zaten varsa, Microsoft İş Ortağı Üyelik Merkezindeki Bireysel olarak İlişkilendirin sayfasından formu doldurarak kayıt olabilirsiniz. Eğer Microsoft hesabınız yoksa öncesinde bir tane oluşturmanız gerekir.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> Nasıl bir Microsoft hesap ortağı üyeliği merkezi ve ortağı Merkezi'nde, kuruluşunuzun Microsoft ortak ağ kimliğine ilişkilendirmek için]]></text>
+        <text><![CDATA[<b>Çözüm:</b> How to associate a Microsoft account to your organizations Microsoft Partner Network ID in Partner Center and Partner Membership Center]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3083683?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -791,7 +787,7 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000078</id>
     <title><![CDATA[MAPS ve Uzmanlık ücretinin son faturası nasıl yazdırılır/indirilir?]]></title>
     <description><![CDATA[Son faturaların nasıl yazdırılacağını öğrenmek için aşağıdaki makaleye göz atabilirsiniz]]></description>
@@ -981,8 +977,8 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi'ne Genel Bakış]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000104]]></url>
+        <text><![CDATA[<b>Ek Bilgiler:</b> Move multiple companys Partner Membership Center (PMC) accounts to Partner Center (PC)]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=100-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
@@ -1035,6 +1031,23 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000012]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>100-000033</id>
+    <title><![CDATA[Şirketimin üyeliğini nasıl yönetebilirim?]]></title>
+    <description><![CDATA[İş Ortakları, İş Ortağı Üyelik Merkezine girerek sahip oldukları Microsoft İş Ortağı Ağı üyeliği ve ilişkili avantajlarını yönetebilirler. Bu makaleden İş Ortakları üyelik merkezine göz atabilirsiniz.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Üyeliği Merkezine genel bakış]]></text>
+        <url><![CDATA[http://support.microsoft.com/help/2984366?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi'ne Genel Bakış]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
+      </link>
     </articlelinks></question></group><group title="Sözleşmeler, Siparişler ve Abonelik Yönetimi" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000090</id>
     <title><![CDATA[Windows 10 yazılım ve ürün anahtarını nereden indirebilirim?]]></title>
@@ -1054,19 +1067,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group><group title="Teknik Destek (Ürünler, Platformlar ve Araçlar)" refid="TechnicalSupport"><question>
-    <id>300-000104</id>
-    <title><![CDATA[Şirket içi profesyonel destek olayları nasıl oluşturulur?]]></title>
-    <description><![CDATA[Çevrimiçi ortamda şirket içi veya hibrit istek göndermek için MSA veya AAD hesabını kullanarak Çevrimiçi Yardım Desteği portalında (aka.ms/OAS) oturum açın, ürün ve sürüm gibi özellikleri seçin, açıklama ekleyin, ardından bir destek planı veya Olay Başına Ödeme (PPI)* ekleyin/seçin.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> Şirket içi uzman destek olayları oluşturmak için Erişim Kimliği'ni ve Sözleşme Kodu'nu kullanma]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000101</id>
     <title><![CDATA[Bir Teknik/Profesyonel Destek Olayını nasıl gönderirim?]]></title>
     <description><![CDATA[Şirketinizin teknik destek için uygun olduğunu doğrulamak üzere Microsoft Partner Network Teknik Avantajları Özeti'ni inceleyin.]]></description>
@@ -1213,24 +1213,20 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
       </link>
-    </articlelinks></question></group><group title="Teknik Ön Satışlar, Dağıtım ve Uygulama Geliştirme" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000113</id>
-    <title><![CDATA[Teknik yolculuğumda Microsoft İş Ortağı Teknik Danışmanları ile nasıl iletişime geçebilirim?]]></title>
-    <description><![CDATA[Teknik etkileşim seçenekleri hakkında daha fazla bilgi edinin]]></description>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[Şirket içi profesyonel destek olayları nasıl oluşturulur?]]></title>
+    <description><![CDATA[Çevrimiçi ortamda şirket içi veya hibrit istek göndermek için MSA veya AAD hesabını kullanarak Çevrimiçi Yardım Desteği portalında (aka.ms/OAS) oturum açın, ürün ve sürüm gibi özellikleri seçin, açıklama ekleyin, ardından bir destek planı veya Olay Başına Ödeme (PPI)* ekleyin/seçin.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> Teknik yolculuğunuzu başlatın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> Desteklenen ürünler ve senaryolar]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+        <text><![CDATA[<b>Çözüm:</b> Şirket içi uzman destek olayları oluşturmak için Erişim Kimliği'ni ve Sözleşme Kodu'nu kullanma]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Teknik Ön Satışlar, Dağıtım ve Uygulama Geliştirme" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000114</id>
     <title><![CDATA[Teknik yolculuklara erişmek için Microsoft iş ortağı ağı avantajlarından hangisi gereklidir?]]></title>
     <description><![CDATA[Microsoft Partner Network iş ortağı olarak uzaktan, teknik web seminerlerine ve teknik yolculuğun bir parçası olarak sunulan Dev Chat'e sınırsız erişim elde edersiniz. Ekran paylaşımı aracılığıyla bire bir teknik danışmanlık almak için Satış Öncesi Teknik Yardım veya İş Ortağı Danışmanlık Saatleri avantajınızı kullanırsınız.]]></description>
@@ -1281,20 +1277,24 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question></group><group title="Teşvikler ve Ödemeler" refid="IncentivesPayouts"><question>
-    <id>400-000089</id>
-    <title><![CDATA[OSA talebi hakkında nereden daha fazla bilgi edinebilirim?]]></title>
-    <description><![CDATA[Aşağıdaki belge talep başlatma özeti, bir talebin nasıl başarıyla gönderileceğiyle ilgili işlevsellik ve önemli kaynaklar hakkında bilgi sağlayacaktır.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title><![CDATA[Teknik yolculuğumda Microsoft İş Ortağı Teknik Danışmanları ile nasıl iletişime geçebilirim?]]></title>
+    <description><![CDATA[Teknik etkileşim seçenekleri hakkında daha fazla bilgi edinin]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> OSA talep modeli ve işlem]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
+        <text><![CDATA[<b>Çözüm:</b> Teknik yolculuğunuzu başlatın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Ek Bilgiler:</b> Desteklenen ürünler ve senaryolar]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Teşvikler ve Ödemeler" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
     <title><![CDATA[Teşvikler hakkında nereden daha fazla bilgi edinebilirim?]]></title>
     <description><![CDATA[Tüm Teşvik programları hakkındaki bilgilere Microsoft İş Ortağı Ağı İş Ortağı Teşvikleri ve yatırımlar sayfasından erişebilirsiniz. Teşvik programı için uygun olan iş ortakları, mevcut tüm program materyallerini Teşvikler ve yatırımlar sayfasında bulabilir. İş ortakları ayrıca gerekli uzmanlığa sahip olmasalar bile çoğu bulut teşviğiyle ilgili bilgileri görebilir.]]></description>
@@ -1413,5 +1413,18 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000088]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000089</id>
+    <title><![CDATA[OSA talebi hakkında nereden daha fazla bilgi edinebilirim?]]></title>
+    <description><![CDATA[Aşağıdaki belge talep başlatma özeti, bir talebin nasıl başarıyla gönderileceğiyle ilgili işlevsellik ve önemli kaynaklar hakkında bilgi sağlayacaktır.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> OSA talep modeli ve işlem]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
       </link>
     </articlelinks></question></group></groups>

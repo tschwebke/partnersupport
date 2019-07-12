@@ -169,10 +169,10 @@
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000110</id>
     <title><![CDATA[¿Cómo activo mis contratos de soporte técnico?]]></title>
-    <description><![CDATA[En primer lugar, consulte sus derechos de beneficios y fíjese en línea para ver si el contrato está activado. Luego, si fuera necesario, solicite la activación.]]></description>
+    <description><![CDATA[En primer lugar, consulte sus derechos de beneficios y fíjese en línea para ver si el contrato está activado. Luego, si fuera necesario, solicite la activación. Access ID and Contract ID are required to activate your contract.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Solución:</b> Activación del contrato de soporte técnico de Microsoft Partner Network e id. de acceso en el Centro de partners]]></text>
@@ -186,7 +186,7 @@
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000111</id>
     <title><![CDATA[¿Puedo obtener una carta certificada de Microsoft en que se confirme que somos partners?]]></title>
     <description><![CDATA[Sí, acceda al enlace de abajo para crear una carta certificada en que se indique que es partner de Microsoft.]]></description>
@@ -391,24 +391,20 @@ Si el número recibido no es igual que el número al que tiene derecho, póngase
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000123]]></url>
       </link>
-    </articlelinks></question></group><group title="Configuración y administración de la cuenta" refid="AccountSetupManagement"><question>
-    <id>200-000089</id>
-    <title><![CDATA[¿Cómo se solicita una relación de CSP?]]></title>
-    <description><![CDATA[Para administrar el servicio o suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio. Obtenga más información en los artículos siguientes:]]></description>
+    </articlelinks></question><question>
+    <id>300-000127</id>
+    <title><![CDATA[If I have renewed my enrollment before migrating to Partner Center (PC), and Cloud Internal User Rights (IUR) subscription will be expired on Anniversary Date (AD), how can I extend my Cloud IUR subscription to AD +30?]]></title>
+    <description><![CDATA[Please contact Partner Support to extend Cloud IUR subscription to AD +30. However this can be a case by case basis.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solución:</b> Portal de CSP: solicite una relación de revendedor]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Información adicional:</b> Portal de CSP: quitar una relación de revendedor]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+        <text><![CDATA[<b>Solución:</b> Equipo de primera línea]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Configuración y administración de la cuenta" refid="AccountSetupManagement"><question>
     <id>200-000092</id>
     <title><![CDATA[¿Cómo puedo unirme al programa Proveedor de soluciones en la nube?]]></title>
     <description><![CDATA[Revise la siguiente información sobre la inscripción]]></description>
@@ -570,6 +566,23 @@ Si el número recibido no es igual que el número al que tiene derecho, póngase
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0055&tpqid=200-000088]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>200-000089</id>
+    <title><![CDATA[¿Cómo se solicita una relación de CSP?]]></title>
+    <description><![CDATA[Para administrar el servicio o suscripción de un cliente en su nombre, el cliente debe concederle permisos de administrador para ese servicio. Obtenga más información en los artículos siguientes:]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solución:</b> Portal de CSP: solicite una relación de revendedor]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Información adicional:</b> Portal de CSP: quitar una relación de revendedor]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
+      </link>
     </articlelinks></question></group><group title="Contratos, pedidos y administración de suscripciones" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000090</id>
     <title><![CDATA[¿Dónde puedo descargar Windows 10 y las claves?]]></title>
@@ -591,23 +604,6 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group><group title="Incentivos y pagos" refid="IncentivesPayouts"><question>
-    <id>400-000087</id>
-    <title><![CDATA[¿Cómo se inscriben programas de incentivos en el Portal de CSP?]]></title>
-    <description><![CDATA[Se trata de un documento con detalles paso a paso sobre cómo realizar la administración de usuarios, así como la manera en que los programas de incentivos se pueden inscribir en el Portal de CSP.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Solución:</b> Inscripción de programas de incentivos en el tablero de mandos del Portal de CSP]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Información adicional:</b> Incentivos en el Centro de partners]]></text>
-        <url><![CDATA[http://assetsprod.microsoft.com/incentives-in-partner-center.pdf?tpqid=400-000087]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000087]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000088</id>
     <title><![CDATA[¿Cuáles son las preguntas más frecuentes sobre la migración al Portal de CSP?]]></title>
     <description><![CDATA[En el documento siguiente se incluyen todas las preguntas más frecuentes y las respuestas correspondientes en relación con la migración de Partner Membership Center al Portal de CSP.]]></description>
@@ -723,20 +719,24 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="Licencias, ventas y marketing" refid="LicensingSalesMarketing"><question>
-    <id>1500-000009</id>
-    <title><![CDATA[¿Cuándo pueden los socios recibir nuevas claves para los productos locales? ]]></title>
-    <description><![CDATA[Tenga en cuenta que las claves locales tienen un número limitado de activaciones. Los socios pueden recibir nuevas claves solamente si se lanzó una nueva versión del producto. De lo contrario, los socios no recibirán activaciones adicionales, incluso si ya las consumieron y pagaron un nuevo año de nueva inscripción. ]]></description>
+    </articlelinks></question><question>
+    <id>400-000087</id>
+    <title><![CDATA[¿Cómo se inscriben programas de incentivos en el Portal de CSP?]]></title>
+    <description><![CDATA[Se trata de un documento con detalles paso a paso sobre cómo realizar la administración de usuarios, así como la manera en que los programas de incentivos se pueden inscribir en el Portal de CSP.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solución:</b> Portal de Partners: Preguntas más frecuentes sobre los beneficios de las licencias de software de Partner Network  ]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+        <text><![CDATA[<b>Solución:</b> Inscripción de programas de incentivos en el tablero de mandos del Portal de CSP]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Información adicional:</b> Incentivos en el Centro de partners]]></text>
+        <url><![CDATA[http://assetsprod.microsoft.com/incentives-in-partner-center.pdf?tpqid=400-000087]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000087]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Licencias, ventas y marketing" refid="LicensingSalesMarketing"><question>
     <id>1500-000010</id>
     <title><![CDATA[¿Puedo usar mis licencias concedidas para entrenamiento?]]></title>
     <description><![CDATA[No puede usar las licencias concedidas para el entrenamiento de clientes. Los derechos de uso interno (IUR) se pueden usar únicamente para el entrenamiento de los empleados internos y se debe tener en cuenta que se consumirá una activación. ]]></description>
@@ -845,20 +845,20 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1500-0039&tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Programas y Membresías" refid="ProgramsMembership"><question>
-    <id>100-000085</id>
-    <title><![CDATA[¿Cómo puedo combinar inscripciones individuales a Microsoft Partner Network?]]></title>
-    <description><![CDATA[Consulte el siguiente artículo para ver las consideraciones que podrían afectar su acceso a los beneficios y la capacidad de realizar transacciones.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title><![CDATA[¿Cuándo pueden los socios recibir nuevas claves para los productos locales? ]]></title>
+    <description><![CDATA[Tenga en cuenta que las claves locales tienen un número limitado de activaciones. Los socios pueden recibir nuevas claves solamente si se lanzó una nueva versión del producto. De lo contrario, los socios no recibirán activaciones adicionales, incluso si ya las consumieron y pagaron un nuevo año de nueva inscripción. ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solución:</b> Cómo puedo combinar inscripciones individuales a Microsoft Partner Network]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4024707?tpqid=100-000085]]></url>
+        <text><![CDATA[<b>Solución:</b> Portal de Partners: Preguntas más frecuentes sobre los beneficios de las licencias de software de Partner Network  ]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0071&tpqid=100-000085]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Programas y Membresías" refid="ProgramsMembership"><question>
     <id>100-000092</id>
     <title><![CDATA[¿Cómo se vincula la cuenta profesional de mi organización a mi nueva cuenta de Portal de CSP?]]></title>
     <description><![CDATA[Si su empresa todavía no tiene una cuenta profesional, puede crear una de forma gratuita durante el proceso de inscripción. Si quiere usar una cuenta profesional existente, pero tiene problemas para iniciar sesión, consulte los siguientes artículos:]]></description>
@@ -967,8 +967,8 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Información adicional:</b> Información general sobre el Centro de partners]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000104]]></url>
+        <text><![CDATA[<b>Información adicional:</b> Move multiple companys Partner Membership Center (PMC) accounts to Partner Center (PC)]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=100-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
@@ -1072,7 +1072,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000050</id>
     <title><![CDATA[Mi empresa ha obtenido un MCP (Microsoft Certified Professionals) que no es reconocido para completar los requisitos de una competencia Silver o Gold ¿Qué puedo hacer? ]]></title>
     <description><![CDATA[Si sus profesionales certificados por Microsoft (MCP) elegibles no se reconocen en los requisitos de competencia, use la solución abajo para vincular su id. de MCP a su organización.]]></description>
@@ -1106,13 +1106,13 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0079&tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000069</id>
     <title><![CDATA[Mi empresa no está inscrito en el Microsoft Partner Network. ¿Cómo doy de alta a mi empresa?]]></title>
     <description><![CDATA[Si usted tiene una cuenta de Microsoft, inicie sesión en la página de Microsoft Partner Network y vaya a “Dar de alta a mi organización” para comenzar. Si usted no tiene una cuenta de Microsoft, tendrá que crear una.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solución:</b> Cómo asociar una cuenta de Microsoft al identificador de red de la organización Microsoft Partner en Partner Membership Center y el Centro para socios]]></text>
+        <text><![CDATA[<b>Solución:</b> How to associate a Microsoft account to your organizations Microsoft Partner Network ID in Partner Center and Partner Membership Center]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3083683?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -1153,7 +1153,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000078</id>
     <title><![CDATA[¿Cómo se imprime o descarga la factura final por los cargos de sucripción a MAP y por competencias?]]></title>
     <description><![CDATA[Consulte el artículo abajo para ver cómo se imprimen las facturas finales.]]></description>
@@ -1187,20 +1187,20 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0025&tpqid=100-000082]]></url>
       </link>
-    </articlelinks></question></group><group title="Soporte técnico (productos, plataformas y herramientas)" refid="TechnicalSupport"><question>
-    <id>300-000104</id>
-    <title><![CDATA[¿Cómo se crean incidentes de soporte técnico profesionales locales?]]></title>
-    <description><![CDATA[Para enviar una solicitud local o híbrida en línea, debe iniciar sesión en el portal de soporte técnico asistido en línea (aka.ms/OAS) con una cuenta de MSA o AAD, seleccionar un producto, versión, etc., agregar una descripción y luego agregar o seleccionar un plan de soporte técnico o pago por incidente (PPI)*.]]></description>
+    </articlelinks></question><question>
+    <id>100-000085</id>
+    <title><![CDATA[¿Cómo puedo combinar inscripciones individuales a Microsoft Partner Network?]]></title>
+    <description><![CDATA[Consulte el siguiente artículo para ver las consideraciones que podrían afectar su acceso a los beneficios y la capacidad de realizar transacciones.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solución:</b> Uso de identificadores de contrato y acceso para crear incidentes de soporte técnico locales]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
+        <text><![CDATA[<b>Solución:</b> Cómo puedo combinar inscripciones individuales a Microsoft Partner Network]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4024707?tpqid=100-000085]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0071&tpqid=100-000085]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Soporte técnico (productos, plataformas y herramientas)" refid="TechnicalSupport"><question>
     <id>300-000101</id>
     <title><![CDATA[¿Cómo se presenta una incidencia de soporte técnico o profesional?]]></title>
     <description><![CDATA[Consulte el resumen sobre los beneficios técnicos de Microsoft Partner Network para validar que su empresa es elegible para recibir soporte técnico.]]></description>
@@ -1275,7 +1275,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Las solicitudes de soporte técnico de productos se pueden enviar desde el portal abajo..]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Login Partner Center]]></text>
+        <text><![CDATA[<b>Solución:</b>Login Partner Center]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000008]]></url>
       </link>
        <link>
@@ -1288,7 +1288,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Las solicitudes de soporte técnico de productos se pueden enviar desde el portal abajo..]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Soporte técnico de Microsoft Dynamics 365 (requiere inicio de sesión)]]></text>
+        <text><![CDATA[<b>Solución:</b>Soporte técnico de Microsoft Dynamics 365 (requiere inicio de sesión)]]></text>
         <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000009]]></url>
       </link>
        <link>
@@ -1301,7 +1301,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Si su organización pertenece a PMC o usa un inicio de sesión de MSA, debería usar las opciones de chat o teléfono para soporte técnico de primera línea para partners y servicios de preventas e implementación técnicas. Las solicitudes de presentación en línea de Microsoft Partner requiere un inicio de sesión de AAD en el Centro de partners.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Ha movido el envío del vale en línea de Microsoft Partner]]></text>
+        <text><![CDATA[<b>Solución:</b>Ha movido el envío del vale en línea de Microsoft Partner]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4476513?tpqid=700-000010]]></url>
       </link>
        <link>
@@ -1314,7 +1314,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Comunidad de Microsoft Dynamics 365]]></text>
+        <text><![CDATA[<b>Solución:</b>Comunidad de Microsoft Dynamics 365]]></text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851646&tpqid=700-000011]]></url>
       </link>
        <link>
@@ -1327,7 +1327,7 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Comunidad de Office 365]]></text>
+        <text><![CDATA[<b>Solución:</b>Comunidad de Office 365]]></text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851636&tpqid=700-000012]]></url>
       </link>
        <link>
@@ -1340,31 +1340,27 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
     <description><![CDATA[Consulte los siguientes vínculos para obtener más información]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Comunidad de Microsoft Azure]]></text>
+        <text><![CDATA[<b>Solución:</b>Comunidad de Microsoft Azure]]></text>
         <url><![CDATA[https://go.microsoft.com/fwlink/p/?linkid=851642&tpqid=700-000013]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
       </link>
-    </articlelinks></question></group><group title="Soporte técnico Pre-ventas, Implementación y Desarrollo de Apps" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000113</id>
-    <title><![CDATA[¿Cómo interactúo con los consultores técnicos para partners de Microsoft a lo largo del camino técnico?]]></title>
-    <description><![CDATA[Más información acerca de las opciones de participación en consultas técnicas]]></description>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[¿Cómo se crean incidentes de soporte técnico profesionales locales?]]></title>
+    <description><![CDATA[Para enviar una solicitud local o híbrida en línea, debe iniciar sesión en el portal de soporte técnico asistido en línea (aka.ms/OAS) con una cuenta de MSA o AAD, seleccionar un producto, versión, etc., agregar una descripción y luego agregar o seleccionar un plan de soporte técnico o pago por incidente (PPI)*.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solución:</b> Comience su camino técnico]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Información adicional:</b> Productos y escenarios admitidos]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+        <text><![CDATA[<b>Solución:</b> Uso de identificadores de contrato y acceso para crear incidentes de soporte técnico locales]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Soporte técnico Pre-ventas, Implementación y Desarrollo de Apps" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000114</id>
     <title><![CDATA[¿Qué beneficios de red de partner de Microsoft son necesarios para acceder a los recorridos técnicos?]]></title>
     <description><![CDATA[Como partner de Microsoft Partner Network, recibe acceso sin límites a seminarios web técnicos remotos y acceso sin límites a Dev Chat, que se ofrece como parte del camino técnico. Para participar en una consulta técnica personal mediante pantalla compartida, utilizará su beneficio de asistencia técnica de preventas u horas de asesoramiento de partner.]]></description>
@@ -1414,5 +1410,22 @@ Nota: Los Partners no pueden usar las claves existentes de Windows 8.1 o Windows
        <link>
         <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title><![CDATA[¿Cómo interactúo con los consultores técnicos para partners de Microsoft a lo largo del camino técnico?]]></title>
+    <description><![CDATA[Más información acerca de las opciones de participación en consultas técnicas]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solución:</b> Comience su camino técnico]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Información adicional:</b> Productos y escenarios admitidos]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Haz clic aquí para ir al tema preseleccionado Obtener soporte técnico y consulta todas las opciones de soporte técnico disponibles]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
       </link>
     </articlelinks></question></group></groups>

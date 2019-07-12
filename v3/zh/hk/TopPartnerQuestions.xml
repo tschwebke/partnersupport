@@ -169,10 +169,10 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000110</id>
     <title><![CDATA[如何啟用支援合約？]]></title>
-    <description><![CDATA[先查看您的權益內容，接著在線上檢查您的合約是否已啟用；如有必要，請洽詢相關人員予以啟用。]]></description>
+    <description><![CDATA[先查看您的權益內容，接著在線上檢查您的合約是否已啟用；如有必要，請洽詢相關人員予以啟用。 Access ID and Contract ID are required to activate your contract.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決方案:</b> 合作夥伴中心的 Microsoft 合作夥伴網路支援合約啟用和存取 ID]]></text>
@@ -186,7 +186,7 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000111</id>
     <title><![CDATA[我會收到來自 Microsoft 的認證信，以確認我的合作關係嗎?]]></title>
     <description><![CDATA[是，您可以存取下列連結，以建立表示與 Microsoft 之間關係/合作關係的認證信.]]></description>
@@ -392,6 +392,19 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000123]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000127</id>
+    <title><![CDATA[If I have renewed my enrollment before migrating to Partner Center (PC), and Cloud Internal User Rights (IUR) subscription will be expired on Anniversary Date (AD), how can I extend my Cloud IUR subscription to AD +30?]]></title>
+    <description><![CDATA[Please contact Partner Support to extend Cloud IUR subscription to AD +30. However this can be a case by case basis.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> Frontline 團隊]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
+      </link>
     </articlelinks></question></group><group title="合約、訂單和訂閱管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000090</id>
     <title><![CDATA[在哪裡可以下載Windows 10 的軟體和金鑰？]]></title>
@@ -413,23 +426,6 @@
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group><group title="售前、部署和應用程式開發技術" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000115</id>
-    <title><![CDATA[Microsoft 是否會為合作夥伴提供售前技術、部署、移轉或應用程式開發類型案例的協助？]]></title>
-    <description><![CDATA[是。在 Microsoft Partner Network 權益中，您可以與 Microsoft 合作夥伴技術顧問取得聯繫，這些顧問將會提供您最佳做法指引，以及如何針對這些案例打造最佳技術能力的建議路徑 (稱為技術旅程圖)。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> 使用售前與部署技術服務權益]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3121537?tpqid=1400-000115]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b> 支援的產品和案例]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000112</id>
     <title><![CDATA[何謂技術旅程圖？技術旅程圖對我的合作夥伴組織而言為何如此重要？]]></title>
     <description><![CDATA[技術旅程圖可協助您更快建立您的技術能力，以加快銷售、部署和應用程式開發速度。開始著手您的技術旅程圖，即可透過互動式技術網路研討會和個人化顧問的建議途徑，收到 Microsoft 合作夥伴技術顧問提供的技術指引，其中包含虛擬白板、結構審查和真實案例追蹤。 ]]></description>
@@ -480,24 +476,24 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0074&tpqid=1400-000114]]></url>
       </link>
-    </articlelinks></question></group><group title="帳戶設定和管理" refid="AccountSetupManagement"><question>
-    <id>200-000092</id>
-    <title><![CDATA[如何加入雲端解決方案提供者計畫？]]></title>
-    <description><![CDATA[請參閱下列註冊資訊]]></description>
+    </articlelinks></question><question>
+    <id>1400-000115</id>
+    <title><![CDATA[Microsoft 是否會為合作夥伴提供售前技術、部署、移轉或應用程式開發類型案例的協助？]]></title>
+    <description><![CDATA[是。在 Microsoft Partner Network 權益中，您可以與 Microsoft 合作夥伴技術顧問取得聯繫，這些顧問將會提供您最佳做法指引，以及如何針對這些案例打造最佳技術能力的建議路徑 (稱為技術旅程圖)。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 合作夥伴中心：註冊雲端解決方案提供者計畫]]></text>
-        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
+        <text><![CDATA[<b>解決方案:</b> 使用售前與部署技術服務權益]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3121537?tpqid=1400-000115]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他資訊:</b> Microsoft Partner Network 入口網站：快速入門]]></text>
-        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
+        <text><![CDATA[<b>其他資訊:</b> 支援的產品和案例]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000115]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=200-000092]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="帳戶設定和管理" refid="AccountSetupManagement"><question>
     <id>200-000095</id>
     <title><![CDATA[開始使用合作夥伴中心有哪些步驟？]]></title>
     <description><![CDATA[請閱讀下列文章，以深入了解合作夥伴中心網站。]]></description>
@@ -659,24 +655,24 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="技術支援 (產品、平台和工具)" refid="TechnicalSupport"><question>
-    <id>300-000101</id>
-    <title><![CDATA[如何提交技術/專業支援事件？]]></title>
-    <description><![CDATA[檢閱＜Microsoft Partner Network 技術權益摘要＞，以驗證您公司是否符合技術支援的資格。]]></description>
+    </articlelinks></question><question>
+    <id>200-000092</id>
+    <title><![CDATA[如何加入雲端解決方案提供者計畫？]]></title>
+    <description><![CDATA[請參閱下列註冊資訊]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 關於如何建立支援事件的步驟]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000101]]></url>
+        <text><![CDATA[<b>解決方案:</b> 合作夥伴中心：註冊雲端解決方案提供者計畫]]></text>
+        <url><![CDATA[https://partnercenter.microsoft.com/partner/cloud-solution-provider?tpqid=200-000092]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他資訊:</b> Microsoft Partner Network 技術權益摘要]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000101]]></url>
+        <text><![CDATA[<b>其他資訊:</b> Microsoft Partner Network 入口網站：快速入門]]></text>
+        <url><![CDATA[https://partner.microsoft.com/cloud-solution-provider/get-started?tpqid=200-000092]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=200-000092]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="技術支援 (產品、平台和工具)" refid="TechnicalSupport"><question>
     <id>300-000104</id>
     <title><![CDATA[如何建立內部部署專業支援事件？]]></title>
     <description><![CDATA[若要線上提交內部部署或混合式要求，請使用 MSA 或 AAD 帳戶登入線上協助支援入口網站 (aka.ms/OAS)，選取產品、版本等，新增說明，然後新增/選取支援方案或依事件付費 (PPI)*。]]></description>
@@ -819,16 +815,24 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
       </link>
-    </articlelinks></question></group><group title="授權、銷售和行銷" refid="LicensingSalesMarketing"><question>
-    <id>1500-000001</id>
-    <title><![CDATA[我可以在哪裡找到管理我與 Microsoft 關係所需的整備和訓練？]]></title>
-    <description><![CDATA[Microsoft Readiness 入口網站是輕鬆尋找作業整備和訓練資源的最佳方式，網站中將會提供計畫、原則、程序和工具 (包括 Commercial、OEM、ADD、CFPP，因為 CSP 位於合作夥伴中心) 的變更和上市資訊。]]></description>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title><![CDATA[如何提交技術/專業支援事件？]]></title>
+    <description><![CDATA[檢閱＜Microsoft Partner Network 技術權益摘要＞，以驗證您公司是否符合技術支援的資格。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> Microsoft Operations Readiness portal]]></text>
-        <url><![CDATA[https://partner.microsoft.com/explore/operations-readiness?tpqid=1500-000001]]></url>
+        <text><![CDATA[<b>解決方案:</b> 關於如何建立支援事件的步驟]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000101]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b> Microsoft Partner Network 技術權益摘要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
+      </link>
+    </articlelinks></question></group><group title="授權、銷售和行銷" refid="LicensingSalesMarketing"><question>
     <id>1500-000002</id>
     <title><![CDATA[哪些資源可以協助我了解大量授權？]]></title>
     <description><![CDATA[Microsoft 會提供大量授權訓練及資源，以協助您存取定價、報價、合約、產品啟用和其他工具。]]></description>
@@ -941,24 +945,16 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000011]]></url>
       </link>
-    </articlelinks></question></group><group title="方案和成員資格" refid="ProgramsMembership"><question>
-    <id>100-0000101</id>
-    <title><![CDATA[如何得到推薦？如何建立推薦？]]></title>
-    <description><![CDATA[獲得推薦的第一步是，您必須在成員資格入口網站註冊並建立商務設定檔。這些推薦可能是由 Microsoft.com 等網站或 Microsoft 內其他行銷數位內容的客戶直接產生，或是由內部銷售、CSS 預售、零售商店等任何 Microsoft 內部銷售團隊直接產生。客戶和 Microsoft 賣方可以根據他們的需求，尋找適合的合作夥伴。如需有關如何建立商務設定檔的詳細資訊，請參閱＜推薦操作說明的可下載指南＞及＜建立商務設定檔＞文章。如需有關透過推薦管理設定檔及發展商務的最佳做法，請參閱＜回應推薦＞文章。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000001</id>
+    <title><![CDATA[我可以在哪裡找到管理我與 Microsoft 關係所需的整備和訓練？]]></title>
+    <description><![CDATA[Microsoft Readiness 入口網站是輕鬆尋找作業整備和訓練資源的最佳方式，網站中將會提供計畫、原則、程序和工具 (包括 Commercial、OEM、ADD、CFPP，因為 CSP 位於合作夥伴中心) 的變更和上市資訊。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 建立商務設定檔]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000101]]></url>
+        <text><![CDATA[<b>解決方案:</b> Microsoft Operations Readiness portal]]></text>
+        <url><![CDATA[https://partner.microsoft.com/explore/operations-readiness?tpqid=1500-000001]]></url>
       </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b> 推薦操作說明的可下載指南]]></text>
-        <url><![CDATA[https://assets.microsoft.com/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0010&tpqid=100-0000101]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="方案和成員資格" refid="ProgramsMembership"><question>
     <id>100-0000102</id>
     <title><![CDATA[客戶搜尋的運作方式為何？ ]]></title>
     <description><![CDATA[系統會將客戶輸入的關鍵字與合作夥伴宣告的商務設定檔相比對，以建立較短的合作夥伴清單。客戶可以根據位置和客戶規模，使用篩選條件縮小可選擇的合作夥伴。「最佳相符」類別使用 Microsoft 人員的專長認證和輸入來呈現合作夥伴。「最多回應」類別使用合作夥伴在推薦管理體驗方面的資料來呈現合作夥伴。「最靠近您」類別會將客戶所輸入位置附近的合作夥伴列入考量，以呈現合作夥伴。您可以在 [解決方案提供者搜尋] 頁面找到搜尋功能。]]></description>
@@ -1022,7 +1018,7 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000050</id>
     <title><![CDATA[我們公司有符合資質的微軟認證專家（MCP）但是沒有辦法指派到銀牌或金牌能力。我們需要做什麼？]]></title>
     <description><![CDATA[如果您的合格 Microsoft Certified Professional (MCP) 的專長認證需求未經認可，請使用下列解決方案，將其 MCP ID 連結到您的組織。]]></description>
@@ -1056,13 +1052,13 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0079&tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000069</id>
     <title><![CDATA[我公司已經註冊了微軟合作夥伴網路。如何與個人進行關聯？]]></title>
     <description><![CDATA[如果您有微軟帳戶，登錄合作夥伴成員中心的個人關聯頁面並按要求填寫所需資訊，您需要在開始之前創建一個。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 如何讓您組織的 Microsoft 合作夥伴網路識別碼在夥伴成員資格中心和夥伴中心的 Microsoft 帳戶產生關聯]]></text>
+        <text><![CDATA[<b>解決方案:</b> How to associate a Microsoft account to your organizations Microsoft Partner Network ID in Partner Center and Partner Membership Center]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3083683?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -1079,8 +1075,8 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他資訊:</b> 合作夥伴中心概觀]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000104]]></url>
+        <text><![CDATA[<b>其他資訊:</b> Move multiple companys Partner Membership Center (PMC) accounts to Partner Center (PC)]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=100-000104]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
@@ -1120,7 +1116,7 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000078</id>
     <title><![CDATA[如何列印/下載 MAPS 及 Competency 費用中的最後發票？]]></title>
     <description><![CDATA[請參閱下列文章，了解如何列印最後發票]]></description>
@@ -1283,20 +1279,24 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0010&tpqid=100-0000100]]></url>
       </link>
-    </articlelinks></question></group><group title="獎勵和支出" refid="IncentivesPayouts"><question>
-    <id>400-000089</id>
-    <title><![CDATA[在哪裡可深入瞭解 OSA 宣告？]]></title>
-    <description><![CDATA[下列文件提供宣告啟動摘要、功能，以及有關如何成功提交宣告的重要資源。]]></description>
+    </articlelinks></question><question>
+    <id>100-0000101</id>
+    <title><![CDATA[如何得到推薦？如何建立推薦？]]></title>
+    <description><![CDATA[獲得推薦的第一步是，您必須在成員資格入口網站註冊並建立商務設定檔。這些推薦可能是由 Microsoft.com 等網站或 Microsoft 內其他行銷數位內容的客戶直接產生，或是由內部銷售、CSS 預售、零售商店等任何 Microsoft 內部銷售團隊直接產生。客戶和 Microsoft 賣方可以根據他們的需求，尋找適合的合作夥伴。如需有關如何建立商務設定檔的詳細資訊，請參閱＜推薦操作說明的可下載指南＞及＜建立商務設定檔＞文章。如需有關透過推薦管理設定檔及發展商務的最佳做法，請參閱＜回應推薦＞文章。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b>  OSA 宣告模型和程序]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
+        <text><![CDATA[<b>解決方案:</b> 建立商務設定檔]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/create-a-marketing-profile?tpqid=100-0000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b> 推薦操作說明的可下載指南]]></text>
+        <url><![CDATA[https://assets.microsoft.com/build-a-business-profile-guide.pdf?tpqid=100-0000101]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0010&tpqid=100-0000101]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="獎勵和支出" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
     <title><![CDATA[我可以在哪裡找到有關獎勵的詳細資訊？]]></title>
     <description><![CDATA[如需所有獎勵計畫的相關資訊，請參閱 Microsoft 合作夥伴網路的合作夥伴獎勵與投資頁面。符合獎勵計畫資格的合作夥伴將會在合作夥伴獎勵與投資頁面中，看到該計畫所有可用的內容。此外，合作夥伴也會看到大多數雲端獎勵的詳細資訊，即使尚未達到必要的專長認證亦然。]]></description>
@@ -1415,5 +1415,18 @@
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000088]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000089</id>
+    <title><![CDATA[在哪裡可深入瞭解 OSA 宣告？]]></title>
+    <description><![CDATA[下列文件提供宣告啟動摘要、功能，以及有關如何成功提交宣告的重要資源。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b>  OSA 宣告模型和程序]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
       </link>
     </articlelinks></question></group></groups>

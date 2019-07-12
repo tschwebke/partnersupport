@@ -169,10 +169,10 @@
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000110</id>
     <title><![CDATA[Como ativar meus contratos de suporte?]]></title>
-    <description><![CDATA[Primeiro verifique seu direito ao benefício e, em seguida, verifique online se seu contrato está ativado e solicite a ativação, se necessário.]]></description>
+    <description><![CDATA[Primeiro verifique seu direito ao benefício e, em seguida, verifique online se seu contrato está ativado e solicite a ativação, se necessário. Access ID and Contract ID are required to activate your contract.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Solução:</b> Ativação de Contratos de suporte da Microsoft Partner Network e ID de acesso no Partner Center]]></text>
@@ -186,7 +186,7 @@
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000111</id>
     <title><![CDATA[Posso receber uma carta certificada da Microsoft que confirme minha parceria?]]></title>
     <description><![CDATA[Sim, você pode acessar o link abaixo para criar uma carta certificada que denota seu relacionamento/parceria com a Microsoft.]]></description>
@@ -393,24 +393,20 @@ Se, por engano, os parceiros adicionarem estações em vez de renová-los, eles 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000123]]></url>
       </link>
-    </articlelinks></question></group><group title="Configuração e Gerenciamento de Contas" refid="AccountSetupManagement"><question>
-    <id>200-000089</id>
-    <title><![CDATA[Como solicitar um relacionamento do CSP?]]></title>
-    <description><![CDATA[Para gerenciar o serviço ou a assinatura de um cliente em seu nome, o cliente deve conceder a você permissões de administrador para esse serviço. Leia mais informações nos seguintes artigos:]]></description>
+    </articlelinks></question><question>
+    <id>300-000127</id>
+    <title><![CDATA[If I have renewed my enrollment before migrating to Partner Center (PC), and Cloud Internal User Rights (IUR) subscription will be expired on Anniversary Date (AD), how can I extend my Cloud IUR subscription to AD +30?]]></title>
+    <description><![CDATA[Please contact Partner Support to extend Cloud IUR subscription to AD +30. However this can be a case by case basis.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solução:</b> Partner center: Solicitar um relacionamento de revendedor]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Informações adicionais:</b> Partner center: Remover um relacionamento de revendedor]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+        <text><![CDATA[<b>Solução:</b> Equipe de Frontline]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Configuração e Gerenciamento de Contas" refid="AccountSetupManagement"><question>
     <id>200-000092</id>
     <title><![CDATA[Como ingressar no programa Provedor de Soluções na Nuvem?]]></title>
     <description><![CDATA[Reveja as seguintes informações sobre inscrição]]></description>
@@ -572,6 +568,23 @@ Se, por engano, os parceiros adicionarem estações em vez de renová-los, eles 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0055&tpqid=200-000088]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>200-000089</id>
+    <title><![CDATA[Como solicitar um relacionamento do CSP?]]></title>
+    <description><![CDATA[Para gerenciar o serviço ou a assinatura de um cliente em seu nome, o cliente deve conceder a você permissões de administrador para esse serviço. Leia mais informações nos seguintes artigos:]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solução:</b> Partner center: Solicitar um relacionamento de revendedor]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Informações adicionais:</b> Partner center: Remover um relacionamento de revendedor]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/remove-a-relationship?tpqid=200-000089]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=600-0001&tpqid=200-000089]]></url>
+      </link>
     </articlelinks></question></group><group title="Contratos, Pedidos e Gerenciamento de Assinaturas" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000090</id>
     <title><![CDATA[Onde posso descarregar o Windows 10 e encontrar a chave de produto?]]></title>
@@ -594,23 +607,6 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group><group title="Incentivos e Pagamentos" refid="IncentivesPayouts"><question>
-    <id>400-000087</id>
-    <title><![CDATA[Como faço para cadastrar programas de incentivo no partner center?]]></title>
-    <description><![CDATA[Este é um documento com detalhes passo a passo sobre como é realizado o gerenciamento de usuários e também sobre como é possível cadastrar programas de incentivos no partner center.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Solução:</b> Inscrição dos programas de incentivos no Dashboard do Centro de parceiros]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Informações adicionais:</b> Incentivos no Partner Center]]></text>
-        <url><![CDATA[http://assetsprod.microsoft.com/incentives-in-partner-center.pdf?tpqid=400-000087]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000087]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000088</id>
     <title><![CDATA[Quais são as perguntas mais frequentes sobre a migração para o partner center?]]></title>
     <description><![CDATA[O documento abaixo abrange todas as perguntas e respostas mais frequentes em relação à migração do PMC para o partner center.]]></description>
@@ -726,20 +722,24 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="Licenciamento, Vendas e Marketing" refid="LicensingSalesMarketing"><question>
-    <id>1500-000009</id>
-    <title><![CDATA[Quando os parceiros são autorizados a receber novas chaves para produtos Locais? ]]></title>
-    <description><![CDATA[Observe que as chaves locais têm um número finito de ativações. Os parceiros serão autorizados a receber novas chaves somente se tiver sido lançada uma nova versão do produto. Caso contrário, os parceiros não receberão ativações adicionais, mesmo que já as tenham consumido e pago por um novo ano de registro. ]]></description>
+    </articlelinks></question><question>
+    <id>400-000087</id>
+    <title><![CDATA[Como faço para cadastrar programas de incentivo no partner center?]]></title>
+    <description><![CDATA[Este é um documento com detalhes passo a passo sobre como é realizado o gerenciamento de usuários e também sobre como é possível cadastrar programas de incentivos no partner center.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solução:</b> Portal do Parceiro: Perguntas frequentes sobre benefícios de licenciamento de software para Partner Network  ]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
+        <text><![CDATA[<b>Solução:</b> Inscrição dos programas de incentivos no Dashboard do Centro de parceiros]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Informações adicionais:</b> Incentivos no Partner Center]]></text>
+        <url><![CDATA[http://assetsprod.microsoft.com/incentives-in-partner-center.pdf?tpqid=400-000087]]></url>
       </link>
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000087]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Licenciamento, Vendas e Marketing" refid="LicensingSalesMarketing"><question>
     <id>1500-000010</id>
     <title><![CDATA[Posso usar minhas licenças concedidas para fins de treinamento?]]></title>
     <description><![CDATA[Você não tem permissão para usar as licenças concedidas para treinamento de clientes. IURs podem ser usados para fins de treinamento apenas para funcionários internos, e você deve estar ciente do fato de que uma ativação será consumida. ]]></description>
@@ -848,24 +848,20 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1500-0039&tpqid=1500-000008]]></url>
       </link>
-    </articlelinks></question></group><group title="Pré-vendas Técnicas, Implantação e Desenvolvimento de Aplicativos" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000113</id>
-    <title><![CDATA[Como fazer para me envolver com os consultores técnicos de parceiros da Microsoft durante a jornada técnica?]]></title>
-    <description><![CDATA[Saiba mais sobre as opções de envolvimento técnico]]></description>
+    </articlelinks></question><question>
+    <id>1500-000009</id>
+    <title><![CDATA[Quando os parceiros são autorizados a receber novas chaves para produtos Locais? ]]></title>
+    <description><![CDATA[Observe que as chaves locais têm um número finito de ativações. Os parceiros serão autorizados a receber novas chaves somente se tiver sido lançada uma nova versão do produto. Caso contrário, os parceiros não receberão ativações adicionais, mesmo que já as tenham consumido e pago por um novo ano de registro. ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solução:</b> Comece sua jornada técnica]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Informações adicionais:</b> Produtos e cenários com suporte]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+        <text><![CDATA[<b>Solução:</b> Portal do Parceiro: Perguntas frequentes sobre benefícios de licenciamento de software para Partner Network  ]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=1500-000009]]></url>
       </link>
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Pré-vendas Técnicas, Implantação e Desenvolvimento de Aplicativos" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000114</id>
     <title><![CDATA[Quais benefícios da rede de parceiros da Microsoft são necessários para acessar as jornadas técnicas?]]></title>
     <description><![CDATA[Como parceiro da Microsoft Partner Network, você recebe acesso ilimitado a webinars técnicos remotos e acesso ilimitado ao Chat de Desenvolvimento, oferecido como parte da jornada técnica. Para participar de uma consulta técnica individual por meio do compartilhamento de tela, você utilizará o benefício de Assistência Técnica Pré-vendas ou Horas de Consultoria do Parceiro.]]></description>
@@ -916,24 +912,24 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question></group><group title="Programas e Associações" refid="ProgramsMembership"><question>
-    <id>100-000102</id>
-    <title><![CDATA[O que são o top perguntado sobre os caminhos de aprendizado?]]></title>
-    <description><![CDATA[Planos de aprendizado podem ajudá-lo obter treinados ou certificada. Caminhos de aprendizagem destacam os caminhos que são relevantes para sua empresa ou organização. O FAQ de caminhos de aprendizagem fornece respostas para o topo, feitas perguntas sobre caminhos de aprendizado.]]></description>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title><![CDATA[Como fazer para me envolver com os consultores técnicos de parceiros da Microsoft durante a jornada técnica?]]></title>
+    <description><![CDATA[Saiba mais sobre as opções de envolvimento técnico]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solução:</b> Caminhos – lista de perguntas freqüentes superior de aprendizado]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2964426?tpqid=100-000102]]></url>
+        <text><![CDATA[<b>Solução:</b> Comece sua jornada técnica]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Informações adicionais:</b> Roteiro de aprendizagem para parceiros da Microsoft]]></text>
-        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
+        <text><![CDATA[<b>Informações adicionais:</b> Produtos e cenários com suporte]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
       </link>
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0040&tpqid=100-000102]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Programas e Associações" refid="ProgramsMembership"><question>
     <id>100-000103</id>
     <title><![CDATA[Como baixar o contrato ou verificar o Contrato do Microsoft Partner Network no partner center?]]></title>
     <description><![CDATA[Acesse o artigo abaixo para saber mais.]]></description>
@@ -1044,7 +1040,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
+    </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000050</id>
     <title><![CDATA[A minha Organização tem Microsoft Certified Professionals (MCP) que não são reconhecidos como qualificáveis para cumprir os requisitos de determinada Competência Silver ou Gold. O que devo fazer?]]></title>
     <description><![CDATA[Se os seus profissionais certificados da Microsoft (MCPs) qualificados não forem reconhecidos nos requisitos de competência, use a solução abaixo para vincular seus IDd de MCP à sua organização.]]></description>
@@ -1078,13 +1074,13 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0079&tpqid=100-000061]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
+    </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000069</id>
     <title><![CDATA[A minha empresa não está inscrita no Microsoft Partner Network. Como posso proceder ao registo da minha empresa?]]></title>
     <description><![CDATA[Se já é detentor de uma Microsoft Account, inicie uma sessão na página “Inscreva a sua  Organização no Microsoft Partner Network” e complete todos os passos necessários. Caso ainda não tenha criado uma Microsoft Account, terá que proceder primeiro a esse passo.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solução:</b> Como associar uma conta Microsoft para ID de rede da sua organização Microsoft parceiro no Centro de associação de parceiro e o Centro de parceiros]]></text>
+        <text><![CDATA[<b>Solução:</b> How to associate a Microsoft account to your organizations Microsoft Partner Network ID in Partner Center and Partner Membership Center]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3083683?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -1125,7 +1121,7 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="7">
+    </articlelinks></question><question SortOrderOnHome="8">
     <id>100-000078</id>
     <title><![CDATA[Como imprimir/baixar a fatura final do MAPS e a taxa de Competência?]]></title>
     <description><![CDATA[Consulte o artigo abaixo para aprender a imprimir faturas finais]]></description>
@@ -1169,8 +1165,8 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Informações adicionais:</b> Visão geral do Partner Center]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000104]]></url>
+        <text><![CDATA[<b>Informações adicionais:</b> Move multiple companys Partner Membership Center (PMC) accounts to Partner Center (PC)]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=100-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
@@ -1258,24 +1254,24 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=100-000100]]></url>
       </link>
-    </articlelinks></question></group><group title="Suporte Técnico (Produtos, Plataformas e Ferramentas)" refid="TechnicalSupport"><question>
-    <id>300-000101</id>
-    <title><![CDATA[Como enviar um incidente de suporte técnico/profissional?]]></title>
-    <description><![CDATA[Consulte o Resumo de benefícios técnicos do Microsoft Partner Network para verificar se a sua empresa está qualificada para suporte técnico.]]></description>
+    </articlelinks></question><question>
+    <id>100-000102</id>
+    <title><![CDATA[O que são o top perguntado sobre os caminhos de aprendizado?]]></title>
+    <description><![CDATA[Planos de aprendizado podem ajudá-lo obter treinados ou certificada. Caminhos de aprendizagem destacam os caminhos que são relevantes para sua empresa ou organização. O FAQ de caminhos de aprendizagem fornece respostas para o topo, feitas perguntas sobre caminhos de aprendizado.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solução:</b> Etapas para criar um incidente de suporte]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000101]]></url>
+        <text><![CDATA[<b>Solução:</b> Caminhos – lista de perguntas freqüentes superior de aprendizado]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2964426?tpqid=100-000102]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Informações adicionais:</b> Resumo de benefícios técnicos do Microsoft Partner Network]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000101]]></url>
+        <text><![CDATA[<b>Informações adicionais:</b> Roteiro de aprendizagem para parceiros da Microsoft]]></text>
+        <url><![CDATA[https://partner.microsoft.com/training/learning-portal?tpqid=100-000102]]></url>
       </link>
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0040&tpqid=100-000102]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Suporte Técnico (Produtos, Plataformas e Ferramentas)" refid="TechnicalSupport"><question>
     <id>300-000104</id>
     <title><![CDATA[Como criar incidentes de suporte profissional no local?]]></title>
     <description><![CDATA[Para enviar online uma solicitação híbrida ou local, entre no portal de Suporte Online Assistido (aka.ms/OAS) usando uma conta MSA ou AAD, selecione o produto, a versão e outros detalhes, adicione uma descrição e, em seguida, adicione\selecione um plano de suporte ou PPI (Pagamento por Incidente)*.]]></description>
@@ -1417,5 +1413,22 @@ Nota: Os parceiros não podem atualizar “in-place” o sistema operativo para 
        <link>
         <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000101</id>
+    <title><![CDATA[Como enviar um incidente de suporte técnico/profissional?]]></title>
+    <description><![CDATA[Consulte o Resumo de benefícios técnicos do Microsoft Partner Network para verificar se a sua empresa está qualificada para suporte técnico.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solução:</b> Etapas para criar um incidente de suporte]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Informações adicionais:</b> Resumo de benefícios técnicos do Microsoft Partner Network]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000101]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Clique aqui para acessar o tópico pré-selecionado para obter suporte e ver todas as opções de suporte disponíveis]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
       </link>
     </articlelinks></question></group></groups>
