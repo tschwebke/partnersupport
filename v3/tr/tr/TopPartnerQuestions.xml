@@ -169,22 +169,22 @@
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="5">
-    <id>300-000110</id>
+    </articlelinks></question><question>
+    <id></id>
     <title><![CDATA[Destek sözleşmelerimi nasıl etkinleştiririm?]]></title>
-    <description><![CDATA[Öncelikle avantaj destek hakkınızı kontrol edin ve ardından sözleşmenizin etkin olup olmadığını çevrimiçi olarak kontrol edin ve gerekirse etkinleştirilmesini isteyin. Access ID and Contract ID are required to activate your contract.]]></description>
+    <description><![CDATA[Öncelikle avantaj destek hakkınızı kontrol edin ve ardından sözleşmenizin etkin olup olmadığını çevrimiçi olarak kontrol edin ve gerekirse etkinleştirilmesini isteyin. Sözleşmenizi etkinleştirmek için Erişim Kimliği ve Sözleşme Kimliği gereklidir.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi'nde Microsoft İş Ortağı Ağı Destek sözleşmesinin etkinleştirilmesi ve Erişim Kimliği]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=]]></url>
       </link>
        <link>
         <text><![CDATA[<b>Ek Bilgiler:</b> Microsoft İş Ortağı Ağı Teknik Avantajları Özeti]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=]]></url>
       </link>
     </articlelinks></question><question SortOrderOnHome="9">
     <id>300-000111</id>
@@ -394,8 +394,8 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
       </link>
     </articlelinks></question><question>
     <id>300-000127</id>
-    <title><![CDATA[If I have renewed my enrollment before migrating to Partner Center (PC), and Cloud Internal User Rights (IUR) subscription will be expired on Anniversary Date (AD), how can I extend my Cloud IUR subscription to AD +30?]]></title>
-    <description><![CDATA[Please contact Partner Support to extend Cloud IUR subscription to AD +30. However this can be a case by case basis.]]></description>
+    <title><![CDATA[If I have renewed my enrollment before migrating to Partner Center (PC), and due to renewal window has changed from Anniversary Date (AD)-90 to AD+30, Cloud Internal User Rights (IUR) subscription is going to be expired before AD​, how can I extend my Cloud IUR subscription to AD?]]></title>
+    <description><![CDATA[Please contact Partner Support to extend Cloud IUR subscription to AD. However this can be a case by case basis.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Çözüm:</b> Ön destek ekibi]]></text>
@@ -616,7 +616,7 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
     <description><![CDATA[Microsoft Hazırlık portalı; programlar, ilkeler, işlemler ve araçlar için (CSP, İş Ortağı Merkezi'nde olduğu için Ticari, OEM, ADD, CFPP dahildir) değişim ve başlangıç bilgileri sağlayacak operasyonel hazırlık ve eğitim kaynaklarını kolayca bulmanın en iyi yoludur]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> Microsoft Operations Readiness portal]]></text>
+        <text><![CDATA[<b>Çözüm:</b> Microsoft Operations Hazırlık portalı]]></text>
         <url><![CDATA[https://partner.microsoft.com/explore/operations-readiness?tpqid=1500-000001]]></url>
       </link>
     </articlelinks></question><question>
@@ -746,7 +746,7 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
     <description><![CDATA[Microsoft hesabınız zaten varsa, Microsoft İş Ortağı Üyelik Merkezindeki Bireysel olarak İlişkilendirin sayfasından formu doldurarak kayıt olabilirsiniz. Eğer Microsoft hesabınız yoksa öncesinde bir tane oluşturmanız gerekir.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> How to associate a Microsoft account to your organizations Microsoft Partner Network ID in Partner Center and Partner Membership Center]]></text>
+        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi'nde ve Partner Membership Center'da bir Microsoft hesabını kuruluşunuzun Microsoft İş Ortağı Ağı Kimliği ile ilişkilendirme]]></text>
         <url><![CDATA[https://support.microsoft.com/help/3083683?tpqid=100-000069]]></url>
       </link>
        <link>
@@ -977,7 +977,7 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> Move multiple companys Partner Membership Center (PMC) accounts to Partner Center (PC)]]></text>
+        <text><![CDATA[<b>Ek Bilgiler:</b> Birden çok şirketin Partner Membership Center (PMC) hesaplarını İş Ortağı Merkezi'ne (PC) taşıma]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=100-000104]]></url>
       </link>
        <link>
