@@ -18,6 +18,10 @@
         <text><![CDATA[<b>其他信息:</b> Visual Studio Online 下载站点]]></text>
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
       </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=800-000090]]></url>
+      </link>
     </articlelinks></question></group><group title="售前技术、部署和应用开发" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000113</id>
     <title><![CDATA[在整个技术之旅期间，我如何与 Microsoft 合作伙伴技术咨询人员进行交流？]]></title>
@@ -254,31 +258,31 @@
     <description><![CDATA[请获取签名云支持权益的概述，包括如何提交签名云支持事件。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 详细了解签名云支持]]></text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 签名云支持权益概述]]></text>
+        <text><![CDATA[<b>解决方案:</b> 签名云支持权益概述]]></text>
         <url><![CDATA[http://support.microsoft.com/help/2996739?tpqid=200-000029]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=200-000029]]></url>
       </link>
-    </articlelinks></question></group><group title="技术支持（产品、平台和工具）" refid="TechnicalSupport"><question>
-    <id>300-000104</id>
-    <title><![CDATA[如何创建本地专业支持事件？]]></title>
-    <description><![CDATA[若要在线提交本地或混合请求，请使用 MSA 或 AAD 帐户登录在线辅助支持门户（也称为 ms/OAS），选择产品、版本等，添加描述，然后添加\选择支持计划或按事件支付 (PPI)*。]]></description>
+    </articlelinks></question><question>
+    <id>200-000103</id>
+    <title><![CDATA[I can’t remember my Partner Center password, how can I reset it?]]></title>
+    <description><![CDATA[查看以下资源以了解更多信息。 ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 使用访问 ID 和合同 ID 创建本地专业支持事件]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
+        <text><![CDATA[<b>解决方案:</b> Reset my password in Partner Center]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/reset-my-pasword?tpqid=200-000103]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> What to do if the only admin for your MPN program has left the company in Partner Center?]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4505981/?tpqid=200-000103]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0060&tpqid=200-000103]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="技术支持（产品、平台和工具）" refid="TechnicalSupport"><question>
     <id>300-000101</id>
     <title><![CDATA[我如何提交技术/专业支持事件？]]></title>
     <description><![CDATA[查看 Microsoft Partner Network 技术权益摘要，以确定你的公司是否有资格获得技术支持。]]></description>
@@ -425,24 +429,20 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
       </link>
-    </articlelinks></question></group><group title="授权、销售和营销" refid="LicensingSalesMarketing"><question>
-    <id>1500-000006</id>
-    <title><![CDATA[什么是家用许可计划？]]></title>
-    <description><![CDATA[家用许可计划是为 Microsoft 批量许可客户提供的软件保障权益，为客户的 Office 应用程序提供主动软件保障范围。在工作中使用所涵盖的许可的员工有资格购买这些 Office 应用程序，以便在受雇期间在个人设备上使用这些应用程序。]]></description>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[如何创建本地专业支持事件？]]></title>
+    <description><![CDATA[若要在线提交本地或混合请求，请使用 MSA 或 AAD 帐户登录在线辅助支持门户（也称为 ms/OAS），选择产品、版本等，添加描述，然后添加\选择支持计划或按事件支付 (PPI)*。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 软件保障的权益]]></text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b>  使用 Office 365 为在家办公的员工授权]]></text>
-        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
+        <text><![CDATA[<b>解决方案:</b> 使用访问 ID 和合同 ID 创建本地专业支持事件]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="授权、销售和营销" refid="LicensingSalesMarketing"><question>
     <id>1500-000007</id>
     <title><![CDATA[我是 Dynamics 合作伙伴，希望通过解决方案提供商协议 (SPA) 处理事务，我该如何注册？]]></title>
     <description><![CDATA[首先，请通过下面提供的 Partner Source 链接注册你感兴趣的领域。该过程开始后，如需进一步协助，请向你的本地 ROC 发送电子邮件。]]></description>
@@ -547,24 +547,24 @@
         <text><![CDATA[<b>解决方案:</b> 提交和管理 Microsoft Operation (MSOp) 服务请求]]></text>
         <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
       </link>
-    </articlelinks></question></group><group title="权益" refid="Benefits"><question SortOrderOnHome="5">
-    <id>300-000110</id>
-    <title><![CDATA[如何激活我的支持合同？]]></title>
-    <description><![CDATA[首先查看你的权益权利，然后联机查看你的合同是否已激活，并根据需要请求激活。激活合同需要访问 ID 和合同 ID。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000006</id>
+    <title><![CDATA[什么是家用许可计划？]]></title>
+    <description><![CDATA[家用许可计划是为 Microsoft 批量许可客户提供的软件保障权益，为客户的 Office 应用程序提供主动软件保障范围。在工作中使用所涵盖的许可的员工有资格购买这些 Office 应用程序，以便在受雇期间在个人设备上使用这些应用程序。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 合作伙伴中心的 Microsoft 合作伙伴网络支持合同激活和访问 ID]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+        <text><![CDATA[<b>解决方案:</b> 软件保障的权益]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> Microsoft Partner Network 技术权益摘要]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
+        <text><![CDATA[<b>其他信息:</b>  使用 Office 365 为在家办公的员工授权]]></text>
+        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="9">
+    </articlelinks></question></group><group title="权益" refid="Benefits"><question SortOrderOnHome="9">
     <id>300-000111</id>
     <title><![CDATA[是否可以获得 Microsoft 提供的确认我的合作关系的认证信函?]]></title>
     <description><![CDATA[是，可以访问以下链接以创建表明你与 Microsoft 的关系/合作关系的认证信函.]]></description>
@@ -652,11 +652,7 @@
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b> Microsoft 合作伙伴网站：签名云支持概述]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 签名云支持权益概述]]></text>
-        <url><![CDATA[http://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
+        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
@@ -740,6 +736,10 @@
       <link>
         <text><![CDATA[<b>解决方案:</b> 面向能力合作伙伴的许可证表]]></text>
         <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000120]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0021&tpqid=300-000120]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000121</id>
@@ -954,20 +954,24 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
       </link>
-    </articlelinks></question></group><group title="激励和支出" refid="IncentivesPayouts"><question>
-    <id>400-000089</id>
-    <title><![CDATA[何处可了解有关 OSA 索赔的更多信息？]]></title>
-    <description><![CDATA[下面的文档包含了有关索赔发起摘要、功能和如何成功提交索赔的重要资源的信息。]]></description>
+    </articlelinks></question><question SortOrderOnHome="5">
+    <id>300-000110</id>
+    <title><![CDATA[如何激活我的支持合同？]]></title>
+    <description><![CDATA[首先查看你的权益权利，然后联机查看你的合同是否已激活，并根据需要请求激活。激活合同需要访问 ID 和合同 ID。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> OSA 索赔模型和过程]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
+        <text><![CDATA[<b>解决方案:</b> 合作伙伴中心的 Microsoft 合作伙伴网络支持合同激活和访问 ID]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2904733?tpqid=300-000110]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> Microsoft Partner Network 技术权益摘要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000110]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="激励和支出" refid="IncentivesPayouts"><question>
     <id>400-000079</id>
     <title><![CDATA[从哪里可以找到有关奖励的详细信息？]]></title>
     <description><![CDATA[有关所有奖励计划的信息，请访问“Microsoft 合作伙伴网络合作伙伴奖励和投资”页面。有资格参加奖励计划的合作伙伴可以在“奖励和投资”页面中看到该计划的所有可用资料。合作伙伴还可以看到大多数云奖励的详细信息，即使他们尚未达到所需的能力。]]></description>
@@ -1087,24 +1091,20 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000088]]></url>
       </link>
-    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question SortOrderOnHome="8">
-    <id>100-000078</id>
-    <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
-    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
+    </articlelinks></question><question>
+    <id>400-000089</id>
+    <title><![CDATA[何处可了解有关 OSA 索赔的更多信息？]]></title>
+    <description><![CDATA[下面的文档包含了有关索赔发起摘要、功能和如何成功提交索赔的重要资源的信息。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 如何查找/下载最后的发票]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4017791?tpqid=100-000078]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 如何查找/下载最后的发票(YouTube video)]]></text>
-        <url><![CDATA[https://youtu.be/wvU2j_rFtrg?tpqid=100-000078]]></url>
+        <text><![CDATA[<b>解决方案:</b> OSA 索赔模型和过程]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0055&tpqid=100-000078]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="10">
+    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question SortOrderOnHome="10">
     <id>100-000082</id>
     <title><![CDATA[我缺少哪些续订能力的要求？]]></title>
     <description><![CDATA[使用以下解决方案找出每种能力的特定要求。合作伙伴还可以查看 Microsoft 合作伙伴网站上的能力列表及其要求。]]></description>
@@ -1428,5 +1428,22 @@
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>100-000078</id>
+    <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
+    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 如何查找/下载最后的发票]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 如何查找/下载最后的发票(YouTube video)]]></text>
+        <url><![CDATA[https://youtu.be/wvU2j_rFtrg?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0055&tpqid=100-000078]]></url>
       </link>
     </articlelinks></question></group></groups>
