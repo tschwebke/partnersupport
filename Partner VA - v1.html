@@ -59,7 +59,7 @@
                                 "flowId": "", // ID of the flow definition to use.
                                 "locale": "en-us", // locale supported by Virtual Agent (en-us)
                                 "areaId": "PartnerCenter", // Area ID is a specific Toronto ID to determine where to fetch content from
-                                "preview": true, // Enable preview content
+                                "preview": false, // Enable preview content
                                 //"context": {  // context that will be passed to the virtual agent that will be passed to the agent and torronto. context is a JS object, the value of any property can only be a string.
                                     //"name": "John",
                                     //"account": "john@example.com",
@@ -71,6 +71,7 @@
                                     //},
                                 "content": { // Configuration for virtual agent content assets
                                     //"bigImage":"", // Image of the virtual agent welcome screen ui.virtualAgent.content.Image. Image is an interface that will define the content and display of an image    
+                                    "name": "Partner Bot",
                                     "greeting": "Welcome Microsoft Partner!", // Greeting text in the welcome screen
                                     //"name": "Partner Bot", // Name of the virtual agent in the title bar
                                     //"userInput": "", // Input from the user that should be prepopulated as the first user message in the virtual agent experience. This field has a limit of 1024 characters
@@ -81,12 +82,13 @@
                                     "flowExtensionOption": { //Options for the next flow action, you can provide a type of extension and customize the flow. If a field is not provided for any property, that property will fall back to default behavior. (some fields are required) ui.virtualAgent.content.FlowExtension
                                         //"actionText":"", // the text that invokes the next flow action
                                         "type": "default", // Type of the virtual agent flow extension ui.virtualAgent.content.ExtensionType  i.e. CUSTOM, DEFAULT, DISABLED, LINK
+                                        "actionText": "talk to an agent",
                                         "showImmediately": false, //  prompt user to access assisted support immediately as part of the initial greeting message.
                                         "phoneNumber": "800MPNSolv",
                                         //"product": "windows",  
                                         //"issue": "tech-services",   
                                         "product": "partner",  
-                                        "issue": "classicrsc",   
+                                        "issue": "mpn",   
                                         //"acceptedProducts": ["partner"],
                                         "agentTitle": "Partner Frontline Agent"
                                     },
