@@ -4,11 +4,7 @@
     <description><![CDATA[パートナークラウド サポート特典の概要にパートナークラウド サポートのリクエスト方法が記載されていますので、ご確認ください.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> パートナー クラウド サポートの詳細]]></text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> パートナー クラウド サポート特典の概要]]></text>
+        <text><![CDATA[<b>解決策:</b> パートナー クラウド サポート特典の概要]]></text>
         <url><![CDATA[http://support.microsoft.com/help/2996739?tpqid=200-000029]]></url>
       </link>
        <link>
@@ -186,20 +182,24 @@
         <text><![CDATA[マイクロソフト パートナー ネットワーク ソフトウェア ライセンス特典の FAQ]]></text>
         <url><![CDATA[https://partner.microsoft.com/ja-jp/membership/software-licensing-benefits-faqs#simple-tab-content-2?tpqid=200-1000107]]></url>
       </link>
-    </articlelinks></question></group><group title="インセンティブと支払い" refid="IncentivesPayouts"><question>
-    <id>400-000079</id>
-    <title><![CDATA[インセンティブについての詳細情報を入手したい]]></title>
-    <description><![CDATA[すべてのインセンティブ プログラムに関する情報は、マイクロソフト パートナー ネットワークのパートナーのインセンティブと投資のページに記載されています。インセンティブ プログラムの対象となるパートナーは、インセンティブと投資のページからそのプログラムで利用できるすべての資料を表示することができます。また、パートナーは、必要なコンピテンシーをまだ達成していない場合でも、ほとんどのクラウド インセンティブに関する詳細情報を表示できます。]]></description>
+    </articlelinks></question><question>
+    <id>200-000103</id>
+    <title><![CDATA[I can’t remember my Partner Center password, how can I reset it?]]></title>
+    <description><![CDATA[詳細については、以下のリソースをご確認ください。 ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> パートナーのインセンティブと投資 ]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+        <text><![CDATA[<b>解決策:</b> Reset my password in Partner Center]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/reset-my-pasword?tpqid=200-000103]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>追加情報:</b> What to do if the only admin for your MPN program has left the company in Partner Center?]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4505981/?tpqid=200-000103]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0060&tpqid=200-000103]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="インセンティブと支払い" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title><![CDATA[パートナー インセンティブに関するサポートを受けるにはどうすればよいですか? ]]></title>
     <description><![CDATA[パートナー インセンティブ プログラムのサポートについては、パートナー インセンティブ ページの「サポート」セクションを参照してください。]]></description>
@@ -319,20 +319,20 @@
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="テクニカル サポート (製品、プラットフォーム、ツール)" refid="TechnicalSupport"><question>
-    <id>300-000104</id>
-    <title><![CDATA[オンプレミスのプロフェッショナル サポート インシデントを作成するにはどうすればよいですか?]]></title>
-    <description><![CDATA[オンプレミス要求またはハイブリッド要求をオンラインで送信するには、MSA または AAD アカウントを使用して Online Assisted Support ポータル (aka.ms/OAS) にサインインし、製品、バージョンなどを選択し、説明を追加して、サポート プランまたはインシデントごとの支払い (PPI)* を追加または選択します。]]></description>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title><![CDATA[インセンティブについての詳細情報を入手したい]]></title>
+    <description><![CDATA[すべてのインセンティブ プログラムに関する情報は、マイクロソフト パートナー ネットワークのパートナーのインセンティブと投資のページに記載されています。インセンティブ プログラムの対象となるパートナーは、インセンティブと投資のページからそのプログラムで利用できるすべての資料を表示することができます。また、パートナーは、必要なコンピテンシーをまだ達成していない場合でも、ほとんどのクラウド インセンティブに関する詳細情報を表示できます。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
+        <text><![CDATA[<b>解決策:</b> パートナーのインセンティブと投資 ]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="テクニカル サポート (製品、プラットフォーム、ツール)" refid="TechnicalSupport"><question>
     <id>300-000101</id>
     <title><![CDATA[テクニカル/プロフェッショナル サポート インシデントを送信するにはどうすればよいですか?]]></title>
     <description><![CDATA[テクニカル サポートを受ける資格を確認するには、「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
@@ -479,24 +479,20 @@
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
       </link>
-    </articlelinks></question></group><group title="テクニカル プリセールス、展開、アプリ開発" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000113</id>
-    <title><![CDATA[テクニカル ジャーニー全体を通じてマイクロソフト パートナー テクニカル コンサルタントとどのように関わればいいでしょうか?]]></title>
-    <description><![CDATA[テクニカル エンゲージメント オプションの詳細]]></description>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[オンプレミスのプロフェッショナル サポート インシデントを作成するにはどうすればよいですか?]]></title>
+    <description><![CDATA[オンプレミス要求またはハイブリッド要求をオンラインで送信するには、MSA または AAD アカウントを使用して Online Assisted Support ポータル (aka.ms/OAS) にサインインし、製品、バージョンなどを選択し、説明を追加して、サポート プランまたはインシデントごとの支払い (PPI)* を追加または選択します。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> テクニカル ジャーニーを始めましょう。]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> サポートされている製品とシナリオ]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+        <text><![CDATA[<b>解決策:</b> アクセス ID および契約 ID を使用して、オンプレミスのプロフェッショナル サポート インシデントを作成する]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="テクニカル プリセールス、展開、アプリ開発" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000114</id>
     <title><![CDATA[テクニカル ジャーニーにアクセスするには、どのマイクロソフト パートナー ネットワーク特典が必要ですか?]]></title>
     <description><![CDATA[Microsoft Partner Network パートナーとして、リモート技術ウェビナーへの無制限のアクセス、テクニカル ジャーニーの一部として開発チャットへの無制限のアクセスを得ます。画面共有を介した 1 対 1 の技術的なコンサルテーションを行うために、テクニカル プリセールス アシスタンスやパートナー相談時間の特典を使用します。]]></description>
@@ -547,6 +543,23 @@
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title><![CDATA[テクニカル ジャーニー全体を通じてマイクロソフト パートナー テクニカル コンサルタントとどのように関わればいいでしょうか?]]></title>
+    <description><![CDATA[テクニカル エンゲージメント オプションの詳細]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> テクニカル ジャーニーを始めましょう。]]></text>
+        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>追加情報:</b> サポートされている製品とシナリオ]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
+      </link>
     </articlelinks></question></group><group title="トレーニング" refid="Training"><question>
     <id>1200-1000110</id>
     <title><![CDATA[パートナー特典で提供されるVisual Studio Online特典を管理するには？　]]></title>
@@ -561,23 +574,6 @@
         <url><![CDATA[http://support.microsoft.com/kb/2954371?tpqid=1200-1000110]]></url>
       </link>
     </articlelinks></question></group><group title="プログラムとメンバーシップ" refid="ProgramsMembership"><question>
-    <id>100-000099</id>
-    <title><![CDATA[新しいパートナー センターでアカウントをどのように設定するのでしょうか? ]]></title>
-    <description><![CDATA[以下のリンクにアクセスして詳細をご確認ください。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決策:</b> パートナー センターで Microsoft Partner Network メンバーシップに登録し、購入する: ステップ バイ ステップ ガイド]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4500026/?tpqid=100-000099]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> パートナー センターの概要]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930/?tpqid=100-000099]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000099]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000100</id>
     <title><![CDATA[インダイレクト リセラーになるにはどうすればよいですか?]]></title>
     <description><![CDATA[クラウド ソリューション プロバイダー プログラムに登録する方法については、次のリンクにアクセスしてください。]]></description>
@@ -902,24 +898,24 @@
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0064&tpqid=100-000098]]></url>
       </link>
-    </articlelinks></question></group><group title="ライセンス、販売、マーケティング" refid="LicensingSalesMarketing"><question>
-    <id>1500-000006</id>
-    <title><![CDATA[自宅使用プログラムについて]]></title>
-    <description><![CDATA[自宅使用プログラムとは、Office アプリケーションの有効なソフトウェア アシュアランス契約を保有するマイクロソフトのボリューム ライセンス顧客に対して提供されるソフトウェア アシュアランス特典です。職場で契約対象のライセンスを使用する従業員は、雇用期間中にこれらの Office アプリケーションを購入し、個人用デバイスで使用できます。]]></description>
+    </articlelinks></question><question>
+    <id>100-000099</id>
+    <title><![CDATA[新しいパートナー センターでアカウントをどのように設定するのでしょうか? ]]></title>
+    <description><![CDATA[以下のリンクにアクセスして詳細をご確認ください。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> ソフトウェア アシュアランス特典]]></text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
+        <text><![CDATA[<b>解決策:</b> パートナー センターで Microsoft Partner Network メンバーシップに登録し、購入する: ステップ バイ ステップ ガイド]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4500026/?tpqid=100-000099]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>追加情報:</b>  自宅勤務の従業員が Office 365 を利用できるようにする]]></text>
-        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
+        <text><![CDATA[<b>追加情報:</b> パートナー センターの概要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4499930/?tpqid=100-000099]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000099]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="ライセンス、販売、マーケティング" refid="LicensingSalesMarketing"><question>
     <id>1500-000007</id>
     <title><![CDATA[Dynamics パートナーです。ソリューション プロバイダー契約 (SPA) 経由で取引を行いたいのですが、登録方法を教えてください。]]></title>
     <description><![CDATA[まず、以下のパートナー ソース リンクから興味分野をご登録ください。処理が開始された時点でさらなるサポートが必要な場合は、現地の Regional Operational Center (ROC) に電子メールにてお問い合わせください。]]></description>
@@ -1024,20 +1020,24 @@
         <text><![CDATA[<b>解決策:</b> Microsoft Operations (MSOps) サービス要求を送信および管理する]]></text>
         <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
       </link>
-    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-1000112</id>
-    <title><![CDATA[Office365の試用版を利用していますが、試用期間の延長をすることはできますか？]]></title>
-    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
-Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
-※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
-※代理管理ではこの手続きを行うことができません。
-※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000006</id>
+    <title><![CDATA[自宅使用プログラムについて]]></title>
+    <description><![CDATA[自宅使用プログラムとは、Office アプリケーションの有効なソフトウェア アシュアランス契約を保有するマイクロソフトのボリューム ライセンス顧客に対して提供されるソフトウェア アシュアランス特典です。職場で契約対象のライセンスを使用する従業員は、雇用期間中にこれらの Office アプリケーションを購入し、個人用デバイスで使用できます。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[Office365管理センタ]]></text>
-        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
+        <text><![CDATA[<b>解決策:</b> ソフトウェア アシュアランス特典]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
       </link>
-    </articlelinks></question><question>
+       <link>
+        <text><![CDATA[<b>追加情報:</b>  自宅勤務の従業員が Office 365 を利用できるようにする]]></text>
+        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
+      </link>
+    </articlelinks></question></group><group title="契約、注文、サブスクリプション管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-1000113</id>
     <title><![CDATA[「Office365試用版のデータが削除されます」との通知がきました。すでに製品版を有効化して利用していますが、製品版のサブスクリプションも削除されるのですか？]]></title>
     <description><![CDATA[いいえ。　試用版で利用いただいていたサブスクリプションのみが削除されます。　製品版で利用いただいているサブスクリプションには影響がありません。　有効化の手順については、以下各種ウェブサイトをご覧ください。]]></description>
@@ -1065,6 +1065,10 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[<b>追加情報:</b> Visual Studio Online ダウンロード サイト]]></text>
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
       </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=800-000090]]></url>
+      </link>
     </articlelinks></question><question>
     <id>800-1000111</id>
     <title><![CDATA[パートナー特典や各種プログラム要件に関するお問い合わせについての連絡先情報はどこから入手できますか？　マイクロソフト認定プログラム事務局とファイルやスクリーンショットを共有したりするには？　]]></title>
@@ -1080,24 +1084,20 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[パートナー メンバーシップ フォーラムプライベート投稿について ]]></text>
         <url><![CDATA[http://partnersupport.microsoft.com/ja-jp/mpnpartnermem/forum/mpnpartpq-mpnpmpp/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc/7568774a-e58c-4947-923f-bf0d30e10a99?tpqid=800-1000111]]></url>
       </link>
-    </articlelinks></question></group><group title="特典" refid="Benefits"><question>
-    <id>300-000014</id>
-    <title><![CDATA[パートナー相談時間とは何ですか?]]></title>
-    <description><![CDATA[パートナー相談時間とは、パートナーに提供される特定のサービスにアクセスするために使用する通貨です。時間を使ってスキルを構築し、ソリューションを展開するためのカスタマイズされたガイダンスを受けます。]]></description>
+    </articlelinks></question><question>
+    <id>800-1000112</id>
+    <title><![CDATA[Office365の試用版を利用していますが、試用期間の延長をすることはできますか？]]></title>
+    <description><![CDATA[できます。　エンドユーザー様の管理者権限が付与されたアカウントで、Office365管理センターにサインインして、延長の手続きを行ってください。
+Office365管理センターの「課金メニュー」から延長を希望するサブスクリプションを選択し、画面右側のサブメニューにある「試用期間の延長」を選択して手続きを進めてください。
+※クレジットカードの情報を入力する必要がありますが、支払は発生しません。
+※代理管理ではこの手続きを行うことができません。
+※試用版のサブスクリプションは30日間延長されます。　試用版の延長は1回限り可能です。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> マイクロソフト パートナー Web サイト: パートナー相談時間の資格を得るにはどうすればよいですか?]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+        <text><![CDATA[Office365管理センタ]]></text>
+        <url><![CDATA[https://portal.office.com/admin/default.aspx?wa=wsignin1.0#EAdminDefaultPage_AdminHomePageESKU_AdminDashboardPage&tpqid=800-1000112]]></url>
       </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> どのくらいの時間があるかわかりませんか? 利用可能なパートナー相談時間を表示する]]></text>
-        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0030&tpqid=300-000014]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="特典" refid="Benefits"><question>
     <id>300-000105</id>
     <title><![CDATA[Microsoft Dynamics 365 for Unified Operations の社内使用ライセンス (IUR) を取得できる対象ユーザーと取得できる場所]]></title>
     <description><![CDATA[クラウド ビジネス アプリケーション コンピテンシーのパフォーマンス条件を満たし、現在 ERP コンピテンシーを持っているパートナーが対象です。この IUR についてよく寄せられる質問と詳細については、以下の記事を参照してください ]]></description>
@@ -1201,6 +1201,10 @@ Office365管理センターの「課金メニュー」から延長を希望す�
       <link>
         <text><![CDATA[<b>解決策:</b> コンピテンシー パートナーのライセンスの一覧(英語のみ)]]></text>
         <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000120]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0021&tpqid=300-000120]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000108</id>
@@ -1482,11 +1486,7 @@ Office365管理センターの「課金メニュー」から延長を希望す�
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決策:</b> マイクロソフト パートナー Web サイト: シグネチャー クラウドのサポートの概要]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> パートナー クラウド サポート特典の概要]]></text>
-        <url><![CDATA[http://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
+        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
@@ -1504,5 +1504,22 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000014</id>
+    <title><![CDATA[パートナー相談時間とは何ですか?]]></title>
+    <description><![CDATA[パートナー相談時間とは、パートナーに提供される特定のサービスにアクセスするために使用する通貨です。時間を使ってスキルを構築し、ソリューションを展開するためのカスタマイズされたガイダンスを受けます。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> マイクロソフト パートナー Web サイト: パートナー相談時間の資格を得るにはどうすればよいですか?]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>追加情報:</b> どのくらいの時間があるかわかりませんか? 利用可能なパートナー相談時間を表示する]]></text>
+        <url><![CDATA[http://aka.ms/mysupport?tpqid=300-000014]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0030&tpqid=300-000014]]></url>
       </link>
     </articlelinks></question></group></groups>

@@ -39,11 +39,7 @@
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決方案:</b> Microsoft 合作夥伴網站：Signature Cloud Support 概觀]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/signature-cloud-support?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b> 簽章雲端支援利益概觀]]></text>
-        <url><![CDATA[http://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
+        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
@@ -346,6 +342,10 @@
         <text><![CDATA[<b>解決方案:</b>  專長認證合作夥伴的授權表格]]></text>
         <url><![CDATA[https://assetsprod.microsoft.com/mpn/mpn-maps-software-iur-competency-license-table.docx?tpqid=300-000120]]></url>
       </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0021&tpqid=300-000120]]></url>
+      </link>
     </articlelinks></question><question>
     <id>300-000121</id>
     <title><![CDATA[續約 Office 365 訂閱時只看到新增基座的選項，怎麼辦？]]></title>
@@ -424,6 +424,10 @@
        <link>
         <text><![CDATA[<b>其他資訊:</b> Visual Studio Online 下載網站]]></text>
         <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=800-000090]]></url>
       </link>
     </articlelinks></question></group><group title="售前、部署和應用程式開發技術" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000112</id>
@@ -576,11 +580,7 @@
     <description><![CDATA[取得簽章雲端支援利益的概觀，包含如何送出簽章雲端支援事件。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 深入了解 Signature Cloud Support]]></text>
-        <url><![CDATA[https://partner.microsoft.com/Support/signature-cloud-support?tpqid=200-000029]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b> 簽章雲端支援利益概觀]]></text>
+        <text><![CDATA[<b>解決方案:</b> 簽章雲端支援利益概觀]]></text>
         <url><![CDATA[http://support.microsoft.com/help/2996739?tpqid=200-000029]]></url>
       </link>
        <link>
@@ -672,20 +672,7 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=200-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="技術支援 (產品、平台和工具)" refid="TechnicalSupport"><question>
-    <id>300-000104</id>
-    <title><![CDATA[如何建立內部部署專業支援事件？]]></title>
-    <description><![CDATA[若要線上提交內部部署或混合式要求，請使用 MSA 或 AAD 帳戶登入線上協助支援入口網站 (aka.ms/OAS)，選取產品、版本等，新增說明，然後新增/選取支援方案或依事件付費 (PPI)*。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> 使用存取識別碼與合約識別碼建立內部部署專業支援事件]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
+    </articlelinks></question>#REF!</group><group title="技術支援 (產品、平台和工具)" refid="TechnicalSupport"><question>
     <id>700-000004</id>
     <title><![CDATA[如何代表客戶建立 Microsoft Azure 支援要求？]]></title>
     <description><![CDATA[產品支援要求可以透過下列入口網站提交。.]]></description>
@@ -832,20 +819,20 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
       </link>
-    </articlelinks></question></group><group title="授權、銷售和行銷" refid="LicensingSalesMarketing"><question>
-    <id>1500-000002</id>
-    <title><![CDATA[哪些資源可以協助我了解大量授權？]]></title>
-    <description><![CDATA[Microsoft 會提供大量授權訓練及資源，以協助您存取定價、報價、合約、產品啟用和其他工具。]]></description>
+    </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[如何建立內部部署專業支援事件？]]></title>
+    <description><![CDATA[若要線上提交內部部署或混合式要求，請使用 MSA 或 AAD 帳戶登入線上協助支援入口網站 (aka.ms/OAS)，選取產品、版本等，新增說明，然後新增/選取支援方案或依事件付費 (PPI)*。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> Microsoft Partner Network 入口網站：大量授權的訓練和資源]]></text>
-        <url><![CDATA[https://partner.microsoft.com/licensing/training-and-resources?tpqid=1500-000002]]></url>
+        <text><![CDATA[<b>解決方案:</b> 使用存取識別碼與合約識別碼建立內部部署專業支援事件]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他資訊:</b> Licensing 首頁]]></text>
-        <url><![CDATA[https://www.microsoft.com/licensing?tpqid=1500-000002]]></url>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="授權、銷售和行銷" refid="LicensingSalesMarketing"><question>
     <id>1500-000003</id>
     <title><![CDATA[對於有關 Microsoft 產品及服務合約 (MPSA) 的問題，有哪些資源可供使用？]]></title>
     <description><![CDATA[「Microsoft 產品及服務合約」(Microsoft Products and Services Agreement，MPSA) 是適用於擁有 250 個以上使用者/裝置的商業機構、政府機關和學術機構的交易授權合約。對於要授權 Microsoft 內部部署軟體、雲端服務或兩者 (視需要) 的組織而言，MPSA 最為適用，因為單一、不會到期的合約底下沒有全組織的承諾。 ]]></description>
@@ -954,20 +941,20 @@
         <text><![CDATA[<b>解決方案:</b> Microsoft Operations Readiness 入口網站]]></text>
         <url><![CDATA[https://partner.microsoft.com/explore/operations-readiness?tpqid=1500-000001]]></url>
       </link>
-    </articlelinks></question></group><group title="方案和成員資格" refid="ProgramsMembership"><question>
-    <id>100-0000102</id>
-    <title><![CDATA[客戶搜尋的運作方式為何？ ]]></title>
-    <description><![CDATA[系統會將客戶輸入的關鍵字與合作夥伴宣告的商務設定檔相比對，以建立較短的合作夥伴清單。客戶可以根據位置和客戶規模，使用篩選條件縮小可選擇的合作夥伴。「最佳相符」類別使用 Microsoft 人員的專長認證和輸入來呈現合作夥伴。「最多回應」類別使用合作夥伴在推薦管理體驗方面的資料來呈現合作夥伴。「最靠近您」類別會將客戶所輸入位置附近的合作夥伴列入考量，以呈現合作夥伴。您可以在 [解決方案提供者搜尋] 頁面找到搜尋功能。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000002</id>
+    <title><![CDATA[哪些資源可以協助我了解大量授權？]]></title>
+    <description><![CDATA[Microsoft 會提供大量授權訓練及資源，以協助您存取定價、報價、合約、產品啟用和其他工具。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 解決方案提供者搜尋]]></text>
-        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
+        <text><![CDATA[<b>解決方案:</b> Microsoft Partner Network 入口網站：大量授權的訓練和資源]]></text>
+        <url><![CDATA[https://partner.microsoft.com/licensing/training-and-resources?tpqid=1500-000002]]></url>
       </link>
        <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0036&tpqid=100-0000102]]></url>
+        <text><![CDATA[<b>其他資訊:</b> Licensing 首頁]]></text>
+        <url><![CDATA[https://www.microsoft.com/licensing?tpqid=1500-000002]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="方案和成員資格" refid="ProgramsMembership"><question>
     <id>100-0000103</id>
     <title><![CDATA[何謂背書？如何取得背書？]]></title>
     <description><![CDATA[背書會依據現有的互動與方案，運用 Microsoft 對合作夥伴專長的了解。背書是透過對合作夥伴的設定檔加上標籤的方式進行。尚無先進專長可用來識別最有辦法提供服務和解決方案，以符合客戶需求的合作夥伴時，背書標籤即為這個過渡時期所使用的方法。我們會在會計年度 2019 年第 1 季內排入程序，以便對背書進行任何進一步更新。這個程序將可用來評估現有背書，並監督加入的新背書。在那之前，我們不會對背書進行任何更新。如需詳細資訊，請造訪合作夥伴成員資格網站，以及下列說明與 Microsoft 成為合作夥伴的新契機的文章。]]></description>
@@ -1296,20 +1283,20 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0010&tpqid=100-0000101]]></url>
       </link>
-    </articlelinks></question></group><group title="獎勵和支出" refid="IncentivesPayouts"><question>
-    <id>400-000079</id>
-    <title><![CDATA[我可以在哪裡找到有關獎勵的詳細資訊？]]></title>
-    <description><![CDATA[如需所有獎勵計畫的相關資訊，請參閱 Microsoft 合作夥伴網路的合作夥伴獎勵與投資頁面。符合獎勵計畫資格的合作夥伴將會在合作夥伴獎勵與投資頁面中，看到該計畫所有可用的內容。此外，合作夥伴也會看到大多數雲端獎勵的詳細資訊，即使尚未達到必要的專長認證亦然。]]></description>
+    </articlelinks></question><question>
+    <id>100-0000102</id>
+    <title><![CDATA[客戶搜尋的運作方式為何？ ]]></title>
+    <description><![CDATA[系統會將客戶輸入的關鍵字與合作夥伴宣告的商務設定檔相比對，以建立較短的合作夥伴清單。客戶可以根據位置和客戶規模，使用篩選條件縮小可選擇的合作夥伴。「最佳相符」類別使用 Microsoft 人員的專長認證和輸入來呈現合作夥伴。「最多回應」類別使用合作夥伴在推薦管理體驗方面的資料來呈現合作夥伴。「最靠近您」類別會將客戶所輸入位置附近的合作夥伴列入考量，以呈現合作夥伴。您可以在 [解決方案提供者搜尋] 頁面找到搜尋功能。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 合作夥伴獎勵與投資]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+        <text><![CDATA[<b>解決方案:</b> 解決方案提供者搜尋]]></text>
+        <url><![CDATA[https://www.microsoft.com/solution-providers/search?tpqid=100-0000102]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0036&tpqid=100-0000102]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="獎勵和支出" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title><![CDATA[我要如何取得合作夥伴獎勵的支援？]]></title>
     <description><![CDATA[您可在 [合作夥伴獎勵] 頁面的 [支援] 區段中，找到合作夥伴獎勵方案的支援服務。]]></description>
@@ -1428,5 +1415,18 @@
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title><![CDATA[我可以在哪裡找到有關獎勵的詳細資訊？]]></title>
+    <description><![CDATA[如需所有獎勵計畫的相關資訊，請參閱 Microsoft 合作夥伴網路的合作夥伴獎勵與投資頁面。符合獎勵計畫資格的合作夥伴將會在合作夥伴獎勵與投資頁面中，看到該計畫所有可用的內容。此外，合作夥伴也會看到大多數雲端獎勵的詳細資訊，即使尚未達到必要的專長認證亦然。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> 合作夥伴獎勵與投資]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
       </link>
     </articlelinks></question></group></groups>
