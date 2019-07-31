@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Alerts>
+    <Alert language="en">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="es">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[Esta es una muestra de un <b>mensaje de alerta</b>. Haga clic en este <a href='https://partner.microsoft.com/es-es/' ref='_blank'>enlace</a>. Esto irá a la página de inicio de partner.microsoft.com.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/es-es/dashboard' ref='_blank'>Ejemplo de vínculo al panel</a>]]></Link>
+    </Alert>
+    <Alert language="pt">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="it">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="ru">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="de">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="fr">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="ja">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="ko">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="tr">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="zh-cn">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+    <Alert language="zh-hk">
+        <Header>Azure Outage</Header>
+        <Details><![CDATA[This is a sample of an <b>alert message</b>. Click this <a href='https://partner.microsoft.com' ref='_blank'>link</a>. This will go to the partner.microsoft.com home page.]]></Details>
+        <Link><![CDATA[<a href='https://partner.microsoft.com/dashboard' ref='_blank'>Sample Link To Dashboard</a>]]></Link>
+    </Alert>
+</Alerts>
