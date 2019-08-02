@@ -20,15 +20,15 @@
     <script>
         var appConfig = {
             partnerId: "partner",
-            appId: "partnercenter"
+            appId: "upebot"
         };
 
         // initialize the web sdk
         var initPromise = window.MsSupportSdk.init(appConfig);
         // Setup config the web sdk
         var config = {
-            "environment": "staging.support.services.microsoft.com",
-            "areaId": "partnercenter",
+            "environment": "MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION",
+            "areaId": "PartnerCenter",
             "locale": "en-us",
             "preview": false,
             "content": {

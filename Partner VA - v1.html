@@ -57,7 +57,7 @@
         <script>
             var appConfig = {
                 partnerId: "partner",
-                appId: "partnercenter"
+                appId: "upebot"
             };
 
             // initialize the web sdk
@@ -74,17 +74,17 @@
                 //"type": "" //  Auth type
                 //},
                 //"environment": MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION, // A value from ui.virtualAgent.Environment (default is ui.virtualAgent.Environment.PRODUCTION) MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION
-                "environment": "staging.support.services.microsoft.com",
+                "environment": "MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION",
                 "flowId": "", // ID of the flow definition to use.
                 "locale": "en-us", // locale supported by Virtual Agent (en-us)
-                "areaId": "partnercenter", // Area ID is a specific Toronto ID to determine where to fetch content from
+                "areaId": "PartnerCenter", // Area ID is a specific Toronto ID to determine where to fetch content from
                 "preview": false, // Enable preview content
                 "content": { // Configuration for virtual agent content assets
                     //"userInput": "", // Input from the user that should be prepopulated as the first user message in the virtual agent experience. This field has a limit of 1024 characters
                     "name": "Partner Bot", // Name of the virtual agent in the title bar
                     "greeting": "Welcome Microsoft Partner!", // Greeting text in the welcome screen
                     "welcomeMessage": "How can I help you?", // First message the virtual agent displays to the user
-                    "bigImage": {
+                    "bigImage": {  // Image of the virtual agent above the greeting. Image is an interface that will define the content and display of an image
                         "display": {
                             "type": "none"
                         }
