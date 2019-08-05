@@ -11,7 +11,7 @@
     <div>
         <button id="button" class="btn btn-primary">Render</button>
     </div>
-    <div id='iframe_container' style="height: 540px; width: 360px; outline: solid thin #0078d7"></div>
+    <div id='iframe_container' style="display: none; height: 540px; width: 360px; outline: solid thin #0078d7"></div>
 
     <script src="https://code.jquery.com/jquery-3.1.1.js" type="text/javascript"></script>
     <script src="https://az725175.vo.msecnd.net/scripts/jsll-4.0.0.js" type="text/javascript"></script>
@@ -26,44 +26,76 @@
         // initialize the web sdk
         var initPromise = window.MsSupportSdk.init(appConfig);
         // Setup config the web sdk
-        var config = {
-            "environment": "partner.support.services.microsoft.com",
-            "areaId": "PartnerCenter",
-            "locale": "en-us",
-            "preview": false,
-            "content": {
-                "name": "Partner Bot",
-                "greeting": "Welcome Microsoft Partner!",
-                "welcomeMessage": "How can I help you?",
-                "bigImage": {
+        var config = { // Configuration for virtual agent component
+            //"context": {  // context that will be passed to the virtual agent that will be passed to the agent and torronto. context is a JS object, the value of any property can only be a string.
+            //"name": "John",
+            //"account": "john@example.com",
+            //"occupation": "developer"
+            //},
+            //"authInfo": {  // A {{#crossLink "ui.AuthInfo"}}{{/crossLink}} object that specifies the authentication information.
+            //"token": "", // Authentication token
+            //"type": "" //  Auth type
+            //},
+            "environment": "partner.support.services.microsoft.com", // A value from ui.virtualAgent.Environment (default is ui.virtualAgent.Environment.PRODUCTION) 
+            "flowId": "", // ID of the flow definition to use.
+            "locale": "en-us", // locale supported by Virtual Agent (en-us)
+            "areaId": "PartnerCenter", // Area ID is a specific Toronto ID to determine where to fetch content from
+            "preview": false, // Enable preview content
+            "content": { // Configuration for virtual agent content assets
+                //"userInput": "", // Input from the user that should be prepopulated as the first user message in the virtual agent experience. This field has a limit of 1024 characters
+                "name": "Partner Bot-in-training", // Name of the virtual agent in the title bar
+                "greeting": "Welcome Microsoft Partner!", // Greeting text in the welcome screen
+                "welcomeMessage": "Hi, I’m the Partner Bot-in-training. Please describe your issue below:", // First message the virtual agent displays to the user
+                "bigImage": {  // Image of the virtual agent above the greeting. Image is an interface that will define the content and display of an image
                     "display": {
                         "type": "none"
                     }
                 },
-                "flowExtensionOption": {
-                    "type": "default",
+                "flowExtensionOption": { //Options for the next flow action, you can provide a type of extension and customize the flow. If a field is not provided for any property, that property will fall back to default behavior. (some fields are required) ui.virtualAgent.content.FlowExtension
+                    //"actionText":"", // the text that invokes the next flow action
+                    "type": "default", // Type of the virtual agent flow extension ui.virtualAgent.content.ExtensionType  i.e. CUSTOM, DEFAULT, DISABLED, LINK
                     "actionText": "talk to an agent",
+                    "showImmediately": false, //  prompt user to access assisted support immediately as part of the initial greeting message.
                     "phoneNumber": "800MPNSolv",
                     "product": "partner",
                     "issue": "mpn",
-                    "agentTitle": "Microsoft Partner Support Agent",
-                    "showImmediately": false
+                    "agentTitle": "Microsoft Partner Support Agent"
+                        //"acceptedProducts": ["partner"],  
                 },
-                "placeHolderInputText": {
-                    "initial": "Ask me a question",
+                // "response":"", // Answer content for the virtual agent messages. ui.virtualAgent.content.Responses   https://cdn.support.services.microsoft.com/support-web-sdk/v2/latest/docs/classes/ui.virtualAgent.content.Responses.html
+                //"smallImage ":"", // Image of the virtual agent in the title bar ui.virtualAgent.content.Image. Image is an interface that will define the content and display of an image    
+                "placeHolderInputText": { // Placeholder text for the main input text box of the virtual agent ui.virtualAgent.content.PlaceHolderStates
+                    "initial": "e.g. How do I renew my Microsoft Partner Network membership?",
                     "content": "Enter your response here"
                 }
             },
-            "theme": {
-                "type": "light"
+            "theme": { // Configuration for virtual agent theme
+                "type": "light", //controls the default visual experience. A value from A value from ui.theme.ThemeColor. Default: LIGHT
+                //"feedbackButton": "normal",  // feedback button that shows the survey( by disabling this you will disable modal surveys )  NORMAL or NONE
+                //"lineSeperator": "normal",  //  line seperator is the line between the greeting message and the welcome message    NORMAL or NONE
+                //"agentMessageBubble": "", // customizes the agent message bubble. The agent message bubble appears when the user is selects chat and talks to the agent. theme.Theme
+                //"systemErrorMessageBubble": "", // customizes the System Error message bubble. theme.Theme
+                //"systemInfoMessageBubble": "", // customizes the System Info message bubble. theme.Theme
+                //"titleBar": "none", // titleBar can be customized by hiding it.  NORMAL or NONE
+                //"userMessageBubble ": "", // customizes the user message bubble.  theme.Theme
+                //"virtualAgentMessageBubble ": "", // customizes the virtual agent message bubble.  theme.Theme
+                //"default": {  // default controls the customization of the entire feature a complete default ui.theme.Theme is required if theming is applied for the rendered component.
+                //"accent": "#00ff00ff", // controls the color of the features that are the main focus in that component.
+                //"background": "#ff00ff00",  // background color of the component that this theme object is applied to
+                //"foreground": "#e3e3e3ff",  //  color of the text in that component    
+                //}
             },
-            "uiInfo": {
-                "type": 1,
-                "containerSelector": "#iframe_container"
+            "uiInfo": { // UIInfo class which describes the details about a UI component
+                "type": 1, // A value in {{#crossLink "ui.HostType"}}{{/crossLink}} which indicates the type of UI to render. 0 = NONE, 1 = IFRAME, 2 =  POPUP, 3 = EMBEDDED or sdk.ui.HostType.POPUP
+                "containerSelector": "#iframe_container", // Only required for iframe -- a JQuery selector statement to define the element into which the iframe will be loaded. Iframe container selector. Applicable when type is ui.HostType.IFRAME
+                //"accessibilityTitle": "Partner Bot"   
+                //width: 600,   Width of the popup window. Applicable when type is ui.HostType.POPUP Height of the popup window. Applicable when type is ui.HostType.POPUP
+                //height: 800    Height of the popup window. Applicable when type is ui.HostType.POPUP
             }
         };
 
         $("#button").on("click", function() {
+            $("#iframe_container").toggle();
             window.MsSupportSdk.ui.virtualAgent.render(config);
         });
     </script>

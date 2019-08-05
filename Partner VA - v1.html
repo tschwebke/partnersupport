@@ -73,17 +73,16 @@
                 //"token": "", // Authentication token
                 //"type": "" //  Auth type
                 //},
-                //"environment": MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION, // A value from ui.virtualAgent.Environment (default is ui.virtualAgent.Environment.PRODUCTION) MsSupportSdk.ui.virtualAgent.Environment.PRODUCTION
-                "environment": "partner.support.services.microsoft.com",
+                "environment": "partner.support.services.microsoft.com", // A value from ui.virtualAgent.Environment (default is ui.virtualAgent.Environment.PRODUCTION) 
                 "flowId": "", // ID of the flow definition to use.
                 "locale": "en-us", // locale supported by Virtual Agent (en-us)
                 "areaId": "PartnerCenter", // Area ID is a specific Toronto ID to determine where to fetch content from
                 "preview": false, // Enable preview content
                 "content": { // Configuration for virtual agent content assets
                     //"userInput": "", // Input from the user that should be prepopulated as the first user message in the virtual agent experience. This field has a limit of 1024 characters
-                    "name": "Partner Bot", // Name of the virtual agent in the title bar
+                    "name": "Partner Bot-in-training", // Name of the virtual agent in the title bar
                     "greeting": "Welcome Microsoft Partner!", // Greeting text in the welcome screen
-                    "welcomeMessage": "How can I help you?", // First message the virtual agent displays to the user
+                    "welcomeMessage": "Hi, I’m the Partner Bot-in-training. Please describe your issue below:", // First message the virtual agent displays to the user
                     "bigImage": {  // Image of the virtual agent above the greeting. Image is an interface that will define the content and display of an image
                         "display": {
                             "type": "none"
@@ -103,7 +102,7 @@
                     // "response":"", // Answer content for the virtual agent messages. ui.virtualAgent.content.Responses   https://cdn.support.services.microsoft.com/support-web-sdk/v2/latest/docs/classes/ui.virtualAgent.content.Responses.html
                     //"smallImage ":"", // Image of the virtual agent in the title bar ui.virtualAgent.content.Image. Image is an interface that will define the content and display of an image    
                     "placeHolderInputText": { // Placeholder text for the main input text box of the virtual agent ui.virtualAgent.content.PlaceHolderStates
-                        "initial": "Ask me a question",
+                        "initial": "e.g. How do I renew my Microsoft Partner Network membership?",
                         "content": "Enter your response here"
                     }
                 },
