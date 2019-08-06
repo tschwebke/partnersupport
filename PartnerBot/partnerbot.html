@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 
-<a href="https://partnersupport.azurewebsites.net/partnerbot/partnerbot.html" target="popup" onclick="window.open('//partnersupport.azurewebsites.net/partnerbot/partnerbot.html','Partner Bot-in-training','width=600,height=800,location=no,menubar=no, scollbars=no,status=no,toolbar=no')">Open page in new window</a>
+<a href="https://partnersupport.azurewebsites.net/partnerbot/partnerbot.html"
+    onclick="window.open('this.href','Partner Bot-in-training','width=600,height=800,location=no,menubar=no,scollbars=no,status=no,toolbar=no'); return false;">Open
+    page in new window</a>
 
 <head>
     <meta charset="utf-8">
     <title>Partner Bot</title>
-    <link rel="stylesheet" type="text/css" href="https://assets.onestore.ms/cdnfiles/external/webcore/4.14.0/stylesheets/WebCore.4.14.0.ltr.light.fixed.min.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://assets.onestore.ms/cdnfiles/external/webcore/4.14.0/stylesheets/WebCore.4.14.0.ltr.light.fixed.min.css">
 </head>
 
 <body>
@@ -15,7 +18,8 @@
 
     <script src="https://code.jquery.com/jquery-3.1.1.js" type="text/javascript"></script>
     <script src="https://az725175.vo.msecnd.net/scripts/jsll-4.0.0.js" type="text/javascript"></script>
-    <script type="text/javascript" src="https://cdn.support.services.microsoft.com/support-web-sdk/v2/latest/support.sdk.all.js"></script>
+    <script type="text/javascript"
+        src="https://cdn.support.services.microsoft.com/support-web-sdk/v2/latest/support.sdk.all.js"></script>
 
     <script>
         var appConfig = {
@@ -24,44 +28,45 @@
         };
 
         var initPromise = window.MsSupportSdk.init(appConfig);
-        var config = { 
-            "environment": "partner.support.services.microsoft.com", 
-            "flowId": "", 
-            "locale": "en-us", 
-            "areaId": "PartnerCenter", 
-            "preview": false, 
-            "content": { 
-                "name": "Partner Bot-in-training", 
-                "greeting": "Welcome Microsoft Partner!", 
-                "welcomeMessage": "Hi, I’m the Partner Bot-in-training. Please describe your issue below:", 
-                "bigImage": {  
+        var config = {
+            "environment": "partner.support.services.microsoft.com",
+            "flowId": "",
+            "locale": "en-us",
+            "areaId": "PartnerCenter",
+            "preview": false,
+            "content": {
+                "name": "Partner Bot-in-training",
+                "greeting": "Welcome Microsoft Partner!",
+                "welcomeMessage": "Hi, I’m the Partner Bot-in-training. Please describe your issue below:",
+                "bigImage": {
                     "display": {
                         "type": "none"
                     }
                 },
-                "flowExtensionOption": {  
-                    "type": "default", 
+                "flowExtensionOption": {
+                    "type": "default",
                     "actionText": "talk to an agent",
-                    "showImmediately": false, 
+                    "showImmediately": false,
                     "phoneNumber": "800MPNSolv",
                     "product": "partner",
                     "issue": "mpn",
                     "agentTitle": "Microsoft Partner Support Agent"
-                },  
-                "placeHolderInputText": { 
+                },
+                "placeHolderInputText": {
                     "initial": "e.g. How do I renew my Microsoft Partner Network membership?",
                     "content": "Enter your response here"
                 }
             },
-            "theme": { 
-                "type": "light", 
+            "theme": {
+                "type": "light",
             },
-            "uiInfo": { 
-                "type": 1, 
-                "containerSelector": "#iframe_container", 
+            "uiInfo": {
+                "type": 1,
+                "containerSelector": "#iframe_container",
             }
         };
         window.MsSupportSdk.ui.virtualAgent.render(config);
     </script>
 </body>
+
 </html>
