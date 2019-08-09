@@ -29,7 +29,7 @@
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b> 详细了解技术参与选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000113]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000113]]></url>
       </link>
        <link>
         <text><![CDATA[<b>其他信息:</b> 受支持的产品和方案]]></text>
@@ -50,7 +50,7 @@
       </link>
        <link>
         <text><![CDATA[<b>其他信息:</b> 开始你的技术之旅]]></text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000114]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000114]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
@@ -80,7 +80,7 @@
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b> 开始你的技术之旅]]></text>
-        <url><![CDATA[https://partner.microsoft.com/reach-customers/technical-journeys?tpqid=1400-000112]]></url>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
       </link>
        <link>
         <text><![CDATA[<b>其他信息:</b> Microsoft 合作伙伴网络技术之旅博客]]></text>
@@ -442,29 +442,29 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
       </link>
-    </articlelinks></question></group><group title="授权、销售和营销" refid="LicensingSalesMarketing"><question>
-    <id>1500-000007</id>
-    <title><![CDATA[我是 Dynamics 合作伙伴，希望通过解决方案提供商协议 (SPA) 处理事务，我该如何注册？]]></title>
-    <description><![CDATA[首先，请通过下面提供的 Partner Source 链接注册你感兴趣的领域。该过程开始后，如需进一步协助，请向你的本地 ROC 发送电子邮件。]]></description>
+    </articlelinks></question><question>
+    <id>700-000014</id>
+    <title><![CDATA[我在哪里可以获得有关 Dynamics 产品的问题或疑问的协助？]]></title>
+    <description><![CDATA[请通过 Partner Source 记录服务请求。通过访问网站的“定价和订购”部分并选择“新操作请求”，可以完成此操作。请将 IT 编号包含在请求中，或者在直接与代理交谈时告知。如果对请求的解决不满意，请向 Dynamics 升级发送电子邮件，并在电子邮件正文中包含 IT 编号。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b> Dynamics PartnerSource]]></text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource?tpqid=700-000014]]></url>
       </link>
     </articlelinks></question><question>
-    <id>1500-000008</id>
-    <title><![CDATA[如何了解有关 Microsoft 许可的更多信息？]]></title>
-    <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
+    <id>700-000015</id>
+    <title><![CDATA[Where can I get technical support for Dynamics products?]]></title>
+    <description><![CDATA[Please review the following links for more information.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 合作伙伴许可问题 - 快速参考指南]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4076425?tpqid=1500-000008]]></url>
+        <text><![CDATA[<b>解决方案:</b> On-premises products support]]></text>
+        <url><![CDATA[https://support.microsoft.com/supportforbusiness?tpqid=700-000015]]></url>
       </link>
        <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=1500-0039&tpqid=1500-000008]]></url>
+        <text><![CDATA[<b>其他信息:</b> Online products support]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000015]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="授权、销售和营销" refid="LicensingSalesMarketing"><question>
     <id>1500-000009</id>
     <title><![CDATA[合作伙伴何时能够获得本地产品的新密钥？ ]]></title>
     <description><![CDATA[请注意，本地密钥的激活次数有限。只有在推出产品的新版本后，合作伙伴才能获得新密钥。如果没有推出新版本，即使合作伙伴已经消费并且支付了重新注册的新一年的费用，他们也不会收到额外的激活。 ]]></description>
@@ -512,6 +512,10 @@
         <text><![CDATA[<b>解决方案:</b> Microsoft Operations Readiness 门户]]></text>
         <url><![CDATA[https://partner.microsoft.com/explore/operations-readiness?tpqid=1500-000001]]></url>
       </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0071&tpqid=1500-000001]]></url>
+      </link>
     </articlelinks></question><question>
     <id>1500-000002</id>
     <title><![CDATA[有哪些资源可以帮助我了解批量许可？]]></title>
@@ -525,18 +529,26 @@
         <text><![CDATA[<b>其他信息:</b>  许可主页]]></text>
         <url><![CDATA[https://www.microsoft.com/licensing?tpqid=1500-000002]]></url>
       </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0025&tpqid=1500-000002]]></url>
+      </link>
     </articlelinks></question><question>
     <id>1500-000003</id>
     <title><![CDATA[针对有关 Microsoft 产品和服务协议 (MPSA) 的问题，有哪些可用的资源？]]></title>
     <description><![CDATA[Microsoft 产品和服务协议 (MPSA) 是适用于具有 250 个或更多用户/设备的企业、政府和学术组织的事务性许可协议。MPSA 最适用于希望许可 Microsoft 本地软件、云服务或两者的组织（在单个未过期的协议下没有组织范围的承诺）。 ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 准备情况门户上的 MPSA Academy]]></text>
-        <url><![CDATA[https://www.microsoftreadiness.com/opsacademy/details/programs/ce53ec8a-c419-4f9c-8c95-814e994bc32f?tpqid=1500-000003]]></url>
+        <text><![CDATA[<b>解决方案:</b> 搜索 Microsoft Operations Readiness 门户]]></text>
+        <url><![CDATA[https://partner.microsoft.com/explore/operations-readiness?tpqid=1500-000003]]></url>
       </link>
        <link>
         <text><![CDATA[<b>其他信息:</b>  Microsoft 产品和服务协议]]></text>
         <url><![CDATA[https://www.microsoft.com/Licensing/MPSA/default.aspx?tpqid=1500-000003]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=1500-0067 &tpqid=1500-000003]]></url>
       </link>
     </articlelinks></question><question>
     <id>1500-000004</id>
@@ -546,6 +558,10 @@
       <link>
         <text><![CDATA[<b>解决方案:</b> 提交和管理 Microsoft Operation (MSOp) 服务请求]]></text>
         <url><![CDATA[https://clt.partners.extranet.microsoft.com/clt/?tpqid=1500-000004]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0025​&tpqid=1500-000004]]></url>
       </link>
     </articlelinks></question><question>
     <id>1500-000006</id>
@@ -564,41 +580,37 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
       </link>
-    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
-    <id>300-000112</id>
-    <title><![CDATA[如果我想购买其他支持，我有哪些选择？ ]]></title>
-    <description><![CDATA[查看以下资源以了解更多信息。 ]]></description>
+    </articlelinks></question><question>
+    <id>1500-000007</id>
+    <title><![CDATA[我是 Dynamics 合作伙伴，希望通过解决方案提供商协议 (SPA) 处理事务，我该如何注册？]]></title>
+    <description><![CDATA[首先，请通过下面提供的 Partner Source 链接注册你感兴趣的领域。该过程开始后，如需进一步协助，请向你的本地 ROC 发送电子邮件。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> Microsoft 合作伙伴高级支持]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> Microsoft 合作伙伴顶级支持]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
+        <text><![CDATA[<b>解决方案:</b> Dynamics PartnerSource]]></text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=300-000112]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="2">
-    <id>300-000113</id>
-    <title><![CDATA[使用 Microsoft Action Pack 订阅我可以获得哪些权益？]]></title>
-    <description><![CDATA[查看以下资源以了解更多信息。 ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 购买或续订 Microsoft Action Pack 订阅]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+        <url><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options?tpqid=1500-000007]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> Microsoft Action Pack 合作伙伴的许可证表]]></text>
-        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000113]]></url>
+        <text><![CDATA[https://partner.microsoft.com/support?issueid=200-0039]]></text>
+        <url><![CDATA[?tpqid=1500-000007]]></url>
       </link>
     </articlelinks></question><question>
+    <id>1500-000008</id>
+    <title><![CDATA[如何了解有关 Microsoft 许可的更多信息？]]></title>
+    <description><![CDATA[有关许可的更多问题，请参见下文。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 合作伙伴许可问题 - 快速参考指南]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4076425?tpqid=1500-000008]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=1500-0039&tpqid=1500-000008]]></url>
+      </link>
+    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
     <id>300-000124</id>
     <title><![CDATA[如何通过 Microsoft Partner Network 获得 Office 365 (E3) 内部使用权益？]]></title>
     <description><![CDATA[获取有关 Microsoft Partner Network Office 365 (E3) 内部使用权益的概述。]]></description>
@@ -958,33 +970,41 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0026&tpqid=300-000111]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000112</id>
+    <title><![CDATA[如果我想购买其他支持，我有哪些选择？ ]]></title>
+    <description><![CDATA[查看以下资源以了解更多信息。 ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> Microsoft 合作伙伴高级支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/advanced-cloud-support?tpqid=300-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> Microsoft 合作伙伴顶级支持]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support/microsoft-services-premier-support?tpqid=300-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=300-000112]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="2">
+    <id>300-000113</id>
+    <title><![CDATA[使用 Microsoft Action Pack 订阅我可以获得哪些权益？]]></title>
+    <description><![CDATA[查看以下资源以了解更多信息。 ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 购买或续订 Microsoft Action Pack 订阅]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/mpn-get-action-pack?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> Microsoft Action Pack 合作伙伴的许可证表]]></text>
+        <url><![CDATA[https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx?tpqid=300-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000113]]></url>
+      </link>
     </articlelinks></question></group><group title="激励和支出" refid="IncentivesPayouts"><question>
-    <id>400-000079</id>
-    <title><![CDATA[从哪里可以找到有关奖励的详细信息？]]></title>
-    <description><![CDATA[有关所有奖励计划的信息，请访问“Microsoft 合作伙伴网络合作伙伴奖励和投资”页面。有资格参加奖励计划的合作伙伴可以在“奖励和投资”页面中看到该计划的所有可用资料。合作伙伴还可以看到大多数云奖励的详细信息，即使他们尚未达到所需的能力。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 合作伙伴奖励和投资]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000080</id>
-    <title><![CDATA[我应该如何获取对合作伙伴奖励的支持？]]></title>
-    <description><![CDATA[您可以在“合作伙伴奖励”页面中的“支持”部分中找到合作伙伴奖励项目的支持。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 如何与奖励的帮助与支持部门联系]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4014850?tpqid=400-000080]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000080]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000084</id>
     <title><![CDATA[我收到了 Microsoft 的付款，它属于哪个奖励计划和/或时段？]]></title>
     <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
@@ -1091,41 +1111,33 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
       </link>
-    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question SortOrderOnHome="8">
-    <id>100-000078</id>
-    <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
-    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title><![CDATA[从哪里可以找到有关奖励的详细信息？]]></title>
+    <description><![CDATA[有关所有奖励计划的信息，请访问“Microsoft 合作伙伴网络合作伙伴奖励和投资”页面。有资格参加奖励计划的合作伙伴可以在“奖励和投资”页面中看到该计划的所有可用资料。合作伙伴还可以看到大多数云奖励的详细信息，即使他们尚未达到所需的能力。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 如何查找/下载最后的发票]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4017791?tpqid=100-000078]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 如何查找/下载最后的发票(YouTube video)]]></text>
-        <url><![CDATA[https://youtu.be/wvU2j_rFtrg?tpqid=100-000078]]></url>
+        <text><![CDATA[<b>解决方案:</b> 合作伙伴奖励和投资]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0055&tpqid=100-000078]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="10">
-    <id>100-000082</id>
-    <title><![CDATA[我缺少哪些续订能力的要求？]]></title>
-    <description><![CDATA[使用以下解决方案找出每种能力的特定要求。合作伙伴还可以查看 Microsoft 合作伙伴网站上的能力列表及其要求。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 关于如何在合作伙伴中心查看缺少的要求的步骤]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4089772?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 能力]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0025&tpqid=100-000082]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
       </link>
     </articlelinks></question><question>
+    <id>400-000080</id>
+    <title><![CDATA[我应该如何获取对合作伙伴奖励的支持？]]></title>
+    <description><![CDATA[您可以在“合作伙伴奖励”页面中的“支持”部分中找到合作伙伴奖励项目的支持。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 如何与奖励的帮助与支持部门联系]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4014850?tpqid=400-000080]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000080]]></url>
+      </link>
+    </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
     <id>100-000085</id>
     <title><![CDATA[如何合并单独的 Microsoft Partner Network 注册？]]></title>
     <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
@@ -1380,7 +1392,7 @@
       </link>
        <link>
         <text><![CDATA[<b>其他信息:</b> 如何查看 MAPS 或资格的到期日期]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4090552?tpqid=100-000061]]></url>
+        <url><![CDATA[https://support.microsoft.com/help/3009703?tpqid=100-000061]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
@@ -1432,5 +1444,39 @@
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>100-000078</id>
+    <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
+    <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 如何查找/下载最后的发票]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4017791?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 如何查找/下载最后的发票(YouTube video)]]></text>
+        <url><![CDATA[https://youtu.be/wvU2j_rFtrg?tpqid=100-000078]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0055&tpqid=100-000078]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="10">
+    <id>100-000082</id>
+    <title><![CDATA[我缺少哪些续订能力的要求？]]></title>
+    <description><![CDATA[使用以下解决方案找出每种能力的特定要求。合作伙伴还可以查看 Microsoft 合作伙伴网站上的能力列表及其要求。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 关于如何在合作伙伴中心查看缺少的要求的步骤]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4089772?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 能力]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/competencies?tpqid=100-000082]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0025&tpqid=100-000082]]></url>
       </link>
     </articlelinks></question></group></groups>
