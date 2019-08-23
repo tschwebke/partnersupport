@@ -507,15 +507,15 @@
       </link>
     </articlelinks></question><question>
     <id>700-000015</id>
-    <title><![CDATA[Where can I get technical support for Dynamics products?]]></title>
-    <description><![CDATA[Please review the following links for more information.]]></description>
+    <title><![CDATA[Dynamics 製品のテクニカル サポートはどこで受けられますか?]]></title>
+    <description><![CDATA[詳細については、以下のリンクを参照してください。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> On-premises products support]]></text>
+        <text><![CDATA[<b>解決策:</b> オンプレミス製品のサポート]]></text>
         <url><![CDATA[https://support.microsoft.com/supportforbusiness?tpqid=700-000015]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>追加情報:</b> Online products support]]></text>
+        <text><![CDATA[<b>追加情報:</b> オンライン製品サポート]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000015]]></url>
       </link>
        <link>
@@ -717,7 +717,7 @@
     </articlelinks></question><question>
     <id>100-000033</id>
     <title><![CDATA[会社のメンバーシップを管理する方法を教えてください。]]></title>
-    <description><![CDATA[Partners can access the Partner Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Center.]]></description>
+    <description><![CDATA[パートナーは、パートナー センターにアクセスして Microsoft Partner Network のメンバーシップと関連する特典を管理できます。パートナー センターの概要については、この記事を参照してください。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決策:</b> パートナー センターの概要]]></text>
@@ -1121,56 +1121,32 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://mspartner.microsoft.com/ja/jp/Pages/Membership/program/mpn-guide_02.aspx#tab?tpqid=800-1000113]]></url>
       </link>
     </articlelinks></question><question>
-    <id>800-000090</id>
-    <title><![CDATA[Windows 10 ソフトウェアと製品キーはどこでダウンロードしますか？]]></title>
-    <description><![CDATA[マイクロソフト コンピテンシー、もしくはアクション パックご購入のパートナー様は、パートナー デジタル ダウンロード ポータルから社内使用ライセンスの Windows 10 Enterprise のソフトウェアや製品キーを入手できます。同時に、開発、テスト、評価目的として、パートナー特典のVisual Studio Online サブスクリプションからもソフトウェアやキーの入手が可能です。(これには Pro と Home エディションが含まれます。) Visual Studio Online サブスクリプションへのアクセスは、権限が割り当てられた社員のみに制限されます。
-
-ご注意: Windows 10 Enterprise の社内使用ライセンスは、アップグレードでのみ利用可能です。
-
-ご注意: デジタル ディストリビューション ポータルからのソフトウェアのダウンロードにはソフトウェア ダウンロード特典が必要で、製品の表示にはキー表示特典が求められます。Visual Studio Online サブスクライバー ダウンロードをするには、コンピテンシーのパートナーにはプレミアム サブスクリプション特典が、アクション パックのサブスクライバーには技術窓口担当者の担当業務が必要です。
-
-ご注意: インプレース アップグレード実行時に既存の Windows 8.1 と Windows 10 の製品キーを使うことはできません。　かわりに新しい製品キーをデジタルダウンロードポータルか入手するようにします。]]></description>
+    <id>800-000091</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
+    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決策:</b> パートナー デジタル ディストリビューション ポータル]]></text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> Visual Studio Online ダウンロード サイト]]></text>
-        <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000091]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000090]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
+    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> Partner Dashboard]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group><group title="特典" refid="Benefits"><question>
-    <id>300-000115</id>
-    <title><![CDATA[Microsoft Office Professional 2019 が Microsoft Action Pack (MAPS) で利用可能になるのはいつでしょうか?]]></title>
-    <description><![CDATA[この特典は標準 MAPS ですでに利用可能です。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決策:</b> MAPS ライセンス一覧をチェックしてください。]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000115]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>300-000116</id>
-    <title><![CDATA[Microsoft Action Pack を更新する前に所有していたものではなく、5 つの E3 サブスクリプションしかないのはなぜでしょうか?]]></title>
-    <description><![CDATA[Action Pack サブスクリプションでは、更新プロセスが完了すると常に 5 つの E3 サブスクリプションを受け取ります。ライセンス/シート数をチェックするには、以下のリンクで表示されるライセンス一覧を確認してください。 
-受け取った数が付与されている数と同じではない場合、Frontline チームまでお問い合わせください。コンピテンシーの更新については、パートナー様は Silver または Gold レベルの一連のコア特典と、取得した各コンピテンシーに基づく一連の増分特典を受け取る資格があります。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決策:</b> IUR ライセンス一覧]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?tpqid=300-000116&tpqid=300-000116]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000117</id>
     <title><![CDATA[Office 2016 のアクティブ化に関する IUR の問題が発生しているのはなぜでしょうか?]]></title>
     <description><![CDATA[Office 2016 は IUR としてもう利用できません。Office 2019 に置き換えられました。トークンがアクティブ化制限に達すると、それ以上延長できません。これらの製品のインストール数、ライセンス認証回数、シート数は有限です。すべてのインストールとライセンス認証を消費すると、プロダクト キーが動作しなくなります。これらのプロダクト キーの追加ライセンス認証は付与されません。]]></description>
@@ -1209,6 +1185,23 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000120]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000108</id>
+    <title><![CDATA[顧客向けまたはパートナー向け有償サポート プランはどこで利用できますか? ]]></title>
+    <description><![CDATA[製品固有かビジネスかに応じて、次のリンクにアクセスしてください。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> ビジネス、IT、および開発者のサポート]]></text>
+        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>追加情報:</b> Azure サポート プラン]]></text>
+        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
+      </link>
     </articlelinks></question><question SortOrderOnHome="5">
     <id>300-000110</id>
     <title><![CDATA[サポート契約をアクティブ化する方法を教えてください。]]></title>
@@ -1225,23 +1218,6 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0042&tpqid=300-000110]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="9">
-    <id>300-000111</id>
-    <title><![CDATA[パートナーシップを確認する認定書をマイクロソフトから受け取ることはできますか?]]></title>
-    <description><![CDATA[はい。以下のリンクにアクセスすると、マイクロソフトとの関係/パートナーシップを示す認定書を作成することができます。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決策:</b> Logo Builder (サインインが必要)]]></text>
-        <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b>ロゴのビルダーを使用して証明するレターを作成する方法]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000111]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0026&tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000121</id>
@@ -1288,6 +1264,23 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=300-000123]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="9">
+    <id>300-000111</id>
+    <title><![CDATA[パートナーシップを確認する認定書をマイクロソフトから受け取ることはできますか?]]></title>
+    <description><![CDATA[はい。以下のリンクにアクセスすると、マイクロソフトとの関係/パートナーシップを示す認定書を作成することができます。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> Logo Builder (サインインが必要)]]></text>
+        <url><![CDATA[https://logobuilder.partner.microsoft.com?tpqid=300-000111]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>追加情報:</b>ロゴのビルダーを使用して証明するレターを作成する方法]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4456407?tpqid=300-000111]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0026&tpqid=300-000111]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000112</id>
@@ -1397,23 +1390,6 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[ https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000125]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>300-000100</id>
-    <title><![CDATA[テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?]]></title>
-    <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決策:</b> Microsoft Partner Network の技術的特典の概要]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000100]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> マイクロソフト パートナー Web サイト: 主な特典と要件]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0035&tpqid=300-000100]]></url>
-      </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>300-000126</id>
     <title><![CDATA[主なパートナー特典を取得する方法を教えてください。]]></title>
@@ -1430,6 +1406,23 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000126]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000100</id>
+    <title><![CDATA[テクニカル/製品サポートを受ける条件を確認するにはどうすればよいですか?]]></title>
+    <description><![CDATA[サブスクリプションに基づいてテクニカル/製品サポートを受ける条件については、「基本特典」と「Microsoft Partner Network の技術的特典の概要」を参照してください。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> Microsoft Partner Network の技術的特典の概要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2987884?tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>追加情報:</b> マイクロソフト パートナー Web サイト: 主な特典と要件]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/core-benefits?mpnbenefits&tpqid=300-000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0035&tpqid=300-000100]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000004</id>
@@ -1466,19 +1459,6 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0025&tpqid=300-000102]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000028</id>
-    <title><![CDATA[Signature Cloud Support の特典資格を取得する方法を教えてください。]]></title>
-    <description><![CDATA[クラウド パフォーマンスおよびハイブリッド コンピテンシーの要件に関する情報の基本特典と要件を確認してください。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決策:</b> マイクロソフト パートナー Web サイト: シグネチャー クラウドのサポートの概要]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
-      </link>
-       <link>
-        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=300-000028]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>300-000014</id>
     <title><![CDATA[パートナー相談時間とは何ですか?]]></title>
     <description><![CDATA[パートナー相談時間とは、パートナーに提供される特定のサービスにアクセスするために使用する通貨です。時間を使ってスキルを構築し、ソリューションを展開するためのカスタマイズされたガイダンスを受けます。]]></description>
@@ -1507,6 +1487,19 @@ Office365管理センターの「課金メニュー」から延長を希望す�
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000127]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000028</id>
+    <title><![CDATA[Signature Cloud Support の特典資格を取得する方法を教えてください。]]></title>
+    <description><![CDATA[クラウド パフォーマンスおよびハイブリッド コンピテンシーの要件に関する情報の基本特典と要件を確認してください。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> マイクロソフト パートナー Web サイト: シグネチャー クラウドのサポートの概要]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=300-000028]]></url>
       </link>
     </articlelinks></question><question>
     <id>300-000106</id>
@@ -1539,20 +1532,30 @@ Office365管理センターの「課金メニュー」から延長を希望す�
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0028&tpqid=300-000107]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000108</id>
-    <title><![CDATA[顧客向けまたはパートナー向け有償サポート プランはどこで利用できますか? ]]></title>
-    <description><![CDATA[製品固有かビジネスかに応じて、次のリンクにアクセスしてください。]]></description>
+    <id>300-000115</id>
+    <title><![CDATA[Microsoft Office Professional 2019 が Microsoft Action Pack (MAPS) で利用可能になるのはいつでしょうか?]]></title>
+    <description><![CDATA[この特典は標準 MAPS ですでに利用可能です。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決策:</b> ビジネス、IT、および開発者のサポート]]></text>
-        <url><![CDATA[https://support.microsoft.com/gp/contactus81?forceorigin=esmc&Audience=Commercial&tpqid=300-000108]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>追加情報:</b> Azure サポート プラン]]></text>
-        <url><![CDATA[https://azure.microsoft.com/support/plans/?tpqid=300-000108]]></url>
+        <text><![CDATA[<b>解決策:</b> MAPS ライセンス一覧をチェックしてください。]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000115]]></url>
       </link>
        <link>
         <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0081&tpqid=300-000108]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000115]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>300-000116</id>
+    <title><![CDATA[Microsoft Action Pack を更新する前に所有していたものではなく、5 つの E3 サブスクリプションしかないのはなぜでしょうか?]]></title>
+    <description><![CDATA[Action Pack サブスクリプションでは、更新プロセスが完了すると常に 5 つの E3 サブスクリプションを受け取ります。ライセンス/シート数をチェックするには、以下のリンクで表示されるライセンス一覧を確認してください。 
+受け取った数が付与されている数と同じではない場合、Frontline チームまでお問い合わせください。コンピテンシーの更新については、パートナー様は Silver または Gold レベルの一連のコア特典と、取得した各コンピテンシーに基づく一連の増分特典を受け取る資格があります。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決策:</b> IUR ライセンス一覧]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000116]]></url>
+      </link>
+       <link>
+        <text><![CDATA[ここをクリックすると、選択したトピックにアクセスしてサポートを受け、利用できるすべてのサポート オプションを表示できます]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?tpqid=300-000116&tpqid=300-000116]]></url>
       </link>
     </articlelinks></question></group></groups>

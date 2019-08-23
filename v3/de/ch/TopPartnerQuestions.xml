@@ -1029,7 +1029,7 @@ Wenn Partner versehentlich Arbeitsplätze hinzugefügt haben, anstatt sie zu ern
     </articlelinks></question><question>
     <id>100-000033</id>
     <title><![CDATA[Wie verwalte ich die Mitgliedschaft meines Unternehmens?]]></title>
-    <description><![CDATA[Partner können auf das Partner Center zugreifen, um Ihre Microsoft Partner Network-Mitgliedschaft und die zugehörigen Vorteilsleistungen zu verwalten. In diesem Artikel finden Sie einen Überblick über das Partner Center.]]></description>
+    <description><![CDATA[Partner können auf das Partner Center zugreifen, um ihre Microsoft Partner Network-Mitgliedschaft und die damit verbundenen Vorteilsleistungen zu verwalten. In diesem Artikel finden Sie eine Übersicht über das Partner Center.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Lösung:</b> Partner Center – Übersicht]]></text>
@@ -1379,15 +1379,15 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
       </link>
     </articlelinks></question><question>
     <id>700-000015</id>
-    <title><![CDATA[Where can I get technical support for Dynamics products?]]></title>
-    <description><![CDATA[Please review the following links for more information.]]></description>
+    <title><![CDATA[Wo erhalte ich technischen Support für Dynamics-Produkte?]]></title>
+    <description><![CDATA[Weitere Informationen erhalten Sie über die folgenden Links.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Lösung:</b> On-premises products support]]></text>
+        <text><![CDATA[<b>Lösung:</b> Lokaler Produktsupport]]></text>
         <url><![CDATA[https://support.microsoft.com/supportforbusiness?tpqid=700-000015]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Zusätzliche Informationen:</b> Online products support]]></text>
+        <text><![CDATA[<b>Zusätzliche Informationen:</b> Onlineproduktsupport]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000015]]></url>
       </link>
        <link>
@@ -1463,26 +1463,29 @@ Falls Sie noch nicht über ein Microsoft Konto verfügen, erstellen Sie bitte ei
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
       </link>
     </articlelinks></question></group><group title="Vereinbarungen, Bestellungen und Abonnementverwaltung" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000090</id>
-    <title><![CDATA[Wo lade ich die Windows 10 Software und den entsprechenden Produktschlüssel herunter?]]></title>
-    <description><![CDATA[Partner mit einer aktiven Microsoft Kompetenz oder einem Action Pack Abonnement erhalten Zugriff auf die Windows 10 Enterprise Software und Produktschlüssel für die firmeninterne Nutzung über das Partner Digitale Download-Portal. Software und die entsprechenden Produktschlüssel zum Entwickeln, Testen und Evaluieren erhalten Sie als Partner über die in den Programmleistungen enthaltenen Visual Studio Online Abonnements (Bestandteil sind auch die Pro und Home Editionen.) Zugriff haben nur die zugeordneten Personen, denen ein Visual Studio Online Abonnement zugewiesen wurde.
-Info: 
-- Windows 10 Enterprise Lizenzen für die firmeninterne Nutzung sind reine Upgrade-Lizenzen.
-- Das „Softwaredownload-Recht“ wird benötigt damit Software vom Digitalen Download-Portal herunter geladen werden kann und das „Schlüssel anzeigen-Recht“ wird benötigt um sich die entsprechenden Produktschlüssel anzeigen zu lassen.
-Für den Zugriff auf die Visual Studio Online Abonnements müssen den Personen bei Kompetenzpartnern die „Enterprise Abonnement“-Rechte und beim Action Pack Abonnement eine Rolle als „technischer Ansprechpartner“ zugewiesen werden.
-- Um einen In-place Upgrade von Windows 8.1 auf Windows 10 durchzuführen, muss der entsprechende Produktschlüssel für Windows 10 vom Digitalen Download-Portal genommen werden.
-]]></description>
+    <id>800-000091</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
+    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Lösung:</b> Digitales Download-Portal für Partner]]></text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Zusätzliche Informationen:</b> Visual Studio Online-Website für den Download]]></text>
-        <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000091]]></url>
       </link>
        <link>
         <text><![CDATA[Klicken Sie hier, um das vorausgewählte Thema für „Unterstützung erhalten“ aufzurufen und alle verfügbaren Supportoptionen anzuzeigen]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000090]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
+    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Lösung:</b> Partner Dashboard]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Klicken Sie hier, um das vorausgewählte Thema für „Unterstützung erhalten“ aufzurufen und alle verfügbaren Supportoptionen anzuzeigen]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group></groups>
