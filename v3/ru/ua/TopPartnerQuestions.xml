@@ -1030,7 +1030,7 @@
     </articlelinks></question><question>
     <id>100-000033</id>
     <title><![CDATA[Как управлять членством компании?]]></title>
-    <description><![CDATA[Partners can access the Partner Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Center.]]></description>
+    <description><![CDATA[Партнеры могут получить доступ к Центру партнеров для управления своим членством в сети Microsoft Partner Network и связанными с ним преимуществами. В данной статье приведен обзор Центра партнеров]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Решение:</b> Обзор Центра партнеров]]></text>
@@ -1198,16 +1198,20 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0028&tpqid=100-000092]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>100-000105</id>
-    <title><![CDATA[Существует ли в России официальный представитель компании Microsoft по финансовым вопросам?]]></title>
-    <description><![CDATA[ООО "Арвато Рус" является уполномоченным представителем Microsoft в России по приему платежей и подготовке бухгалтерской документации для партнерской программы Microsoft, а также выплате вознаграждения партнерам по различным программам Microsoft.]]></description>
+    </articlelinks></question></group><group title="Техническая поддержка (продукты, платформы, средства и инструменты)" refid="TechnicalSupport"><question>
+    <id>700-000004</id>
+    <title><![CDATA[Как создать запрос на поддержку по Microsoft Azure от имени клиента?]]></title>
+    <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[]]></text>
-        <url><![CDATA[?tpqid=100-000105]]></url>
+        <text><![CDATA[<b>Решение:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000004]]></url>
       </link>
-    </articlelinks></question></group><group title="Техническая поддержка (продукты, платформы, средства и инструменты)" refid="TechnicalSupport"><question>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>700-000005</id>
     <title><![CDATA[Как создать запрос на поддержку по Microsoft Azure для моей организации?]]></title>
     <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
@@ -1369,35 +1373,39 @@
       </link>
     </articlelinks></question><question>
     <id>700-000015</id>
-    <title><![CDATA[Where can I get technical support for Dynamics products?]]></title>
-    <description><![CDATA[Please review the following links for more information.]]></description>
+    <title><![CDATA[Где можно получить техническую поддержку по продуктам Dynamics?]]></title>
+    <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> On-premises products support]]></text>
+        <text><![CDATA[<b>Решение:</b> Поддержка по продуктам с выездом специалистов на места]]></text>
         <url><![CDATA[https://support.microsoft.com/supportforbusiness?tpqid=700-000015]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Online products support]]></text>
+        <text><![CDATA[<b>Дополнительная информация:</b> Поддержка по продуктам через Интернет]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000015]]></url>
       </link>
        <link>
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=700-000015]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>700-000004</id>
-    <title><![CDATA[Как создать запрос на поддержку по Microsoft Azure от имени клиента?]]></title>
-    <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
+    </articlelinks></question></group><group title="Техническая предпродажная помощь, развертывание и разработка приложений" refid="TechnicalPresalesAppDev"><question>
+    <id>1400-000112</id>
+    <title><![CDATA[Что такое путешествие по стране технических знаний? Почему это важно для организации моего партнера?]]></title>
+    <description><![CDATA[Путешествие по стране технических знаний поможет вам быстрее выстроить свои технические возможности и повысить уровни продаж, развертываний и разработки приложений. Начните свое путешествие по стране технических знаний с получения руководства от работающих с Майкрософт технических консультантов через рекомендованный подход, включающий интерактивные технические вебинары и персонализированные консультации с использованием виртуальной доски сообщений, обзоров архитектуры и демонстрации реальных сценариев. ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> Login Partner Center]]></text>
-        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000004]]></url>
+        <text><![CDATA[<b>Решение:</b> Начните свое путешествие по технической стране]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Дополнительная информация:</b> Обзор блога по техническим вопросам для программы Microsoft Partner Network]]></text>
+        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
       </link>
        <link>
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
       </link>
-    </articlelinks></question></group><group title="Техническая предпродажная помощь, развертывание и разработка приложений" refid="TechnicalPresalesAppDev"><question>
+    </articlelinks></question><question>
     <id>1400-000113</id>
     <title><![CDATA[Каким образом я буду взаимодействовать с техническими консультантами Майкрософт в рамках путешествия по стране технических знаний?]]></title>
     <description><![CDATA[Узнать подробнее о вариантах взаимодействия по оказанию технической поддержки]]></description>
@@ -1448,45 +1456,30 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1400-000112</id>
-    <title><![CDATA[Что такое путешествие по стране технических знаний? Почему это важно для организации моего партнера?]]></title>
-    <description><![CDATA[Путешествие по стране технических знаний поможет вам быстрее выстроить свои технические возможности и повысить уровни продаж, развертываний и разработки приложений. Начните свое путешествие по стране технических знаний с получения руководства от работающих с Майкрософт технических консультантов через рекомендованный подход, включающий интерактивные технические вебинары и персонализированные консультации с использованием виртуальной доски сообщений, обзоров архитектуры и демонстрации реальных сценариев. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Решение:</b> Начните свое путешествие по технической стране]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Обзор блога по техническим вопросам для программы Microsoft Partner Network]]></text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
-      </link>
     </articlelinks></question></group><group title="Управление соглашениями, заказами и подписками" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000090</id>
-    <title><![CDATA[Где я могу загрузить программное обеспечение и ключ продукта Windows 10?]]></title>
-    <description><![CDATA[Партнёры имеющие компетенцию Microsoft либо подписку Microsoft Action Pack могут загрузить операционную систему Windows 10 Enterprise и ключ продукта для внутреннего использования на портале Partner Didital Distribution (Портал загрузок и ключей). Для разработки, тестирования и демонстрации, партнёры с выше указанными программами получают доступ к подписке Visual Studio Online, как одно из преимуществ партнёрской программы. (Включая издания Pro и Home.) Доступ к Visual Studio Online ограничен правами, возложенными на данную подписку.
-
-Примечание: Лицензии для внутреннего пользования на Windows 10 Enterprise предоставляются только в качестве обновления.
-
-Примечание: Для того чтобы у пользователя была возможность загрузить программное обеспечение с Partner Didital Distribution (Портал Загрузок и Ключей), необходимо назначить права на «загрузку программного обеспечения» и «просмотр ключей». Для того, чтобы загрузить продукты по подписке Visual Studio Online, необходимо назначить права Премиум Подписки для партнёров с компетенцией и Технический идентификатор для партнёров с подпиской Microsoft Action Pack.
-
-Note: Партнёры не могут использовать уже активированный ключ для операционных систем Windows 8.1 либо Windows 10 для выполнения обновления. Вместо этого, новый люч продукта должен быть получен из Портала загрузок и ключей.
-]]></description>
+    <id>800-000091</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
+    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Решение:</b> Портал Partner Digital Distribution Portal]]></text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Веб-сайт для загрузки Visual Studio Online]]></text>
-        <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000091]]></url>
       </link>
        <link>
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000090]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
+    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Partner Dashboard]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group></groups>

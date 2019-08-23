@@ -1054,7 +1054,7 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
     </articlelinks></question><question>
     <id>100-000033</id>
     <title><![CDATA[Şirketimin üyeliğini nasıl yönetebilirim?]]></title>
-    <description><![CDATA[Partners can access the Partner Center to manage their Microsoft Partner Network membership and associated benefits. See this article for an overview of the Partner Center.]]></description>
+    <description><![CDATA[İş ortakları, kendi Microsoft İş Ortağı Ağı üyelik ve ilgili avantajlarını yönetmek için İş Ortağı Merkezi’ne erişebilir. İş Ortağı Merkezi’ne bir genel bakış için bu makaleye bakın.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi'ne Genel Bakış]]></text>
@@ -1065,54 +1065,32 @@ Lisansları yenilemek yerine yanlışlıkla yeni lisanslar ekleyen iş ortaklar�
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
       </link>
     </articlelinks></question></group><group title="Sözleşmeler, Siparişler ve Abonelik Yönetimi" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000090</id>
-    <title><![CDATA[Windows 10 yazılım ve ürün anahtarını nereden indirebilirim?]]></title>
-    <description><![CDATA[Microsoft uzmanlığı veya Bayi Paketi aboneliği olan iş ortakları Windows 10 Kurumsal yazılım ve ürün anahtarına şirket içinde kullanmak amacıyla İş Ortağı Dijital Dağıtım Portalından erişebilirler. Geliştirmek, test etmek ve değerlendirmek amacıyla, iş ortakları Visual Studio Online üyeliği program avantajı kapsamında gelen yazılım ve anahtarlarını kullanabilirler. ( Bu Pro ve Ev sürümlerini içerir.) Sadece Visual Studio Online üyeliğine tanımlanmış son kullanıcılar içindir. 
-Not: Windows 10 Kurumsal için İç Kullanım lisansları sadece yükseltme için geçerlidir. 
-
-Not: Yazılım indirme ayrıcalığı, Dijital Dağıtım Portalından yazılım indirmek için gereklidir ve Anahtarları Gör ayrıcalığı ürünleri görmek için gereklidir. Visual Studio Online abonesi indirmelerine erişebilmek için Uzmanlık sahibi iş ortakları için Premium Abone ayrıcalığı gerekmekte ve Bayi paketi aboneliği olanlar için Teknik Kontak rolü gerekmektedir. 
-
-Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya Windows 10 ürün anahtarlarını kullanamazlar. Bunun yerine İş Ortağı Dijital Dağıtım Portalı üzerinden yeni bir anahtar almaları gerekmektedir.]]></description>
+    <id>800-000091</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
+    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Çözüm:</b> İş ortağı dijital dağıtım portalı]]></text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000090]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> Visual Studio Online indirme sitesi]]></text>
-        <url><![CDATA[https://my.visualstudio.com/?tpqid=800-000090]]></url>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000091]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000090]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
+    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> Partner Dashboard]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group><group title="Teknik Destek (Ürünler, Platformlar ve Araçlar)" refid="TechnicalSupport"><question>
-    <id>700-000004</id>
-    <title><![CDATA[Bir müşteri adına nasıl Microsoft Azure destek isteği oluşturabilirim?]]></title>
-    <description><![CDATA[Ürün destek istekleri aşağıdaki portaldan gönderilebilir..]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> Login Partner Center]]></text>
-        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000004]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>700-000005</id>
-    <title><![CDATA[Kuruluşum için nasıl Microsoft Azure destek isteği oluşturabilirim?]]></title>
-    <description><![CDATA[Ürün destek istekleri aşağıdaki portaldan gönderilebilir..]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> Microsoft Azure Desteği (Oturum açılması gerekir)]]></text>
-        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>700-000006</id>
     <title><![CDATA[Bir müşteri adına nasıl Office 365 destek isteği oluşturabilirim?]]></title>
     <description><![CDATA[Ürün destek istekleri aşağıdaki portaldan gönderilebilir..]]></description>
@@ -1217,6 +1195,19 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000013]]></url>
       </link>
     </articlelinks></question><question>
+    <id>300-000104</id>
+    <title><![CDATA[Şirket içi profesyonel destek olayları nasıl oluşturulur?]]></title>
+    <description><![CDATA[Çevrimiçi ortamda şirket içi veya hibrit istek göndermek için MSA veya AAD hesabını kullanarak Çevrimiçi Yardım Desteği portalında (aka.ms/OAS) oturum açın, ürün ve sürüm gibi özellikleri seçin, açıklama ekleyin, ardından bir destek planı veya Olay Başına Ödeme (PPI)* ekleyin/seçin.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> Şirket içi uzman destek olayları oluşturmak için Erişim Kimliği'ni ve Sözleşme Kodu'nu kullanma]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>300-000101</id>
     <title><![CDATA[Bir Teknik/Profesyonel Destek Olayını nasıl gönderirim?]]></title>
     <description><![CDATA[Şirketinizin teknik destek için uygun olduğunu doğrulamak üzere Microsoft Partner Network Teknik Avantajları Özeti'ni inceleyin.]]></description>
@@ -1234,19 +1225,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000101]]></url>
       </link>
     </articlelinks></question><question>
-    <id>300-000104</id>
-    <title><![CDATA[Şirket içi profesyonel destek olayları nasıl oluşturulur?]]></title>
-    <description><![CDATA[Çevrimiçi ortamda şirket içi veya hibrit istek göndermek için MSA veya AAD hesabını kullanarak Çevrimiçi Yardım Desteği portalında (aka.ms/OAS) oturum açın, ürün ve sürüm gibi özellikleri seçin, açıklama ekleyin, ardından bir destek planı veya Olay Başına Ödeme (PPI)* ekleyin/seçin.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> Şirket içi uzman destek olayları oluşturmak için Erişim Kimliği'ni ve Sözleşme Kodu'nu kullanma]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3020636?tpqid=300-000104]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=300-000104]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>700-000014</id>
     <title><![CDATA[Dynamics ürünleriyle ilgili sorun veya sorular için nereden yardım alabilirim?]]></title>
     <description><![CDATA[Lütfen İş Ortağı Kaynağı aracılığıyla hizmet isteğinde bulunun. Bu işlem, sitenin Fiyatlandırma ve Sipariş bölümüne gidip Yeni Operasyon İsteği'ni seçerek yapılabilir. Lütfen istekte bir BT numarası belirtin veya sohbet aracılığıyla doğrudan bir yetkili ile iletişime geçin. İsteğiniz talep ettiğiniz şekilde çözüme ulaşmazsa lütfen BT numarasını da e-posta gövdesine ekleyerek Dynamics İlerletme şeklinde e-posta gönderin.]]></description>
@@ -1261,39 +1239,48 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
       </link>
     </articlelinks></question><question>
     <id>700-000015</id>
-    <title><![CDATA[Where can I get technical support for Dynamics products?]]></title>
-    <description><![CDATA[Please review the following links for more information.]]></description>
+    <title><![CDATA[Dynamics ürünleri için teknik destek alabilir miyim?]]></title>
+    <description><![CDATA[Daha fazla bilgi için lütfen aşağıdaki bağlantıları inceleyin.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> On-premises products support]]></text>
+        <text><![CDATA[<b>Çözüm:</b> Şirket içi ürün desteği]]></text>
         <url><![CDATA[https://support.microsoft.com/supportforbusiness?tpqid=700-000015]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> Online products support]]></text>
+        <text><![CDATA[<b>Ek Bilgiler:</b> Çevrimiçi ürün desteği]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000015]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0039&tpqid=700-000015]]></url>
       </link>
-    </articlelinks></question></group><group title="Teknik Ön Satışlar, Dağıtım ve Uygulama Geliştirme" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000112</id>
-    <title><![CDATA[Teknik yolculuk nedir? İş ortağı kuruluşum için neden önemlidir?]]></title>
-    <description><![CDATA[Teknik yolculuklar satışları, dağıtımları ve uygulama geliştirmeyi hızlandırmak için teknik becerilerinizi daha hızlı oluşturmanıza yardımcı olur. Sanal beyaz tahtaya, mimari incelemelerine ve gerçek dünya senaryolarının gölgelendirmesine sahip önerilen etkileşimli teknik web seminerleri ve kişiselleştirilmiş danışmanlık aracılığıyla Microsoft iş ortağı teknik danışmanlarından teknik yönlendirmeler alabilmek için teknik yolculuğunuzu başlatın. ]]></description>
+    </articlelinks></question><question>
+    <id>700-000004</id>
+    <title><![CDATA[Bir müşteri adına nasıl Microsoft Azure destek isteği oluşturabilirim?]]></title>
+    <description><![CDATA[Ürün destek istekleri aşağıdaki portaldan gönderilebilir..]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Çözüm:</b> Teknik yolculuğunuzu başlatın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> Microsoft İş Ortağı Ağı Teknik Yolculuğu Blogu]]></text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
+        <text><![CDATA[<b>Çözüm:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000004]]></url>
       </link>
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
       </link>
     </articlelinks></question><question>
+    <id>700-000005</id>
+    <title><![CDATA[Kuruluşum için nasıl Microsoft Azure destek isteği oluşturabilirim?]]></title>
+    <description><![CDATA[Ürün destek istekleri aşağıdaki portaldan gönderilebilir..]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> Microsoft Azure Desteği (Oturum açılması gerekir)]]></text>
+        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
+      </link>
+    </articlelinks></question></group><group title="Teknik Ön Satışlar, Dağıtım ve Uygulama Geliştirme" refid="TechnicalPresalesAppDev"><question>
     <id>1400-000113</id>
     <title><![CDATA[Teknik yolculuğumda Microsoft İş Ortağı Teknik Danışmanları ile nasıl iletişime geçebilirim?]]></title>
     <description><![CDATA[Teknik etkileşim seçenekleri hakkında daha fazla bilgi edinin]]></description>
@@ -1344,41 +1331,24 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title><![CDATA[Teknik yolculuk nedir? İş ortağı kuruluşum için neden önemlidir?]]></title>
+    <description><![CDATA[Teknik yolculuklar satışları, dağıtımları ve uygulama geliştirmeyi hızlandırmak için teknik becerilerinizi daha hızlı oluşturmanıza yardımcı olur. Sanal beyaz tahtaya, mimari incelemelerine ve gerçek dünya senaryolarının gölgelendirmesine sahip önerilen etkileşimli teknik web seminerleri ve kişiselleştirilmiş danışmanlık aracılığıyla Microsoft iş ortağı teknik danışmanlarından teknik yönlendirmeler alabilmek için teknik yolculuğunuzu başlatın. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> Teknik yolculuğunuzu başlatın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Ek Bilgiler:</b> Microsoft İş Ortağı Ağı Teknik Yolculuğu Blogu]]></text>
+        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
+      </link>
     </articlelinks></question></group><group title="Teşvikler ve Ödemeler" refid="IncentivesPayouts"><question>
-    <id>400-000087</id>
-    <title><![CDATA[İş Ortağı Merkezi'nde teşvik programlarına nasıl kaydolurum?]]></title>
-    <description><![CDATA[Bu belge kullanıcı yönetiminin nasıl gerçekleştirileceğinin yanı sıra İş Ortağı Merkezi'ndeki teşvik programlarına nasıl kaydolacağınızla ilgili adım adım bilgiler sunmaktadır.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> Partner center panosunda özendirme programlarının kayıt]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi'ndeki Teşvikler]]></text>
-        <url><![CDATA[http://assetsprod.microsoft.com/incentives-in-partner-center.pdf?tpqid=400-000087]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000087]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000090</id>
-    <title><![CDATA[İş Ortağı Merkezi'nde nasıl talep gönderirim?]]></title>
-    <description><![CDATA[Aşağıdaki belge İş Ortağı Merkezi Geçişi'nde talep göndermeyle ilgili adım adım bilgileri içerir.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi'nde talep gönderme]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4024368?tpqid=400-000090]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Ek Bilgiler:</b> Yeni Talep Gönderme Deneyimi kılavuzu]]></text>
-        <url><![CDATA[http://assetsprod.microsoft.com/mpn/new-claiming-experience.pdf?tpqid=400-000090]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000090]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000091</id>
     <title><![CDATA[Kuruluşum Bulut Çözümü Sağlayıcısı programı için uygunluğu nasıl sağlar?]]></title>
     <description><![CDATA[Daha fazla bilgi edinmek için aşağıdaki makaleye göz atın.]]></description>
@@ -1439,19 +1409,6 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
       </link>
     </articlelinks></question><question>
-    <id>400-000079</id>
-    <title><![CDATA[Teşvikler hakkında nereden daha fazla bilgi edinebilirim?]]></title>
-    <description><![CDATA[Tüm Teşvik programları hakkındaki bilgilere Microsoft İş Ortağı Ağı İş Ortağı Teşvikleri ve yatırımlar sayfasından erişebilirsiniz. Teşvik programı için uygun olan iş ortakları, mevcut tüm program materyallerini Teşvikler ve yatırımlar sayfasında bulabilir. İş ortakları ayrıca gerekli uzmanlığa sahip olmasalar bile çoğu bulut teşviğiyle ilgili bilgileri görebilir.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Çözüm:</b> İş ortağı teşvikleri ve yatırımlar]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000080</id>
     <title><![CDATA[İş Ortağı teşvikleri hakkında nasıl destek alabilirim?]]></title>
     <description><![CDATA[İş Ortağı teşvikleri programı hakkında destek için Destek bölümü altında İş ortağı teşvikleri sayfasını ziyaret ediniz.]]></description>
@@ -1465,6 +1422,19 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000080]]></url>
       </link>
     </articlelinks></question><question>
+    <id>400-000079</id>
+    <title><![CDATA[Teşvikler hakkında nereden daha fazla bilgi edinebilirim?]]></title>
+    <description><![CDATA[Tüm Teşvik programları hakkındaki bilgilere Microsoft İş Ortağı Ağı İş Ortağı Teşvikleri ve yatırımlar sayfasından erişebilirsiniz. Teşvik programı için uygun olan iş ortakları, mevcut tüm program materyallerini Teşvikler ve yatırımlar sayfasında bulabilir. İş ortakları ayrıca gerekli uzmanlığa sahip olmasalar bile çoğu bulut teşviğiyle ilgili bilgileri görebilir.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> İş ortağı teşvikleri ve yatırımlar]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>400-000084</id>
     <title><![CDATA[Microsoft'tan bir ödeme aldım, bu ödeme hangi teşvik programına ve/veya dönemine aittir?]]></title>
     <description><![CDATA[Daha fazla bilgi edinmek için aşağıdaki makaleye göz atın.]]></description>
@@ -1476,5 +1446,39 @@ Not: İş Ortakları yerinde yükseltme için zaten mevcut olan Windows 8.1 veya
        <link>
         <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000084]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000087</id>
+    <title><![CDATA[İş Ortağı Merkezi'nde teşvik programlarına nasıl kaydolurum?]]></title>
+    <description><![CDATA[Bu belge kullanıcı yönetiminin nasıl gerçekleştirileceğinin yanı sıra İş Ortağı Merkezi'ndeki teşvik programlarına nasıl kaydolacağınızla ilgili adım adım bilgiler sunmaktadır.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> Partner center panosunda özendirme programlarının kayıt]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490451?tpqid=400-000087]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Ek Bilgiler:</b> İş Ortağı Merkezi'ndeki Teşvikler]]></text>
+        <url><![CDATA[http://assetsprod.microsoft.com/incentives-in-partner-center.pdf?tpqid=400-000087]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000087]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000090</id>
+    <title><![CDATA[İş Ortağı Merkezi'nde nasıl talep gönderirim?]]></title>
+    <description><![CDATA[Aşağıdaki belge İş Ortağı Merkezi Geçişi'nde talep göndermeyle ilgili adım adım bilgileri içerir.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Çözüm:</b> İş Ortağı Merkezi'nde talep gönderme]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4024368?tpqid=400-000090]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Ek Bilgiler:</b> Yeni Talep Gönderme Deneyimi kılavuzu]]></text>
+        <url><![CDATA[http://assetsprod.microsoft.com/mpn/new-claiming-experience.pdf?tpqid=400-000090]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Önceden seçilen Yardım Alma Konusuna gitmek ve mevcut tüm destek seçeneklerine göz atmak için buraya tıklayın]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000090]]></url>
       </link>
     </articlelinks></question></group></groups>
