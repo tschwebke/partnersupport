@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><groups><group title="协议、订单和订阅管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000091</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
-    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
+    <title><![CDATA[在 Partner Membership Center (PMC) 中的何处下载 Windows 10 软件和产品密钥？]]></title>
+    <description><![CDATA[在 Partner Membership Center 中，如果你有 Microsoft 能力或 Action Pack 订阅，则可以从合作伙伴数字分发门户获取 Windows 10 企业版软件和产品密钥以供内部使用。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b>  Partner Digital Distribution 门户]]></text>
@@ -13,11 +13,11 @@
       </link>
     </articlelinks></question><question>
     <id>800-000092</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
-    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
+    <title><![CDATA[在合作伙伴中心 (PC) 中的何处下载 Windows 10 软件和产品密钥？]]></title>
+    <description><![CDATA[在合作伙伴中心中，如果你有 Microsoft 能力或 Action Pack 订阅，则可以从合作伙伴仪表板的“权益”选项卡中的“软件”部分下获取 Windows 10 企业版软件和产品密钥以供内部使用。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b>  Partner Dashboard]]></text>
+        <text><![CDATA[<b>解决方案:</b>  合作伙伴仪表板]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
       </link>
        <link>
@@ -284,20 +284,24 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0021&tpqid=200-000083]]></url>
       </link>
-    </articlelinks></question></group><group title="技术支持（产品、平台和工具）" refid="TechnicalSupport"><question>
-    <id>700-000005</id>
-    <title><![CDATA[如何为我的组织创建 Microsoft Azure 支持请求？]]></title>
-    <description><![CDATA[可以从以下门户提交产品支持请求。.]]></description>
+    </articlelinks></question><question>
+    <id>200-000104</id>
+    <title><![CDATA[When move my multiple accounts from Partner Membership Center to Partner Center, what options do i have?]]></title>
+    <description><![CDATA[We recommend that you consolidate your multiple accounts into a single Partner Center account; alternatively, you may also choose to keep your accounts separate using multiple AAD tenants. Please read instructions below.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> Microsoft Azure 支持（需要登录）]]></text>
-        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
+        <text><![CDATA[<b>解决方案:</b> 将多个公司移到合作伙伴中心]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=200-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 在 Azure AD 中创建目录]]></text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad?tpqid=200-000104]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0070&tpqid=200-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="技术支持（产品、平台和工具）" refid="TechnicalSupport"><question>
     <id>700-000006</id>
     <title><![CDATA[如何代表客户创建 Office 365 支持请求？]]></title>
     <description><![CDATA[可以从以下门户提交产品支持请求。.]]></description>
@@ -474,33 +478,33 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>700-000016</id>
+    <title><![CDATA[What are the security requirements for supporting my customers?]]></title>
+    <description><![CDATA[请查看以下链接了解更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> Partner Security Requirements]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-security-requirements#assessing-your-environment?tpqid=700-000016]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0065&tpqid=700-000016]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000005</id>
+    <title><![CDATA[如何为我的组织创建 Microsoft Azure 支持请求？]]></title>
+    <description><![CDATA[可以从以下门户提交产品支持请求。.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> Microsoft Azure 支持（需要登录）]]></text>
+        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
+      </link>
     </articlelinks></question></group><group title="授权、销售和营销" refid="LicensingSalesMarketing"><question>
-    <id>1500-000010</id>
-    <title><![CDATA[我是否可以将我的获得授权的许可证用于培训目的？]]></title>
-    <description><![CDATA[不得使用获得授权的许可证进行客户培训。IUR 仅可用于内部员工培训目的，并且你应了解这将会消耗激活的事实。 ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> Microsoft Partner Network 权益包使用指南 ]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000010]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000011</id>
-    <title><![CDATA[我续订 Action Pack 订阅/能力后，是否会自动激活我的在线令牌？]]></title>
-    <description><![CDATA[当你续订订阅或重新注册具有能力的 Action Pack 订阅/计划时，将根据重新注册时组织的权利颁发一组新令牌。合作伙伴计划管理员需要激活令牌以避免在云服务中失效。这些令牌不会自动激活。当你需要时可以将其激活，但要从合规性角度进行考虑。Action Pack/能力到期后，即使令牌仍处于活动状态，你也不会获得特定权益的许可证。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> Microsoft Partner Network 权益包使用指南 ]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000011]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1500-000001</id>
     <title><![CDATA[我在哪里可以了解管理我与 Microsoft 的关系所需的准备情况和培训？]]></title>
     <description><![CDATA[Microsoft 准备情况门户是轻松查找操作准备情况和培训资源的最佳方法，它为计划、策略、过程和工具提供更改和启动信息，其中包括商业、OEM、ADD、CFPP（因为 CSP 位于合作伙伴中心）]]></description>
@@ -620,41 +624,33 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
-    <id>300-000125</id>
-    <title><![CDATA[如何得到我的微软Azure内部使用权益?]]></title>
-    <description><![CDATA[所有能力合作伙伴或行动宝盒将可索取微软Azure月度权益。此权益将提供给行动宝盒用户或购买附加工具包的任意成员。如果贵公司的一位管理员已经索取了此权益，公司的其它人员则不可以再次索取。关于如何索取您的微软Azure权益，请参考以下文章。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title><![CDATA[我是否可以将我的获得授权的许可证用于培训目的？]]></title>
+    <description><![CDATA[不得使用获得授权的许可证进行客户培训。IUR 仅可用于内部员工培训目的，并且你应了解这将会消耗激活的事实。 ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解决方案:</b> 合作伙伴中心中的权益概述 - 下载/激活软件和产品]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2966368?tpqid=300-000125]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 内部使用权限的云和软件权益]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000125]]></url>
+        <text><![CDATA[<b>解决方案:</b> Microsoft Partner Network 权益包使用指南 ]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000125]]></url>
-      </link>
-    </articlelinks></question><question SortOrderOnHome="1">
-    <id>300-000126</id>
-    <title><![CDATA[How do I activate my MPN benefits?]]></title>
-    <description><![CDATA[You can find general information, what benefits are available through Action Pack / Competency, step-by-step instructions for activating different types of benefits and troubleshooting steps for internal-use rights MPN licenses in the articles below.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> Benefits overview in Partner Center]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2966368?tpqid=300-000126]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> Where to find MPN Benefits in Partner Center?]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4489315?tpqid=300-000126]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000126]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000010]]></url>
       </link>
     </articlelinks></question><question>
+    <id>1500-000011</id>
+    <title><![CDATA[我续订 Action Pack 订阅/能力后，是否会自动激活我的在线令牌？]]></title>
+    <description><![CDATA[当你续订订阅或重新注册具有能力的 Action Pack 订阅/计划时，将根据重新注册时组织的权利颁发一组新令牌。合作伙伴计划管理员需要激活令牌以避免在云服务中失效。这些令牌不会自动激活。当你需要时可以将其激活，但要从合规性角度进行考虑。Action Pack/能力到期后，即使令牌仍处于活动状态，你也不会获得特定权益的许可证。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> Microsoft Partner Network 权益包使用指南 ]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000011]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000011]]></url>
+      </link>
+    </articlelinks></question></group><group title="权益" refid="Benefits"><question>
     <id>300-000115</id>
     <title><![CDATA[Microsoft Office Professional 2019 何时可用于 Microsoft Action Pack (MAPS)？]]></title>
     <description><![CDATA[标准 MAPS 已提供此权益。]]></description>
@@ -1014,41 +1010,41 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000124]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>300-000125</id>
+    <title><![CDATA[如何得到我的微软Azure内部使用权益?]]></title>
+    <description><![CDATA[所有能力合作伙伴或行动宝盒将可索取微软Azure月度权益。此权益将提供给行动宝盒用户或购买附加工具包的任意成员。如果贵公司的一位管理员已经索取了此权益，公司的其它人员则不可以再次索取。关于如何索取您的微软Azure权益，请参考以下文章。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 合作伙伴中心中的权益概述 - 下载/激活软件和产品]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2966368?tpqid=300-000125]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 内部使用权限的云和软件权益]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/internal-use-software?tpqid=300-000125]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=300-000125]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="1">
+    <id>300-000126</id>
+    <title><![CDATA[如何激活我的 MPN 权益？]]></title>
+    <description><![CDATA[在以下文章中，你可以找到一般信息、通过 Action Pack/能力可以获得哪些权益、激活不同类型权益的分步说明以及内部使用权 MPN 许可证的故障排除步骤。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 合作伙伴中心的权益概述]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2966368?tpqid=300-000126]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 在合作伙伴中心的何处可以找到 MPN 权益？]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4489315?tpqid=300-000126]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=300-000126]]></url>
+      </link>
     </articlelinks></question></group><group title="激励和支出" refid="IncentivesPayouts"><question>
-    <id>400-000091</id>
-    <title><![CDATA[我的组织如何才能有资格参加云解决方案提供商计划？]]></title>
-    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 云解决方案提供商 (CSP) 计划的合作伙伴资格要求]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3192802?tpqid=400-000091]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 合作伙伴奖励和投资]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000091]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000091]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000092</id>
-    <title><![CDATA[我的组织如何才能有资格参加 Azure 奖励计划？]]></title>
-    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 如何才能有资格参加 Microsoft Azure 奖励计划]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3073460?tpqid=400-000092]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他信息:</b> 合作伙伴奖励和投资]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000092]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000087</id>
     <title><![CDATA[如何在作伙伴中心报名参加激励计划？]]></title>
     <description><![CDATA[此文档对如何进行用户管理以及如何在合作伙伴中心报名参加激励计划进行了详细的分步解释。]]></description>
@@ -1147,33 +1143,41 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000090]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>400-000091</id>
+    <title><![CDATA[我的组织如何才能有资格参加云解决方案提供商计划？]]></title>
+    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 云解决方案提供商 (CSP) 计划的合作伙伴资格要求]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3192802?tpqid=400-000091]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 合作伙伴奖励和投资]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000091]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000092</id>
+    <title><![CDATA[我的组织如何才能有资格参加 Azure 奖励计划？]]></title>
+    <description><![CDATA[请访问下面的文章，以了解更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 如何才能有资格参加 Microsoft Azure 奖励计划]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3073460?tpqid=400-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他信息:</b> 合作伙伴奖励和投资]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
+      </link>
     </articlelinks></question></group><group title="计划和成员身份" refid="ProgramsMembership"><question>
-    <id>100-000085</id>
-    <title><![CDATA[如何合并单独的 Microsoft Partner Network 注册？]]></title>
-    <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 如何合并单独的 Microsoft Partner Network 注册]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4024707?tpqid=100-000085]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0071&tpqid=100-000085]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>100-000092</id>
-    <title><![CDATA[如何将我所在组织的工作帐户链接到我的新合作伙伴中心帐户？]]></title>
-    <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解决方案:</b> 你的工作帐户和合作伙伴中心]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
-      </link>
-       <link>
-        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0028&tpqid=100-000092]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>100-000096</id>
     <title><![CDATA[什么是记录在案的数字合作伙伴？]]></title>
     <description><![CDATA[从下文了解有关记录在案的数字合作伙伴的更多信息。]]></description>
@@ -1355,8 +1359,8 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000050</id>
-    <title><![CDATA[My company’s employees have competency qualifying exams, assessment and certifications who are not recognized as fulfilling requirements for a silver or gold competency. What can I do? ]]></title>
-    <description><![CDATA[If your qualifying Microsoft Certified Professionals (MCP) are not recognized as fulfilling the competency requirements, use the below solution to have them link their exams assessments and certifications (MCP IDs) to your organization.]]></description>
+    <title><![CDATA[我公司的员工通过了能力资格考试、评估和认证，但他们未在白银或黄金资格要求方面得到认可。我能做什么？]]></title>
+    <description><![CDATA[如果你的合格 Microsoft 认证专家 (MCP) 未在能力要求方面得到认可，请使用以下解决方案让他们将其考试评估和认证 (MCP ID) 链接到你的组织。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b> 链接或取消链接 MCP ID 与伙伴组织]]></text>
@@ -1373,7 +1377,7 @@
     </articlelinks></question><question>
     <id>100-000061</id>
     <title><![CDATA[在哪里可以查看微软行动宝盒订阅的有效期？]]></title>
-    <description><![CDATA[To view the expiration date, sign in to the Partner Center. Select the Membership offers option. You will be able to see the renewal date in the Purchased offers section.]]></description>
+    <description><![CDATA[若要查看到期日期，请登录合作伙伴中心。选择“会员产品/服务”选项。你将能够在“已购买的产品/服务”部分看到续订日期。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解决方案:</b> 在合作伙伴中心注册并订阅您的 Microsoft 合作伙伴网络会员：分步指南]]></text>
@@ -1434,7 +1438,7 @@
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title><![CDATA[如何从 MAPS 和资格费打印/下载最终发票？]]></title>
     <description><![CDATA[请参阅以下文章，了解如何打印最终发票]]></description>
@@ -1478,11 +1482,46 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他信息:</b> Quick view of the differences between PMC and PC]]></text>
+        <text><![CDATA[<b>其他信息:</b> 快速查看 PMC 和 PC 之间的差异]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/move-pmc-pc-map?tpqid=100-000104]]></url>
       </link>
        <link>
         <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0077&tpqid=100-000104]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>100-000083</id>
+    <title><![CDATA[How do I complete my business verification in Partner Center?]]></title>
+    <description><![CDATA[请查看以下链接了解更多信息。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> Vetting process for Partners in Partner Center]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4522960?tpqid=100-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000085</id>
+    <title><![CDATA[如何合并单独的 Microsoft Partner Network 注册？]]></title>
+    <description><![CDATA[阅读下面的文章以查看可能影响你获取权益和事务处理能力的注意事项。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 如何合并单独的 Microsoft Partner Network 注册]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4024707?tpqid=100-000085]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0071&tpqid=100-000085]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000092</id>
+    <title><![CDATA[如何将我所在组织的工作帐户链接到我的新合作伙伴中心帐户？]]></title>
+    <description><![CDATA[如果你的公司还没有工作帐户，你可以在注册过程中免费创建一个帐户，或者如果你想要使用现有的工作帐户，但无法登录，则必须阅读以下说明：]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解决方案:</b> 你的工作帐户和合作伙伴中心]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center?tpqid=100-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[单击此处转到预选的“获取支持主题”，并查看所有可用的支持选项]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0028&tpqid=100-000092]]></url>
       </link>
     </articlelinks></question></group></groups>

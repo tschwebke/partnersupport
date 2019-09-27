@@ -252,15 +252,15 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>300-000126</id>
-    <title><![CDATA[How do I activate my MPN benefits?]]></title>
-    <description><![CDATA[You can find general information, what benefits are available through Action Pack / Competency, step-by-step instructions for activating different types of benefits and troubleshooting steps for internal-use rights MPN licenses in the articles below.]]></description>
+    <title><![CDATA[如何啟用我的 MPN 權益？]]></title>
+    <description><![CDATA[您可以在下列文章中找到一般資訊、透過 Action Pack/專長認證提供的權益、用來啟用不同權益類型的逐步指示，以及內部使用權 MPN 授權的疑難排解步驟。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> Benefits overview in Partner Center]]></text>
+        <text><![CDATA[<b>解決方案:</b> 合作夥伴中心的權益概觀]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2966368?tpqid=300-000126]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他資訊:</b> Where to find MPN Benefits in Partner Center?]]></text>
+        <text><![CDATA[<b>其他資訊:</b> 在合作夥伴何處尋找 MPN 權益？]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4489315?tpqid=300-000126]]></url>
       </link>
        <link>
@@ -394,8 +394,8 @@
       </link>
     </articlelinks></question></group><group title="合約、訂單和訂閱管理" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000091</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
-    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
+    <title><![CDATA[我可以在 Partner Membership Center (PMC) 何處下載 Windows 10 軟體和產品金鑰？]]></title>
+    <description><![CDATA[在 Partner Membership Center 中，如果您擁有 Microsoft 專長認證或 Action Pack 訂閱，則可以從合作夥伴數位發佈入口網站存取您的 Windows 10 企業版軟體和產品金鑰，以供內部使用。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決方案:</b> Partner Digital Distribution 門戶]]></text>
@@ -407,11 +407,11 @@
       </link>
     </articlelinks></question><question>
     <id>800-000092</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
-    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
+    <title><![CDATA[我可以在合作夥伴中心 (PC) 何處下載 Windows 10 軟體和產品金鑰？]]></title>
+    <description><![CDATA[在合作夥伴中心中，如果您擁有 Microsoft 專長認證或 Action Pack 訂閱，則可以從 [合作夥伴] 儀表板、[權益] 索引標籤、[軟體] 區段下方存取您的 Windows 10 企業版軟體和產品金鑰，以供內部使用。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> Partner Dashboard]]></text>
+        <text><![CDATA[<b>解決方案:</b> 合作夥伴儀表板]]></text>
         <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
       </link>
        <link>
@@ -678,20 +678,24 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=200-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="技術支援 (產品、平台和工具)" refid="TechnicalSupport"><question>
-    <id>700-000006</id>
-    <title><![CDATA[如何代表客戶建立 Office 365 支援要求？]]></title>
-    <description><![CDATA[產品支援要求可以透過下列入口網站提交。.]]></description>
+    </articlelinks></question><question>
+    <id>200-000104</id>
+    <title><![CDATA[When move my multiple accounts from Partner Membership Center to Partner Center, what options do i have?]]></title>
+    <description><![CDATA[We recommend that you consolidate your multiple accounts into a single Partner Center account; alternatively, you may also choose to keep your accounts separate using multiple AAD tenants. Please read instructions below.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> Login Partner Center]]></text>
-        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
+        <text><![CDATA[<b>解决方案:</b> 從多家公司移到合作夥伴中心]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=200-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b> 在 Azure AD 中建立您的目錄]]></text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad?tpqid=200-000104]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0070&tpqid=200-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="技術支援 (產品、平台和工具)" refid="TechnicalSupport"><question>
     <id>700-000007</id>
     <title><![CDATA[如何為我的組織建立 Office 365 支援要求？]]></title>
     <description><![CDATA[產品支援要求可以透過下列入口網站提交。.]]></description>
@@ -868,37 +872,33 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>700-000016</id>
+    <title><![CDATA[What are the security requirements for supporting my customers?]]></title>
+    <description><![CDATA[請檢閱下列連結，以取得詳細資訊。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> Partner Security Requirements]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-security-requirements#assessing-your-environment?tpqid=700-000016]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0065&tpqid=700-000016]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000006</id>
+    <title><![CDATA[如何代表客戶建立 Office 365 支援要求？]]></title>
+    <description><![CDATA[產品支援要求可以透過下列入口網站提交。.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
+      </link>
     </articlelinks></question></group><group title="授權、銷售和行銷" refid="LicensingSalesMarketing"><question>
-    <id>1500-000006</id>
-    <title><![CDATA[什麼是軟體家用計畫？]]></title>
-    <description><![CDATA[軟體家用計畫是一項針對其 Office 應用程式具有有效軟體保證的 Microsoft 大量授權客戶所提供的軟體保證權益。在公司使用有軟體保證之使用權的員工，都有資格購買這些 Office 應用程式，供其在雇用期間內於家用電腦上使用。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> 軟體保證 (依權益分類)]]></text>
-        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b> 利用 Office 365 讓自家員工更具產能]]></text>
-        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1500-000007</id>
-    <title><![CDATA[我是 Dynamics 合作夥伴，想要透過解決方案提供者合約 (SPA) 進行交易，該如何登錄？]]></title>
-    <description><![CDATA[首先，請透過下面提供的 Partner Source 連結登錄您的興趣。程序開始之後，如果您需要進一步協助，請傳送電子郵件給您當地的 ROC。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> Dynamics PartnerSource]]></text>
-        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0039&tpqid=1500-000007]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1500-000008</id>
     <title><![CDATA[如何深入了解 Microsoft 授權？]]></title>
     <description><![CDATA[請參閱下列文章中更多有關授權的問題。]]></description>
@@ -1010,37 +1010,37 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0025​&tpqid=1500-000004]]></url>
       </link>
-    </articlelinks></question></group><group title="方案和成員資格" refid="ProgramsMembership"><question>
-    <id>100-000033</id>
-    <title><![CDATA[我要如何管理公司的成員資格？]]></title>
-    <description><![CDATA[合作夥伴可以存取合作夥伴中心，以管理 Microsoft 合作夥伴網路成員資格和相關權益。請參閱本文，以了解合作夥伴概觀。]]></description>
+    </articlelinks></question><question>
+    <id>1500-000006</id>
+    <title><![CDATA[什麼是軟體家用計畫？]]></title>
+    <description><![CDATA[軟體家用計畫是一項針對其 Office 應用程式具有有效軟體保證的 Microsoft 大量授權客戶所提供的軟體保證權益。在公司使用有軟體保證之使用權的員工，都有資格購買這些 Office 應用程式，供其在雇用期間內於家用電腦上使用。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 合作夥伴中心概觀]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000033]]></url>
+        <text><![CDATA[<b>解決方案:</b> 軟體保證 (依權益分類)]]></text>
+        <url><![CDATA[https://www.microsoft.com/Licensing/licensing-programs/software-assurance-by-benefits?tpqid=1500-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b> 利用 Office 365 讓自家員工更具產能]]></text>
+        <url><![CDATA[https://www.microsoft.com/home-use-program/resources?tpqid=1500-000006]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0019&tpqid=1500-000006]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="6">
-    <id>100-000050</id>
-    <title><![CDATA[My company’s employees have competency qualifying exams, assessment and certifications who are not recognized as fulfilling requirements for a silver or gold competency. What can I do? ]]></title>
-    <description><![CDATA[If your qualifying Microsoft Certified Professionals (MCP) are not recognized as fulfilling the competency requirements, use the below solution to have them link their exams assessments and certifications (MCP IDs) to your organization.]]></description>
+    </articlelinks></question><question>
+    <id>1500-000007</id>
+    <title><![CDATA[我是 Dynamics 合作夥伴，想要透過解決方案提供者合約 (SPA) 進行交易，該如何登錄？]]></title>
+    <description><![CDATA[首先，請透過下面提供的 Partner Source 連結登錄您的興趣。程序開始之後，如果您需要進一步協助，請傳送電子郵件給您當地的 ROC。]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>解決方案:</b> 連結，或取消連結至或來自夥伴組織 MCP 識別碼]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2966380?tpqid=100-000050]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b> 如何更新 MCP 和 Partner University 憑證(YouTube video)]]></text>
-        <url><![CDATA[https://youtu.be/KkiBYoogfMA?tpqid=100-000050]]></url>
+        <text><![CDATA[<b>解決方案:</b> Dynamics PartnerSource]]></text>
+        <url><![CDATA[https://mbs.microsoft.com/partnersource/partner-essentials/solution-provider-agreement/SPA?tpqid=1500-000007]]></url>
       </link>
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0029&tpqid=100-000050]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0039&tpqid=1500-000007]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="3">
+    </articlelinks></question></group><group title="方案和成員資格" refid="ProgramsMembership"><question SortOrderOnHome="3">
     <id>100-000104</id>
     <title><![CDATA[如何從 Partner Membership Center 移轉至合作夥伴中心？]]></title>
     <description><![CDATA[下列文章提供從 PMC 移轉至合作夥伴中心的步驟相關資訊，以及有關 Microsoft 合作夥伴網路和支援的其他內容。開始流程前，請確認此流程會由全域管理員完成，此管理員應為識別 Azure Active Directory (AAD) 租用戶身分者，該租用戶為將與新合作夥伴中心入口網站建立關聯者。此外，請注意，MPN 成員資格/專長認證「不是」處於過期狀態 – 只有現行註冊 (MAPS/銀級/金級專長認證/可能的 ABTK)，以及您的所有權益，將會在合作夥伴中心移轉。若帳戶曾經購買 ABTK，您應在移轉作業前完成續約/重新購買。PMC 中的現有位置也會轉換到合作夥伴中心。]]></description>
@@ -1050,7 +1050,7 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>其他資訊:</b> Quick view of the differences between PMC and PC]]></text>
+        <text><![CDATA[<b>其他資訊:</b> 快速檢視 PMC 和 PC 之間的差異]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/move-pmc-pc-map?tpqid=100-000104]]></url>
       </link>
        <link>
@@ -1060,7 +1060,7 @@
     </articlelinks></question><question>
     <id>100-000061</id>
     <title><![CDATA[在哪裡可以看到我們微軟行動寶盒訂閱的有效期？ ]]></title>
-    <description><![CDATA[To view the expiration date, sign in to the Partner Center. Select the Membership offers option. You will be able to see the renewal date in the Purchased offers section.]]></description>
+    <description><![CDATA[若要檢視到期日，請登入合作夥伴中心。選取 [會員優惠] 選項。您將能查看 [已購買優惠] 區段中的續約日期。]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>解決方案:</b> 在合作夥伴中心註冊及訂閱 Microsoft 合作夥伴網路成員資格：逐步指南]]></text>
@@ -1121,7 +1121,7 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title><![CDATA[如何列印/下載 MAPS 及 Competency 費用中的最後發票？]]></title>
     <description><![CDATA[請參閱下列文章，了解如何列印最後發票]]></description>
@@ -1348,54 +1348,46 @@
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000012]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>100-000083</id>
+    <title><![CDATA[How do I complete my business verification in Partner Center?]]></title>
+    <description><![CDATA[請檢閱下列連結，以取得詳細資訊。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b>  Vetting process for Partners in Partner Center]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4522960?tpqid=100-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000033</id>
+    <title><![CDATA[我要如何管理公司的成員資格？]]></title>
+    <description><![CDATA[合作夥伴可以存取合作夥伴中心，以管理 Microsoft 合作夥伴網路成員資格和相關權益。請參閱本文，以了解合作夥伴概觀。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> 合作夥伴中心概觀]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4499930?tpqid=100-000033]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0080&tpqid=100-000033]]></url>
+      </link>
+    </articlelinks></question><question SortOrderOnHome="6">
+    <id>100-000050</id>
+    <title><![CDATA[我的公司員工擁有合格測驗、評定和憑證的專長認證，但未經認可為銀級或金級專長認證的履行需求。我能做什麼？]]></title>
+    <description><![CDATA[如果您的合格 Microsoft Certified Professional (MCP) 未經認可為履行專長認證需求，請使用下列解決方案，將其測驗評定和憑證 (MCP ID) 連結到您的組織。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> 連結，或取消連結至或來自夥伴組織 MCP 識別碼]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2966380?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b> 如何更新 MCP 和 Partner University 憑證(YouTube video)]]></text>
+        <url><![CDATA[https://youtu.be/KkiBYoogfMA?tpqid=100-000050]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0029&tpqid=100-000050]]></url>
+      </link>
     </articlelinks></question></group><group title="獎勵和支出" refid="IncentivesPayouts"><question>
-    <id>400-000091</id>
-    <title><![CDATA[我的組織如何符合雲端解決方案提供者計畫的資格？]]></title>
-    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> 雲端解決方案提供者 (CSP) 計畫的合作夥伴資格條件要求]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3192802?tpqid=400-000091]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b>  合作夥伴獎勵與投資]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000091]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000091]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000092</id>
-    <title><![CDATA[我的組織如何符合 Azure 獎勵計畫的資格？]]></title>
-    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> 如何符合 Microsoft Azure 獎勵計畫的資格]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3073460?tpqid=400-000092]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>其他資訊:</b>  合作夥伴獎勵與投資]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000092]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>400-000088</id>
-    <title><![CDATA[關於移轉至合作夥伴中心，有哪些常見問題？]]></title>
-    <description><![CDATA[下列文件涵蓋了有關從 PMC 移轉至合作夥伴中心的所有常見問題。]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>解決方案:</b> 常見問題集 - 從 PMC 轉移至合作夥伴中心後前往註冊獎勵計畫]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
-      </link>
-       <link>
-        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000088]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>400-000089</id>
     <title><![CDATA[在哪裡可深入瞭解 OSA 宣告？]]></title>
     <description><![CDATA[下列文件提供宣告啟動摘要、功能，以及有關如何成功提交宣告的重要資源。]]></description>
@@ -1480,5 +1472,52 @@
        <link>
         <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000090]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000091</id>
+    <title><![CDATA[我的組織如何符合雲端解決方案提供者計畫的資格？]]></title>
+    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> 雲端解決方案提供者 (CSP) 計畫的合作夥伴資格條件要求]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3192802?tpqid=400-000091]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b>  合作夥伴獎勵與投資]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000091]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000092</id>
+    <title><![CDATA[我的組織如何符合 Azure 獎勵計畫的資格？]]></title>
+    <description><![CDATA[如需深入了解，請參閱以下文章。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> 如何符合 Microsoft Azure 獎勵計畫的資格]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3073460?tpqid=400-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>其他資訊:</b>  合作夥伴獎勵與投資]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000092]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>400-000088</id>
+    <title><![CDATA[關於移轉至合作夥伴中心，有哪些常見問題？]]></title>
+    <description><![CDATA[下列文件涵蓋了有關從 PMC 移轉至合作夥伴中心的所有常見問題。]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>解決方案:</b> 常見問題集 - 從 PMC 轉移至合作夥伴中心後前往註冊獎勵計畫]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4490446?tpqid=400-000088]]></url>
+      </link>
+       <link>
+        <text><![CDATA[按一下這裡，前往預先選取的取得支援主題，並查看所有可用的支援選項]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000088]]></url>
       </link>
     </articlelinks></question></group></groups>

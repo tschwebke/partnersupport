@@ -253,15 +253,15 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="1">
     <id>300-000126</id>
-    <title><![CDATA[How do I activate my MPN benefits?]]></title>
-    <description><![CDATA[You can find general information, what benefits are available through Action Pack / Competency, step-by-step instructions for activating different types of benefits and troubleshooting steps for internal-use rights MPN licenses in the articles below.]]></description>
+    <title><![CDATA[Как активировать свои преимущества MPN?]]></title>
+    <description><![CDATA[В статье ниже представлена общая информация и описаны преимущества, доступные с Action Pack / компетенциями, а также даны пошаговые инструкции для активации разных типов преимуществ и действия по устранению неполадок для лицензий MPN с правами на внутреннее использование.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> Benefits overview in Partner Center]]></text>
+        <text><![CDATA[<b>Решение:</b> Обзор преимуществ в Центре партнеров]]></text>
         <url><![CDATA[https://support.microsoft.com/help/2966368?tpqid=300-000126]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Where to find MPN Benefits in Partner Center?]]></text>
+        <text><![CDATA[<b>Дополнительная информация:</b> Как найти преимущества MPN в Центре партнеров?]]></text>
         <url><![CDATA[https://support.microsoft.com/help/4489315?tpqid=300-000126]]></url>
       </link>
        <link>
@@ -727,20 +727,24 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0060&tpqid=200-000103]]></url>
       </link>
-    </articlelinks></question></group><group title="Программа поощрений и выплаты" refid="IncentivesPayouts"><question>
-    <id>400-000089</id>
-    <title><![CDATA[Где я могу узнать подробнее о запросе OSA?]]></title>
-    <description><![CDATA[Приведенный ниже документ содержит краткую информацию о запросе, функционале и важных ресурсах с инструкциями о том, как отправить запрос.]]></description>
+    </articlelinks></question><question>
+    <id>200-000104</id>
+    <title><![CDATA[When move my multiple accounts from Partner Membership Center to Partner Center, what options do i have?]]></title>
+    <description><![CDATA[We recommend that you consolidate your multiple accounts into a single Partner Center account; alternatively, you may also choose to keep your accounts separate using multiple AAD tenants. Please read instructions below.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> Средство OSA утверждения модели, а]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
+        <text><![CDATA[<b>Решение:</b> Перенос нескольких компаний в Центр партнеров]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=200-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Дополнительная информация:</b> Создание каталога в AAD]]></text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad?tpqid=200-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0070&tpqid=200-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Программа поощрений и выплаты" refid="IncentivesPayouts"><question>
     <id>400-000080</id>
     <title><![CDATA[Как получить поддержку в вопросе поощрения партнера?]]></title>
     <description><![CDATA[Поддержку по программе поощрения для партнеров можно получить в разделе "Поддержка" на странице "Поощрения для партнеров".]]></description>
@@ -860,20 +864,20 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000088]]></url>
       </link>
-    </articlelinks></question></group><group title="Программы и участие в них" refid="ProgramsMembership"><question>
-    <id>100-000096</id>
-    <title><![CDATA[Что такое партнер со статусом Digital Partner Of Record?]]></title>
-    <description><![CDATA[Подробные сведения о партнере со статусом Digital Partner of Record приведены в следующих статьях.]]></description>
+    </articlelinks></question><question>
+    <id>400-000089</id>
+    <title><![CDATA[Где я могу узнать подробнее о запросе OSA?]]></title>
+    <description><![CDATA[Приведенный ниже документ содержит краткую информацию о запросе, функционале и важных ресурсах с инструкциями о том, как отправить запрос.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Решение:</b> Портал партнеров. Партнер со статусом Digital Partner of Record и Partner Association]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
+        <text><![CDATA[<b>Решение:</b> Средство OSA утверждения модели, а]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4491738?tpqid=400-000089]]></url>
       </link>
        <link>
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0030&tpqid=100-000096]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000089]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Программы и участие в них" refid="ProgramsMembership"><question>
     <id>100-000098</id>
     <title><![CDATA[Как рассчитывается мое использование Azure для компетенции Cloud Platform?]]></title>
     <description><![CDATA[TTM consumption is calculated for the subscriptions who have DPOR or Azure transacting partner attached. In case a partner owns some subscriptions, this is not enough. Partner has to be attached as DPOR or Azure transacting partner for the owned subscriptions. The consumption will be calculated only from the date DPOR, CSP tier 1, or CSP tier 2 is attached. Also, revenue attribution is excluded for Trial Offers & MPN Benefits.]]></description>
@@ -1042,8 +1046,8 @@
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000050</id>
-    <title><![CDATA[My company’s employees have competency qualifying exams, assessment and certifications who are not recognized as fulfilling requirements for a silver or gold competency. What can I do? ]]></title>
-    <description><![CDATA[If your qualifying Microsoft Certified Professionals (MCP) are not recognized as fulfilling the competency requirements, use the below solution to have them link their exams assessments and certifications (MCP IDs) to your organization.]]></description>
+    <title><![CDATA[Сотрудники моей компании сдали квалификационные экзамены по компетенциям, получили оценки и сертификаты, но не признаются соответствующими требованиям для получения серебряной или золотой компетенции. Что мне делать?]]></title>
+    <description><![CDATA[Если специалисты вашей организации, имеющие право на получение Microsoft Certified Professionals (MCP), не признаются соответствующими требованиям к компетенции, воспользуйтесь приведенным ниже решением, чтобы связать их сертификаты и оценки по экзаменам (идентификаторы MCP) с вашей организацией.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Решение:</b> Связать или удалить связь идентификатор MCP или из партнерской организации]]></text>
@@ -1067,7 +1071,7 @@
         <url><![CDATA[https://docs.microsoft.com/partner-center/guide-to-migration?tpqid=100-000104]]></url>
       </link>
        <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Quick view of the differences between PMC and PC]]></text>
+        <text><![CDATA[<b>Дополнительная информация:</b> Краткий обзор различий между PMC и PC]]></text>
         <url><![CDATA[https://docs.microsoft.com/partner-center/move-pmc-pc-map?tpqid=100-000104]]></url>
       </link>
        <link>
@@ -1077,7 +1081,7 @@
     </articlelinks></question><question>
     <id>100-000061</id>
     <title><![CDATA[Где мы можем увидеть дату окончания подписки   Microsoft Action Pack? ]]></title>
-    <description><![CDATA[To view the expiration date, sign in to the Partner Center. Select the Membership offers option. You will be able to see the renewal date in the Purchased offers section.]]></description>
+    <description><![CDATA[Чтобы посмотреть дату окончания срока действия, войдите в Центр партнеров.  Выберите параметр "Предложения членства" Дату возобновления действия можно будет посмотреть в разделе "Предложения, по которым выполнены покупки".]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Решение:</b> Пошаговое руководство по регистрации и подписке на участие в программе Microsoft Partner Network в Центре партнеров]]></text>
@@ -1094,7 +1098,7 @@
     </articlelinks></question><question SortOrderOnHome="7">
     <id>100-000069</id>
     <title><![CDATA[Моя организация не участвует в программе Microsoft Partner Network. Как зарегистрировать свою компанию?]]></title>
-    <description><![CDATA[If you already have a Microsoft account, sign in to the Associate as an individual page on the Partner Center and fill in the required fields. If you do not have a Microsoft account, you will need to create one before you get started.]]></description>
+    <description><![CDATA[Если у вас уже есть учетная запись Майкрософт, войдите в раздел "Связать" на отдельной странице Центра партнеров и заполните требуемые поля.  Если у вас нет учетной записи Майкрософт, то сначала ее нужно будет создать.]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Решение:</b> Как связать учетную запись Майкрософт с идентификатором программы Microsoft Partner Network вашей организации в Центре партнеров]]></text>
@@ -1138,7 +1142,7 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0064&tpqid=100-000077]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title><![CDATA[Как распечатать/скачать окончательную редакцию счета из MAPS и оплату за компетенцию?]]></title>
     <description><![CDATA[В данной статье приведены сведения о том, как напечатать окончательные счета]]></description>
@@ -1207,33 +1211,29 @@
         <text><![CDATA[<b>Решение:</b> Взаимодействие с Arvato Rus]]></text>
         <url><![CDATA[https://support.microsoft.com/ru-ru/help/4519118?tpqid=100-000105]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>100-000083</id>
+    <title><![CDATA[How do I complete my business verification in Partner Center?]]></title>
+    <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Vetting process for Partners in Partner Center]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4522960?tpqid=100-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000096</id>
+    <title><![CDATA[Что такое партнер со статусом Digital Partner Of Record?]]></title>
+    <description><![CDATA[Подробные сведения о партнере со статусом Digital Partner of Record приведены в следующих статьях.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Портал партнеров. Партнер со статусом Digital Partner of Record и Partner Association]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/digital-partner-of-record?tpqid=100-000096]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0030&tpqid=100-000096]]></url>
+      </link>
     </articlelinks></question></group><group title="Техническая поддержка (продукты, платформы, средства и инструменты)" refid="TechnicalSupport"><question>
-    <id>700-000005</id>
-    <title><![CDATA[Как создать запрос на поддержку по Microsoft Azure для моей организации?]]></title>
-    <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Решение:</b> Microsoft Azure Support (требуется вход)]]></text>
-        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>700-000006</id>
-    <title><![CDATA[Как создать запрос на поддержку по Office 365 от имени клиента?]]></title>
-    <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Решение:</b> Login Partner Center]]></text>
-        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>700-000007</id>
     <title><![CDATA[Как создать запрос на поддержку по Office 365 для моей организации?]]></title>
     <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
@@ -1397,7 +1397,63 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000004]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>700-000005</id>
+    <title><![CDATA[Как создать запрос на поддержку по Microsoft Azure для моей организации?]]></title>
+    <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Microsoft Azure Support (требуется вход)]]></text>
+        <url><![CDATA[https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?tpqid=700-000005]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000016</id>
+    <title><![CDATA[What are the security requirements for supporting my customers?]]></title>
+    <description><![CDATA[Для получения дополнительных сведений  перейдите по следующим ссылкам.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Partner Security Requirements]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-security-requirements#assessing-your-environment?tpqid=700-000016]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0065&tpqid=700-000016]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000006</id>
+    <title><![CDATA[Как создать запрос на поддержку по Office 365 от имени клиента?]]></title>
+    <description><![CDATA[Запросы на техническую поддержку можно отправлять с указанного ниже портала..]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
+      </link>
     </articlelinks></question></group><group title="Техническая предпродажная помощь, развертывание и разработка приложений" refid="TechnicalPresalesAppDev"><question>
+    <id>1400-000112</id>
+    <title><![CDATA[Что такое путешествие по стране технических знаний? Почему это важно для организации моего партнера?]]></title>
+    <description><![CDATA[Путешествие по стране технических знаний поможет вам быстрее выстроить свои технические возможности и повысить уровни продаж, развертываний и разработки приложений. Начните свое путешествие по стране технических знаний с получения руководства от работающих с Майкрософт технических консультантов через рекомендованный подход, включающий интерактивные технические вебинары и персонализированные консультации с использованием виртуальной доски сообщений, обзоров архитектуры и демонстрации реальных сценариев. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Начните свое путешествие по технической стране]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Дополнительная информация:</b> Обзор блога по техническим вопросам для программы Microsoft Partner Network]]></text>
+        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question><question>
     <id>1400-000113</id>
     <title><![CDATA[Каким образом я буду взаимодействовать с техническими консультантами Майкрософт в рамках путешествия по стране технических знаний?]]></title>
     <description><![CDATA[Узнать подробнее о вариантах взаимодействия по оказанию технической поддержки]]></description>
@@ -1448,40 +1504,10 @@
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
       </link>
-    </articlelinks></question><question>
-    <id>1400-000112</id>
-    <title><![CDATA[Что такое путешествие по стране технических знаний? Почему это важно для организации моего партнера?]]></title>
-    <description><![CDATA[Путешествие по стране технических знаний поможет вам быстрее выстроить свои технические возможности и повысить уровни продаж, развертываний и разработки приложений. Начните свое путешествие по стране технических знаний с получения руководства от работающих с Майкрософт технических консультантов через рекомендованный подход, включающий интерактивные технические вебинары и персонализированные консультации с использованием виртуальной доски сообщений, обзоров архитектуры и демонстрации реальных сценариев. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Решение:</b> Начните свое путешествие по технической стране]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Дополнительная информация:</b> Обзор блога по техническим вопросам для программы Microsoft Partner Network]]></text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
-      </link>
     </articlelinks></question></group><group title="Управление соглашениями, заказами и подписками" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000092</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
-    <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Решение:</b> Partner Dashboard]]></text>
-        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>800-000091</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
-    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
+    <title><![CDATA[Где мне скачать ПО и ключи продукта Windows 10 в Центре поддержки участников Партнерской программы Майкрософт (РМС)?]]></title>
+    <description><![CDATA[В Центре поддержки участников Партнерской программы, если у вас есть компетенция Майкрософт или подписка на Action Pack, вы можете получить доступ к ключу продукта и программному обеспечению Windows 10 Enterprise для внутреннего использования на партнерском портале цифрового распространения. ]]></description>
     <articlelinks>
       <link>
         <text><![CDATA[<b>Решение:</b> Портал Partner Digital Distribution Portal]]></text>
@@ -1490,5 +1516,18 @@
        <link>
         <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>800-000092</id>
+    <title><![CDATA[Где мне скачать ПО и ключи продукта Windows 10 в Центре партнеров (РС)?]]></title>
+    <description><![CDATA[В Центре партнеров, если у вас есть компетенция Майкрософт или подписка на Action Pack, вы можете получить доступ к ключу продукта и программному обеспечению Windows 10 Enterprise для внутреннего использования на панели партнеров, вкладка "Преимущества", раздел "Программное обеспечение".]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Решение:</b> Панель партнеров]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=800-000092]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Перейдите по ссылке в раздел предварительно отобранных «Тем, касающиеся получения технической поддержки», чтобы ознакомиться со всеми доступными вариантами технической помощи]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
       </link>
     </articlelinks></question></group></groups>

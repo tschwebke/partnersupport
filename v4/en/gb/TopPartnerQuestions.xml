@@ -190,20 +190,24 @@
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0060&tpqid=200-000103]]></url>
       </link>
-    </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
-    <id>800-000091</id>
-    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
-    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
+    </articlelinks></question><question>
+    <id>200-000104</id>
+    <title><![CDATA[When move my multiple accounts from Partner Membership Center to Partner Center, what options do i have?]]></title>
+    <description><![CDATA[We recommend that you consolidate your multiple accounts into a single Partner Center account; alternatively, you may also choose to keep your accounts separate using multiple AAD tenants. Please read instructions below.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Partner Digital Distribution Portal]]></text>
-        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000091]]></url>
+        <text><![CDATA[<b>Solution:</b> Move your multiple companies to Partner Center]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/move-multiple-companies?tpqid=200-000104]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Additional Information:</b> Create your directory in Azure AD]]></text>
+        <url><![CDATA[https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad?tpqid=200-000104]]></url>
       </link>
        <link>
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=200-0070&tpqid=200-000104]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Agreements, Orders, Subscription Management" refid="AgreementsOrdersSubscriptions"><question>
     <id>800-000092</id>
     <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Center (PC)?]]></title>
     <description><![CDATA[In Partner Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Dashboard, in the Benefits Tab, under Software section.]]></description>
@@ -216,20 +220,20 @@
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000092]]></url>
       </link>
-    </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
-    <id>300-000028</id>
-    <title><![CDATA[How do I qualify for the Signature Cloud Support benefit?]]></title>
-    <description><![CDATA[Review the Core benefits and requirements for information on the individual requirements for the Cloud Performance and Hybrid competencies.]]></description>
+    </articlelinks></question><question>
+    <id>800-000091</id>
+    <title><![CDATA[Where do I download Windows 10 software and product keys in Partner Membership Center (PMC)?]]></title>
+    <description><![CDATA[In Partner Membership Center, if you have a Microsoft competency or Action Pack subscription, you can access your Windows 10 Enterprise software and product key for internal-use from the Partner Digital Distribution Portal.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Microsoft partner website: Signature Cloud Support Overview]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
+        <text><![CDATA[<b>Solution:</b> Partner Digital Distribution Portal]]></text>
+        <url><![CDATA[https://www.microsoft.com/msppdd?tpqid=800-000091]]></url>
       </link>
        <link>
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=300-000028]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0074&tpqid=800-000091]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Benefits" refid="Benefits"><question>
     <id>300-000098</id>
     <title><![CDATA[How do I complete an application certification through Microsoft Referrals? ]]></title>
     <description><![CDATA[Participating in Microsoft certifications or programs will help your referrals. ]]></description>
@@ -610,20 +614,20 @@ In case the number received is not the same with the one you are entitled to, pl
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0030&tpqid=300-000014]]></url>
       </link>
-    </articlelinks></question></group><group title="Incentives and Payouts" refid="IncentivesPayouts"><question>
-    <id>400-000079</id>
-    <title><![CDATA[Where can I find more information about Incentives?]]></title>
-    <description><![CDATA[Information on all Incentive programs is available on the Microsoft Partner Network Partner Incentives and investments page. Partners who are eligible for an incentive program will see all available materials for that program from the Incentives and investments page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
+    </articlelinks></question><question>
+    <id>300-000028</id>
+    <title><![CDATA[How do I qualify for the Signature Cloud Support benefit?]]></title>
+    <description><![CDATA[Review the Core benefits and requirements for information on the individual requirements for the Cloud Performance and Hybrid competencies.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Partner incentives and investments]]></text>
-        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
+        <text><![CDATA[<b>Solution:</b> Microsoft partner website: Signature Cloud Support Overview]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/2996739?tpqid=300-000028]]></url>
       </link>
        <link>
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0034&tpqid=300-000028]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Incentives and Payouts" refid="IncentivesPayouts"><question>
     <id>400-000084</id>
     <title><![CDATA[I received a payment from Microsoft, which incentive program and/or period does it belong to?]]></title>
     <description><![CDATA[Access below article to learn more.]]></description>
@@ -743,20 +747,20 @@ In case the number received is not the same with the one you are entitled to, pl
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000080]]></url>
       </link>
-    </articlelinks></question></group><group title="Licensing, Sales and Marketing" refid="LicensingSalesMarketing"><question>
-    <id>1500-000010</id>
-    <title><![CDATA[Can I use my granted licenses for training purpose?]]></title>
-    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
+    </articlelinks></question><question>
+    <id>400-000079</id>
+    <title><![CDATA[Where can I find more information about Incentives?]]></title>
+    <description><![CDATA[Information on all Incentive programs is available on the Microsoft Partner Network Partner Incentives and investments page. Partners who are eligible for an incentive program will see all available materials for that program from the Incentives and investments page. Partners will also see details on most of the cloud incentives, even if they haven’t attained the required competencies yet.]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Microsoft Partner Network Benefit Package Usage Guide]]></text>
-        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
+        <text><![CDATA[<b>Solution:</b> Partner incentives and investments]]></text>
+        <url><![CDATA[http://aka.ms/partnerincentives?tpqid=400-000079]]></url>
       </link>
        <link>
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000010]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?catid=400&tpqid=400-000080&tpqid=400-000079]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Licensing, Sales and Marketing" refid="LicensingSalesMarketing"><question>
     <id>1500-000011</id>
     <title><![CDATA[Are my online tokens activated automatically once I renew my Action Pack subscription/competency?]]></title>
     <description><![CDATA[When you renew a subscription or re-enroll in the Action Pack subscription/program with a competency, a new set of tokens will be issued based on the organization’s entitlement at the time of re-enrollment.
@@ -886,20 +890,20 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=800-0033&tpqid=1500-000009]]></url>
       </link>
-    </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
-    <id>100-000100</id>
-    <title><![CDATA[How can I onboard as an Indirect Reseller?]]></title>
-    <description><![CDATA[Access below link to learn how you can enroll in the Cloud Solution provider program. ]]></description>
+    </articlelinks></question><question>
+    <id>1500-000010</id>
+    <title><![CDATA[Can I use my granted licenses for training purpose?]]></title>
+    <description><![CDATA[You are not permitted to use the granted licenses for customer training. IURs can be used for training purpose only for internal employees, and you should be aware of the fact that an activation will be consumed.  ]]></description>
     <articlelinks>
       <link>
-        <text><![CDATA[<b>Solution:</b> Enroll in the Cloud Solution Provider program]]></text>
-        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
+        <text><![CDATA[<b>Solution:</b> Microsoft Partner Network Benefit Package Usage Guide]]></text>
+        <url><![CDATA[https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf?tpqid=1500-000010]]></url>
       </link>
        <link>
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=100-000100]]></url>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=300-0079&tpqid=1500-000010]]></url>
       </link>
-    </articlelinks></question><question>
+    </articlelinks></question></group><group title="Programs and Membership" refid="ProgramsMembership"><question>
     <id>100-000102</id>
     <title><![CDATA[What are the top asked questions about Learning Paths?]]></title>
     <description><![CDATA[Learning paths can help you get trained or certified. Learning paths highlight the paths that are relevant to your company, or organization. The Learning Paths FAQ provides answers to the top asked questions about Learning Paths.]]></description>
@@ -1042,7 +1046,7 @@ Partner program administrators are required to activate the tokens to avoid a la
       </link>
     </articlelinks></question><question SortOrderOnHome="6">
     <id>100-000050</id>
-    <title><![CDATA[My company’s employees have competency qualifying exams, assessment and certifications who are not recognized as fulfilling requirements for a silver or gold competency. What can I do? ]]></title>
+    <title><![CDATA[My company’s employees have competency qualifying exams, assessment and certifications who are not recognized as fulfilling requirements for a silver or gold competency. What can I do?]]></title>
     <description><![CDATA[If your qualifying Microsoft Certified Professionals (MCP) are not recognized as fulfilling the competency requirements, use the below solution to have them link their exams assessments and certifications (MCP IDs) to your organization.]]></description>
     <articlelinks>
       <link>
@@ -1121,7 +1125,7 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000069]]></url>
       </link>
-    </articlelinks></question><question SortOrderOnHome="8">
+    </articlelinks></question><question>
     <id>100-000078</id>
     <title><![CDATA[How to print/download final invoice from MAPS and Competency fee?]]></title>
     <description><![CDATA[See the article below to learn how to print final invoices.]]></description>
@@ -1224,41 +1228,29 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0022&tpqid=100-000099]]></url>
       </link>
+    </articlelinks></question><question SortOrderOnHome="8">
+    <id>100-000083</id>
+    <title><![CDATA[How do I complete my business verification in Partner Center?]]></title>
+    <description><![CDATA[Please review the following links for more information.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Vetting process for Partners in Partner Center]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/4522960?tpqid=100-000083]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>100-000100</id>
+    <title><![CDATA[How can I onboard as an Indirect Reseller?]]></title>
+    <description><![CDATA[Access below link to learn how you can enroll in the Cloud Solution provider program. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Enroll in the Cloud Solution Provider program]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program?tpqid=100-000100]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0019&tpqid=100-000100]]></url>
+      </link>
     </articlelinks></question></group><group title="Technical Presales, Deployment, App Development" refid="TechnicalPresalesAppDev"><question>
-    <id>1400-000112</id>
-    <title><![CDATA[What is a technical journey? Why is it important to my partner organization?]]></title>
-    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Solution:</b> Start your technical journey]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Additional Information:</b> Microsoft Partner Network Technical Journey Blog]]></text>
-        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>1400-000113</id>
-    <title><![CDATA[How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?]]></title>
-    <description><![CDATA[Learn more about technical engagement options]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Solution:</b> Start your technical journey]]></text>
-        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[<b>Additional Information:</b> Supported products and scenarios]]></text>
-        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>1400-000114</id>
     <title><![CDATA[Which Microsoft partner network benefits are required to access the technical journeys?]]></title>
     <description><![CDATA[As an Microsoft Partner Network partner, you receive unlimited access to remote, technical webinars, and unlimited access to Dev Chat offered as part of the technical journey. To engage in a one-to-one technical consultation via screensharing, you will use your Technical Presales Assistance or Partner Advisory Hours benefit.]]></description>
@@ -1292,33 +1284,41 @@ Partner program administrators are required to activate the tokens to avoid a la
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=1400-0003&tpqid=1400-000115]]></url>
       </link>
+    </articlelinks></question><question>
+    <id>1400-000112</id>
+    <title><![CDATA[What is a technical journey? Why is it important to my partner organization?]]></title>
+    <description><![CDATA[Technical journeys help you build your technical capabilities faster to accelerate sales, deployments and app development. Start your technical journey to receive technical guidance from Microsoft partner technical consultants through a recommended path of interactive technical webinars and personalized consultations with virtual white-boarding, architecture reviews and shadowing of real-world scenarios. ]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Start your technical journey]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Additional Information:</b> Microsoft Partner Network Technical Journey Blog]]></text>
+        <url><![CDATA[https://blogs.technet.microsoft.com/ptsblog/?tpqid=1400-000112]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000112]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>1400-000113</id>
+    <title><![CDATA[How do I engage with Microsoft Partner Technical Consultants throughout the technical journey?]]></title>
+    <description><![CDATA[Learn more about technical engagement options]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Start your technical journey]]></text>
+        <url><![CDATA[https://partner.microsoft.com/membership/technical-journeys?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[<b>Additional Information:</b> Supported products and scenarios]]></text>
+        <url><![CDATA[https://support.microsoft.com/help/3094111?tpqid=1400-000113]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=100-0065&tpqid=1400-000113]]></url>
+      </link>
     </articlelinks></question></group><group title="Technical Support (Products, Platforms, Tools)" refid="TechnicalSupport"><question>
-    <id>700-000006</id>
-    <title><![CDATA[How do I create an Office 365 support request on behalf of a customer?]]></title>
-    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Solution:</b> Login Partner Center]]></text>
-        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
-      </link>
-    </articlelinks></question><question>
-    <id>700-000007</id>
-    <title><![CDATA[How do I create an Office 365 support request for my organization?]]></title>
-    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
-    <articlelinks>
-      <link>
-        <text><![CDATA[<b>Solution:</b> Office 365 Support (Sign in required)]]></text>
-        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000007]]></url>
-      </link>
-       <link>
-        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
-        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000007]]></url>
-      </link>
-    </articlelinks></question><question>
     <id>700-000008</id>
     <title><![CDATA[How do I create a Microsoft Dynamics 365 support request on behalf of a customer?]]></title>
     <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
@@ -1481,5 +1481,44 @@ Partner program administrators are required to activate the tokens to avoid a la
        <link>
         <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
         <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0002&tpqid=700-000005]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000006</id>
+    <title><![CDATA[How do I create an Office 365 support request on behalf of a customer?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Login Partner Center]]></text>
+        <url><![CDATA[https://partner.microsoft.com/dashboard?tpqid=700-000006]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000006]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000016</id>
+    <title><![CDATA[What are the security requirements for supporting my customers?]]></title>
+    <description><![CDATA[Please review the following links for more information.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Partner Security Requirements]]></text>
+        <url><![CDATA[https://docs.microsoft.com/partner-center/partner-security-requirements#assessing-your-environment?tpqid=700-000016]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0065&tpqid=700-000016]]></url>
+      </link>
+    </articlelinks></question><question>
+    <id>700-000007</id>
+    <title><![CDATA[How do I create an Office 365 support request for my organization?]]></title>
+    <description><![CDATA[Product support requests can be submitted from below portal.]]></description>
+    <articlelinks>
+      <link>
+        <text><![CDATA[<b>Solution:</b> Office 365 Support (Sign in required)]]></text>
+        <url><![CDATA[https://portal.office.com/support/supportentry.aspx?tpqid=700-000007]]></url>
+      </link>
+       <link>
+        <text><![CDATA[Click here to go to the pre-selected Topic for Get Support and see all available support options]]></text>
+        <url><![CDATA[https://partner.microsoft.com/support?issueid=700-0025&tpqid=700-000007]]></url>
       </link>
     </articlelinks></question></group></groups>
